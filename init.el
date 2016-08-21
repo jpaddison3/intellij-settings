@@ -16,10 +16,11 @@
 ;;   '(better-defaults
 ;;     monokai-theme
 ;;     xah-elisp-mode
-;;     paren-face
+;;     rainbow-delimiters
 ;;     elpy
 ;;     py-autopep8
-;;     yaml-mode))
+;;     yaml-mode
+;;     multiple-cursors))
 ;; (mapc #'(lambda (package)
 ;;     (unless (package-installed-p package)
 ;;       (package-install package)))
@@ -37,12 +38,17 @@
 (setq compilation-ask-about-save nil)
 ;; Don't save *anything*
 (setq compilation-save-buffers-predicate '(lambda () nil))
+;; No auto-saves
+(setq auto-save-default nil)
 
 ;; Fix ansi escapes, not working
 ;; (setq ansi-color-for-comint-mode t)
 
 ;; C-u kills to beginning of line like a shell
 (global-set-key "\C-u" '(lambda () (interactive) (kill-line 0)))
+
+;; Change word boundary definition
+(modify-syntax-entry ?_ "w" (standard-syntax-table))
 
 ;; Kill yank from system clipboard
 (defun paste-from-osx ()
@@ -66,30 +72,78 @@
   )
 (global-set-key (kbd "M-/") 'comment-or-uncomment-line-or-region)
 
+;; Mark word under cursor with M-@
+(defun better-mark-current-word (&optional arg allow-extend)
+  "Put point at beginning of current word, set mark at end."
+  (interactive "p\np")
+  (setq arg (if arg arg 1))
+  (if (and allow-extend
+           (or (and (eq last-command this-command) (mark t))
+               (region-active-p)))
+      (set-mark
+       (save-excursion
+         (when (< (mark) (point))
+           (setq arg (- arg)))
+         (goto-char (mark))
+         (forward-word arg)
+         (point)))
+    (let ((wbounds (bounds-of-thing-at-point 'word)))
+      (unless (consp wbounds)
+        (error "No word at point"))
+      (if (>= arg 0)
+          (goto-char (car wbounds))
+        (goto-char (cdr wbounds)))
+      (push-mark (save-excursion
+                   (forward-word arg)
+                   (point)))
+      (activate-mark))))
+(global-set-key (kbd "M-@") 'better-mark-current-word)
+
+;; Multiple Cursors
+(require 'multiple-cursors)
+(global-set-key (kbd "C-c x") 'set-rectangular-region-anchor)
+(global-set-key (kbd "C-c n") 'mc/mark-next-like-this)
+(global-set-key (kbd "C-c p") 'mc/mark-previous-like-this)
+(global-set-key (kbd "C-c a") 'mc/mark-all-like-this)
 
 ;;;; ---- ELisp ---- ;;;;
 ;; Better syntax highlighting for elisp
 (require 'xah-elisp-mode)
 (xah-elisp-mode)
-;; Lighten parenthesis for less distraction
-(require 'paren-face)
-(add-hook 'xah-elisp-mode-hook 'paren-face-mode)
-;; Until I figure out the colors rainbow delimiters displays better, I prefer paren-face
-;; (require 'rainbow-delimiters)
-;; (add-hook 'xah-elisp-mode-hook 'rainbow-delimiters-mode)
+;; Use rainbow colors to quickly see matching parens everywhere
+(require 'rainbow-delimiters)
+(add-hook 'xah-elisp-mode-hook 'rainbow-delimiters-mode)
+(rainbow-delimiters-mode 1)
 
 ;;;; --- Python ---- ;;;;
 ;; python ide
 (elpy-enable)
 ;; iPython shell is fantastic, use it as default not working cause ansi crap
 ;; (elpy-use-ipython)
-(elpy-set-test-runner 'elpy-test-nose-runner)
+;; Run tests using nosetests
+(defun elpy-test-nose-runner-chdir-up (top file module test)
+  "Test the project using the nose test runner after moving up a directory
+This requires the nose package to be installed.
+JPA: The cd .. is pretty hackish, TODO emulate vvvv and find out why top variable
+doesn't set working directory
+https://github.com/jorgenschaefer/elpy/blob/master/elpy.el#L2068"
+  (interactive (elpy-test-at-point))
+  (setq test-command
+        (format "cd ../ && nosetests tests/%s"
+                 (if module
+                     (format "%s.py%s"
+                             module
+                             (if test (format ":%s" test) ""))
+                   "")))
+    (compile test-command))
+(put 'elpy-test-nose-runner-chdir-up 'elpy-test-runner-p t)
+(elpy-set-test-runner 'elpy-test-nose-runner-chdir-up)
 ;; Enable autopep8 formatting on save
 (require 'py-autopep8)
 (add-hook 'elpy-mode-hook 'py-autopep8-enable-on-save)
-(setq py-autopep8-options '("--max-line-length=100"))
+;; (setq py-autopep8-options '("--max-line-length=100"))
 ;; First level of aggressive is still pretty safe
-(setq py-autopep8-options '("--aggressive"))
+(setq py-autopep8-options '("--aggressive" "--max-line-length=100"))
 
 ;; 100 character line
 (add-to-list 'load-path (expand-file-name "~/.emacs.d/Fill-Column-Indicator"))
@@ -106,6 +160,12 @@
 (add-hook 'yaml-mode-hook
           '(lambda ()
              (define-key yaml-mode-map "\C-m" 'newline-and-indent)))
+
+;;;; ---- Org-Mode ---- ;;;;
+(require 'org)
+(define-key global-map (kbd "C-c g") 'org-agenda)
+;; Record time when finished
+(setq org-log-done t)
 
 ;;;; ---- Windows ---- ;;;;
 ;; Many things in this section come from gary bernharts dotfiles github repo
@@ -131,7 +191,7 @@
   (enlarge-window (frame-height)))
 (global-set-key (kbd "C-c v") 'maximize-window-height)
 
-;; GRB: split the windows
+;; Split the windows at startup
 (progn
   (interactive)
   (split-window-horizontally)
@@ -176,4 +236,5 @@
     (with-selected-window window
       (switch-to-buffer buffer)
       window)))
-(setq special-display-function #'grb-special-display)
+(setq special-display-function 'grb-special-display)
+
