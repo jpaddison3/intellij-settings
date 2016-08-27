@@ -58,8 +58,10 @@
     (let ((proc (start-process "pbcopy" "*Messages*" "pbcopy")))
       (process-send-string proc text)
       (process-send-eof proc))))
-(setq interprogram-cut-function 'copy-to-osx)
-(setq interprogram-paste-function 'paste-from-osx)
+(if (eq system-type 'darwin)
+    (progn (setq interprogram-cut-function 'copy-to-osx)
+           (setq interprogram-paste-function 'paste-from-osx)
+           ))
 
 ;; Flexible comment / uncomment 
 (defun comment-or-uncomment-line-or-region ()
@@ -167,6 +169,9 @@ https://github.com/jorgenschaefer/elpy/blob/master/elpy.el#L2068"
 ;; Record time when finished
 (setq org-log-done t)
 
+;;;; ---- Matlab/Octave ---- ;;;;
+(add-to-list 'auto-mode-alist '("\\.m\\'" . octave-mode))
+
 ;;;; ---- Windows ---- ;;;;
 ;; Many things in this section come from gary bernharts dotfiles github repo
 ;; C-o switches to other window (same as C-x o)
@@ -176,12 +181,13 @@ https://github.com/jorgenschaefer/elpy/blob/master/elpy.el#L2068"
   (interactive)
   (other-window -1))
 (global-set-key "\M-o" 'prev-window)
-;; Compilation mode was killing this
-(add-hook 'compilation-mode-hook
-          (lambda ()
-            (local-set-key (kbd "C-o") 'other-window)
-            (local-set-key (kbd "M-o") 'prev-window)))
-
+;; Function to set keys for overriding modes
+(defun set-window-kbds ()
+       (local-set-key (kbd "C-o") 'other-window)
+       (local-set-key (kbd "M-o") 'prev-window))
+;; Compilation and Ibuffer modes overrode C-o and M-o
+(add-hook 'compilation-mode-hook 'set-window-kbds)
+(add-hook 'ibuffer-mode-hook 'set-window-kbds)
 
 ;; Windows can resize to max but leaving room for neighbor
 (setq window-min-height 12)
@@ -229,7 +235,8 @@ https://github.com/jorgenschaefer/elpy/blob/master/elpy.el#L2068"
         "^\\*Python check: .*$"
         "^.*magit: .*$"
         "^.Process List.$"
-        "^.Elpy Refactor.$"))
+        "^.Elpy Refactor.$"
+        "^.Python Doc.$"))
 (setq grb-temporary-window (nth 1 (window-list)))
 (defun grb-special-display (buffer &optional data)
   (let ((window grb-temporary-window))
