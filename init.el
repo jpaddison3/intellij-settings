@@ -42,10 +42,15 @@
 (setq auto-save-default nil)
 
 ;; Fix ansi escapes, not working
-;; (setq ansi-color-for-comint-mode t)
+;; (add-to-list 'comint-output-filter-functions 'ansi-color-process-output)
+;; (add-hook 'shell-mode-hook 'ansi-color-for-comint-mode-on)
 
 ;; C-u kills to beginning of line like a shell
-(global-set-key "\C-u" '(lambda () (interactive) (kill-line 0)))
+(defun kill-backwords-or-del ()
+  ( if (eq (current-column) 0)
+      (delete-backward-char 1)
+    (progn (kill-line 0))))
+(global-set-key (kbd "C-u") '(lambda () (interactive) (kill-backwords-or-del)))
 
 ;; Change word boundary definition
 (modify-syntax-entry ?_ "w" (standard-syntax-table))
@@ -140,10 +145,10 @@ https://github.com/jorgenschaefer/elpy/blob/master/elpy.el#L2068"
     (compile test-command))
 (put 'elpy-test-nose-runner-chdir-up 'elpy-test-runner-p t)
 (elpy-set-test-runner 'elpy-test-nose-runner-chdir-up)
+
 ;; Enable autopep8 formatting on save
 (require 'py-autopep8)
 (add-hook 'elpy-mode-hook 'py-autopep8-enable-on-save)
-;; (setq py-autopep8-options '("--max-line-length=100"))
 ;; First level of aggressive is still pretty safe
 (setq py-autopep8-options '("--aggressive" "--max-line-length=100"))
 
@@ -155,6 +160,13 @@ https://github.com/jorgenschaefer/elpy/blob/master/elpy.el#L2068"
 (add-hook 'python-mode-hook (lambda ()
              (setq fci-rule-color "gray24")
              ))
+;; Get fci-mode to play well with autocomplete
+(defun on-off-fci-before-company(command)
+  (when (string= "show" command)
+    (turn-off-fci-mode))
+  (when (string= "hide" command)
+    (turn-on-fci-mode)))
+(advice-add 'company-call-frontends :before #'on-off-fci-before-company)
 
 ;;;; ---- Yaml ---- ;;;;
 (require 'yaml-mode)
@@ -168,9 +180,14 @@ https://github.com/jorgenschaefer/elpy/blob/master/elpy.el#L2068"
 (define-key global-map (kbd "C-c g") 'org-agenda)
 ;; Record time when finished
 (setq org-log-done t)
+(setq org-todo-keywords '((sequence "TODO" "WAIT" "DONE")))
 
 ;;;; ---- Matlab/Octave ---- ;;;;
 (add-to-list 'auto-mode-alist '("\\.m\\'" . octave-mode))
+
+;;;; ---- Rest Client Mode ---- ;;;;
+(require 'restclient)
+(add-to-list 'auto-mode-alist '("\\.restcli\\'" . restclient-mode))
 
 ;;;; ---- Windows ---- ;;;;
 ;; Many things in this section come from gary bernharts dotfiles github repo
@@ -236,7 +253,9 @@ https://github.com/jorgenschaefer/elpy/blob/master/elpy.el#L2068"
         "^.*magit: .*$"
         "^.Process List.$"
         "^.Elpy Refactor.$"
-        "^.Python Doc.$"))
+        "^.Python Doc.$"
+        "^.HTTP Response.$"
+        "^.Python Check.$"))
 (setq grb-temporary-window (nth 1 (window-list)))
 (defun grb-special-display (buffer &optional data)
   (let ((window grb-temporary-window))
