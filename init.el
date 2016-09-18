@@ -6,25 +6,30 @@
 ;;;; ---- Packages ---- ;;;;
 ;; Add melpa package manager
 (require 'package)
-(add-to-list 'package-archives '("melpa" . "http://melpa.org/packages/"))
+;; Milkbox appears faster and more reliable
+(setq package-archives '(("melpa" . "http://melpa.milkbox.net/packages/")))
 ;; Initialize
 (package-initialize)
-(when (not package-archive-contents)
-  (package-refresh-contents))
+(package-refresh-contents)
 ;; Uncomment and use this to install packages used in this file
-;; (defvar usedPackages
-;;   '(better-defaults
-;;     monokai-theme
-;;     xah-elisp-mode
-;;     rainbow-delimiters
-;;     elpy
-;;     py-autopep8
-;;     yaml-mode
-;;     multiple-cursors))
-;; (mapc #'(lambda (package)
-;;     (unless (package-installed-p package)
-;;       (package-install package)))
-;;       usedPackages)
+(defvar usedPackages
+  '(better-defaults
+    monokai-theme
+    xah-elisp-mode
+    rainbow-delimiters
+    elpy
+    py-autopep8
+    yaml-mode
+    multiple-cursors
+    ac-octave
+    ess
+    restclient
+    elixir-mode
+    alchemist))
+(mapc #'(lambda (package)
+    (unless (package-installed-p package)
+      (package-install package)))
+      usedPackages)
 
 ;;;; ---- Basic settings ---- ;;;;
 ;; Set better defaults for a lot of emacs functions
@@ -113,14 +118,30 @@
 (global-set-key (kbd "C-c p") 'mc/mark-previous-like-this)
 (global-set-key (kbd "C-c a") 'mc/mark-all-like-this)
 
+;; 100 Character Line
+(add-to-list 'load-path (expand-file-name "~/.emacs.d/Fill-Column-Indicator"))
+(require 'fill-column-indicator)
+(defun custom-fci ()
+  (setq fci-rule-color "gray24")
+  (fci-mode)
+  (set-fill-column 100))
+;; Get fci-mode to play well with company-mode
+;; Note that this turns on fci mode when company mode is on
+(defun on-off-fci-before-company(command)
+  (when (string= "show" command)
+    (turn-off-fci-mode))
+  (when (string= "hide" command)
+    (turn-on-fci-mode)))
+(advice-add 'company-call-frontends :before #'on-off-fci-before-company)
+
 ;;;; ---- ELisp ---- ;;;;
 ;; Better syntax highlighting for elisp
 (require 'xah-elisp-mode)
-(xah-elisp-mode)
 ;; Use rainbow colors to quickly see matching parens everywhere
 (require 'rainbow-delimiters)
 (add-hook 'xah-elisp-mode-hook 'rainbow-delimiters-mode)
-(rainbow-delimiters-mode 1)
+;; 100 character line
+(add-hook 'xah-elisp-mode-hook 'custom-fci)
 
 ;;;; --- Python ---- ;;;;
 ;; python ide
@@ -145,28 +166,17 @@ https://github.com/jorgenschaefer/elpy/blob/master/elpy.el#L2068"
     (compile test-command))
 (put 'elpy-test-nose-runner-chdir-up 'elpy-test-runner-p t)
 (elpy-set-test-runner 'elpy-test-nose-runner-chdir-up)
-
+;; 100 character line
+(add-hook 'python-mode-hook 'custom-fci)
 ;; Enable autopep8 formatting on save
 (require 'py-autopep8)
 (add-hook 'elpy-mode-hook 'py-autopep8-enable-on-save)
 ;; First level of aggressive is still pretty safe
 (setq py-autopep8-options '("--aggressive" "--max-line-length=100"))
 
-;; 100 character line
-(add-to-list 'load-path (expand-file-name "~/.emacs.d/Fill-Column-Indicator"))
-(require 'fill-column-indicator)
-(add-hook 'python-mode-hook (lambda () (set-fill-column 100)))
-(add-hook 'python-mode-hook 'fci-mode)
-(add-hook 'python-mode-hook (lambda ()
-             (setq fci-rule-color "gray24")
-             ))
-;; Get fci-mode to play well with autocomplete
-(defun on-off-fci-before-company(command)
-  (when (string= "show" command)
-    (turn-off-fci-mode))
-  (when (string= "hide" command)
-    (turn-on-fci-mode)))
-(advice-add 'company-call-frontends :before #'on-off-fci-before-company)
+;; Get company mode to use the fuzzy matching in flx - Doesn't work
+;; (with-eval-after-load 'company
+;;   (company-flx-mode +1)) 
 
 ;;;; ---- Yaml ---- ;;;;
 (require 'yaml-mode)
@@ -181,9 +191,36 @@ https://github.com/jorgenschaefer/elpy/blob/master/elpy.el#L2068"
 ;; Record time when finished
 (setq org-log-done t)
 (setq org-todo-keywords '((sequence "TODO" "WAIT" "DONE")))
+(add-to-list 'load-path (expand-file-name "~/.emacs.d/hand-installed"))
+(require 'ox-confluence)
 
 ;;;; ---- Matlab/Octave ---- ;;;;
 (add-to-list 'auto-mode-alist '("\\.m\\'" . octave-mode))
+;; Octave autocomplete
+(require 'ac-octave)
+(defun ac-octave-mode-setup ()
+  (setq ac-sources '(ac-source-octave)))
+  (add-hook 'octave-mode-hook
+    '(lambda () (ac-octave-mode-setup)))
+
+;;;; ---- R ---- ;;;;
+(require 'ess-site)
+(add-to-list 'auto-mode-alist '("\\.R\\'" . R-mode))
+
+;;;; ---- Elixir ---- ;;;;
+(require 'elixir-mode)
+(require 'alchemist)
+(add-hook 'elixir-mode-hook
+  (lambda ()
+    (setq company-backends '(alchemist-company))))
+(add-hook 'elixir-mode-hook 'company-mode)
+(add-hook 'elixir-mode-hook 'custom-fci)
+;; iex mode
+(add-hook 'alchemist-iex-mode-hook 'company-mode)
+(add-hook 'alchemist-iex-mode-hook
+  (lambda ()
+    (setq company-backends '(alchemist-company))))
+(add-hook 'alchemist-iex-mode-hook 'custom-fci)
 
 ;;;; ---- Rest Client Mode ---- ;;;;
 (require 'restclient)
@@ -255,7 +292,13 @@ https://github.com/jorgenschaefer/elpy/blob/master/elpy.el#L2068"
         "^.Elpy Refactor.$"
         "^.Python Doc.$"
         "^.HTTP Response.$"
-        "^.Python Check.$"))
+        "^.Python Check.$"
+        "^.org CONFLUENCE Export.$"
+        "^.alchemist test report.$"
+        "^.alchemist mix.$"
+        "^.alchemist help.$"
+        "^.alchemist elixir.$"
+        "^.alchemist elixirc.$"))
 (setq grb-temporary-window (nth 1 (window-list)))
 (defun grb-special-display (buffer &optional data)
   (let ((window grb-temporary-window))
@@ -263,4 +306,3 @@ https://github.com/jorgenschaefer/elpy/blob/master/elpy.el#L2068"
       (switch-to-buffer buffer)
       window)))
 (setq special-display-function 'grb-special-display)
-
