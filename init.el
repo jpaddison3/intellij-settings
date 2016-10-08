@@ -25,7 +25,10 @@
     ess
     restclient
     elixir-mode
-    alchemist))
+    alchemist
+    magit
+    go-mode
+    go-eldoc))
 (mapc #'(lambda (package)
     (unless (package-installed-p package)
       (package-install package)))
@@ -134,6 +137,11 @@
     (turn-on-fci-mode)))
 (advice-add 'company-call-frontends :before #'on-off-fci-before-company)
 
+;; Magit
+(require 'magit)
+(global-set-key (kbd "C-x g") 'magit-status)
+(global-set-key (kbd "C-x M-g") 'magit-dispatch-popup)
+
 ;;;; ---- ELisp ---- ;;;;
 ;; Better syntax highlighting for elisp
 (require 'xah-elisp-mode)
@@ -193,6 +201,7 @@ https://github.com/jorgenschaefer/elpy/blob/master/elpy.el#L2068"
 (setq org-todo-keywords '((sequence "TODO" "WAIT" "DONE")))
 (add-to-list 'load-path (expand-file-name "~/.emacs.d/hand-installed"))
 (require 'ox-confluence)
+(setq org-startup-truncated nil)
 
 ;;;; ---- Matlab/Octave ---- ;;;;
 (add-to-list 'auto-mode-alist '("\\.m\\'" . octave-mode))
@@ -215,12 +224,41 @@ https://github.com/jorgenschaefer/elpy/blob/master/elpy.el#L2068"
     (setq company-backends '(alchemist-company))))
 (add-hook 'elixir-mode-hook 'company-mode)
 (add-hook 'elixir-mode-hook 'custom-fci)
+(add-hook 'elixir-mode-hook
+          (lambda ()
+            (modify-syntax-entry ?_ "w")))
+(setq elixir-mode-hook nil)
 ;; iex mode
 (add-hook 'alchemist-iex-mode-hook 'company-mode)
 (add-hook 'alchemist-iex-mode-hook
   (lambda ()
     (setq company-backends '(alchemist-company))))
 (add-hook 'alchemist-iex-mode-hook 'custom-fci)
+
+;;;; ---- Go ---- ;;;;
+(defun go-mode-setup ()
+  (go-eldoc-setup)
+  (setq tab-width 2)
+  ; Call Gofmt before saving
+  (setq gofmt-command "goimports")
+  (add-hook 'before-save-hook 'gofmt-before-save)
+  ; Godef jump key binding
+  (local-set-key (kbd "M-.") 'godef-jump)
+  ; autocomplete
+  (auto-complete-mode 1)
+  ; Customize compile command to run go build
+  (if (not (string-match "go" compile-command))
+      (set (make-local-variable 'compile-command)
+           "go build -v && go test -v && go vet && go install"))
+  (setq compilation-read-command nil)
+  (local-set-key (kbd "C-c c") 'compile)
+  ; Go Oracle for introspection
+  (load-file "$GOPATH/src/golang.org/x/tools/cmd/oracle/oracle.el"))
+(add-hook 'go-mode-hook 'go-mode-setup)
+(add-hook 'go-mode-hook 'custom-fci)
+
+(with-eval-after-load 'go-mode
+   (require 'go-autocomplete))
 
 ;;;; ---- Rest Client Mode ---- ;;;;
 (require 'restclient)
@@ -260,6 +298,7 @@ https://github.com/jorgenschaefer/elpy/blob/master/elpy.el#L2068"
   (split-window-vertically)
   (other-window 1)
   (shell)
+  (maximize-window-height)
   (other-window -3)
   (maximize-window-height)
   )
@@ -287,13 +326,13 @@ https://github.com/jorgenschaefer/elpy/blob/master/elpy.el#L2068"
         "^\\*Async Shell Command\\*$"
         "^\\*Backtrace\\*$"
         "^\\*Python check: .*$"
-        "^.*magit: .*$"
+        "^.*magit.*$"
         "^.Process List.$"
         "^.Elpy Refactor.$"
         "^.Python Doc.$"
         "^.HTTP Response.$"
         "^.Python Check.$"
-        "^.org CONFLUENCE Export.$"
+        "^.org .* Export.$"
         "^.alchemist test report.$"
         "^.alchemist mix.$"
         "^.alchemist help.$"
