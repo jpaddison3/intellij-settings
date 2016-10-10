@@ -28,7 +28,8 @@
     alchemist
     magit
     go-mode
-    go-eldoc))
+    go-eldoc
+    markdown-mode))
 (mapc #'(lambda (package)
     (unless (package-installed-p package)
       (package-install package)))
@@ -136,6 +137,8 @@
   (when (string= "hide" command)
     (turn-on-fci-mode)))
 (advice-add 'company-call-frontends :before #'on-off-fci-before-company)
+;; keyboard shortcut
+(global-set-key (kbd "C-c f") 'fci-mode)
 
 ;; Magit
 (require 'magit)
@@ -192,6 +195,9 @@ https://github.com/jorgenschaefer/elpy/blob/master/elpy.el#L2068"
 (add-hook 'yaml-mode-hook
           '(lambda ()
              (define-key yaml-mode-map "\C-m" 'newline-and-indent)))
+(add-hook 'yaml-mode-hook
+          (lambda ()
+            (modify-syntax-entry ?_ "w")))
 
 ;;;; ---- Org-Mode ---- ;;;;
 (require 'org)
@@ -199,9 +205,11 @@ https://github.com/jorgenschaefer/elpy/blob/master/elpy.el#L2068"
 ;; Record time when finished
 (setq org-log-done t)
 (setq org-todo-keywords '((sequence "TODO" "WAIT" "DONE")))
+(setq org-startup-truncated nil)
 (add-to-list 'load-path (expand-file-name "~/.emacs.d/hand-installed"))
 (require 'ox-confluence)
-(setq org-startup-truncated nil)
+(eval-after-load "org"
+  '(require 'ox-md nil t))
 
 ;;;; ---- Matlab/Octave ---- ;;;;
 (add-to-list 'auto-mode-alist '("\\.m\\'" . octave-mode))
@@ -227,7 +235,6 @@ https://github.com/jorgenschaefer/elpy/blob/master/elpy.el#L2068"
 (add-hook 'elixir-mode-hook
           (lambda ()
             (modify-syntax-entry ?_ "w")))
-(setq elixir-mode-hook nil)
 ;; iex mode
 (add-hook 'alchemist-iex-mode-hook 'company-mode)
 (add-hook 'alchemist-iex-mode-hook
@@ -253,10 +260,11 @@ https://github.com/jorgenschaefer/elpy/blob/master/elpy.el#L2068"
   (setq compilation-read-command nil)
   (local-set-key (kbd "C-c c") 'compile)
   ; Go Oracle for introspection
-  (load-file "$GOPATH/src/golang.org/x/tools/cmd/oracle/oracle.el"))
+  ;; (load-file "$GOPATH/src/golang.org/x/tools/cmd/oracle/oracle.el")
+  )
 (add-hook 'go-mode-hook 'go-mode-setup)
-(add-hook 'go-mode-hook 'custom-fci)
 
+(add-hook 'go-mode-hook 'custom-fci)
 (with-eval-after-load 'go-mode
    (require 'go-autocomplete))
 
@@ -326,7 +334,8 @@ https://github.com/jorgenschaefer/elpy/blob/master/elpy.el#L2068"
         "^\\*Async Shell Command\\*$"
         "^\\*Backtrace\\*$"
         "^\\*Python check: .*$"
-        "^.*magit.*$"
+        "^.*magit:.*$"
+        "^.*magit-.*-popup.*$"
         "^.Process List.$"
         "^.Elpy Refactor.$"
         "^.Python Doc.$"
@@ -337,11 +346,13 @@ https://github.com/jorgenschaefer/elpy/blob/master/elpy.el#L2068"
         "^.alchemist mix.$"
         "^.alchemist help.$"
         "^.alchemist elixir.$"
-        "^.alchemist elixirc.$"))
-(setq grb-temporary-window (nth 1 (window-list)))
+        "^.alchemist elixirc.$"
+        "^.Gofmt Errors.$"
+        ))
+(setq temp-window-second (nth 1 (window-list)))
 (defun grb-special-display (buffer &optional data)
-  (let ((window grb-temporary-window))
-    (with-selected-window window
-      (switch-to-buffer buffer)
-      window)))
+    (let ((window temp-window-second))
+      (with-selected-window window
+        (switch-to-buffer buffer)
+        window)))
 (setq special-display-function 'grb-special-display)
