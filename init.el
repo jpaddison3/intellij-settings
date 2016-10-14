@@ -259,12 +259,12 @@ https://github.com/jorgenschaefer/elpy/blob/master/elpy.el#L2068"
            "go build -v && go test -v && go vet && go install"))
   (setq compilation-read-command nil)
   (local-set-key (kbd "C-c c") 'compile)
+
   ; Go Oracle for introspection
   ;; (load-file "$GOPATH/src/golang.org/x/tools/cmd/oracle/oracle.el")
   )
 (add-hook 'go-mode-hook 'go-mode-setup)
 
-(add-hook 'go-mode-hook 'custom-fci)
 (with-eval-after-load 'go-mode
    (require 'go-autocomplete))
 
