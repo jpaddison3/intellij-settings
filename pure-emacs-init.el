@@ -77,7 +77,7 @@
            (setq interprogram-paste-function 'paste-from-osx)
            ))
 
-;; Flexible comment / uncomment 
+;; Flexible comment / uncomment
 (defun comment-or-uncomment-line-or-region ()
   "Comments or uncomments the current line or region."
   (interactive)
@@ -187,7 +187,7 @@ https://github.com/jorgenschaefer/elpy/blob/master/elpy.el#L2068"
 
 ;; Get company mode to use the fuzzy matching in flx - Doesn't work
 ;; (with-eval-after-load 'company
-;;   (company-flx-mode +1)) 
+;;   (company-flx-mode +1))
 
 ;;;; ---- Yaml ---- ;;;;
 (require 'yaml-mode)

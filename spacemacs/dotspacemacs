@@ -40,11 +40,6 @@ values."
          gofmt-command "goimports"
          go-tab-width 2)
      (python :variables python-enable-yapf-format-on-save t)
-     ;; ----------------------------------------------------------------
-     ;; Example of useful layers you may want to use right away.
-     ;; Uncomment some layer names and press <SPC f e R> (Vim style) or
-     ;; <M-m f e R> (Emacs style) to install them.
-     ;; ----------------------------------------------------------------
      helm
      auto-completion
      better-defaults
@@ -52,12 +47,12 @@ values."
      git
      markdown
      org
-     (shell :variables
-            shell-default-height 30
-            shell-default-position 'bottom)
+     shell
      spell-checking
      syntax-checking
      version-control
+     ;; Personal Layers
+     ;; windows ;; Seems spacemacs is getting in the way of my old emacs window config
      )
    ;; List of additional packages that will be installed without being
    ;; wrapped in a layer. If you need some configuration for these
@@ -327,6 +322,15 @@ you should place your code here."
   ;; No longer skip over wrapped lines
   (define-key evil-normal-state-map (kbd "j") 'evil-next-visual-line)
   (define-key evil-normal-state-map (kbd "k") 'evil-previous-visual-line)
+  ;; Expand and shrink windows
+  (setq window-min-height 12)
+  (defun maximize-window-height ()
+    "Give user a function to maximize height of window, allowing more efficient
+    viewing of files, window-min-height prevents other window from being too
+    squished"
+    (interactive)
+    (enlarge-window (frame-height)))
+  (evil-leader/set-key "o o" 'maximize-window-height)
   )
 
 ;; Do not write anything past this comment. This is where Emacs will
