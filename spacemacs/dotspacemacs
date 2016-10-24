@@ -39,14 +39,17 @@ values."
      (go :variables
          gofmt-command "goimports"
          go-tab-width 2)
-     (python :variables python-enable-yapf-format-on-save t)
+     python
      helm
      auto-completion
      better-defaults
      emacs-lisp
      git
      markdown
-     org
+     (org :variables
+          org-startup-truncated nil
+          org-todo-keywords '((sequence "TODO" "WAIT" "DONE"))
+          org-log-done t)
      shell
      spell-checking
      syntax-checking
