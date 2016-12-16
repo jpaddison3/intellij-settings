@@ -324,8 +324,8 @@ you should place your code here."
   (sp-pair "\\{" "\\}" :actions '(wrap navigate))
   ;; ;; No longer skip over wrapped lines
   ;; ;; Disabled temporarily to see if making relative lines not lie is worth it
-  ;; (define-key evil-normal-state-map (kbd "j") 'evil-next-visual-line)
-  ;; (define-key evil-normal-state-map (kbd "k") 'evil-previous-visual-line)
+  (define-key evil-normal-state-map (kbd "<down>") 'evil-next-visual-line)
+  (define-key evil-normal-state-map (kbd "<up>") 'evil-previous-visual-line)
   ;; Expand and shrink windows
   (setq window-min-height 12)
   (defun maximize-window-height ()
@@ -336,7 +336,10 @@ you should place your code here."
     (enlarge-window (frame-height)))
   (evil-leader/set-key "o o" 'maximize-window-height)
   (add-hook 'python-mode-hook 'py-autopep8-enable-on-save)
-  (setq py-autopep8-options '("--aggressive" "--max-line-length=100"))
+  (setq py-autopep8-options
+        '("--aggressive"
+          "--max-line-length=100"
+          "--ignore errors E24 E309"))
   (add-hook 'python-mode-hook
             (lambda ()
               (modify-syntax-entry ?_ "w")))
