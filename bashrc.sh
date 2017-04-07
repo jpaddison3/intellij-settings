@@ -17,6 +17,8 @@ export PATH="/usr/local/bin:/usr/local/sbin:$PATH"
 export GOPATH=$HOME/Documents/Kairos/golang
 export GOROOT=/usr/local/Cellar/go/1.7.1/libexec
 export PATH=$PATH:$GOPATH/bin:$GOROOT/bin
+export LG=$HOME/Documents/Kairos/golang/src/github.com/KairosAerospace/leakyg
+alias govtest='go list ./... | grep -v vendor | xargs go test'
 
 # GDAL
 export PROJSO=/Library/Frameworks/PROJ.framework/PROJ
