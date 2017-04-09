@@ -32,3 +32,8 @@ export PATH="$HOME/.npm-packages/bin:/usr/local/Cellar/node/6.2.0/bin:$PATH"
 
 # Latex
 export PATH=$PATH:/Library/TeX/texbin
+
+# CUDA GPU
+export PATH=$PATH:/Developer/NVIDIA/CUDA-8.0.61/bin
+export DYLD_LIBRARY_PATH=$DYLD_LIBRARY_PATH:/Developer/NVIDIA/CUDA-8.0.61/lib
+export LD_LIBRARY_PATH=$DYLD_LIBRARY_PATH
