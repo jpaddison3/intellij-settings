@@ -20,6 +20,9 @@ export PATH=$PATH:$GOPATH/bin:$GOROOT/bin
 export LG=$HOME/Documents/Kairos/golang/src/github.com/KairosAerospace/leakyg
 alias govtest='go list ./... | grep -v vendor | xargs go test'
 
+# Python
+alias py36='. ~/py36/bin/activate'
+
 # GDAL
 export PROJSO=/Library/Frameworks/PROJ.framework/PROJ
 export GDAL_DATA=/Users/jpaddison/Documents/MrSID_DSDK-9.1.0.4045-darwin13.universal.clang51/Raster_DSDK/3rd-party/share/gdal
@@ -34,6 +37,7 @@ export PATH="$HOME/.npm-packages/bin:/usr/local/Cellar/node/6.2.0/bin:$PATH"
 export PATH=$PATH:/Library/TeX/texbin
 
 # CUDA GPU
-export PATH=$PATH:/Developer/NVIDIA/CUDA-8.0.61/bin
-export DYLD_LIBRARY_PATH=$DYLD_LIBRARY_PATH:/Developer/NVIDIA/CUDA-8.0.61/lib
-export LD_LIBRARY_PATH=$DYLD_LIBRARY_PATH
+export PATH=$PATH:/Developer/NVIDIA/CUDA-8.0/bin
+EXTRA_LD=/Developer/NVIDIA/CUDA-8.0/lib:/Developer/NVIDIA/cudnn
+export DYLD_LIBRARY_PATH=$DYLD_LIBRARY_PATH:$EXTRA_LD
+export LD_LIBRARY_PATH=$LD_LIBRARY_PATH:$EXTRA_LD
