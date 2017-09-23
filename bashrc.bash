@@ -15,7 +15,7 @@ export PATH="/usr/local/bin:/usr/local/sbin:$PATH"
 
 # Go Language
 export GOPATH=$HOME/Documents/Kairos/golang
-export GOROOT=/usr/local/Cellar/go/1.7.1/libexec
+export GOROOT=/usr/local/Cellar/go/1.7.3/libexec
 export PATH=$PATH:$GOPATH/bin:$GOROOT/bin
 export LG=$HOME/Documents/Kairos/golang/src/github.com/KairosAerospace/leakyg
 alias govtest='go list ./... | grep -v vendor | xargs go test'
@@ -41,3 +41,7 @@ export PATH=$PATH:/Developer/NVIDIA/CUDA-8.0/bin
 EXTRA_LD=/Developer/NVIDIA/CUDA-8.0/lib:/Developer/NVIDIA/cudnn
 export DYLD_LIBRARY_PATH=$DYLD_LIBRARY_PATH:$EXTRA_LD
 export LD_LIBRARY_PATH=$LD_LIBRARY_PATH:$EXTRA_LD
+
+export NVM_DIR="$HOME/.nvm"
+[ -s "$NVM_DIR/nvm.sh" ] && \. "$NVM_DIR/nvm.sh"  # This loads nvm
+[ -s "$NVM_DIR/bash_completion" ] && \. "$NVM_DIR/bash_completion"  # This loads nvm bash_completion
