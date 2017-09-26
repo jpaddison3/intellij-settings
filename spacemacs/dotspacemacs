@@ -384,7 +384,13 @@ you should place your code here."
   (defun launch-shells ()
     (interactive)
     (shell "*shell*")
+    (shell "*shell*front")
     (shell "*shell*web")
+    (shell "*shell*db-notifications")
+    (shell "*shell*payments")
+    (shell "*shell*emails")
+    (shell "*shell*events")
+    (shell "*shell*psql")
     )
   )
 
