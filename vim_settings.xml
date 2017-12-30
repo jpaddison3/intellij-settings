@@ -41,11 +41,11 @@
         <mark key="^" line="21" column="32" />
         <mark key="." line="21" column="33" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/4d92d1d7-ac7c-4350-a088-078375835bcc/console.sql" timestamp="1514331536819">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="^" line="0" column="8" />
-        <mark key="." line="0" column="0" />
+      <file name="$USER_HOME$/Documents/MiscProgramming/bit_matching.py" timestamp="1514672133136">
+        <mark key="[" line="2" column="15" />
+        <mark key="]" line="2" column="15" />
+        <mark key="^" line="2" column="15" />
+        <mark key="." line="2" column="15" />
       </file>
       <file name="$USER_HOME$/Documents/cea/aletheia/.gitignore" timestamp="1514405064857">
         <mark key="[" line="10" column="5" />
@@ -72,6 +72,12 @@
         <mark key="[" line="24" column="0" />
         <mark key="]" line="24" column="38" />
         <mark key="." line="164" column="9" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/4d92d1d7-ac7c-4350-a088-078375835bcc/console.sql" timestamp="1514331536819">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="0" column="8" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/cea/parfit/migrations/20171205170400_donor_lottery.js" timestamp="1514387968704">
         <mark key="'" line="0" column="0" />
@@ -130,7 +136,7 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">SVMg</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">LCA=</text>
@@ -188,25 +194,6 @@
         <entry encoding="base64">LCA=</entry>
       </history-search>
       <history-cmd>
-        <entry>action GlobalSettings</entry>
-        <entry>actionlist</entry>
-        <entry>action NewFile</entry>
-        <entry>%s/*\+//</entry>
-        <entry>%s/.*\+//</entry>
-        <entry>action Jdbc.RunQueryInConsole</entry>
-        <entry>action RunQueryInConsole</entry>
-        <entry>action ReformatCode</entry>
-        <entry>s/, /,\n/g</entry>
-        <entry>action GotoDeclaration</entry>
-        <entry>action Back</entry>
-        <entry>action Forward</entry>
-        <entry>source ~/.ideavimrc</entry>
-        <entry encoding="base64">JzwsJz5hY3Rpb24gQ29tbWVudEJ5TGluZUNvbW1lbnQ=</entry>
-        <entry encoding="base64">JzwsJz53IQ==</entry>
-        <entry>action GotoFile</entry>
-        <entry>action Find</entry>
-        <entry>action CommentByLineComment</entry>
-        <entry>action Refactorings.QuickListPopupAction</entry>
         <entry>w!</entry>
       </history-cmd>
       <history-expr />
