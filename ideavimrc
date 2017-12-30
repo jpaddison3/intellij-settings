@@ -1,0 +1,37 @@
+set surround
+
+set clipboard+=unnamed
+
+" Disable bell (there is no visualbell implemented
+:set visualbell
+
+" nnoremap only works in normal mode and means that / is not recursively called by other mappings
+nnoremap / :action Find<cr>
+
+" beloglazov vimrc
+" Copy until the end of the line
+noremap Y y$
+
+""" Spacemacs emulation
+
+let mapleader = " "
+" TODO What is this used for?
+let g:mapleader = " "
+:let maplocalleader = ","
+
+" This one doesn't work on blocks
+map <leader>cl :action CommentByLineComment<cr>
+map <leader>fs :w!<cr>
+map <leader>fr :source ~/.ideavimrc<cr>
+map <leader>ff :action NewFile<cr>
+map <leader>gg :action GotoDeclaration<cr>
+map <leader>gG :action GotoTypeDeclaration<cr>
+map <leader>gs :action CheckinFiles<cr>
+map <leader>gb :action Back<cr>
+map <leader>gf :action Forward<cr>
+map <leader>pf :action GotoFile<cr>
+map <leader>rf :action ReformatCode<cr>
+map <leader>rt :action Refactorings.QuickListPopupAction<cr>
+
+""" Notes
+" Terminal show/hide (option fn f12)
