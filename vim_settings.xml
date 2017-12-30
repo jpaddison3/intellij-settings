@@ -1,0 +1,224 @@
+<application>
+  <component name="VimSettings">
+    <state version="4" enabled="true" />
+    <globalmarks />
+    <filemarks>
+      <file name="/Dummy.txt" timestamp="1514412934790">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/cea/parfit/migrations/20171227101557_lottery_tickets.js" timestamp="1514387974977">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/cea/parfit/migrations/20171227101557_lottery_tickets_down.sql" timestamp="1514500559837">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="3" />
+        <mark key="." line="2" column="3" />
+        <mark key="^" line="2" column="3" />
+      </file>
+      <file name="$USER_HOME$/Documents/IdeaExample/foo/foo.iml" timestamp="1514308407473">
+        <mark key="[" line="0" column="2" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="/a.dummy" timestamp="1514500878894">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/cea/parfit/.gitignore" timestamp="1514405069129">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="^" line="12" column="0" />
+        <mark key="." line="12" column="0" />
+      </file>
+      <file name="$USER_HOME$/.ideavimrc" timestamp="1514482831236">
+        <mark key="'" line="33" column="0" />
+        <mark key="[" line="21" column="33" />
+        <mark key="]" line="21" column="33" />
+        <mark key="^" line="21" column="32" />
+        <mark key="." line="21" column="33" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/4d92d1d7-ac7c-4350-a088-078375835bcc/console.sql" timestamp="1514331536819">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="0" column="8" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/cea/aletheia/.gitignore" timestamp="1514405064857">
+        <mark key="[" line="10" column="5" />
+        <mark key="]" line="11" column="4" />
+        <mark key="^" line="11" column="4" />
+        <mark key="." line="11" column="4" />
+      </file>
+      <file name="$USER_HOME$/Documents/IdeaExample/foo/bar.js" timestamp="1514329694810">
+        <mark key="'" line="0" column="11" />
+        <mark key="[" line="3" column="18" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+        <mark key="^" line="4" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/cea/parfit/migrations/20171205170400_donor_lottery_down.sql" timestamp="1514482807121">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+        <mark key="^" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/cea/parfit/migrations/20171205170400_donor_lottery_up.sql" timestamp="1514407350054">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="24" column="38" />
+        <mark key="." line="164" column="9" />
+      </file>
+      <file name="$USER_HOME$/Documents/cea/parfit/migrations/20171205170400_donor_lottery.js" timestamp="1514387968704">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="8" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/cea/parfit/migrations/20171227101557_lottery_tickets_up.sql" timestamp="1514501283648">
+        <mark key="'" line="110" column="6" />
+        <mark key="[" line="132" column="17" />
+        <mark key="]" line="132" column="17" />
+        <mark key="." line="132" column="17" />
+        <mark key="^" line="137" column="5" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="10" column="17" filename="$USER_HOME$/.ideavimrc" />
+      <jump line="0" column="4" filename="$USER_HOME$/.ideavimrc" />
+      <jump line="5" column="0" filename="$USER_HOME$/.ideavimrc" />
+      <jump line="6" column="0" filename="$USER_HOME$/.ideavimrc" />
+      <jump line="3" column="3" filename="$USER_HOME$/Documents/IdeaExample/foo/bar.js" />
+      <jump line="1" column="0" filename="$USER_HOME$/Documents/IdeaExample/foo/bar.js" />
+      <jump line="0" column="11" filename="$USER_HOME$/Documents/IdeaExample/foo/bar.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/cea/parfit/migrations/20171205170400_donor_lottery.js" />
+      <jump line="0" column="2" filename="$USER_HOME$/Documents/cea/parfit/migrations/20171227101557_lottery_tickets_up.sql" />
+      <jump line="27" column="0" filename="$USER_HOME$/.ideavimrc" />
+      <jump line="33" column="96" filename="$USER_HOME$/Documents/cea/parfit/migrations/20171227101557_lottery_tickets_up.sql" />
+      <jump line="5" column="15" filename="$USER_HOME$/Documents/cea/parfit/migrations/20171227101557_lottery_tickets_up.sql" />
+      <jump line="45" column="5" filename="$USER_HOME$/Documents/cea/parfit/migrations/20171227101557_lottery_tickets_up.sql" />
+      <jump line="22" column="0" filename="$USER_HOME$/Documents/cea/parfit/migrations/20171227101557_lottery_tickets_up.sql" />
+      <jump line="7" column="12" filename="$USER_HOME$/Documents/cea/parfit/migrations/20171205170400_donor_lottery_up.sql" />
+      <jump line="1" column="0" filename="$USER_HOME$/Documents/cea/parfit/migrations/20171205170400_donor_lottery_up.sql" />
+      <jump line="16" column="42" filename="$USER_HOME$/Documents/cea/parfit/migrations/20171227101557_lottery_tickets_up.sql" />
+      <jump line="191" column="0" filename="$USER_HOME$/Documents/cea/parfit/migrations/20171205170400_donor_lottery_up.sql" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/cea/parfit/migrations/20171205170400_donor_lottery_up.sql" />
+      <jump line="11" column="6" filename="$USER_HOME$/Documents/cea/parfit/migrations/20171227101557_lottery_tickets_up.sql" />
+      <jump line="59" column="0" filename="$USER_HOME$/Documents/cea/parfit/migrations/20171227101557_lottery_tickets_up.sql" />
+      <jump line="51" column="53" filename="$USER_HOME$/Documents/cea/parfit/migrations/20171227101557_lottery_tickets_up.sql" />
+      <jump line="14" column="1" filename="$USER_HOME$/Documents/cea/parfit/migrations/20171227101557_lottery_tickets_up.sql" />
+      <jump line="52" column="69" filename="$USER_HOME$/Documents/cea/parfit/migrations/20171227101557_lottery_tickets_up.sql" />
+      <jump line="61" column="50" filename="$USER_HOME$/Documents/cea/parfit/migrations/20171227101557_lottery_tickets_up.sql" />
+      <jump line="98" column="24" filename="$USER_HOME$/Documents/cea/parfit/migrations/20171227101557_lottery_tickets_up.sql" />
+      <jump line="9" column="0" filename="$USER_HOME$/Documents/cea/parfit/migrations/20171205170400_donor_lottery_down.sql" />
+      <jump line="127" column="25" filename="$USER_HOME$/Documents/cea/parfit/migrations/20171227101557_lottery_tickets_up.sql" />
+      <jump line="116" column="0" filename="$USER_HOME$/Documents/cea/parfit/migrations/20171227101557_lottery_tickets_up.sql" />
+      <jump line="79" column="0" filename="$USER_HOME$/Documents/cea/parfit/migrations/20171227101557_lottery_tickets_up.sql" />
+      <jump line="104" column="0" filename="$USER_HOME$/Documents/cea/parfit/migrations/20171227101557_lottery_tickets_up.sql" />
+      <jump line="109" column="0" filename="$USER_HOME$/Documents/cea/parfit/migrations/20171227101557_lottery_tickets_up.sql" />
+      <jump line="110" column="6" filename="$USER_HOME$/Documents/cea/parfit/migrations/20171227101557_lottery_tickets_up.sql" />
+    </jumps>
+    <registers>
+      <register name="&quot;" type="4">
+        <text>'let mapleader = &quot; &quot;
+'</text>
+      </register>
+      <register name="*" type="4">
+        <text>&quot;&quot;</text>
+      </register>
+      <register name="-" type="4">
+        <text encoding="base64">SVMg</text>
+      </register>
+      <register name="/" type="4">
+        <text encoding="base64">LCA=</text>
+      </register>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIFJBSVNFIE5PVElDRSAnVGlja2V0OiAlJywgX3RpY2tldDsK</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">LS0gICAgIF9wYXltZW50X2lkIDo9IF90aWNrZXQucGF5bWVudF9pZDsK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">LS0gVE9ETyBpcyBudGhlcmUgYSBuZXdsaW5lCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICBJRiBOSVNUX1JFU1VMVCAK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIElGIE5JU1RfUkVTVUxUIAo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIF9wYXltZW50X2lkIDo9IF90aWNrZXQucGF5bWVudF9pZDsK</text>
+      </register>
+      <register name="8" type="4">
+        <text>&quot;&quot;</text>
+      </register>
+      <register name="9" type="4">
+        <text>_ticket</text>
+      </register>
+      <register name=":" type="4">
+        <text>w!</text>
+      </register>
+    </registers>
+    <search>
+      <last-search encoding="base64">LCA=</last-search>
+      <last-offset />
+      <last-pattern encoding="base64">LCA=</last-pattern>
+      <last-replace>,\n</last-replace>
+      <last-substitute encoding="base64">LCA=</last-substitute>
+      <last-dir>1</last-dir>
+      <show-last>false</show-last>
+    </search>
+    <history>
+      <history-search>
+        <entry>surrou</entry>
+        <entry>let</entry>
+        <entry>*\+</entry>
+        <entry>.*\+</entry>
+        <entry encoding="base64">XDxnZW5lcmF0ZV9zZXJpZXNcPg==</entry>
+        <entry encoding="base64">LCA=</entry>
+      </history-search>
+      <history-cmd>
+        <entry>action GlobalSettings</entry>
+        <entry>actionlist</entry>
+        <entry>action NewFile</entry>
+        <entry>%s/*\+//</entry>
+        <entry>%s/.*\+//</entry>
+        <entry>action Jdbc.RunQueryInConsole</entry>
+        <entry>action RunQueryInConsole</entry>
+        <entry>action ReformatCode</entry>
+        <entry>s/, /,\n/g</entry>
+        <entry>action GotoDeclaration</entry>
+        <entry>action Back</entry>
+        <entry>action Forward</entry>
+        <entry>source ~/.ideavimrc</entry>
+        <entry encoding="base64">JzwsJz5hY3Rpb24gQ29tbWVudEJ5TGluZUNvbW1lbnQ=</entry>
+        <entry encoding="base64">JzwsJz53IQ==</entry>
+        <entry>action GotoFile</entry>
+        <entry>action Find</entry>
+        <entry>action CommentByLineComment</entry>
+        <entry>action Refactorings.QuickListPopupAction</entry>
+        <entry>w!</entry>
+      </history-cmd>
+      <history-expr />
+      <history-input />
+    </history>
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed R</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
+    <editor>
+      <key-repeat enabled="true" />
+    </editor>
+  </component>
+</application>
