@@ -41,11 +41,11 @@
         <mark key="^" line="21" column="32" />
         <mark key="." line="21" column="33" />
       </file>
-      <file name="$USER_HOME$/Documents/MiscProgramming/bit_matching.py" timestamp="1514672133136">
-        <mark key="[" line="2" column="15" />
-        <mark key="]" line="2" column="15" />
-        <mark key="^" line="2" column="15" />
-        <mark key="." line="2" column="15" />
+      <file name="$USER_HOME$/Documents/MiscProgramming/bit_matching.py" timestamp="1514759663590">
+        <mark key="[" line="24" column="13" />
+        <mark key="]" line="24" column="28" />
+        <mark key="." line="24" column="28" />
+        <mark key="^" line="24" column="28" />
       </file>
       <file name="$USER_HOME$/Documents/cea/aletheia/.gitignore" timestamp="1514405064857">
         <mark key="[" line="10" column="5" />
@@ -136,40 +136,42 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>100</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">LCA=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIFJBSVNFIE5PVElDRSAnVGlja2V0OiAlJywgX3RpY2tldDsK</text>
+      <register name="0" type="4">
+        <text>bool(random.getrandbits(1))</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">LS0gICAgIF9wYXltZW50X2lkIDo9IF90aWNrZXQucGF5bWVudF9pZDsK</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CmFfc3RyaW5nID0gW2Jvb2wocmFuZG9tLmdldHJhbmRiaXRzKDEpKSwgYm9vbChyYW5kb20uZ2V0cmFuZGJpdHMoMSkpXQpiX3N0cmluZyA9IFtib29sKHJhbmRvbS5nZXRyYW5kYml0cygxKSksIGJvb2wocmFuZG9tLmdldHJhbmRiaXRzKDEpKV0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">LS0gVE9ETyBpcyBudGhlcmUgYSBuZXdsaW5lCg==</text>
+        <text encoding="base64">Yl9zdHJpbmcgPSAiMTEiCg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICBJRiBOSVNUX1JFU1VMVCAK</text>
+      <register name="5" type="4">
+        <text>hello = 'hello world'
+
+print(hello, '!')</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIElGIE5JU1RfUkVTVUxUIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIF9wYXltZW50X2lkIDo9IF90aWNrZXQucGF5bWVudF9pZDsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text>&quot;&quot;</text>
+      <register name="8" type="2">
+        <text encoding="base64">LS0gICAgIF9wYXltZW50X2lkIDo9IF90aWNrZXQucGF5bWVudF9pZDsK</text>
       </register>
-      <register name="9" type="4">
-        <text>_ticket</text>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w!</text>
@@ -194,6 +196,10 @@
         <entry encoding="base64">LCA=</entry>
       </history-search>
       <history-cmd>
+        <entry>action rerun</entry>
+        <entry>action Rerun</entry>
+        <entry>source ~/.ideavimrc</entry>
+        <entry>action Run</entry>
         <entry>w!</entry>
       </history-cmd>
       <history-expr />
