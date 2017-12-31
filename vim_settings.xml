@@ -34,12 +34,11 @@
         <mark key="^" line="12" column="0" />
         <mark key="." line="12" column="0" />
       </file>
-      <file name="$USER_HOME$/.ideavimrc" timestamp="1514482831236">
-        <mark key="'" line="33" column="0" />
-        <mark key="[" line="21" column="33" />
-        <mark key="]" line="21" column="33" />
-        <mark key="^" line="21" column="32" />
-        <mark key="." line="21" column="33" />
+      <file name="$USER_HOME$/.ideavimrc" timestamp="1514673000402">
+        <mark key="'" line="28" column="32" />
+        <mark key="[" line="40" column="12" />
+        <mark key="]" line="40" column="13" />
+        <mark key="." line="40" column="13" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/4d92d1d7-ac7c-4350-a088-078375835bcc/console.sql" timestamp="1514331536819">
         <mark key="[" line="0" column="0" />
@@ -120,6 +119,7 @@
       <jump line="104" column="0" filename="$USER_HOME$/Documents/cea/parfit/migrations/20171227101557_lottery_tickets_up.sql" />
       <jump line="109" column="0" filename="$USER_HOME$/Documents/cea/parfit/migrations/20171227101557_lottery_tickets_up.sql" />
       <jump line="110" column="6" filename="$USER_HOME$/Documents/cea/parfit/migrations/20171227101557_lottery_tickets_up.sql" />
+      <jump line="21" column="32" filename="$USER_HOME$/.ideavimrc" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -130,43 +130,43 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">SVMg</text>
+        <text>Rerun</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">LCA=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIFJBSVNFIE5PVElDRSAnVGlja2V0OiAlJywgX3RpY2tldDsK</text>
+        <text encoding="base64">bWFwIDxsZWFkZXI+cnQgOmFjdGlvbiBSZWZhY3RvcmluZ3MuUXVpY2tMaXN0UG9wdXBBY3Rpb248Y3I+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">bWFwIDxsZWFkZXI+Y3IgOmFjdGlvbiBSdW48Y3I+Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">LS0gICAgIF9wYXltZW50X2lkIDo9IF90aWNrZXQucGF5bWVudF9pZDsK</text>
+        <text encoding="base64">bWFwIDxsZWFkZXI+cnQgOmFjdGlvbiBSZWZhY3RvcmluZ3MuUXVpY2tMaXN0UG9wdXBBY3Rpb248Y3I+Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IiBiZWxvZ2xhem92IHZpbXJjCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">LS0gVE9ETyBpcyBudGhlcmUgYSBuZXdsaW5lCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBJRiBOSVNUX1JFU1VMVCAK</text>
+        <text encoding="base64">LS0gICAgIF9wYXltZW50X2lkIDo9IF90aWNrZXQucGF5bWVudF9pZDsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIElGIE5JU1RfUkVTVUxUIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIF9wYXltZW50X2lkIDo9IF90aWNrZXQucGF5bWVudF9pZDsK</text>
+        <text encoding="base64">LS0gVE9ETyBpcyBudGhlcmUgYSBuZXdsaW5lCg==</text>
       </register>
-      <register name="8" type="4">
-        <text>&quot;&quot;</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICBJRiBOSVNUX1JFU1VMVCAK</text>
       </register>
-      <register name="9" type="4">
-        <text>_ticket</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIElGIE5JU1RfUkVTVUxUIAo=</text>
       </register>
       <register name=":" type="4">
-        <text>w!</text>
+        <text>source ~/.ideavimrc</text>
       </register>
     </registers>
     <search>
@@ -200,7 +200,6 @@
         <entry>action GotoDeclaration</entry>
         <entry>action Back</entry>
         <entry>action Forward</entry>
-        <entry>source ~/.ideavimrc</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gQ29tbWVudEJ5TGluZUNvbW1lbnQ=</entry>
         <entry encoding="base64">JzwsJz53IQ==</entry>
         <entry>action GotoFile</entry>
@@ -208,6 +207,7 @@
         <entry>action CommentByLineComment</entry>
         <entry>action Refactorings.QuickListPopupAction</entry>
         <entry>w!</entry>
+        <entry>source ~/.ideavimrc</entry>
       </history-cmd>
       <history-expr />
       <history-input />
