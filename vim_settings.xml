@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1514412934790">
+      <file name="/Dummy.txt" timestamp="1514767151940">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -27,6 +27,12 @@
       </file>
       <file name="/a.dummy" timestamp="1514500878894">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Halite2_Python3_MacOS/tf_to_halite.py" timestamp="1514767876710">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/cea/parfit/.gitignore" timestamp="1514405069129">
         <mark key="[" line="12" column="0" />
@@ -147,34 +153,34 @@
         <text>bool(random.getrandbits(1))</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChhX3N0cmluZywgYl9zdHJpbmcpCiAgICAgICAgcHJpbnQocmVzdWx0KQo=</text>
+        <text encoding="base64">ZGVmIGFjdGlvbl90b19obHQoYWN0aW9uKToKICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvdW50ID0gMAo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludChhX3N0cmluZywgYl9zdHJpbmcpCiAgICAgICAgcHJpbnQocmVzdWx0KQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHRvdGFsID0gMTAwCg==</text>
+        <text encoding="base64">ICAgIGNvdW50ID0gMAo=</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">ICAgIHRvdGFsID0gMTAwCg==</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICBwcmludChmdWxsX3N0cmluZykK</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text>range(total)</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">Cgo=</text>
       </register>
-      <register name="8" type="2">
+      <register name="9" type="2">
         <text encoding="base64">CmFfc3RyaW5nID0gW2Jvb2wocmFuZG9tLmdldHJhbmRiaXRzKDEpKSwgYm9vbChyYW5kb20uZ2V0cmFuZGJpdHMoMSkpXQpiX3N0cmluZyA9IFtib29sKHJhbmRvbS5nZXRyYW5kYml0cygxKSksIGJvb2wocmFuZG9tLmdldHJhbmRiaXRzKDEpKV0K</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">Yl9zdHJpbmcgPSAiMTEiCg==</text>
-      </register>
       <register name=":" type="4">
-        <text>action Run</text>
+        <text>action NewFile</text>
       </register>
     </registers>
     <search>
@@ -201,6 +207,7 @@
         <entry>source ~/.ideavimrc</entry>
         <entry>w!</entry>
         <entry>action Run</entry>
+        <entry>action NewFile</entry>
       </history-cmd>
       <history-expr />
       <history-input />
