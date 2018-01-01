@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1514412934790">
+      <file name="/Dummy.txt" timestamp="1514766155725">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -39,6 +39,10 @@
         <mark key="[" line="40" column="12" />
         <mark key="]" line="40" column="13" />
         <mark key="." line="40" column="13" />
+      </file>
+      <file name="$USER_HOME$/Documents/Halite2_Python3_MacOS/MyBot.py" timestamp="1514763157697">
+        <mark key="'" line="72" column="0" />
+        <mark key="." line="28" column="114" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/4d92d1d7-ac7c-4350-a088-078375835bcc/console.sql" timestamp="1514331536819">
         <mark key="[" line="0" column="0" />
@@ -120,6 +124,11 @@
       <jump line="109" column="0" filename="$USER_HOME$/Documents/cea/parfit/migrations/20171227101557_lottery_tickets_up.sql" />
       <jump line="110" column="6" filename="$USER_HOME$/Documents/cea/parfit/migrations/20171227101557_lottery_tickets_up.sql" />
       <jump line="21" column="32" filename="$USER_HOME$/.ideavimrc" />
+      <jump line="27" column="0" filename="$USER_HOME$/Documents/Halite2_Python3_MacOS/MyBot.py" />
+      <jump line="36" column="0" filename="$USER_HOME$/Documents/Halite2_Python3_MacOS/MyBot.py" />
+      <jump line="43" column="0" filename="$USER_HOME$/Documents/Halite2_Python3_MacOS/MyBot.py" />
+      <jump line="68" column="0" filename="$USER_HOME$/Documents/Halite2_Python3_MacOS/MyBot.py" />
+      <jump line="72" column="0" filename="$USER_HOME$/Documents/Halite2_Python3_MacOS/MyBot.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -166,7 +175,7 @@
         <text encoding="base64">ICAgIElGIE5JU1RfUkVTVUxUIAo=</text>
       </register>
       <register name=":" type="4">
-        <text>source ~/.ideavimrc</text>
+        <text>action Run</text>
       </register>
     </registers>
     <search>
@@ -188,9 +197,7 @@
         <entry encoding="base64">LCA=</entry>
       </history-search>
       <history-cmd>
-        <entry>action GlobalSettings</entry>
         <entry>actionlist</entry>
-        <entry>action NewFile</entry>
         <entry>%s/*\+//</entry>
         <entry>%s/.*\+//</entry>
         <entry>action Jdbc.RunQueryInConsole</entry>
@@ -202,12 +209,14 @@
         <entry>action Forward</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gQ29tbWVudEJ5TGluZUNvbW1lbnQ=</entry>
         <entry encoding="base64">JzwsJz53IQ==</entry>
-        <entry>action GotoFile</entry>
         <entry>action Find</entry>
         <entry>action CommentByLineComment</entry>
         <entry>action Refactorings.QuickListPopupAction</entry>
         <entry>w!</entry>
         <entry>source ~/.ideavimrc</entry>
+        <entry>action NewFile</entry>
+        <entry>action GotoFile</entry>
+        <entry>action Run</entry>
       </history-cmd>
       <history-expr />
       <history-input />
