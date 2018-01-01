@@ -41,11 +41,12 @@
         <mark key="^" line="21" column="32" />
         <mark key="." line="21" column="33" />
       </file>
-      <file name="$USER_HOME$/Documents/MiscProgramming/bit_matching.py" timestamp="1514759663590">
-        <mark key="[" line="24" column="13" />
-        <mark key="]" line="24" column="28" />
-        <mark key="." line="24" column="28" />
-        <mark key="^" line="24" column="28" />
+      <file name="$USER_HOME$/Documents/MiscProgramming/bit_matching.py" timestamp="1514760812397">
+        <mark key="'" line="14" column="21" />
+        <mark key="[" line="3" column="112" />
+        <mark key="]" line="3" column="115" />
+        <mark key="." line="3" column="115" />
+        <mark key="^" line="3" column="115" />
       </file>
       <file name="$USER_HOME$/Documents/cea/aletheia/.gitignore" timestamp="1514405064857">
         <mark key="[" line="10" column="5" />
@@ -126,6 +127,7 @@
       <jump line="104" column="0" filename="$USER_HOME$/Documents/cea/parfit/migrations/20171227101557_lottery_tickets_up.sql" />
       <jump line="109" column="0" filename="$USER_HOME$/Documents/cea/parfit/migrations/20171227101557_lottery_tickets_up.sql" />
       <jump line="110" column="6" filename="$USER_HOME$/Documents/cea/parfit/migrations/20171227101557_lottery_tickets_up.sql" />
+      <jump line="14" column="21" filename="$USER_HOME$/Documents/MiscProgramming/bit_matching.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -136,7 +138,7 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>100</text>
+        <text>[</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">LCA=</text>
@@ -145,36 +147,34 @@
         <text>bool(random.getrandbits(1))</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludChhX3N0cmluZywgYl9zdHJpbmcpCiAgICAgICAgcHJpbnQocmVzdWx0KQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">ICAgIGNvdW50ID0gMAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CmFfc3RyaW5nID0gW2Jvb2wocmFuZG9tLmdldHJhbmRiaXRzKDEpKSwgYm9vbChyYW5kb20uZ2V0cmFuZGJpdHMoMSkpXQpiX3N0cmluZyA9IFtib29sKHJhbmRvbS5nZXRyYW5kYml0cygxKSksIGJvb2wocmFuZG9tLmdldHJhbmRiaXRzKDEpKV0K</text>
+        <text encoding="base64">ICAgIHRvdGFsID0gMTAwCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Yl9zdHJpbmcgPSAiMTEiCg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludChmdWxsX3N0cmluZykK</text>
       </register>
       <register name="5" type="4">
-        <text>hello = 'hello world'
-
-print(hello, '!')</text>
+        <text>range(total)</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">LS0gICAgIF9wYXltZW50X2lkIDo9IF90aWNrZXQucGF5bWVudF9pZDsK</text>
+        <text encoding="base64">CmFfc3RyaW5nID0gW2Jvb2wocmFuZG9tLmdldHJhbmRiaXRzKDEpKSwgYm9vbChyYW5kb20uZ2V0cmFuZGJpdHMoMSkpXQpiX3N0cmluZyA9IFtib29sKHJhbmRvbS5nZXRyYW5kYml0cygxKSksIGJvb2wocmFuZG9tLmdldHJhbmRiaXRzKDEpKV0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Yl9zdHJpbmcgPSAiMTEiCg==</text>
       </register>
       <register name=":" type="4">
-        <text>w!</text>
+        <text>action Run</text>
       </register>
     </registers>
     <search>
@@ -199,8 +199,8 @@ print(hello, '!')</text>
         <entry>action rerun</entry>
         <entry>action Rerun</entry>
         <entry>source ~/.ideavimrc</entry>
-        <entry>action Run</entry>
         <entry>w!</entry>
+        <entry>action Run</entry>
       </history-cmd>
       <history-expr />
       <history-input />
