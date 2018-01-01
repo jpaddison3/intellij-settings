@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1514767151940">
+      <file name="/Dummy.txt" timestamp="1514766155725">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -28,31 +28,27 @@
       <file name="/a.dummy" timestamp="1514500878894">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Halite2_Python3_MacOS/tf_to_halite.py" timestamp="1514767876710">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="^" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/cea/parfit/.gitignore" timestamp="1514405069129">
         <mark key="[" line="12" column="0" />
         <mark key="]" line="12" column="0" />
         <mark key="^" line="12" column="0" />
         <mark key="." line="12" column="0" />
       </file>
-      <file name="$USER_HOME$/.ideavimrc" timestamp="1514482831236">
-        <mark key="'" line="33" column="0" />
-        <mark key="[" line="21" column="33" />
-        <mark key="]" line="21" column="33" />
-        <mark key="^" line="21" column="32" />
-        <mark key="." line="21" column="33" />
+      <file name="$USER_HOME$/.ideavimrc" timestamp="1514673000402">
+        <mark key="'" line="28" column="32" />
+        <mark key="[" line="40" column="12" />
+        <mark key="]" line="40" column="13" />
+        <mark key="." line="40" column="13" />
       </file>
-      <file name="$USER_HOME$/Documents/MiscProgramming/bit_matching.py" timestamp="1514760812397">
-        <mark key="'" line="14" column="21" />
-        <mark key="[" line="3" column="112" />
-        <mark key="]" line="3" column="115" />
-        <mark key="." line="3" column="115" />
-        <mark key="^" line="3" column="115" />
+      <file name="$USER_HOME$/Documents/Halite2_Python3_MacOS/MyBot.py" timestamp="1514763157697">
+        <mark key="'" line="72" column="0" />
+        <mark key="." line="28" column="114" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/4d92d1d7-ac7c-4350-a088-078375835bcc/console.sql" timestamp="1514331536819">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="0" column="8" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/cea/aletheia/.gitignore" timestamp="1514405064857">
         <mark key="[" line="10" column="5" />
@@ -79,12 +75,6 @@
         <mark key="[" line="24" column="0" />
         <mark key="]" line="24" column="38" />
         <mark key="." line="164" column="9" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/4d92d1d7-ac7c-4350-a088-078375835bcc/console.sql" timestamp="1514331536819">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="^" line="0" column="8" />
-        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/cea/parfit/migrations/20171205170400_donor_lottery.js" timestamp="1514387968704">
         <mark key="'" line="0" column="0" />
@@ -133,7 +123,12 @@
       <jump line="104" column="0" filename="$USER_HOME$/Documents/cea/parfit/migrations/20171227101557_lottery_tickets_up.sql" />
       <jump line="109" column="0" filename="$USER_HOME$/Documents/cea/parfit/migrations/20171227101557_lottery_tickets_up.sql" />
       <jump line="110" column="6" filename="$USER_HOME$/Documents/cea/parfit/migrations/20171227101557_lottery_tickets_up.sql" />
-      <jump line="14" column="21" filename="$USER_HOME$/Documents/MiscProgramming/bit_matching.py" />
+      <jump line="21" column="32" filename="$USER_HOME$/.ideavimrc" />
+      <jump line="27" column="0" filename="$USER_HOME$/Documents/Halite2_Python3_MacOS/MyBot.py" />
+      <jump line="36" column="0" filename="$USER_HOME$/Documents/Halite2_Python3_MacOS/MyBot.py" />
+      <jump line="43" column="0" filename="$USER_HOME$/Documents/Halite2_Python3_MacOS/MyBot.py" />
+      <jump line="68" column="0" filename="$USER_HOME$/Documents/Halite2_Python3_MacOS/MyBot.py" />
+      <jump line="72" column="0" filename="$USER_HOME$/Documents/Halite2_Python3_MacOS/MyBot.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -144,43 +139,43 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>[</text>
+        <text>Rerun</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">LCA=</text>
       </register>
-      <register name="0" type="4">
-        <text>bool(random.getrandbits(1))</text>
+      <register name="0" type="2">
+        <text encoding="base64">bWFwIDxsZWFkZXI+cnQgOmFjdGlvbiBSZWZhY3RvcmluZ3MuUXVpY2tMaXN0UG9wdXBBY3Rpb248Y3I+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZGVmIGFjdGlvbl90b19obHQoYWN0aW9uKToKICAgIAo=</text>
+        <text encoding="base64">bWFwIDxsZWFkZXI+Y3IgOmFjdGlvbiBSdW48Y3I+Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChhX3N0cmluZywgYl9zdHJpbmcpCiAgICAgICAgcHJpbnQocmVzdWx0KQo=</text>
+        <text encoding="base64">bWFwIDxsZWFkZXI+cnQgOmFjdGlvbiBSZWZhY3RvcmluZ3MuUXVpY2tMaXN0UG9wdXBBY3Rpb248Y3I+Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvdW50ID0gMAo=</text>
+        <text encoding="base64">IiBiZWxvZ2xhem92IHZpbXJjCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHRvdGFsID0gMTAwCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChmdWxsX3N0cmluZykK</text>
-      </register>
-      <register name="6" type="4">
-        <text>range(total)</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">LS0gICAgIF9wYXltZW50X2lkIDo9IF90aWNrZXQucGF5bWVudF9pZDsK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">LS0gVE9ETyBpcyBudGhlcmUgYSBuZXdsaW5lCg==</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">ICBJRiBOSVNUX1JFU1VMVCAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CmFfc3RyaW5nID0gW2Jvb2wocmFuZG9tLmdldHJhbmRiaXRzKDEpKSwgYm9vbChyYW5kb20uZ2V0cmFuZGJpdHMoMSkpXQpiX3N0cmluZyA9IFtib29sKHJhbmRvbS5nZXRyYW5kYml0cygxKSksIGJvb2wocmFuZG9tLmdldHJhbmRiaXRzKDEpKV0K</text>
+        <text encoding="base64">ICAgIElGIE5JU1RfUkVTVUxUIAo=</text>
       </register>
       <register name=":" type="4">
-        <text>action NewFile</text>
+        <text>action Run</text>
       </register>
     </registers>
     <search>
@@ -202,12 +197,26 @@
         <entry encoding="base64">LCA=</entry>
       </history-search>
       <history-cmd>
-        <entry>action rerun</entry>
-        <entry>action Rerun</entry>
-        <entry>source ~/.ideavimrc</entry>
+        <entry>actionlist</entry>
+        <entry>%s/*\+//</entry>
+        <entry>%s/.*\+//</entry>
+        <entry>action Jdbc.RunQueryInConsole</entry>
+        <entry>action RunQueryInConsole</entry>
+        <entry>action ReformatCode</entry>
+        <entry>s/, /,\n/g</entry>
+        <entry>action GotoDeclaration</entry>
+        <entry>action Back</entry>
+        <entry>action Forward</entry>
+        <entry encoding="base64">JzwsJz5hY3Rpb24gQ29tbWVudEJ5TGluZUNvbW1lbnQ=</entry>
+        <entry encoding="base64">JzwsJz53IQ==</entry>
+        <entry>action Find</entry>
+        <entry>action CommentByLineComment</entry>
+        <entry>action Refactorings.QuickListPopupAction</entry>
         <entry>w!</entry>
-        <entry>action Run</entry>
+        <entry>source ~/.ideavimrc</entry>
         <entry>action NewFile</entry>
+        <entry>action GotoFile</entry>
+        <entry>action Run</entry>
       </history-cmd>
       <history-expr />
       <history-input />
