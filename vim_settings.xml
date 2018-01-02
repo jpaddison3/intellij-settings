@@ -13,12 +13,6 @@
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/cea/parfit/migrations/20171227101557_lottery_tickets_down.sql" timestamp="1514500559837">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="3" />
-        <mark key="." line="2" column="3" />
-        <mark key="^" line="2" column="3" />
-      </file>
       <file name="$USER_HOME$/Documents/IdeaExample/foo/foo.iml" timestamp="1514308407473">
         <mark key="[" line="0" column="2" />
         <mark key="]" line="0" column="0" />
@@ -70,8 +64,8 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/cea/parfit/migrations/20171205170400_donor_lottery_up.sql" timestamp="1514407350054">
-        <mark key="'" line="0" column="0" />
+      <file name="$USER_HOME$/Documents/cea/parfit/migrations/20171205170400_donor_lottery_up.sql" timestamp="1514926754297">
+        <mark key="'" line="5" column="29" />
         <mark key="[" line="24" column="0" />
         <mark key="]" line="24" column="38" />
         <mark key="." line="164" column="9" />
@@ -80,13 +74,6 @@
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="8" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/cea/parfit/migrations/20171227101557_lottery_tickets_up.sql" timestamp="1514501283648">
-        <mark key="'" line="110" column="6" />
-        <mark key="[" line="132" column="17" />
-        <mark key="]" line="132" column="17" />
-        <mark key="." line="132" column="17" />
-        <mark key="^" line="137" column="5" />
       </file>
     </filemarks>
     <jumps>
@@ -129,6 +116,7 @@
       <jump line="43" column="0" filename="$USER_HOME$/Documents/Halite2_Python3_MacOS/MyBot.py" />
       <jump line="68" column="0" filename="$USER_HOME$/Documents/Halite2_Python3_MacOS/MyBot.py" />
       <jump line="72" column="0" filename="$USER_HOME$/Documents/Halite2_Python3_MacOS/MyBot.py" />
+      <jump line="5" column="29" filename="$USER_HOME$/Documents/cea/parfit/migrations/20171205170400_donor_lottery_up.sql" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
