@@ -22,6 +22,10 @@
       <file name="/a.dummy" timestamp="1514500878894">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/cea/parfit/services/emails/handlers/pledges.js" timestamp="1514935973698" />
+      <file name="$USER_HOME$/Documents/cea/parfit/services/emails/handlers/lottery.test.js" timestamp="1514935301058">
+        <mark key="'" line="68" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/cea/parfit/.gitignore" timestamp="1514405069129">
         <mark key="[" line="12" column="0" />
         <mark key="]" line="12" column="0" />
@@ -43,6 +47,9 @@
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="8" />
         <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/cea/parfit/services/emails/handlers/utils.js" timestamp="1514934343065">
+        <mark key="'" line="47" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/cea/aletheia/.gitignore" timestamp="1514405064857">
         <mark key="[" line="10" column="5" />
@@ -75,6 +82,16 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="8" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/cea/parfit/migrations/20171227101557_lottery_tickets_up.sql" timestamp="1514937253884">
+        <mark key="a" line="134" column="8" />
+        <mark key="'" line="134" column="17" />
+        <mark key="g" line="149" column="19" />
+        <mark key="[" line="146" column="0" />
+        <mark key="]" line="146" column="0" />
+        <mark key="^" line="134" column="17" />
+        <mark key="." line="146" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/cea/parfit/services/events/handlers/pledge.js" timestamp="1514934374657" />
     </filemarks>
     <jumps>
       <jump line="10" column="17" filename="$USER_HOME$/.ideavimrc" />
@@ -85,7 +102,6 @@
       <jump line="1" column="0" filename="$USER_HOME$/Documents/IdeaExample/foo/bar.js" />
       <jump line="0" column="11" filename="$USER_HOME$/Documents/IdeaExample/foo/bar.js" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/cea/parfit/migrations/20171205170400_donor_lottery.js" />
-      <jump line="0" column="2" filename="$USER_HOME$/Documents/cea/parfit/migrations/20171227101557_lottery_tickets_up.sql" />
       <jump line="27" column="0" filename="$USER_HOME$/.ideavimrc" />
       <jump line="33" column="96" filename="$USER_HOME$/Documents/cea/parfit/migrations/20171227101557_lottery_tickets_up.sql" />
       <jump line="5" column="15" filename="$USER_HOME$/Documents/cea/parfit/migrations/20171227101557_lottery_tickets_up.sql" />
@@ -117,6 +133,20 @@
       <jump line="68" column="0" filename="$USER_HOME$/Documents/Halite2_Python3_MacOS/MyBot.py" />
       <jump line="72" column="0" filename="$USER_HOME$/Documents/Halite2_Python3_MacOS/MyBot.py" />
       <jump line="5" column="29" filename="$USER_HOME$/Documents/cea/parfit/migrations/20171205170400_donor_lottery_up.sql" />
+      <jump line="137" column="43" filename="$USER_HOME$/Documents/cea/parfit/migrations/20171227101557_lottery_tickets_up.sql" />
+      <jump line="15" column="0" filename="$USER_HOME$/Documents/cea/parfit/migrations/20171227101557_lottery_tickets_up.sql" />
+      <jump line="28" column="0" filename="$USER_HOME$/Documents/cea/parfit/migrations/20171227101557_lottery_tickets_up.sql" />
+      <jump line="15" column="0" filename="$USER_HOME$/Documents/cea/parfit/services/emails/handlers/utils.js" />
+      <jump line="45" column="0" filename="$USER_HOME$/Documents/cea/parfit/services/emails/handlers/utils.js" />
+      <jump line="13" column="0" filename="$USER_HOME$/Documents/cea/parfit/services/emails/handlers/utils.js" />
+      <jump line="29" column="0" filename="$USER_HOME$/Documents/cea/parfit/services/emails/handlers/utils.js" />
+      <jump line="70" column="0" filename="$USER_HOME$/Documents/cea/parfit/services/emails/handlers/utils.js" />
+      <jump line="68" column="0" filename="$USER_HOME$/Documents/cea/parfit/services/emails/handlers/lottery.test.js" />
+      <jump line="132" column="24" filename="$USER_HOME$/Documents/cea/parfit/migrations/20171227101557_lottery_tickets_up.sql" />
+      <jump line="153" column="0" filename="$USER_HOME$/Documents/cea/parfit/migrations/20171227101557_lottery_tickets_up.sql" />
+      <jump line="117" column="0" filename="$USER_HOME$/Documents/cea/parfit/migrations/20171227101557_lottery_tickets_up.sql" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/cea/parfit/migrations/20171227101557_lottery_tickets_up.sql" />
+      <jump line="134" column="17" filename="$USER_HOME$/Documents/cea/parfit/migrations/20171227101557_lottery_tickets_up.sql" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -127,43 +157,45 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>Rerun</text>
+        <text>AND</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">LCA=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">bWFwIDxsZWFkZXI+cnQgOmFjdGlvbiBSZWZhY3RvcmluZ3MuUXVpY2tMaXN0UG9wdXBBY3Rpb248Y3I+Cg==</text>
+      <register name="0" type="4">
+        <text>SELECT (
+        id AS payment_id
+      ) FROM payments.payment</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">bWFwIDxsZWFkZXI+Y3IgOmFjdGlvbiBSdW48Y3I+Cg==</text>
+        <text encoding="base64">LS0gICAgICAgX3BheW1lbnRfaWQgOj0gX3RpY2tldC5wYXltZW50X2lkOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">bWFwIDxsZWFkZXI+cnQgOmFjdGlvbiBSZWZhY3RvcmluZ3MuUXVpY2tMaXN0UG9wdXBBY3Rpb248Y3I+Cg==</text>
+        <text encoding="base64">LS0gICAgICAgICBJTk5FUiBKT0lOIHBheW1lbnRzLnBheW1lbnQgT04gX3RpY2tldC5wYXltZW50X2lkID0gcGF5bWVudC5pZDsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">IiBiZWxvZ2xhem92IHZpbXJjCg==</text>
+        <text encoding="base64">ICAgICAgLS0gICAgICAgICBwYXltZW50LmFtb3VudCBBUyBwYXltZW50X2Ftb3VudAogICAgICAtLSAgICAgICApIElOVE8gX3dpbm5lciBGUk9NIF90aWNrZXQK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">LS0gICAgICAgUkFJU0UgTk9USUNFICdmb286ICUnLAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">LS0gICAgIF9wYXltZW50X2lkIDo9IF90aWNrZXQucGF5bWVudF9pZDsK</text>
+        <text encoding="base64">ICBfcGF5bWVudF9pZCBCSUdJTlQ7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICB5aWVsZCBrbmV4XygncGF5bWVudHMubG90dGVyeScpCiAgICAud2hlcmUoe2lkOiBMT1RURVJZX0lEfSkKICAgIC5kZWxldGUoKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">LS0gVE9ETyBpcyBudGhlcmUgYSBuZXdsaW5lCg==</text>
+        <text encoding="base64">ICAgIC8vIHN3aXRjaCBvbiBtZXNzYWdlIHR5cGUgLy8gVE9ETyAoUXVlc3Rpb24pIHJlYWxseT8K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBJRiBOSVNUX1JFU1VMVCAK</text>
+        <text encoding="base64">ICAgICAgICAtLSAgICAgICAgIHBheW1lbnQuYW1vdW50IEFTIHBheW1lbnRfYW1vdW50CiAgICAgICAgLS0gICAgICAgKSBJTlRPIF93aW5uZXIgRlJPTSBfdGlja2V0Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIElGIE5JU1RfUkVTVUxUIAo=</text>
+        <text encoding="base64">ICAgICAgICBwYXltZW50X2lkIC0tIEFTIGlkCg==</text>
       </register>
       <register name=":" type="4">
-        <text>action Run</text>
+        <text>w!</text>
       </register>
     </registers>
     <search>
@@ -185,26 +217,26 @@
         <entry encoding="base64">LCA=</entry>
       </history-search>
       <history-cmd>
-        <entry>actionlist</entry>
         <entry>%s/*\+//</entry>
         <entry>%s/.*\+//</entry>
         <entry>action Jdbc.RunQueryInConsole</entry>
         <entry>action RunQueryInConsole</entry>
         <entry>action ReformatCode</entry>
         <entry>s/, /,\n/g</entry>
-        <entry>action GotoDeclaration</entry>
         <entry>action Back</entry>
         <entry>action Forward</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gQ29tbWVudEJ5TGluZUNvbW1lbnQ=</entry>
         <entry encoding="base64">JzwsJz53IQ==</entry>
-        <entry>action Find</entry>
-        <entry>action CommentByLineComment</entry>
         <entry>action Refactorings.QuickListPopupAction</entry>
-        <entry>w!</entry>
         <entry>source ~/.ideavimrc</entry>
         <entry>action NewFile</entry>
-        <entry>action GotoFile</entry>
         <entry>action Run</entry>
+        <entry>action Find</entry>
+        <entry encoding="base64">JzwsJz5hY3Rpb24gR290b0ZpbGU=</entry>
+        <entry>action GotoFile</entry>
+        <entry>action CommentByLineComment</entry>
+        <entry>action GotoDeclaration</entry>
+        <entry>w!</entry>
       </history-cmd>
       <history-expr />
       <history-input />
