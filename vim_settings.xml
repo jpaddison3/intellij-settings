@@ -3,6 +3,9 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="vim_settings.xml" timestamp="1514768098362">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="/Dummy.txt" timestamp="1514766155725">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -19,6 +22,9 @@
         <mark key="." line="2" column="3" />
         <mark key="^" line="2" column="3" />
       </file>
+      <file name="/Python Console" timestamp="1514768608107">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/IdeaExample/foo/foo.iml" timestamp="1514308407473">
         <mark key="[" line="0" column="2" />
         <mark key="]" line="0" column="0" />
@@ -27,6 +33,12 @@
       </file>
       <file name="/a.dummy" timestamp="1514500878894">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Halite2_Python3_MacOS/tf_to_halite.py" timestamp="1514767876710">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/cea/parfit/.gitignore" timestamp="1514405069129">
         <mark key="[" line="12" column="0" />
@@ -38,17 +50,32 @@
         <mark key="'" line="28" column="32" />
         <mark key="[" line="40" column="12" />
         <mark key="]" line="40" column="13" />
+        <mark key="^" line="21" column="32" />
         <mark key="." line="40" column="13" />
       </file>
       <file name="$USER_HOME$/Documents/Halite2_Python3_MacOS/MyBot.py" timestamp="1514763157697">
         <mark key="'" line="72" column="0" />
         <mark key="." line="28" column="114" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/4d92d1d7-ac7c-4350-a088-078375835bcc/console.sql" timestamp="1514331536819">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="^" line="0" column="8" />
-        <mark key="." line="0" column="0" />
+      <file name="$USER_HOME$/Documents/formic/tf_to_hlt.py" timestamp="1514771750093">
+        <mark key="'" line="19" column="19" />
+        <mark key="[" line="16" column="21" />
+        <mark key="]" line="13" column="14" />
+        <mark key="." line="17" column="14" />
+        <mark key="^" line="13" column="14" />
+      </file>
+      <file name="$USER_HOME$/Documents/formic/formic.py" timestamp="1514769476970">
+        <mark key="'" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/MiscProgramming/bit_matching.py" timestamp="1514760812397">
+        <mark key="'" line="14" column="21" />
+        <mark key="[" line="3" column="112" />
+        <mark key="]" line="3" column="115" />
+        <mark key="." line="3" column="115" />
+        <mark key="^" line="3" column="115" />
+      </file>
+      <file name="$USER_HOME$/Documents/formic/MyBot.py" timestamp="1514769498594">
+        <mark key="'" line="2" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/cea/aletheia/.gitignore" timestamp="1514405064857">
         <mark key="[" line="10" column="5" />
@@ -70,11 +97,18 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/formic/hlt/entity.py" timestamp="1514770401015" />
       <file name="$USER_HOME$/Documents/cea/parfit/migrations/20171205170400_donor_lottery_up.sql" timestamp="1514407350054">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="24" column="0" />
         <mark key="]" line="24" column="38" />
         <mark key="." line="164" column="9" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/4d92d1d7-ac7c-4350-a088-078375835bcc/console.sql" timestamp="1514331536819">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="0" column="8" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/cea/parfit/migrations/20171205170400_donor_lottery.js" timestamp="1514387968704">
         <mark key="'" line="0" column="0" />
@@ -129,6 +163,33 @@
       <jump line="43" column="0" filename="$USER_HOME$/Documents/Halite2_Python3_MacOS/MyBot.py" />
       <jump line="68" column="0" filename="$USER_HOME$/Documents/Halite2_Python3_MacOS/MyBot.py" />
       <jump line="72" column="0" filename="$USER_HOME$/Documents/Halite2_Python3_MacOS/MyBot.py" />
+      <jump line="1" column="0" filename="$USER_HOME$/Documents/formic/formic.py" />
+      <jump line="2" column="0" filename="$USER_HOME$/Documents/formic/formic.py" />
+      <jump line="4" column="0" filename="$USER_HOME$/Documents/formic/formic.py" />
+      <jump line="9" column="0" filename="$USER_HOME$/Documents/formic/formic.py" />
+      <jump line="11" column="0" filename="$USER_HOME$/Documents/formic/formic.py" />
+      <jump line="20" column="0" filename="$USER_HOME$/Documents/formic/formic.py" />
+      <jump line="23" column="0" filename="$USER_HOME$/Documents/formic/formic.py" />
+      <jump line="26" column="0" filename="$USER_HOME$/Documents/formic/formic.py" />
+      <jump line="42" column="0" filename="$USER_HOME$/Documents/formic/formic.py" />
+      <jump line="45" column="0" filename="$USER_HOME$/Documents/formic/formic.py" />
+      <jump line="53" column="0" filename="$USER_HOME$/Documents/formic/formic.py" />
+      <jump line="56" column="0" filename="$USER_HOME$/Documents/formic/formic.py" />
+      <jump line="64" column="0" filename="$USER_HOME$/Documents/formic/formic.py" />
+      <jump line="67" column="0" filename="$USER_HOME$/Documents/formic/formic.py" />
+      <jump line="80" column="0" filename="$USER_HOME$/Documents/formic/formic.py" />
+      <jump line="34" column="0" filename="$USER_HOME$/Documents/formic/MyBot.py" />
+      <jump line="72" column="0" filename="$USER_HOME$/Documents/formic/MyBot.py" />
+      <jump line="68" column="0" filename="$USER_HOME$/Documents/formic/MyBot.py" />
+      <jump line="43" column="0" filename="$USER_HOME$/Documents/formic/MyBot.py" />
+      <jump line="36" column="0" filename="$USER_HOME$/Documents/formic/MyBot.py" />
+      <jump line="27" column="0" filename="$USER_HOME$/Documents/formic/MyBot.py" />
+      <jump line="22" column="0" filename="$USER_HOME$/Documents/formic/MyBot.py" />
+      <jump line="16" column="0" filename="$USER_HOME$/Documents/formic/MyBot.py" />
+      <jump line="8" column="0" filename="$USER_HOME$/Documents/formic/MyBot.py" />
+      <jump line="2" column="0" filename="$USER_HOME$/Documents/formic/MyBot.py" />
+      <jump line="1" column="25" filename="$USER_HOME$/Documents/formic/tf_to_hlt.py" />
+      <jump line="14" column="19" filename="$USER_HOME$/Documents/formic/tf_to_hlt.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -139,51 +200,51 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>Rerun</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">LCA=</text>
+        <text>ship</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">bWFwIDxsZWFkZXI+cnQgOmFjdGlvbiBSZWZhY3RvcmluZ3MuUXVpY2tMaXN0UG9wdXBBY3Rpb248Y3I+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">bWFwIDxsZWFkZXI+Y3IgOmFjdGlvbiBSdW48Y3I+Cg==</text>
+        <text encoding="base64">CmRlZiBhY3Rpb25fdG9faGx0KGFjdGlvbiwgc2hpcCk6Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">bWFwIDxsZWFkZXI+cnQgOmFjdGlvbiBSZWZhY3RvcmluZ3MuUXVpY2tMaXN0UG9wdXBBY3Rpb248Y3I+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">IiBiZWxvZ2xhem92IHZpbXJjCg==</text>
+        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGlmIGFjdGlvbi50eXBlXyA9PSAidGhydXN0IjoKICAgICAgICByZXR1cm4gc2hpcC5uYXZpZ2F0ZSgKICAgICAgICAgICAgYWN0aW9uLgogICAgICAgICkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">LS0gICAgIF9wYXltZW50X2lkIDo9IF90aWNrZXQucGF5bWVudF9pZDsK</text>
+        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CmRlZiBhY3Rpb25fdG9faGx0KGFjdGlvbiwgc2hpcCk6CiAgICBpZiBhY3Rpb24udHlwZV8gPT0gInRocnVzdCI6CiAgICAgICAgcmV0dXJuIHNoaXAubmF2aWdhdGUoCiAgICAgICAgICAgIGFjdGlvbi4KICAgICAgICApCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">LS0gVE9ETyBpcyBudGhlcmUgYSBuZXdsaW5lCg==</text>
+        <text encoding="base64">bWFwIDxsZWFkZXI+Y3IgOmFjdGlvbiBSdW48Y3I+Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBJRiBOSVNUX1JFU1VMVCAK</text>
+        <text encoding="base64">bWFwIDxsZWFkZXI+cnQgOmFjdGlvbiBSZWZhY3RvcmluZ3MuUXVpY2tMaXN0UG9wdXBBY3Rpb248Y3I+Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIElGIE5JU1RfUkVTVUxUIAo=</text>
+        <text encoding="base64">IiBiZWxvZ2xhem92IHZpbXJjCg==</text>
       </register>
       <register name=":" type="4">
-        <text>action Run</text>
+        <text>w!</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">LCA=</last-search>
+      <last-search>ship</last-search>
       <last-offset />
-      <last-pattern encoding="base64">LCA=</last-pattern>
-      <last-replace>,\n</last-replace>
-      <last-substitute encoding="base64">LCA=</last-substitute>
+      <last-pattern>ship</last-pattern>
+      <last-replace>self.ship</last-replace>
+      <last-substitute>ship</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -195,28 +256,20 @@
         <entry>.*\+</entry>
         <entry encoding="base64">XDxnZW5lcmF0ZV9zZXJpZXNcPg==</entry>
         <entry encoding="base64">LCA=</entry>
+        <entry>'</entry>
+        <entry>ship</entry>
       </history-search>
       <history-cmd>
-        <entry>actionlist</entry>
-        <entry>%s/*\+//</entry>
-        <entry>%s/.*\+//</entry>
-        <entry>action Jdbc.RunQueryInConsole</entry>
-        <entry>action RunQueryInConsole</entry>
-        <entry>action ReformatCode</entry>
-        <entry>s/, /,\n/g</entry>
-        <entry>action GotoDeclaration</entry>
-        <entry>action Back</entry>
-        <entry>action Forward</entry>
-        <entry encoding="base64">JzwsJz5hY3Rpb24gQ29tbWVudEJ5TGluZUNvbW1lbnQ=</entry>
-        <entry encoding="base64">JzwsJz53IQ==</entry>
-        <entry>action Find</entry>
-        <entry>action CommentByLineComment</entry>
-        <entry>action Refactorings.QuickListPopupAction</entry>
-        <entry>w!</entry>
+        <entry>action rerun</entry>
+        <entry>action Rerun</entry>
         <entry>source ~/.ideavimrc</entry>
-        <entry>action NewFile</entry>
-        <entry>action GotoFile</entry>
         <entry>action Run</entry>
+        <entry>action NewFile</entry>
+        <entry>s/'/&quot;/g</entry>
+        <entry>action Find</entry>
+        <entry encoding="base64">JzwsJz5zL3NoaXAvc2VsZi5zaGlw</entry>
+        <entry>action GotoFile</entry>
+        <entry>w!</entry>
       </history-cmd>
       <history-expr />
       <history-input />
