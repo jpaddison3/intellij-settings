@@ -3,59 +3,52 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1514766155725">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+      <file name="$USER_HOME$/Documents/cea/parfit/migrations/20171227101557_lottery_tickets_down.sql" timestamp="1515004567466">
+        <mark key="'" line="0" column="14" />
+        <mark key="[" line="3" column="53" />
+        <mark key="]" line="3" column="53" />
+        <mark key="." line="3" column="53" />
+        <mark key="^" line="3" column="53" />
       </file>
-      <file name="$USER_HOME$/Documents/cea/parfit/migrations/20171227101557_lottery_tickets.js" timestamp="1514387974977">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="." line="9" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/IdeaExample/foo/foo.iml" timestamp="1514308407473">
-        <mark key="[" line="0" column="2" />
-        <mark key="]" line="0" column="0" />
-        <mark key="^" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+      <file name="$USER_HOME$/Documents/cea/parfit/services/emails/emails.test.js" timestamp="1515094129397">
+        <mark key="'" line="213" column="54" />
       </file>
       <file name="/a.dummy" timestamp="1514500878894">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/cea/parfit/services/emails/handlers/pledges.js" timestamp="1514935973698" />
-      <file name="$USER_HOME$/Documents/cea/parfit/services/emails/handlers/lottery.test.js" timestamp="1514935301058">
-        <mark key="'" line="68" column="0" />
+      <file name="$USER_HOME$/Documents/cea/parfit/services/payments/handlers/gocardless/helpers.test.js" timestamp="1515012292104">
+        <mark key="[" line="2" column="62" />
       </file>
-      <file name="$USER_HOME$/Documents/cea/parfit/.gitignore" timestamp="1514405069129">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="0" />
-        <mark key="^" line="12" column="0" />
-        <mark key="." line="12" column="0" />
+      <file name="$USER_HOME$/Documents/cea/parfit/services/emails/handlers/lottery.js" timestamp="1515093004222">
+        <mark key="[" line="32" column="63" />
+        <mark key="]" line="32" column="93" />
+        <mark key="^" line="7" column="0" />
+        <mark key="." line="32" column="63" />
       </file>
-      <file name="$USER_HOME$/.ideavimrc" timestamp="1514673000402">
+      <file name="$USER_HOME$/Documents/cea/parfit/services/emails/send/index.js" timestamp="1515024722513">
+        <mark key="'" line="24" column="7" />
+        <mark key="[" line="46" column="0" />
+        <mark key="]" line="46" column="0" />
+        <mark key="." line="46" column="0" />
+      </file>
+      <file name="$USER_HOME$/.ideavimrc" timestamp="1515007445979">
         <mark key="'" line="28" column="32" />
-        <mark key="[" line="40" column="12" />
-        <mark key="]" line="40" column="13" />
-        <mark key="." line="40" column="13" />
+        <mark key="[" line="38" column="24" />
+        <mark key="]" line="38" column="24" />
+        <mark key="." line="38" column="24" />
+        <mark key="^" line="38" column="23" />
       </file>
-      <file name="$USER_HOME$/Documents/Halite2_Python3_MacOS/MyBot.py" timestamp="1514763157697">
-        <mark key="'" line="72" column="0" />
-        <mark key="." line="28" column="114" />
+      <file name="$USER_HOME$/Documents/cea/parfit/services/emails/handlers/payments.js" timestamp="1515094789053">
+        <mark key="[" line="32" column="0" />
+        <mark key="]" line="32" column="0" />
+        <mark key="." line="32" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/4d92d1d7-ac7c-4350-a088-078375835bcc/console.sql" timestamp="1514331536819">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="^" line="0" column="8" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/cea/parfit/services/emails/handlers/utils.js" timestamp="1514934343065">
-        <mark key="'" line="47" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/cea/aletheia/.gitignore" timestamp="1514405064857">
-        <mark key="[" line="10" column="5" />
-        <mark key="]" line="11" column="4" />
-        <mark key="^" line="11" column="4" />
-        <mark key="." line="11" column="4" />
+      <file name="$USER_HOME$/Documents/cea/parfit/stripeindextest.js" timestamp="1515093105559">
+        <mark key="'" line="85" column="35" />
+        <mark key="[" line="84" column="32" />
+        <mark key="]" line="85" column="35" />
+        <mark key="^" line="85" column="35" />
+        <mark key="." line="85" column="35" />
       </file>
       <file name="$USER_HOME$/Documents/IdeaExample/foo/bar.js" timestamp="1514329694810">
         <mark key="'" line="0" column="11" />
@@ -71,82 +64,198 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/cea/parfit/migrations/20171205170400_donor_lottery_up.sql" timestamp="1514926754297">
-        <mark key="'" line="5" column="29" />
-        <mark key="[" line="24" column="0" />
-        <mark key="]" line="24" column="38" />
-        <mark key="." line="164" column="9" />
+      <file name="$USER_HOME$/Documents/cea/parfit/migrations/20171205170400_donor_lottery_up.sql" timestamp="1515098231001">
+        <mark key="'" line="26" column="0" />
+        <mark key="[" line="79" column="0" />
+        <mark key="]" line="79" column="109" />
+        <mark key="." line="59" column="0" />
+        <mark key="^" line="59" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/cea/parfit/migrations/20171205170400_donor_lottery.js" timestamp="1514387968704">
+      <file name="$USER_HOME$/Documents/cea/parfit/knexfile.js" timestamp="1515020012916">
         <mark key="'" line="0" column="0" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1514937543111">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="8" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/cea/parfit/migrations/20171227101557_lottery_tickets_up.sql" timestamp="1514937253884">
-        <mark key="a" line="134" column="8" />
-        <mark key="'" line="134" column="17" />
-        <mark key="g" line="149" column="19" />
-        <mark key="[" line="146" column="0" />
-        <mark key="]" line="146" column="0" />
-        <mark key="^" line="134" column="17" />
-        <mark key="." line="146" column="0" />
+      <file name="$USER_HOME$/Documents/cea/parfit/migrations/20171227101557_lottery_tickets.js" timestamp="1514387974977">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/cea/parfit/services/events/handlers/pledge.js" timestamp="1514934374657" />
+      <file name="$USER_HOME$/Documents/IdeaExample/foo/foo.iml" timestamp="1514308407473">
+        <mark key="[" line="0" column="2" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/cea/parfit/services/emails/handlers/pledges.js" timestamp="1515024556875">
+        <mark key="'" line="49" column="0" />
+        <mark key="[" line="35" column="0" />
+        <mark key="]" line="35" column="0" />
+        <mark key="." line="35" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/cea/parfit/db/index.js" timestamp="1515024693797">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/cea/parfit/.gitignore" timestamp="1514405069129">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="^" line="12" column="0" />
+        <mark key="." line="12" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/cea/parfit/tasks/exchangeRates/exchangeRates.test.js" timestamp="1515012439964">
+        <mark key="[" line="2" column="13" />
+        <mark key="]" line="2" column="29" />
+        <mark key="^" line="2" column="29" />
+        <mark key="." line="2" column="29" />
+      </file>
+      <file name="$USER_HOME$/Documents/cea/parfit/services/emails/handlers/groups.test.js" timestamp="1515094607990">
+        <mark key="^" line="5" column="31" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/4d92d1d7-ac7c-4350-a088-078375835bcc/console.sql" timestamp="1514331536819">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="0" column="8" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/cea/parfit/services/emails/handlers/utils.js" timestamp="1515023212057">
+        <mark key="'" line="14" column="2" />
+      </file>
+      <file name="$USER_HOME$/Documents/cea/aletheia/.gitignore" timestamp="1514405064857">
+        <mark key="[" line="10" column="5" />
+      </file>
+      <file name="$USER_HOME$/Documents/cea/parfit/.circleci/config.yml" timestamp="1515007528822">
+        <mark key="[" line="35" column="26" />
+        <mark key="]" line="35" column="27" />
+        <mark key="." line="35" column="27" />
+      </file>
+      <file name="$USER_HOME$/Documents/cea/parfit/services/emails/handlers/pledges.test.js" timestamp="1515093213224">
+        <mark key="[" line="3" column="14" />
+        <mark key="]" line="3" column="19" />
+        <mark key="." line="3" column="19" />
+        <mark key="^" line="3" column="19" />
+      </file>
+      <file name="$USER_HOME$/Documents/cea/parfit/migrations/20171227101557_lottery_tickets_up.sql" timestamp="1515098298555">
+        <mark key="a" line="141" column="8" />
+        <mark key="'" line="27" column="0" />
+        <mark key="g" line="159" column="32" />
+        <mark key="[" line="16" column="3" />
+        <mark key="]" line="16" column="116" />
+        <mark key="." line="16" column="116" />
+        <mark key="^" line="16" column="116" />
+      </file>
+      <file name="$USER_HOME$/Documents/cea/parfit/test/helpers.js" timestamp="1515010380985">
+        <mark key="[" line="1" column="8" />
+        <mark key="]" line="1" column="8" />
+        <mark key="^" line="1" column="8" />
+        <mark key="." line="1" column="8" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="10" column="17" filename="$USER_HOME$/.ideavimrc" />
-      <jump line="0" column="4" filename="$USER_HOME$/.ideavimrc" />
-      <jump line="5" column="0" filename="$USER_HOME$/.ideavimrc" />
-      <jump line="6" column="0" filename="$USER_HOME$/.ideavimrc" />
-      <jump line="3" column="3" filename="$USER_HOME$/Documents/IdeaExample/foo/bar.js" />
-      <jump line="1" column="0" filename="$USER_HOME$/Documents/IdeaExample/foo/bar.js" />
-      <jump line="0" column="11" filename="$USER_HOME$/Documents/IdeaExample/foo/bar.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/Documents/cea/parfit/migrations/20171205170400_donor_lottery.js" />
-      <jump line="27" column="0" filename="$USER_HOME$/.ideavimrc" />
-      <jump line="33" column="96" filename="$USER_HOME$/Documents/cea/parfit/migrations/20171227101557_lottery_tickets_up.sql" />
-      <jump line="5" column="15" filename="$USER_HOME$/Documents/cea/parfit/migrations/20171227101557_lottery_tickets_up.sql" />
-      <jump line="45" column="5" filename="$USER_HOME$/Documents/cea/parfit/migrations/20171227101557_lottery_tickets_up.sql" />
-      <jump line="22" column="0" filename="$USER_HOME$/Documents/cea/parfit/migrations/20171227101557_lottery_tickets_up.sql" />
-      <jump line="7" column="12" filename="$USER_HOME$/Documents/cea/parfit/migrations/20171205170400_donor_lottery_up.sql" />
-      <jump line="1" column="0" filename="$USER_HOME$/Documents/cea/parfit/migrations/20171205170400_donor_lottery_up.sql" />
-      <jump line="16" column="42" filename="$USER_HOME$/Documents/cea/parfit/migrations/20171227101557_lottery_tickets_up.sql" />
-      <jump line="191" column="0" filename="$USER_HOME$/Documents/cea/parfit/migrations/20171205170400_donor_lottery_up.sql" />
-      <jump line="0" column="0" filename="$USER_HOME$/Documents/cea/parfit/migrations/20171205170400_donor_lottery_up.sql" />
-      <jump line="11" column="6" filename="$USER_HOME$/Documents/cea/parfit/migrations/20171227101557_lottery_tickets_up.sql" />
-      <jump line="59" column="0" filename="$USER_HOME$/Documents/cea/parfit/migrations/20171227101557_lottery_tickets_up.sql" />
-      <jump line="51" column="53" filename="$USER_HOME$/Documents/cea/parfit/migrations/20171227101557_lottery_tickets_up.sql" />
-      <jump line="14" column="1" filename="$USER_HOME$/Documents/cea/parfit/migrations/20171227101557_lottery_tickets_up.sql" />
-      <jump line="52" column="69" filename="$USER_HOME$/Documents/cea/parfit/migrations/20171227101557_lottery_tickets_up.sql" />
-      <jump line="61" column="50" filename="$USER_HOME$/Documents/cea/parfit/migrations/20171227101557_lottery_tickets_up.sql" />
-      <jump line="98" column="24" filename="$USER_HOME$/Documents/cea/parfit/migrations/20171227101557_lottery_tickets_up.sql" />
-      <jump line="9" column="0" filename="$USER_HOME$/Documents/cea/parfit/migrations/20171205170400_donor_lottery_down.sql" />
-      <jump line="127" column="25" filename="$USER_HOME$/Documents/cea/parfit/migrations/20171227101557_lottery_tickets_up.sql" />
-      <jump line="116" column="0" filename="$USER_HOME$/Documents/cea/parfit/migrations/20171227101557_lottery_tickets_up.sql" />
-      <jump line="79" column="0" filename="$USER_HOME$/Documents/cea/parfit/migrations/20171227101557_lottery_tickets_up.sql" />
-      <jump line="104" column="0" filename="$USER_HOME$/Documents/cea/parfit/migrations/20171227101557_lottery_tickets_up.sql" />
-      <jump line="109" column="0" filename="$USER_HOME$/Documents/cea/parfit/migrations/20171227101557_lottery_tickets_up.sql" />
-      <jump line="110" column="6" filename="$USER_HOME$/Documents/cea/parfit/migrations/20171227101557_lottery_tickets_up.sql" />
-      <jump line="21" column="32" filename="$USER_HOME$/.ideavimrc" />
-      <jump line="27" column="0" filename="$USER_HOME$/Documents/Halite2_Python3_MacOS/MyBot.py" />
-      <jump line="36" column="0" filename="$USER_HOME$/Documents/Halite2_Python3_MacOS/MyBot.py" />
-      <jump line="43" column="0" filename="$USER_HOME$/Documents/Halite2_Python3_MacOS/MyBot.py" />
-      <jump line="68" column="0" filename="$USER_HOME$/Documents/Halite2_Python3_MacOS/MyBot.py" />
-      <jump line="72" column="0" filename="$USER_HOME$/Documents/Halite2_Python3_MacOS/MyBot.py" />
-      <jump line="5" column="29" filename="$USER_HOME$/Documents/cea/parfit/migrations/20171205170400_donor_lottery_up.sql" />
-      <jump line="137" column="43" filename="$USER_HOME$/Documents/cea/parfit/migrations/20171227101557_lottery_tickets_up.sql" />
-      <jump line="15" column="0" filename="$USER_HOME$/Documents/cea/parfit/migrations/20171227101557_lottery_tickets_up.sql" />
-      <jump line="28" column="0" filename="$USER_HOME$/Documents/cea/parfit/migrations/20171227101557_lottery_tickets_up.sql" />
-      <jump line="15" column="0" filename="$USER_HOME$/Documents/cea/parfit/services/emails/handlers/utils.js" />
-      <jump line="45" column="0" filename="$USER_HOME$/Documents/cea/parfit/services/emails/handlers/utils.js" />
-      <jump line="13" column="0" filename="$USER_HOME$/Documents/cea/parfit/services/emails/handlers/utils.js" />
-      <jump line="29" column="0" filename="$USER_HOME$/Documents/cea/parfit/services/emails/handlers/utils.js" />
-      <jump line="70" column="0" filename="$USER_HOME$/Documents/cea/parfit/services/emails/handlers/utils.js" />
-      <jump line="68" column="0" filename="$USER_HOME$/Documents/cea/parfit/services/emails/handlers/lottery.test.js" />
-      <jump line="132" column="24" filename="$USER_HOME$/Documents/cea/parfit/migrations/20171227101557_lottery_tickets_up.sql" />
-      <jump line="153" column="0" filename="$USER_HOME$/Documents/cea/parfit/migrations/20171227101557_lottery_tickets_up.sql" />
+      <jump line="54" column="0" filename="$USER_HOME$/Documents/cea/parfit/migrations/20171205170400_donor_lottery_up.sql" />
+      <jump line="107" column="5" filename="$USER_HOME$/Documents/cea/parfit/services/emails/handlers/lottery.test.js" />
+      <jump line="74" column="0" filename="$USER_HOME$/Documents/cea/parfit/services/emails/handlers/lottery.test.js" />
+      <jump line="4" column="11" filename="$USER_HOME$/Documents/cea/parfit/services/emails/handlers/lottery.test.js" />
+      <jump line="124" column="0" filename="$USER_HOME$/Documents/cea/parfit/services/emails/handlers/lottery.test.js" />
+      <jump line="85" column="0" filename="$USER_HOME$/Documents/cea/parfit/services/emails/handlers/lottery.test.js" />
+      <jump line="78" column="0" filename="$USER_HOME$/Documents/cea/parfit/services/emails/handlers/lottery.test.js" />
+      <jump line="39" column="0" filename="$USER_HOME$/Documents/cea/parfit/services/emails/handlers/lottery.test.js" />
+      <jump line="73" column="26" filename="$USER_HOME$/Documents/cea/parfit/services/emails/handlers/lottery.test.js" />
+      <jump line="62" column="8" filename="$USER_HOME$/Documents/cea/parfit/stripeindextest.js" />
+      <jump line="89" column="12" filename="$USER_HOME$/Documents/cea/parfit/stripeindextest.js" />
+      <jump line="84" column="61" filename="$USER_HOME$/Documents/cea/parfit/stripeindextest.js" />
+      <jump line="70" column="32" filename="$USER_HOME$/Documents/cea/parfit/services/emails/handlers/pledges.test.js" />
+      <jump line="114" column="9" filename="$USER_HOME$/Documents/cea/parfit/services/emails/handlers/pledges.test.js" />
+      <jump line="107" column="0" filename="$USER_HOME$/Documents/cea/parfit/services/emails/handlers/pledges.test.js" />
+      <jump line="75" column="0" filename="$USER_HOME$/Documents/cea/parfit/services/emails/handlers/pledges.test.js" />
+      <jump line="38" column="0" filename="$USER_HOME$/Documents/cea/parfit/services/emails/handlers/pledges.test.js" />
+      <jump line="8" column="0" filename="$USER_HOME$/Documents/cea/parfit/services/emails/handlers/pledges.test.js" />
+      <jump line="34" column="4" filename="$USER_HOME$/Documents/cea/parfit/services/emails/handlers/lottery.test.js" />
+      <jump line="10" column="24" filename="$USER_HOME$/Documents/cea/parfit/services/emails/handlers/lottery.test.js" />
+      <jump line="125" column="25" filename="$USER_HOME$/Documents/cea/parfit/services/emails/handlers/pledges.test.js" />
+      <jump line="1" column="0" filename="$USER_HOME$/Documents/cea/parfit/services/emails/handlers/pledges.test.js" />
+      <jump line="79" column="0" filename="$USER_HOME$/Documents/cea/parfit/services/emails/handlers/pledges.test.js" />
+      <jump line="121" column="0" filename="$USER_HOME$/Documents/cea/parfit/services/emails/handlers/pledges.test.js" />
+      <jump line="127" column="0" filename="$USER_HOME$/Documents/cea/parfit/services/emails/handlers/pledges.test.js" />
+      <jump line="155" column="0" filename="$USER_HOME$/Documents/cea/parfit/services/emails/handlers/pledges.test.js" />
+      <jump line="147" column="0" filename="$USER_HOME$/Documents/cea/parfit/services/emails/handlers/pledges.test.js" />
+      <jump line="17" column="0" filename="$USER_HOME$/Documents/cea/parfit/services/emails/handlers/pledges.js" />
+      <jump line="51" column="0" filename="$USER_HOME$/Documents/cea/parfit/services/emails/handlers/pledges.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/cea/parfit/services/emails/handlers/pledges.test.js" />
+      <jump line="5" column="6" filename="$USER_HOME$/Documents/cea/parfit/services/emails/handlers/pledges.test.js" />
+      <jump line="57" column="17" filename="$USER_HOME$/Documents/cea/parfit/services/emails/handlers/pledges.test.js" />
+      <jump line="131" column="10" filename="$USER_HOME$/Documents/cea/parfit/services/emails/handlers/pledges.test.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/cea/parfit/knexfile.js" />
+      <jump line="103" column="0" filename="$USER_HOME$/Documents/cea/parfit/services/emails/handlers/pledges.test.js" />
+      <jump line="126" column="2" filename="$USER_HOME$/Documents/cea/parfit/services/emails/handlers/pledges.test.js" />
+      <jump line="134" column="0" filename="$USER_HOME$/Documents/cea/parfit/services/emails/handlers/pledges.test.js" />
+      <jump line="139" column="0" filename="$USER_HOME$/Documents/cea/parfit/services/emails/handlers/pledges.test.js" />
+      <jump line="144" column="0" filename="$USER_HOME$/Documents/cea/parfit/services/emails/handlers/pledges.test.js" />
+      <jump line="87" column="0" filename="$USER_HOME$/Documents/cea/parfit/services/emails/handlers/pledges.test.js" />
+      <jump line="59" column="25" filename="$USER_HOME$/Documents/cea/parfit/services/emails/handlers/pledges.js" />
+      <jump line="60" column="0" filename="$USER_HOME$/Documents/cea/parfit/services/emails/handlers/pledges.js" />
+      <jump line="56" column="10" filename="$USER_HOME$/Documents/cea/parfit/services/emails/handlers/pledges.test.js" />
+      <jump line="6" column="6" filename="$USER_HOME$/Documents/cea/parfit/services/emails/handlers/pledges.test.js" />
+      <jump line="4" column="6" filename="$USER_HOME$/Documents/cea/parfit/services/emails/handlers/pledges.js" />
+      <jump line="54" column="28" filename="$USER_HOME$/Documents/cea/parfit/services/emails/handlers/pledges.js" />
+      <jump line="24" column="7" filename="$USER_HOME$/Documents/cea/parfit/services/emails/send/index.js" />
+      <jump line="49" column="4" filename="$USER_HOME$/Documents/cea/parfit/services/emails/handlers/pledges.test.js" />
+      <jump line="14" column="2" filename="$USER_HOME$/Documents/cea/parfit/services/emails/handlers/utils.js" />
+      <jump line="68" column="35" filename="$USER_HOME$/Documents/cea/parfit/services/emails/handlers/pledges.test.js" />
+      <jump line="143" column="0" filename="$USER_HOME$/Documents/cea/parfit/services/emails/handlers/pledges.test.js" />
+      <jump line="151" column="0" filename="$USER_HOME$/Documents/cea/parfit/services/emails/handlers/pledges.test.js" />
+      <jump line="130" column="21" filename="$USER_HOME$/Documents/cea/parfit/services/emails/handlers/pledges.test.js" />
+      <jump line="81" column="0" filename="$USER_HOME$/Documents/cea/parfit/services/emails/handlers/pledges.test.js" />
+      <jump line="65" column="4" filename="$USER_HOME$/Documents/cea/parfit/services/emails/handlers/pledges.test.js" />
+      <jump line="35" column="2" filename="$USER_HOME$/Documents/cea/parfit/services/emails/handlers/pledges.js" />
+      <jump line="29" column="0" filename="$USER_HOME$/Documents/cea/parfit/services/emails/handlers/pledges.js" />
+      <jump line="49" column="0" filename="$USER_HOME$/Documents/cea/parfit/services/emails/handlers/pledges.js" />
+      <jump line="12" column="39" filename="$USER_HOME$/Documents/cea/parfit/services/emails/handlers/lottery.test.js" />
+      <jump line="45" column="0" filename="$USER_HOME$/Documents/cea/parfit/services/emails/handlers/lottery.test.js" />
+      <jump line="241" column="1" filename="$USER_HOME$/Documents/cea/parfit/services/emails/emails.test.js" />
+      <jump line="8" column="0" filename="$USER_HOME$/Documents/cea/parfit/services/emails/handlers/lottery.test.js" />
+      <jump line="51" column="10" filename="$USER_HOME$/Documents/cea/parfit/services/emails/handlers/lottery.test.js" />
+      <jump line="79" column="11" filename="$USER_HOME$/Documents/cea/parfit/services/emails/handlers/lottery.test.js" />
+      <jump line="52" column="4" filename="$USER_HOME$/Documents/cea/parfit/services/emails/handlers/lottery.test.js" />
+      <jump line="152" column="0" filename="$USER_HOME$/Documents/cea/parfit/services/emails/handlers/lottery.test.js" />
+      <jump line="135" column="0" filename="$USER_HOME$/Documents/cea/parfit/services/emails/handlers/lottery.test.js" />
+      <jump line="7" column="0" filename="$USER_HOME$/Documents/cea/parfit/services/emails/handlers/pledges.test.js" />
+      <jump line="123" column="11" filename="$USER_HOME$/Documents/cea/parfit/services/emails/handlers/pledges.test.js" />
+      <jump line="51" column="10" filename="$USER_HOME$/Documents/cea/parfit/services/emails/handlers/pledges.test.js" />
+      <jump line="141" column="14" filename="$USER_HOME$/Documents/cea/parfit/services/emails/emails.test.js" />
+      <jump line="15" column="52" filename="$USER_HOME$/Documents/cea/parfit/services/emails/emails.test.js" />
+      <jump line="211" column="10" filename="$USER_HOME$/Documents/cea/parfit/services/emails/emails.test.js" />
+      <jump line="22" column="0" filename="$USER_HOME$/Documents/cea/parfit/services/emails/emails.test.js" />
+      <jump line="200" column="14" filename="$USER_HOME$/Documents/cea/parfit/services/emails/emails.test.js" />
+      <jump line="240" column="3" filename="$USER_HOME$/Documents/cea/parfit/services/emails/emails.test.js" />
+      <jump line="85" column="35" filename="$USER_HOME$/Documents/cea/parfit/stripeindextest.js" />
+      <jump line="86" column="10" filename="$USER_HOME$/Documents/cea/parfit/services/emails/handlers/pledges.test.js" />
+      <jump line="138" column="37" filename="$USER_HOME$/Documents/cea/parfit/services/emails/handlers/pledges.test.js" />
+      <jump line="41" column="0" filename="$USER_HOME$/Documents/cea/parfit/services/emails/handlers/pledges.test.js" />
+      <jump line="213" column="54" filename="$USER_HOME$/Documents/cea/parfit/services/emails/emails.test.js" />
+      <jump line="45" column="81" filename="$USER_HOME$/Documents/cea/parfit/services/emails/handlers/groups.test.js" />
+      <jump line="36" column="56" filename="$USER_HOME$/Documents/cea/parfit/services/emails/handlers/groups.test.js" />
+      <jump line="88" column="2" filename="$USER_HOME$/Documents/cea/parfit/services/emails/handlers/lottery.test.js" />
+      <jump line="81" column="0" filename="$USER_HOME$/Documents/cea/parfit/services/emails/handlers/lottery.test.js" />
+      <jump line="65" column="35" filename="$USER_HOME$/Documents/cea/parfit/services/emails/handlers/lottery.test.js" />
+      <jump line="135" column="0" filename="$USER_HOME$/Documents/cea/parfit/migrations/20171227101557_lottery_tickets_up.sql" />
       <jump line="117" column="0" filename="$USER_HOME$/Documents/cea/parfit/migrations/20171227101557_lottery_tickets_up.sql" />
+      <jump line="109" column="0" filename="$USER_HOME$/Documents/cea/parfit/migrations/20171227101557_lottery_tickets_up.sql" />
+      <jump line="104" column="0" filename="$USER_HOME$/Documents/cea/parfit/migrations/20171227101557_lottery_tickets_up.sql" />
+      <jump line="78" column="0" filename="$USER_HOME$/Documents/cea/parfit/migrations/20171227101557_lottery_tickets_up.sql" />
+      <jump line="28" column="0" filename="$USER_HOME$/Documents/cea/parfit/migrations/20171227101557_lottery_tickets_up.sql" />
+      <jump line="187" column="16" filename="$USER_HOME$/Documents/cea/parfit/migrations/20171227101557_lottery_tickets_up.sql" />
+      <jump line="194" column="16" filename="$USER_HOME$/Documents/cea/parfit/migrations/20171227101557_lottery_tickets_up.sql" />
+      <jump line="133" column="15" filename="$USER_HOME$/Documents/cea/parfit/migrations/20171227101557_lottery_tickets_up.sql" />
+      <jump line="64" column="31" filename="$USER_HOME$/Documents/cea/parfit/migrations/20171227101557_lottery_tickets_up.sql" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/cea/parfit/migrations/20171227101557_lottery_tickets_up.sql" />
-      <jump line="134" column="17" filename="$USER_HOME$/Documents/cea/parfit/migrations/20171227101557_lottery_tickets_up.sql" />
+      <jump line="15" column="0" filename="$USER_HOME$/Documents/cea/parfit/migrations/20171227101557_lottery_tickets_up.sql" />
+      <jump line="27" column="0" filename="$USER_HOME$/Documents/cea/parfit/migrations/20171227101557_lottery_tickets_up.sql" />
+      <jump line="26" column="0" filename="$USER_HOME$/Documents/cea/parfit/migrations/20171205170400_donor_lottery_up.sql" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -157,85 +266,97 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>AND</text>
+        <text>TODO Just CREATE + Doc</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">LCA=</text>
+        <text encoding="base64">XDxoZXgybnVtZXJpY1w+</text>
       </register>
-      <register name="0" type="4">
-        <text>SELECT (
-        id AS payment_id
-      ) FROM payments.payment</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICBTRUxFQ1QgKiBJTlRPIF9sb3R0ZXJ5IEZST00gcGF5bWVudHMubG90dGVyeSBXSEVSRSBpZCA9IGxvdHRlcnlfaWQ7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">LS0gICAgICAgX3BheW1lbnRfaWQgOj0gX3RpY2tldC5wYXltZW50X2lkOwo=</text>
+        <text encoding="base64">LS0gVE9ETyBXaHkgbm90IEJJR0lOVD8K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">LS0gICAgICAgICBJTk5FUiBKT0lOIHBheW1lbnRzLnBheW1lbnQgT04gX3RpY2tldC5wYXltZW50X2lkID0gcGF5bWVudC5pZDsK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgLS0gICAgICAgICBwYXltZW50LmFtb3VudCBBUyBwYXltZW50X2Ftb3VudAogICAgICAtLSAgICAgICApIElOVE8gX3dpbm5lciBGUk9NIF90aWNrZXQK</text>
+        <text encoding="base64">ICAgIF9jdXJyZW50X2Jsb2NrX251bWJlciA6PSBfdGlja2V0LnN0YXJ0aW5nX2Jsb2NrX251bWJlcjsKICAgIElGIF90aWNrZXQuYnJpZGdlIFRIRU4KICAgICAgX2N1cnJlbnRfYmxvY2tfbnVtYmVyIDo9IF9jdXJyZW50X2Jsb2NrX251bWJlciArIDE7CiAgICBFTkQgSUY7CiAgICBfcHJldmlvdXNfaGlnaCA6PSBfdGlja2V0LnJhbmdlX2hpZ2g7CgogICAgUkVUVVJOIE5FWFQgX3RpY2tldDsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">LS0gICAgICAgUkFJU0UgTk9USUNFICdmb286ICUnLAo=</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBfcGF5bWVudF9pZCBCSUdJTlQ7Cg==</text>
+        <text encoding="base64">ICAtLSBUT0RPIE5vdCBzdXJlIGlmIHRoaXMnbGwgYmUgdXNlZAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICB5aWVsZCBrbmV4XygncGF5bWVudHMubG90dGVyeScpCiAgICAud2hlcmUoe2lkOiBMT1RURVJZX0lEfSkKICAgIC5kZWxldGUoKQo=</text>
+        <text encoding="base64">ICAgIHRocm93IGVycgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIC8vIHN3aXRjaCBvbiBtZXNzYWdlIHR5cGUgLy8gVE9ETyAoUXVlc3Rpb24pIHJlYWxseT8K</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZygnaGkgMicpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAtLSAgICAgICAgIHBheW1lbnQuYW1vdW50IEFTIHBheW1lbnRfYW1vdW50CiAgICAgICAgLS0gICAgICAgKSBJTlRPIF93aW5uZXIgRlJPTSBfdGlja2V0Cg==</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZygnaGkgMScpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBwYXltZW50X2lkIC0tIEFTIGlkCg==</text>
+        <text encoding="base64">ICAvLyBsZXQgcXVlcnlSZXN1bHQgPSB5aWVsZCBrbmV4Xy5zZWxlY3QoKS5mcm9tKCdwZW9wbGUucGVyc29uJykud2hlcmUoe2lkOiBQRVJTT05fSUR9KQogIC8vIGNvbnNvbGUubG9nKHF1ZXJ5UmVzdWx0KQogIC8vIHF1ZXJ5UmVzdWx0ID0geWllbGQga25leF8uc2VsZWN0KCkuZnJvbSgncGVvcGxlLmVtYWlsX2FkZHJlc3MnKQogIC8vIGNvbnNvbGUubG9nKHF1ZXJ5UmVzdWx0KQogIC8vIHlpZWxkIGtuZXhfLnJhdyhgCiAgLy8gICBJTlNFUlQgSU5UTyBwZW9wbGUucGVyc29uICgKICAvLyAgICAgaWQsIGZpcnN0X25hbWUsIGxhc3RfbmFtZQogIC8vICAgKSBWQUxVRVMgKAogIC8vICAgICAke1BFUlNPTl9JRH0sICdCb2F0eScsICdNY0JvYXRmYWNlJwogIC8vICAgKTsKICAvLyAgIElOU0VSVCBJTlRPIHBlb3BsZS5lbWFpbF9hZGRyZXNzICgKICAvLyAgICAgcGVyc29uX2lkLCBlbWFpbAogIC8vICAgKSBWQUxVRVMgKAogIC8vICAgICAke1BFUlNPTl9JRH0sICd0ZXN0eW1jdGVzdGZhY2VAZWZmZWN0aXZlYWx0cnVpc20ub3JnJwogIC8vICAgKTsKICAvLyBgKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w!</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">LCA=</last-search>
+      <last-search encoding="base64">XDxoZXgybnVtZXJpY1w+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">LCA=</last-pattern>
-      <last-replace>,\n</last-replace>
-      <last-substitute encoding="base64">LCA=</last-substitute>
+      <last-pattern encoding="base64">XDxoZXgybnVtZXJpY1w+</last-pattern>
+      <last-replace>12345678</last-replace>
+      <last-substitute>123</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>surrou</entry>
         <entry>let</entry>
         <entry>*\+</entry>
         <entry>.*\+</entry>
         <entry encoding="base64">XDxnZW5lcmF0ZV9zZXJpZXNcPg==</entry>
         <entry encoding="base64">LCA=</entry>
+        <entry encoding="base64">XDxzaHV0ZG93bkRhdGFiYXNlXD4=</entry>
+        <entry encoding="base64">XDxQRVJTT05fSURcPg==</entry>
+        <entry encoding="base64">XDxQTEVER0VfSURcPg==</entry>
+        <entry encoding="base64">XDxrbmV4XD4=</entry>
+        <entry encoding="base64">XDx0cmFuc3BvcnRcPg==</entry>
+        <entry encoding="base64">XDxtYW5kcmlsbE1vY2tcPg==</entry>
+        <entry encoding="base64">XDxkYlNjYWZmb2xkXD4=</entry>
+        <entry encoding="base64">XDwxMjNcPg==</entry>
+        <entry>456</entry>
+        <entry>123</entry>
+        <entry encoding="base64">XDxUZXN0eVw+</entry>
+        <entry encoding="base64">XDxjb25zb2xlXD4=</entry>
+        <entry encoding="base64">XDxCb2F0eVw+</entry>
+        <entry encoding="base64">XDxoZXgyYmlnaW50XD4=</entry>
+        <entry encoding="base64">XDxoZXgybnVtZXJpY1w+</entry>
       </history-search>
       <history-cmd>
-        <entry>%s/*\+//</entry>
-        <entry>%s/.*\+//</entry>
-        <entry>action Jdbc.RunQueryInConsole</entry>
-        <entry>action RunQueryInConsole</entry>
-        <entry>action ReformatCode</entry>
-        <entry>s/, /,\n/g</entry>
-        <entry>action Back</entry>
-        <entry>action Forward</entry>
-        <entry encoding="base64">JzwsJz5hY3Rpb24gQ29tbWVudEJ5TGluZUNvbW1lbnQ=</entry>
-        <entry encoding="base64">JzwsJz53IQ==</entry>
         <entry>action Refactorings.QuickListPopupAction</entry>
-        <entry>source ~/.ideavimrc</entry>
-        <entry>action NewFile</entry>
-        <entry>action Run</entry>
-        <entry>action Find</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gR290b0ZpbGU=</entry>
-        <entry>action GotoFile</entry>
-        <entry>action CommentByLineComment</entry>
+        <entry>action Run</entry>
+        <entry>action SplitVertically</entry>
+        <entry>action NewFile</entry>
+        <entry encoding="base64">JzwsJz53IQ==</entry>
+        <entry encoding="base64">JzwsJz5hY3Rpb24gQ29tbWVudEJ5TGluZUNvbW1lbnQ=</entry>
+        <entry>source ~/.ideavimrc</entry>
         <entry>action GotoDeclaration</entry>
+        <entry>action Back</entry>
+        <entry>64</entry>
+        <entry>34</entry>
+        <entry>action CommentByLineComment</entry>
+        <entry>%s/456/98765432/g</entry>
+        <entry>%s/123/12345678/g</entry>
+        <entry>action SplitHorizontally</entry>
+        <entry>action GotoFile</entry>
+        <entry>action Find</entry>
+        <entry>action NextSplitter</entry>
         <entry>w!</entry>
       </history-cmd>
       <history-expr />
