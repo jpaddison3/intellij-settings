@@ -1,3 +1,10 @@
+" JP Addison's Intellij IDEAVim integration settings
+" This is set up to mirror the keybindings found in spacemacs
+" The space key is used as the leader key, with most commands being <Space><key><key>
+" Note that unlike the other Intellij files in this repo, this one must be symlinked to ~/.ideavimrc
+
+""" Basics
+
 set surround
 
 set clipboard+=unnamed
@@ -6,10 +13,11 @@ set clipboard+=unnamed
 :set visualbell
 
 " nnoremap only works in normal mode and means that / is not recursively called by other mappings
-nnoremap / :action Find<cr>
+" TODO Maybe not
+" nnoremap / :action Find<cr>
 
-" beloglazov vimrc
 " Copy until the end of the line
+" From beloglazov vimrc
 noremap Y y$
 
 """ Spacemacs emulation
@@ -29,9 +37,15 @@ map <leader>gG :action GotoTypeDeclaration<cr>
 map <leader>gs :action CheckinFiles<cr>
 map <leader>gb :action Back<cr>
 map <leader>gf :action Forward<cr>
+" TODO Might not be used
+map <leader>hh :action HideActiveWindow<cr>
 map <leader>pf :action GotoFile<cr>
 map <leader>rf :action ReformatCode<cr>
+map <leader>rr :action Run<cr>
 map <leader>rt :action Refactorings.QuickListPopupAction<cr>
+map <leader>sf :action NextSplitter<cr>
+map <leader>sh :action SplitHorizontally<cr>
+map <leader>sv :action SplitVertically<cr>
 
 """ Notes
 " Terminal show/hide (option fn f12)
