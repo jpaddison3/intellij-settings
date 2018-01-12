@@ -55,11 +55,12 @@
         <mark key="." line="138" column="10" />
         <mark key="^" line="138" column="10" />
       </file>
-      <file name="$USER_HOME$/Documents/cea/parfit/db_tests/lottery_tickets_tests.sql" timestamp="1515634644593">
-        <mark key="'" line="20" column="16" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+      <file name="$USER_HOME$/Documents/cea/parfit/db_tests/lottery_tickets_tests.sql" timestamp="1515782699178">
+        <mark key="'" line="123" column="7" />
+        <mark key="[" line="279" column="15" />
+        <mark key="]" line="279" column="16" />
+        <mark key="." line="279" column="16" />
+        <mark key="^" line="186" column="21" />
       </file>
       <file name="$USER_HOME$/.ideavimrc" timestamp="1515007445979">
         <mark key="'" line="28" column="32" />
@@ -102,6 +103,12 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/cea/parfit/README.md" timestamp="1515782313937">
+        <mark key="[" line="136" column="5" />
+        <mark key="]" line="136" column="5" />
+        <mark key="^" line="136" column="5" />
+        <mark key="." line="136" column="5" />
+      </file>
       <file name="$USER_HOME$/Documents/IdeaExample/foo/bar.js" timestamp="1514329694810">
         <mark key="'" line="0" column="11" />
         <mark key="[" line="3" column="18" />
@@ -116,7 +123,7 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/cea/parfit/migrations/20171205170400_donor_lottery_up.sql" timestamp="1515779249923">
+      <file name="$USER_HOME$/Documents/cea/parfit/migrations/20171205170400_donor_lottery_up.sql" timestamp="1515779402920">
         <mark key="'" line="8" column="2" />
         <mark key="[" line="27" column="78" />
         <mark key="]" line="27" column="143" />
@@ -186,9 +193,6 @@
       </file>
       <file name="$USER_HOME$/Documents/cea/aletheia/app/containers/DonationsNew/Organizations/OrganizationBox.jsx" timestamp="1515716547570">
         <mark key="[" line="20" column="1" />
-        <mark key="]" line="22" column="122" />
-        <mark key="." line="22" column="122" />
-        <mark key="^" line="22" column="122" />
       </file>
       <file name="$USER_HOME$/Documents/cea/parfit/Dockerfile" timestamp="1515544458529">
         <mark key="[" line="0" column="10" />
@@ -269,74 +273,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="112" column="0" filename="$USER_HOME$/Documents/cea/parfit/db_tests/hello.sql" />
-      <jump line="175" column="0" filename="$USER_HOME$/Documents/cea/parfit/db_tests/hello.sql" />
-      <jump line="206" column="0" filename="$USER_HOME$/Documents/cea/parfit/db_tests/hello.sql" />
-      <jump line="208" column="0" filename="$USER_HOME$/Documents/cea/parfit/db_tests/hello.sql" />
-      <jump line="210" column="0" filename="$USER_HOME$/Documents/cea/parfit/db_tests/hello.sql" />
-      <jump line="216" column="0" filename="$USER_HOME$/Documents/cea/parfit/db_tests/hello.sql" />
-      <jump line="230" column="0" filename="$USER_HOME$/Documents/cea/parfit/db_tests/hello.sql" />
-      <jump line="232" column="0" filename="$USER_HOME$/Documents/cea/parfit/db_tests/hello.sql" />
-      <jump line="62" column="20" filename="$USER_HOME$/Documents/cea/parfit/db_tests/hello.sql" />
-      <jump line="65" column="0" filename="$USER_HOME$/Documents/cea/parfit/db_tests/hello.sql" />
-      <jump line="67" column="0" filename="$USER_HOME$/Documents/cea/parfit/db_tests/hello.sql" />
-      <jump line="86" column="0" filename="$USER_HOME$/Documents/cea/parfit/db_tests/hello.sql" />
-      <jump line="176" column="0" filename="$USER_HOME$/Documents/cea/parfit/db_tests/hello.sql" />
-      <jump line="207" column="0" filename="$USER_HOME$/Documents/cea/parfit/db_tests/hello.sql" />
-      <jump line="209" column="0" filename="$USER_HOME$/Documents/cea/parfit/db_tests/hello.sql" />
-      <jump line="211" column="0" filename="$USER_HOME$/Documents/cea/parfit/db_tests/hello.sql" />
-      <jump line="242" column="0" filename="$USER_HOME$/Documents/cea/parfit/db_tests/hello.sql" />
-      <jump line="228" column="7" filename="$USER_HOME$/Documents/cea/parfit/db_tests/hello.sql" />
-      <jump line="191" column="18" filename="$USER_HOME$/Documents/cea/parfit/db_tests/hello.sql" />
-      <jump line="263" column="8" filename="$USER_HOME$/Documents/cea/parfit/db_tests/hello.sql" />
-      <jump line="221" column="16" filename="$USER_HOME$/Documents/cea/parfit/db_tests/hello.sql" />
-      <jump line="271" column="38" filename="$USER_HOME$/Documents/cea/parfit/db_tests/hello.sql" />
-      <jump line="246" column="34" filename="$USER_HOME$/Documents/cea/parfit/db_tests/hello.sql" />
-      <jump line="179" column="32" filename="$USER_HOME$/Documents/cea/parfit/db_tests/hello.sql" />
-      <jump line="99" column="0" filename="$USER_HOME$/Documents/cea/parfit/db_tests/hello.sql" />
-      <jump line="183" column="0" filename="$USER_HOME$/Documents/cea/parfit/db_tests/hello.sql" />
-      <jump line="215" column="0" filename="$USER_HOME$/Documents/cea/parfit/db_tests/hello.sql" />
-      <jump line="217" column="0" filename="$USER_HOME$/Documents/cea/parfit/db_tests/hello.sql" />
-      <jump line="219" column="0" filename="$USER_HOME$/Documents/cea/parfit/db_tests/hello.sql" />
-      <jump line="281" column="0" filename="$USER_HOME$/Documents/cea/parfit/db_tests/hello.sql" />
-      <jump line="279" column="0" filename="$USER_HOME$/Documents/cea/parfit/db_tests/hello.sql" />
-      <jump line="277" column="0" filename="$USER_HOME$/Documents/cea/parfit/db_tests/hello.sql" />
-      <jump line="227" column="0" filename="$USER_HOME$/Documents/cea/parfit/db_tests/hello.sql" />
-      <jump line="256" column="0" filename="$USER_HOME$/Documents/cea/parfit/db_tests/hello.sql" />
-      <jump line="218" column="0" filename="$USER_HOME$/Documents/cea/parfit/db_tests/hello.sql" />
-      <jump line="301" column="2" filename="$USER_HOME$/Documents/cea/parfit/db_tests/hello.sql" />
-      <jump line="161" column="4" filename="$USER_HOME$/Documents/cea/parfit/migrations/20171227101557_lottery_tickets_up.sql" />
-      <jump line="150" column="0" filename="$USER_HOME$/Documents/cea/parfit/migrations/20171227101557_lottery_tickets_up.sql" />
-      <jump line="151" column="0" filename="$USER_HOME$/Documents/cea/parfit/migrations/20171227101557_lottery_tickets_up.sql" />
-      <jump line="165" column="12" filename="$USER_HOME$/Documents/cea/parfit/migrations/20171227101557_lottery_tickets_up.sql" />
-      <jump line="228" column="0" filename="$USER_HOME$/Documents/cea/parfit/migrations/20171227101557_lottery_tickets_up.sql" />
-      <jump line="220" column="0" filename="$USER_HOME$/Documents/cea/parfit/migrations/20171227101557_lottery_tickets_up.sql" />
-      <jump line="197" column="0" filename="$USER_HOME$/Documents/cea/parfit/migrations/20171227101557_lottery_tickets_up.sql" />
-      <jump line="170" column="0" filename="$USER_HOME$/Documents/cea/parfit/migrations/20171227101557_lottery_tickets_up.sql" />
-      <jump line="162" column="0" filename="$USER_HOME$/Documents/cea/parfit/migrations/20171227101557_lottery_tickets_up.sql" />
-      <jump line="318" column="15" filename="$USER_HOME$/Documents/cea/parfit/db_tests/hello.sql" />
-      <jump line="6" column="13" filename="$USER_HOME$/Documents/cea/parfit/db_tests/hello.sql" />
-      <jump line="51" column="31" filename="$USER_HOME$/Documents/cea/parfit/.circleci/config.yml" />
-      <jump line="8" column="2" filename="$USER_HOME$/Documents/cea/parfit/migrations/20171205170400_donor_lottery_up.sql" />
-      <jump line="21" column="16" filename="$USER_HOME$/Documents/cea/parfit/db_tests/lottery_tickets_tests.sql" />
-      <jump line="53" column="0" filename="$USER_HOME$/Documents/cea/aletheia/app/containers/DonationsNew/index.jsx" />
-      <jump line="55" column="0" filename="$USER_HOME$/Documents/cea/aletheia/app/containers/DonationsNew/index.jsx" />
-      <jump line="63" column="0" filename="$USER_HOME$/Documents/cea/aletheia/app/containers/DonationsNew/index.jsx" />
-      <jump line="87" column="0" filename="$USER_HOME$/Documents/cea/aletheia/app/containers/DonationsNew/index.jsx" />
-      <jump line="92" column="0" filename="$USER_HOME$/Documents/cea/aletheia/app/containers/DonationsNew/index.jsx" />
-      <jump line="97" column="0" filename="$USER_HOME$/Documents/cea/aletheia/app/containers/DonationsNew/index.jsx" />
-      <jump line="99" column="0" filename="$USER_HOME$/Documents/cea/aletheia/app/containers/DonationsNew/index.jsx" />
-      <jump line="104" column="0" filename="$USER_HOME$/Documents/cea/aletheia/app/containers/DonationsNew/index.jsx" />
-      <jump line="129" column="0" filename="$USER_HOME$/Documents/cea/aletheia/app/containers/DonationsNew/index.jsx" />
-      <jump line="134" column="0" filename="$USER_HOME$/Documents/cea/aletheia/app/containers/DonationsNew/index.jsx" />
-      <jump line="143" column="0" filename="$USER_HOME$/Documents/cea/aletheia/app/containers/DonationsNew/index.jsx" />
-      <jump line="148" column="0" filename="$USER_HOME$/Documents/cea/aletheia/app/containers/DonationsNew/index.jsx" />
-      <jump line="158" column="0" filename="$USER_HOME$/Documents/cea/aletheia/app/containers/DonationsNew/index.jsx" />
-      <jump line="161" column="0" filename="$USER_HOME$/Documents/cea/aletheia/app/containers/DonationsNew/index.jsx" />
-      <jump line="167" column="0" filename="$USER_HOME$/Documents/cea/aletheia/app/containers/DonationsNew/index.jsx" />
-      <jump line="217" column="0" filename="$USER_HOME$/Documents/cea/aletheia/app/containers/DonationsNew/index.jsx" />
-      <jump line="212" column="0" filename="$USER_HOME$/Documents/cea/aletheia/app/containers/DonationsNew/index.jsx" />
-      <jump line="207" column="0" filename="$USER_HOME$/Documents/cea/aletheia/app/containers/DonationsNew/index.jsx" />
       <jump line="183" column="0" filename="$USER_HOME$/Documents/cea/aletheia/app/containers/DonationsNew/index.jsx" />
       <jump line="179" column="0" filename="$USER_HOME$/Documents/cea/aletheia/app/containers/DonationsNew/index.jsx" />
       <jump line="130" column="37" filename="$USER_HOME$/Documents/cea/aletheia/app/containers/DonationsNew/index.jsx" />
@@ -369,6 +305,74 @@
       <jump line="180" column="0" filename="$USER_HOME$/Documents/cea/aletheia/app/containers/DonationsNew/index.jsx" />
       <jump line="185" column="0" filename="$USER_HOME$/Documents/cea/aletheia/app/containers/DonationsNew/index.jsx" />
       <jump line="62" column="6" filename="$USER_HOME$/Documents/cea/aletheia/package.json" />
+      <jump line="40" column="6" filename="$USER_HOME$/Documents/cea/parfit/db_tests/lottery_tickets_tests.sql" />
+      <jump line="1" column="0" filename="$USER_HOME$/Documents/cea/parfit/db_tests/lottery_tickets_tests.sql" />
+      <jump line="3" column="16" filename="$USER_HOME$/Documents/cea/parfit/db_tests/lottery_tickets_tests.sql" />
+      <jump line="321" column="0" filename="$USER_HOME$/Documents/cea/parfit/db_tests/lottery_tickets_tests.sql" />
+      <jump line="56" column="0" filename="$USER_HOME$/Documents/cea/parfit/db_tests/lottery_tickets_tests.sql" />
+      <jump line="14" column="5" filename="$USER_HOME$/Documents/cea/parfit/db_tests/lottery_tickets_tests.sql" />
+      <jump line="20" column="1" filename="$USER_HOME$/Documents/cea/parfit/db_tests/lottery_tickets_tests.sql" />
+      <jump line="31" column="0" filename="$USER_HOME$/Documents/cea/parfit/db_tests/lottery_tickets_tests.sql" />
+      <jump line="46" column="0" filename="$USER_HOME$/Documents/cea/parfit/db_tests/lottery_tickets_tests.sql" />
+      <jump line="48" column="0" filename="$USER_HOME$/Documents/cea/parfit/db_tests/lottery_tickets_tests.sql" />
+      <jump line="50" column="0" filename="$USER_HOME$/Documents/cea/parfit/db_tests/lottery_tickets_tests.sql" />
+      <jump line="61" column="0" filename="$USER_HOME$/Documents/cea/parfit/db_tests/lottery_tickets_tests.sql" />
+      <jump line="63" column="0" filename="$USER_HOME$/Documents/cea/parfit/db_tests/lottery_tickets_tests.sql" />
+      <jump line="82" column="0" filename="$USER_HOME$/Documents/cea/parfit/db_tests/lottery_tickets_tests.sql" />
+      <jump line="95" column="0" filename="$USER_HOME$/Documents/cea/parfit/db_tests/lottery_tickets_tests.sql" />
+      <jump line="179" column="0" filename="$USER_HOME$/Documents/cea/parfit/db_tests/lottery_tickets_tests.sql" />
+      <jump line="211" column="0" filename="$USER_HOME$/Documents/cea/parfit/db_tests/lottery_tickets_tests.sql" />
+      <jump line="213" column="0" filename="$USER_HOME$/Documents/cea/parfit/db_tests/lottery_tickets_tests.sql" />
+      <jump line="215" column="0" filename="$USER_HOME$/Documents/cea/parfit/db_tests/lottery_tickets_tests.sql" />
+      <jump line="223" column="0" filename="$USER_HOME$/Documents/cea/parfit/db_tests/lottery_tickets_tests.sql" />
+      <jump line="252" column="0" filename="$USER_HOME$/Documents/cea/parfit/db_tests/lottery_tickets_tests.sql" />
+      <jump line="273" column="0" filename="$USER_HOME$/Documents/cea/parfit/db_tests/lottery_tickets_tests.sql" />
+      <jump line="275" column="0" filename="$USER_HOME$/Documents/cea/parfit/db_tests/lottery_tickets_tests.sql" />
+      <jump line="277" column="0" filename="$USER_HOME$/Documents/cea/parfit/db_tests/lottery_tickets_tests.sql" />
+      <jump line="318" column="0" filename="$USER_HOME$/Documents/cea/parfit/db_tests/lottery_tickets_tests.sql" />
+      <jump line="320" column="0" filename="$USER_HOME$/Documents/cea/parfit/db_tests/lottery_tickets_tests.sql" />
+      <jump line="322" column="0" filename="$USER_HOME$/Documents/cea/parfit/db_tests/lottery_tickets_tests.sql" />
+      <jump line="60" column="1" filename="$USER_HOME$/Documents/cea/parfit/db_tests/lottery_tickets_tests.sql" />
+      <jump line="106" column="7" filename="$USER_HOME$/Documents/cea/parfit/db_tests/lottery_tickets_tests.sql" />
+      <jump line="329" column="0" filename="$USER_HOME$/Documents/cea/parfit/db_tests/lottery_tickets_tests.sql" />
+      <jump line="325" column="0" filename="$USER_HOME$/Documents/cea/parfit/db_tests/lottery_tickets_tests.sql" />
+      <jump line="280" column="0" filename="$USER_HOME$/Documents/cea/parfit/db_tests/lottery_tickets_tests.sql" />
+      <jump line="259" column="0" filename="$USER_HOME$/Documents/cea/parfit/db_tests/lottery_tickets_tests.sql" />
+      <jump line="278" column="16" filename="$USER_HOME$/Documents/cea/parfit/db_tests/lottery_tickets_tests.sql" />
+      <jump line="281" column="2" filename="$USER_HOME$/Documents/cea/parfit/db_tests/lottery_tickets_tests.sql" />
+      <jump line="188" column="7" filename="$USER_HOME$/Documents/cea/parfit/db_tests/lottery_tickets_tests.sql" />
+      <jump line="202" column="13" filename="$USER_HOME$/Documents/cea/parfit/db_tests/lottery_tickets_tests.sql" />
+      <jump line="206" column="13" filename="$USER_HOME$/Documents/cea/parfit/db_tests/lottery_tickets_tests.sql" />
+      <jump line="216" column="2" filename="$USER_HOME$/Documents/cea/parfit/db_tests/lottery_tickets_tests.sql" />
+      <jump line="327" column="23" filename="$USER_HOME$/Documents/cea/parfit/db_tests/lottery_tickets_tests.sql" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/cea/parfit/db_tests/lottery_tickets_tests.sql" />
+      <jump line="2" column="0" filename="$USER_HOME$/Documents/cea/parfit/db_tests/lottery_tickets_tests.sql" />
+      <jump line="10" column="0" filename="$USER_HOME$/Documents/cea/parfit/db_tests/lottery_tickets_tests.sql" />
+      <jump line="32" column="0" filename="$USER_HOME$/Documents/cea/parfit/db_tests/lottery_tickets_tests.sql" />
+      <jump line="49" column="0" filename="$USER_HOME$/Documents/cea/parfit/db_tests/lottery_tickets_tests.sql" />
+      <jump line="120" column="16" filename="$USER_HOME$/Documents/cea/parfit/db_tests/lottery_tickets_tests.sql" />
+      <jump line="336" column="0" filename="$USER_HOME$/Documents/cea/parfit/db_tests/lottery_tickets_tests.sql" />
+      <jump line="334" column="0" filename="$USER_HOME$/Documents/cea/parfit/db_tests/lottery_tickets_tests.sql" />
+      <jump line="332" column="0" filename="$USER_HOME$/Documents/cea/parfit/db_tests/lottery_tickets_tests.sql" />
+      <jump line="302" column="0" filename="$USER_HOME$/Documents/cea/parfit/db_tests/lottery_tickets_tests.sql" />
+      <jump line="288" column="0" filename="$USER_HOME$/Documents/cea/parfit/db_tests/lottery_tickets_tests.sql" />
+      <jump line="286" column="0" filename="$USER_HOME$/Documents/cea/parfit/db_tests/lottery_tickets_tests.sql" />
+      <jump line="284" column="0" filename="$USER_HOME$/Documents/cea/parfit/db_tests/lottery_tickets_tests.sql" />
+      <jump line="231" column="0" filename="$USER_HOME$/Documents/cea/parfit/db_tests/lottery_tickets_tests.sql" />
+      <jump line="261" column="0" filename="$USER_HOME$/Documents/cea/parfit/db_tests/lottery_tickets_tests.sql" />
+      <jump line="279" column="15" filename="$USER_HOME$/Documents/cea/parfit/db_tests/lottery_tickets_tests.sql" />
+      <jump line="330" column="2" filename="$USER_HOME$/Documents/cea/parfit/db_tests/lottery_tickets_tests.sql" />
+      <jump line="47" column="2" filename="$USER_HOME$/Documents/cea/parfit/db_tests/lottery_tickets_tests.sql" />
+      <jump line="187" column="5" filename="$USER_HOME$/Documents/cea/parfit/db_tests/lottery_tickets_tests.sql" />
+      <jump line="190" column="7" filename="$USER_HOME$/Documents/cea/parfit/db_tests/lottery_tickets_tests.sql" />
+      <jump line="204" column="13" filename="$USER_HOME$/Documents/cea/parfit/db_tests/lottery_tickets_tests.sql" />
+      <jump line="207" column="13" filename="$USER_HOME$/Documents/cea/parfit/db_tests/lottery_tickets_tests.sql" />
+      <jump line="217" column="2" filename="$USER_HOME$/Documents/cea/parfit/db_tests/lottery_tickets_tests.sql" />
+      <jump line="282" column="3" filename="$USER_HOME$/Documents/cea/parfit/db_tests/lottery_tickets_tests.sql" />
+      <jump line="4" column="0" filename="$USER_HOME$/Documents/cea/parfit/db_tests/lottery_tickets_tests.sql" />
+      <jump line="125" column="7" filename="$USER_HOME$/Documents/cea/parfit/db_tests/lottery_tickets_tests.sql" />
+      <jump line="152" column="7" filename="$USER_HOME$/Documents/cea/parfit/db_tests/lottery_tickets_tests.sql" />
+      <jump line="123" column="7" filename="$USER_HOME$/Documents/cea/parfit/db_tests/lottery_tickets_tests.sql" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -381,49 +385,49 @@
   )</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text encoding="base64">IFRPRE8gdXBkYXRl</text>
       </register>
       <register name="/" type="4">
-        <text>Surr</text>
+        <text>RAISE NOT</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKCcgIE11dGFibGVBbGxvY2F0aW9uJywgTXV0YWJsZUFsbG9jYXRpb24udG9KUygpKQo=</text>
+        <text encoding="base64">LS0gICAgIFJBSVNFIE5PVElDRSAndGVzdDogJScsIF90ZXN0Owo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">ICAgICAgUkFJU0UgTk9USUNFICdqICUnCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBpZiAoKSB7Cg==</text>
+        <text encoding="base64">ICBqIDo9IDA7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">ICAtLSBUT0RPIFtdPwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">QkVHSU47ClNFTEVDVCBwbGFuKDE4KTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBpZiAoKSB7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgImplc3QiOiB0cnVlLAo=</text>
+        <text encoding="base64">LS0gVE9ETyBSRUFETUUgdXBkYXRlCi0tIFRPRE8gZG90ZmlsZXMgdXBkYXRlCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAvLyBUT0RPIFE6IFdoeSBpc24ndCBvbmNsaWNrIGEgZnVuY3RvciByYXRoZXIgdGhhbiBhIGNhbGxlZCBmdW5jdGlvbj8K</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdEb25hdGlvbnNOZXcucmVuZGVyKCkgLSBBbGxvY2F0aW9uOicsIEFsbG9jYXRpb24udG9KUygpKQo=</text>
+        <text encoding="base64">ICBpZiAoKSB7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdEb25hdGlvbnNOZXcuY29tcG9uZW50V2lsbFVwZGF0ZScpCg==</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action NextSplitter</text>
+        <text>action GotoFile</text>
       </register>
     </registers>
     <search>
-      <last-search>Surr</last-search>
+      <last-search>RAISE NOT</last-search>
       <last-offset />
-      <last-pattern>Surr</last-pattern>
+      <last-pattern>RAISE NOT</last-pattern>
       <last-replace>_length</last-replace>
       <last-substitute>i</last-substitute>
       <last-dir>1</last-dir>
@@ -431,8 +435,6 @@
     </search>
     <history>
       <history-search>
-        <entry>notice</entry>
-        <entry>raise</entry>
         <entry>RAISE</entry>
         <entry encoding="base64">XDxleHBlY3RlZFw+</entry>
         <entry encoding="base64">XDxhc3NlcnRpb25cPg==</entry>
@@ -448,9 +450,11 @@
         <entry>onupdate</entry>
         <entry encoding="base64">XDxBbGxvY2F0aW9uXD4=</entry>
         <entry encoding="base64">XDxhbGxvY2F0aW9uRGlydHlcPg==</entry>
-        <entry>TODO</entry>
         <entry>console</entry>
         <entry>Surr</entry>
+        <entry>raise not</entry>
+        <entry>TODO</entry>
+        <entry>RAISE NOT</entry>
       </history-search>
       <history-cmd>
         <entry>action SplitVertically</entry>
@@ -463,16 +467,16 @@
         <entry>action RenameFile</entry>
         <entry>action Back</entry>
         <entry>action GotoDeclaration</entry>
-        <entry>action CommentByLineComment</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gU3Vycm91bmRXaXRo</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gQ29tbWVudEJ5TGluZUNvbW1lbnQ=</entry>
         <entry>source ~/.ideavimrc</entry>
         <entry>action SurroundWith</entry>
         <entry>actionlist</entry>
-        <entry>w!</entry>
         <entry>action WrapAction</entry>
-        <entry>action GotoFile</entry>
+        <entry>action CommentByLineComment</entry>
+        <entry>w!</entry>
         <entry>action NextSplitter</entry>
+        <entry>action GotoFile</entry>
       </history-cmd>
       <history-expr />
       <history-input />
