@@ -37,6 +37,14 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/cea/aletheia/app/containers/Dashboard/index.jsx" timestamp="1516652848090">
+        <mark key="a" line="56" column="9" />
+        <mark key="'" line="39" column="16" />
+        <mark key="[" line="92" column="0" />
+        <mark key="]" line="92" column="67" />
+        <mark key="^" line="92" column="65" />
+        <mark key="." line="92" column="65" />
+      </file>
       <file name="$USER_HOME$/Documents/IdeaExample/foo/bar.js" timestamp="1514329694810">
         <mark key="'" line="0" column="11" />
         <mark key="[" line="3" column="18" />
@@ -130,6 +138,13 @@
         <mark key="." line="29" column="106" />
         <mark key="^" line="29" column="106" />
       </file>
+      <file name="$USER_HOME$/Documents/cea/aletheia/app/containers/Dashboard/DashboardPledge/index.jsx" timestamp="1516653666944">
+        <mark key="'" line="68" column="29" />
+        <mark key="[" line="111" column="17" />
+        <mark key="]" line="111" column="18" />
+        <mark key="." line="111" column="18" />
+        <mark key="^" line="111" column="18" />
+      </file>
       <file name="$USER_HOME$/Documents/cea/parfit/.circleci/config.yml" timestamp="1516067063033">
         <mark key="'" line="51" column="31" />
         <mark key="[" line="51" column="25" />
@@ -137,14 +152,12 @@
         <mark key="." line="51" column="40" />
         <mark key="^" line="51" column="40" />
       </file>
-      <file name="$USER_HOME$/Documents/cea/aletheia/app/components/AllocationSliders/ReadMoreLink.jsx" timestamp="1516041761780">
-        <mark key="^" line="10" column="25" />
-      </file>
-      <file name="$USER_HOME$/Documents/dotfiles/ideavimrc" timestamp="1515789298665">
-        <mark key="[" line="43" column="13" />
-        <mark key="]" line="43" column="14" />
-        <mark key="." line="43" column="14" />
-        <mark key="^" line="46" column="38" />
+      <file name="$USER_HOME$/Documents/dotfiles/ideavimrc" timestamp="1516652387206">
+        <mark key="'" line="38" column="23" />
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="14" />
+        <mark key="^" line="23" column="0" />
+        <mark key="." line="23" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/cea/aletheia/app/containers/DonationsNew/Organizations/index.jsx" timestamp="1515803524563">
         <mark key="'" line="72" column="57" />
@@ -316,49 +329,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="149" column="35" filename="$USER_HOME$/Documents/cea/parfit/migrations/20170105124000_payments_up.sql" />
-      <jump line="71" column="3" filename="$USER_HOME$/Documents/cea/parfit/db_tests/lottery_tickets_tests.sql" />
-      <jump line="93" column="28" filename="$USER_HOME$/Documents/cea/parfit/db_tests/lottery_tickets_tests.sql" />
-      <jump line="103" column="25" filename="$USER_HOME$/Documents/cea/parfit/db_tests/lottery_tickets_tests.sql" />
-      <jump line="110" column="3" filename="$USER_HOME$/Documents/cea/parfit/db_tests/lottery_tickets_tests.sql" />
-      <jump line="121" column="16" filename="$USER_HOME$/Documents/cea/parfit/db_tests/lottery_tickets_tests.sql" />
-      <jump line="126" column="21" filename="$USER_HOME$/Documents/cea/parfit/db_tests/lottery_tickets_tests.sql" />
-      <jump line="132" column="20" filename="$USER_HOME$/Documents/cea/parfit/db_tests/lottery_tickets_tests.sql" />
-      <jump line="134" column="21" filename="$USER_HOME$/Documents/cea/parfit/db_tests/lottery_tickets_tests.sql" />
-      <jump line="137" column="21" filename="$USER_HOME$/Documents/cea/parfit/db_tests/lottery_tickets_tests.sql" />
-      <jump line="142" column="20" filename="$USER_HOME$/Documents/cea/parfit/db_tests/lottery_tickets_tests.sql" />
-      <jump line="144" column="21" filename="$USER_HOME$/Documents/cea/parfit/db_tests/lottery_tickets_tests.sql" />
-      <jump line="150" column="20" filename="$USER_HOME$/Documents/cea/parfit/db_tests/lottery_tickets_tests.sql" />
-      <jump line="152" column="21" filename="$USER_HOME$/Documents/cea/parfit/db_tests/lottery_tickets_tests.sql" />
-      <jump line="157" column="20" filename="$USER_HOME$/Documents/cea/parfit/db_tests/lottery_tickets_tests.sql" />
-      <jump line="182" column="27" filename="$USER_HOME$/Documents/cea/parfit/db_tests/lottery_tickets_tests.sql" />
-      <jump line="185" column="33" filename="$USER_HOME$/Documents/cea/parfit/db_tests/lottery_tickets_tests.sql" />
-      <jump line="196" column="27" filename="$USER_HOME$/Documents/cea/parfit/db_tests/lottery_tickets_tests.sql" />
-      <jump line="249" column="23" filename="$USER_HOME$/Documents/cea/parfit/db_tests/lottery_tickets_tests.sql" />
-      <jump line="251" column="23" filename="$USER_HOME$/Documents/cea/parfit/db_tests/lottery_tickets_tests.sql" />
-      <jump line="234" column="23" filename="$USER_HOME$/Documents/cea/parfit/db_tests/lottery_tickets_tests.sql" />
-      <jump line="81" column="3" filename="$USER_HOME$/Documents/cea/parfit/db_tests/lottery_tickets_tests.sql" />
-      <jump line="156" column="21" filename="$USER_HOME$/Documents/cea/parfit/db_tests/lottery_tickets_tests.sql" />
-      <jump line="247" column="17" filename="$USER_HOME$/Documents/cea/parfit/db_tests/lottery_tickets_tests.sql" />
-      <jump line="180" column="12" filename="$USER_HOME$/Documents/cea/parfit/db_tests/lottery_tickets_tests.sql" />
-      <jump line="314" column="68" filename="$USER_HOME$/Documents/cea/parfit/db_tests/lottery_tickets_tests.sql" />
-      <jump line="70" column="16" filename="$USER_HOME$/Documents/cea/parfit/db_tests/lottery_tickets_tests.sql" />
-      <jump line="84" column="4" filename="$USER_HOME$/Documents/cea/parfit/db_tests/lottery_tickets_tests.sql" />
-      <jump line="85" column="4" filename="$USER_HOME$/Documents/cea/parfit/db_tests/lottery_tickets_tests.sql" />
-      <jump line="87" column="8" filename="$USER_HOME$/Documents/cea/parfit/db_tests/lottery_tickets_tests.sql" />
-      <jump line="181" column="12" filename="$USER_HOME$/Documents/cea/parfit/db_tests/lottery_tickets_tests.sql" />
-      <jump line="248" column="17" filename="$USER_HOME$/Documents/cea/parfit/db_tests/lottery_tickets_tests.sql" />
-      <jump line="250" column="17" filename="$USER_HOME$/Documents/cea/parfit/db_tests/lottery_tickets_tests.sql" />
-      <jump line="253" column="10" filename="$USER_HOME$/Documents/cea/parfit/db_tests/lottery_tickets_tests.sql" />
-      <jump line="254" column="17" filename="$USER_HOME$/Documents/cea/parfit/db_tests/lottery_tickets_tests.sql" />
-      <jump line="304" column="26" filename="$USER_HOME$/Documents/cea/parfit/db_tests/lottery_tickets_tests.sql" />
-      <jump line="306" column="17" filename="$USER_HOME$/Documents/cea/parfit/db_tests/lottery_tickets_tests.sql" />
-      <jump line="330" column="29" filename="$USER_HOME$/Documents/cea/parfit/db_tests/lottery_tickets_tests.sql" />
-      <jump line="16" column="14" filename="$USER_HOME$/Documents/cea/parfit/db_tests/lottery_tickets_tests.sql" />
-      <jump line="47" column="33" filename="$USER_HOME$/Documents/cea/parfit/db_tests/lottery_tickets_tests.sql" />
-      <jump line="215" column="62" filename="$USER_HOME$/Documents/cea/parfit/db_tests/lottery_tickets_tests.sql" />
-      <jump line="13" column="0" filename="$USER_HOME$/Documents/cea/parfit/db_tests/lottery_tickets_tests.sql" />
-      <jump line="52" column="53" filename="$USER_HOME$/Documents/cea/parfit/db_tests/lottery_tickets_tests.sql" />
       <jump line="56" column="0" filename="$USER_HOME$/Documents/cea/parfit/db_tests/lottery_tickets_tests.sql" />
       <jump line="58" column="0" filename="$USER_HOME$/Documents/cea/parfit/db_tests/lottery_tickets_tests.sql" />
       <jump line="72" column="0" filename="$USER_HOME$/Documents/cea/parfit/db_tests/lottery_tickets_tests.sql" />
@@ -416,6 +386,49 @@
       <jump line="7" column="0" filename="$USER_HOME$/Documents/cea/parfit/db_tests/lottery_tickets_tests.sql" />
       <jump line="346" column="0" filename="$USER_HOME$/Documents/cea/parfit/db_tests/lottery_tickets_tests.sql" />
       <jump line="36" column="16" filename="$USER_HOME$/Documents/cea/parfit/db_tests/lottery_tickets_tests.sql" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/cea/aletheia/app/containers/Dashboard/index.jsx" />
+      <jump line="5" column="0" filename="$USER_HOME$/Documents/cea/aletheia/app/containers/Dashboard/index.jsx" />
+      <jump line="11" column="0" filename="$USER_HOME$/Documents/cea/aletheia/app/containers/Dashboard/index.jsx" />
+      <jump line="21" column="0" filename="$USER_HOME$/Documents/cea/aletheia/app/containers/Dashboard/index.jsx" />
+      <jump line="48" column="0" filename="$USER_HOME$/Documents/cea/aletheia/app/containers/Dashboard/index.jsx" />
+      <jump line="52" column="0" filename="$USER_HOME$/Documents/cea/aletheia/app/containers/Dashboard/index.jsx" />
+      <jump line="54" column="0" filename="$USER_HOME$/Documents/cea/aletheia/app/containers/Dashboard/index.jsx" />
+      <jump line="58" column="0" filename="$USER_HOME$/Documents/cea/aletheia/app/containers/Dashboard/index.jsx" />
+      <jump line="62" column="0" filename="$USER_HOME$/Documents/cea/aletheia/app/containers/Dashboard/index.jsx" />
+      <jump line="67" column="0" filename="$USER_HOME$/Documents/cea/aletheia/app/containers/Dashboard/index.jsx" />
+      <jump line="72" column="0" filename="$USER_HOME$/Documents/cea/aletheia/app/containers/Dashboard/index.jsx" />
+      <jump line="77" column="0" filename="$USER_HOME$/Documents/cea/aletheia/app/containers/Dashboard/index.jsx" />
+      <jump line="90" column="0" filename="$USER_HOME$/Documents/cea/aletheia/app/containers/Dashboard/index.jsx" />
+      <jump line="73" column="2" filename="$USER_HOME$/Documents/cea/aletheia/app/containers/Dashboard/index.jsx" />
+      <jump line="56" column="9" filename="$USER_HOME$/Documents/cea/aletheia/app/containers/Dashboard/index.jsx" />
+      <jump line="164" column="29" filename="$USER_HOME$/Documents/cea/aletheia/app/containers/Dashboard/DashboardPledge/index.jsx" />
+      <jump line="115" column="72" filename="$USER_HOME$/Documents/cea/aletheia/app/containers/Dashboard/DashboardPledge/index.jsx" />
+      <jump line="116" column="25" filename="$USER_HOME$/Documents/cea/aletheia/app/containers/Dashboard/DashboardPledge/index.jsx" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/cea/aletheia/app/containers/Dashboard/DashboardPledge/index.jsx" />
+      <jump line="4" column="0" filename="$USER_HOME$/Documents/cea/aletheia/app/containers/Dashboard/DashboardPledge/index.jsx" />
+      <jump line="8" column="0" filename="$USER_HOME$/Documents/cea/aletheia/app/containers/Dashboard/DashboardPledge/index.jsx" />
+      <jump line="14" column="0" filename="$USER_HOME$/Documents/cea/aletheia/app/containers/Dashboard/DashboardPledge/index.jsx" />
+      <jump line="18" column="0" filename="$USER_HOME$/Documents/cea/aletheia/app/containers/Dashboard/DashboardPledge/index.jsx" />
+      <jump line="24" column="0" filename="$USER_HOME$/Documents/cea/aletheia/app/containers/Dashboard/DashboardPledge/index.jsx" />
+      <jump line="27" column="0" filename="$USER_HOME$/Documents/cea/aletheia/app/containers/Dashboard/DashboardPledge/index.jsx" />
+      <jump line="32" column="0" filename="$USER_HOME$/Documents/cea/aletheia/app/containers/Dashboard/DashboardPledge/index.jsx" />
+      <jump line="36" column="0" filename="$USER_HOME$/Documents/cea/aletheia/app/containers/Dashboard/DashboardPledge/index.jsx" />
+      <jump line="43" column="0" filename="$USER_HOME$/Documents/cea/aletheia/app/containers/Dashboard/DashboardPledge/index.jsx" />
+      <jump line="60" column="0" filename="$USER_HOME$/Documents/cea/aletheia/app/containers/Dashboard/DashboardPledge/index.jsx" />
+      <jump line="62" column="0" filename="$USER_HOME$/Documents/cea/aletheia/app/containers/Dashboard/DashboardPledge/index.jsx" />
+      <jump line="67" column="0" filename="$USER_HOME$/Documents/cea/aletheia/app/containers/Dashboard/DashboardPledge/index.jsx" />
+      <jump line="72" column="0" filename="$USER_HOME$/Documents/cea/aletheia/app/containers/Dashboard/DashboardPledge/index.jsx" />
+      <jump line="80" column="0" filename="$USER_HOME$/Documents/cea/aletheia/app/containers/Dashboard/DashboardPledge/index.jsx" />
+      <jump line="87" column="0" filename="$USER_HOME$/Documents/cea/aletheia/app/containers/Dashboard/DashboardPledge/index.jsx" />
+      <jump line="93" column="0" filename="$USER_HOME$/Documents/cea/aletheia/app/containers/Dashboard/DashboardPledge/index.jsx" />
+      <jump line="101" column="0" filename="$USER_HOME$/Documents/cea/aletheia/app/containers/Dashboard/DashboardPledge/index.jsx" />
+      <jump line="23" column="13" filename="$USER_HOME$/Documents/dotfiles/ideavimrc" />
+      <jump line="25" column="0" filename="$USER_HOME$/Documents/dotfiles/ideavimrc" />
+      <jump line="38" column="23" filename="$USER_HOME$/Documents/dotfiles/ideavimrc" />
+      <jump line="69" column="11" filename="$USER_HOME$/Documents/cea/aletheia/app/containers/Dashboard/DashboardPledge/index.jsx" />
+      <jump line="70" column="4" filename="$USER_HOME$/Documents/cea/aletheia/app/containers/Dashboard/DashboardPledge/index.jsx" />
+      <jump line="39" column="16" filename="$USER_HOME$/Documents/cea/aletheia/app/containers/Dashboard/index.jsx" />
+      <jump line="68" column="29" filename="$USER_HOME$/Documents/cea/aletheia/app/containers/Dashboard/DashboardPledge/index.jsx" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -428,49 +441,49 @@
   )</text>
       </register>
       <register name="-" type="4">
-        <text>PERFORM</text>
+        <text>pledge</text>
       </register>
       <register name="/" type="4">
-        <text>make</text>
+        <text>conso</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIElOU0VSVCBJTlRPIGFzc2VydGlvbl9jb3VudGVyIChhc3NlcnRpb25zX21hZGUpIFZBTFVFUyAoMSk7Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCcgIEdldFBsZWRnZXNCeVBlcnNvbklkUXVlcnktbG9hZGluZycsIEdldEluY29tZXNCeVBlcnNvbklkUXVlcnkubG9hZGluZykK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">RE8gTEFOR1VBR0UgcHMK</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCcgIEdldEluY29tZXNCeVBlcnNvbklkUXVlcnktbG9hZGluZycsIEdldEluY29tZXNCeVBlcnNvbklkUXVlcnkubG9hZGluZykK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ClNFTEVDVCB0ZXN0X2hleDJiaWdpbnQoKTsK</text>
+        <text encoding="base64">RE8gTEFOR1VBR0UgcHMK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Q1JFQVRFIEZVTkNUSU9OIHRlc3RfaGV4MmJpZ2ludCAoKQpSRVRVUk5TIFNFVE9GIFRFWFQgQVMgJCQK</text>
+        <text encoding="base64">ClNFTEVDVCB0ZXN0X2hleDJiaWdpbnQoKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBqIElOVCA6PSAwOwo=</text>
+        <text encoding="base64">Q1JFQVRFIEZVTkNUSU9OIHRlc3RfaGV4MmJpZ2ludCAoKQpSRVRVUk5TIFNFVE9GIFRFWFQgQVMgJCQK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBfbl9hc3NlcnRpb25zID0gX25fYXNzZXJ0aW9ucyArIDE7Cg==</text>
+        <text encoding="base64">ICBqIElOVCA6PSAwOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBfbl9hc3NlcnRpb25zIElOVCA6PSAwOwo=</text>
+        <text encoding="base64">ICAgICAgICBfbl9hc3NlcnRpb25zID0gX25fYXNzZXJ0aW9ucyArIDE7Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">ICBfbl9hc3NlcnRpb25zIElOVCA6PSAwOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBfbl9hc3NlcnRpb25zID0gX25fYXNzZXJ0aW9ucyArIDE7Cg==</text>
+        <text encoding="base64">ICBfbl9hc3NlcnRpb25zIElOVCA6PSAwOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGogOj0gaiArIDE7Cg==</text>
+        <text encoding="base64">ICAgICAgICBfbl9hc3NlcnRpb25zID0gX25fYXNzZXJ0aW9ucyArIDE7Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action GotoFile</text>
+        <text>w!</text>
       </register>
     </registers>
     <search>
-      <last-search>make</last-search>
+      <last-search>conso</last-search>
       <last-offset />
-      <last-pattern>make</last-pattern>
+      <last-pattern>conso</last-pattern>
       <last-replace>SUM</last-replace>
       <last-substitute>COUNT</last-substitute>
       <last-dir>1</last-dir>
@@ -478,15 +491,6 @@
     </search>
     <history>
       <history-search>
-        <entry>block</entry>
-        <entry>curren</entry>
-        <entry>default</entry>
-        <entry>defaul</entry>
-        <entry>DEFAU</entry>
-        <entry>RETURNING id INTO _pay</entry>
-        <entry>create_lotter</entry>
-        <entry>payment.pay</entry>
-        <entry>payment_id</entry>
         <entry>payment_id, person_id</entry>
         <entry>_test\._pay</entry>
         <entry>create_lott</entry>
@@ -498,28 +502,37 @@
         <entry>COUNT</entry>
         <entry encoding="base64">XDxhc3NlcnRpb25fY291bnRlclw+</entry>
         <entry>make</entry>
+        <entry encoding="base64">XDxjaGVja0Rhc2hib2FyZFRhYlw+</entry>
+        <entry>will</entry>
+        <entry>newfi</entry>
+        <entry>newf</entry>
+        <entry>newFi</entry>
+        <entry>NEWFILE</entry>
+        <entry encoding="base64">XDxzZXREYXNoYm9hcmRUYWJTZWN0aW9uXD4=</entry>
+        <entry>setDashboard</entry>
+        <entry>conso</entry>
       </history-search>
       <history-cmd>
-        <entry>action SurroundWith</entry>
         <entry>actionlist</entry>
         <entry>action WrapAction</entry>
         <entry>action SearchEverywhere</entry>
-        <entry>source ~/.ideavimrc</entry>
         <entry>action SplitHorizontally</entry>
         <entry>action SplitVertically</entry>
         <entry>action FindInPath</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gQ29tbWVudEJ5TGluZUNvbW1lbnQ=</entry>
-        <entry>action CommentByLineComment</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gTmV4dFNwbGl0dGVy</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gR290b0ZpbGU=</entry>
         <entry>218</entry>
         <entry>action Back</entry>
         <entry>action Refactorings.QuickListPopupAction</entry>
-        <entry>action NextSplitter</entry>
-        <entry>action GotoDeclaration</entry>
         <entry>%s/COUNT/SUM/gc</entry>
-        <entry>w!</entry>
         <entry>action GotoFile</entry>
+        <entry>help smartcase</entry>
+        <entry>source ~/.ideavimrc</entry>
+        <entry>action GotoDeclaration</entry>
+        <entry>action NextSplitter</entry>
+        <entry>action CommentByLineComment</entry>
+        <entry>w!</entry>
       </history-cmd>
       <history-expr />
       <history-input />
