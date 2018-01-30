@@ -58,12 +58,6 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/cea/aletheia/package.json" timestamp="1515800451406">
-        <mark key="'" line="155" column="17" />
-        <mark key="[" line="92" column="0" />
-        <mark key="]" line="92" column="0" />
-        <mark key="." line="92" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/cea/parfit/seeds/development/09-exchangerates.js" timestamp="1515631278346">
         <mark key="[" line="3" column="2" />
         <mark key="]" line="3" column="3" />
@@ -102,6 +96,12 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/cea/parfit/seeds/development/07-payments.js" timestamp="1517255304736">
+        <mark key="[" line="14" column="92" />
+        <mark key="]" line="15" column="81" />
+        <mark key="^" line="15" column="81" />
+        <mark key="." line="15" column="81" />
+      </file>
       <file name="$USER_HOME$/Documents/cea/aletheia/app/containers/StaticPage/FAQ/index.jsx" timestamp="1516819565792">
         <mark key="'" line="105" column="2" />
       </file>
@@ -136,17 +136,11 @@
         <mark key="." line="18" column="37" />
         <mark key="^" line="18" column="37" />
       </file>
-      <file name="$USER_HOME$/Documents/cea/parfit/seeds/data/payments.lottery.sql" timestamp="1516991835471">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="75" />
-        <mark key="." line="0" column="61" />
-        <mark key="^" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/cea/aletheia/app/containers/AdminPerson/index.jsx" timestamp="1516819752228">
-        <mark key="'" line="173" column="0" />
-        <mark key="[" line="52" column="0" />
-        <mark key="]" line="52" column="0" />
-        <mark key="." line="52" column="0" />
+      <file name="$USER_HOME$/Documents/cea/parfit/seeds/data/payments.lottery.sql" timestamp="1517255675006">
+        <mark key="[" line="3" column="3" />
+        <mark key="]" line="3" column="74" />
+        <mark key="." line="3" column="3" />
+        <mark key="^" line="3" column="2" />
       </file>
       <file name="$USER_HOME$/Documents/cea/centreforeffectivealtruism-org/src/layouts/post.pug" timestamp="1516063593826">
         <mark key="[" line="35" column="0" />
@@ -170,11 +164,11 @@
         <mark key="." line="10" column="40" />
         <mark key="^" line="10" column="40" />
       </file>
-      <file name="$USER_HOME$/Documents/cea/parfit/seeds/development/10-pledge.js" timestamp="1517250680220">
-        <mark key="[" line="7" column="10" />
-        <mark key="]" line="7" column="9" />
-        <mark key="." line="7" column="9" />
-        <mark key="^" line="7" column="9" />
+      <file name="$USER_HOME$/Documents/cea/parfit/seeds/development/10-pledge.js" timestamp="1517253519796">
+        <mark key="[" line="5" column="2" />
+        <mark key="]" line="5" column="13" />
+        <mark key="." line="5" column="13" />
+        <mark key="^" line="5" column="13" />
       </file>
       <file name="$USER_HOME$/Documents/dotfiles/ideavimrc" timestamp="1516652387206">
         <mark key="'" line="38" column="23" />
@@ -203,12 +197,6 @@
         <mark key="^" line="0" column="49" />
         <mark key="." line="0" column="54" />
       </file>
-      <file name="$USER_HOME$/Documents/cea/parfit/services/payments/handlers/crypto/index.js" timestamp="1516919134794">
-        <mark key="'" line="159" column="0" />
-        <mark key="[" line="0" column="2" />
-        <mark key="]" line="0" column="31" />
-        <mark key="." line="0" column="2" />
-      </file>
       <file name="$USER_HOME$/Documents/cea/aletheia/app/models/helpers.js" timestamp="1516993753950">
         <mark key="[" line="25" column="13" />
         <mark key="]" line="25" column="33" />
@@ -228,12 +216,6 @@
         <mark key="]" line="32" column="93" />
         <mark key="^" line="7" column="0" />
         <mark key="." line="32" column="63" />
-      </file>
-      <file name="$USER_HOME$/Documents/cea/parfit/services/emails/send/index.js" timestamp="1515024722513">
-        <mark key="'" line="24" column="7" />
-        <mark key="[" line="46" column="0" />
-        <mark key="]" line="46" column="0" />
-        <mark key="." line="46" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/cea/aletheia/app/containers/DonationsNew/Allocation/AllocationHelpOverlayModal.js" timestamp="1515636251962">
         <mark key="[" line="0" column="25" />
@@ -291,6 +273,12 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/cea/parfit/seeds/data/payments.payment.sql" timestamp="1517256459065">
+        <mark key="[" line="13" column="57" />
+        <mark key="]" line="13" column="69" />
+        <mark key="." line="13" column="69" />
+        <mark key="^" line="13" column="69" />
+      </file>
       <file name="$USER_HOME$/Documents/cea/aletheia/app/components/Layout/Header/index.jsx" timestamp="1516754149210">
         <mark key="'" line="151" column="0" />
         <mark key="[" line="20" column="0" />
@@ -298,16 +286,10 @@
         <mark key="^" line="23" column="19" />
         <mark key="." line="20" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1516999322438">
+      <file name="/Dummy.txt" timestamp="1517251851615">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/cea/centreforeffectivealtruism-org/tasks/metalsmith.js" timestamp="1516058189629">
-        <mark key="'" line="215" column="0" />
-        <mark key="[" line="259" column="0" />
-        <mark key="]" line="259" column="0" />
-        <mark key="." line="259" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/cea/centreforeffectivealtruism-org/src/layouts/collection.pug" timestamp="1516054442666">
         <mark key="'" line="3" column="11" />
@@ -322,12 +304,6 @@
         <mark key="^" line="0" column="20" />
         <mark key="." line="0" column="20" />
       </file>
-      <file name="$USER_HOME$/Documents/cea/parfit/services/emails/handlers/pledges.js" timestamp="1515024556875">
-        <mark key="'" line="49" column="0" />
-        <mark key="[" line="35" column="0" />
-        <mark key="]" line="35" column="0" />
-        <mark key="." line="35" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/cea/parfit/migrations/20161215174513_country_data_up.sql" timestamp="1516067921106">
         <mark key="'" line="28" column="29" />
       </file>
@@ -336,6 +312,9 @@
         <mark key="]" line="0" column="15" />
         <mark key="^" line="0" column="15" />
         <mark key="." line="0" column="15" />
+      </file>
+      <file name="$USER_HOME$/Documents/cea/parfit/migrations/20171107555555_pledge_refactor_up.sql" timestamp="1517253017853">
+        <mark key="'" line="110" column="4" />
       </file>
       <file name="$USER_HOME$/Documents/cea/centreforeffectivealtruism-org/src/layouts/tag.pug" timestamp="1516054517151">
         <mark key="[" line="11" column="25" />
@@ -355,11 +334,17 @@
         <mark key="^" line="0" column="8" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/cea/parfit/seeds/data/pledges.pledge.sql" timestamp="1517254574465">
+        <mark key="[" line="3" column="17" />
+        <mark key="]" line="3" column="22" />
+        <mark key="^" line="3" column="22" />
+        <mark key="." line="3" column="22" />
+      </file>
       <file name="$USER_HOME$/Documents/cea/aletheia/node_modules/react-bootstrap/es/Tabs.js" timestamp="1516731057751">
         <mark key="'" line="130" column="8" />
       </file>
-      <file name="$USER_HOME$/Documents/cea/parfit/seeds/data/organizations.organization.sql" timestamp="1516908148937">
-        <mark key="'" line="19" column="0" />
+      <file name="$USER_HOME$/Documents/cea/parfit/seeds/data/organizations.organization.sql" timestamp="1517255337473">
+        <mark key="'" line="23" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/cea/parfit/services/emails/handlers/pledges.test.js" timestamp="1515093213224">
         <mark key="[" line="3" column="14" />
@@ -369,17 +354,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="162" column="73" filename="$USER_HOME$/Documents/cea/aletheia/app/containers/Lotteries/Lottery/index.jsx" />
-      <jump line="163" column="4" filename="$USER_HOME$/Documents/cea/aletheia/app/containers/Lotteries/Lottery/index.jsx" />
-      <jump line="86" column="4" filename="$USER_HOME$/Documents/cea/aletheia/app/containers/Lotteries/Lottery/index.jsx" />
-      <jump line="51" column="9" filename="$USER_HOME$/Documents/cea/aletheia/app/containers/Lotteries/Lottery/LotteryDetails.jsx" />
-      <jump line="155" column="29" filename="$USER_HOME$/Documents/cea/aletheia/app/containers/Lotteries/Lottery/index.jsx" />
-      <jump line="290" column="0" filename="$USER_HOME$/Documents/cea/aletheia/app/containers/Lotteries/Lottery/index.jsx" />
-      <jump line="284" column="0" filename="$USER_HOME$/Documents/cea/aletheia/app/containers/Lotteries/Lottery/index.jsx" />
-      <jump line="251" column="9" filename="$USER_HOME$/Documents/cea/aletheia/app/containers/Lotteries/Lottery/index.jsx" />
-      <jump line="250" column="0" filename="$USER_HOME$/Documents/cea/aletheia/app/containers/Lotteries/Lottery/index.jsx" />
-      <jump line="230" column="0" filename="$USER_HOME$/Documents/cea/aletheia/app/containers/Lotteries/Lottery/index.jsx" />
-      <jump line="198" column="0" filename="$USER_HOME$/Documents/cea/aletheia/app/containers/Lotteries/Lottery/index.jsx" />
       <jump line="201" column="32" filename="$USER_HOME$/Documents/cea/aletheia/app/containers/Lotteries/Lottery/index.jsx" />
       <jump line="199" column="14" filename="$USER_HOME$/Documents/cea/aletheia/app/containers/Lotteries/Lottery/index.jsx" />
       <jump line="25" column="6" filename="$USER_HOME$/Documents/cea/aletheia/app/containers/Lotteries/Lottery/index.jsx" />
@@ -469,6 +443,17 @@
       <jump line="323" column="0" filename="$USER_HOME$/Documents/cea/aletheia/app/containers/Lotteries/Lottery/index.jsx" />
       <jump line="317" column="0" filename="$USER_HOME$/Documents/cea/aletheia/app/containers/Lotteries/Lottery/index.jsx" />
       <jump line="285" column="0" filename="$USER_HOME$/Documents/cea/aletheia/app/containers/Lotteries/Lottery/index.jsx" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/cea/parfit/migrations/20171107555555_pledge_refactor_up.sql" />
+      <jump line="13" column="2" filename="$USER_HOME$/Documents/cea/parfit/migrations/20171107555555_pledge_refactor_up.sql" />
+      <jump line="31" column="11" filename="$USER_HOME$/Documents/cea/parfit/migrations/20171107555555_pledge_refactor_up.sql" />
+      <jump line="38" column="2" filename="$USER_HOME$/Documents/cea/parfit/migrations/20171107555555_pledge_refactor_up.sql" />
+      <jump line="47" column="4" filename="$USER_HOME$/Documents/cea/parfit/migrations/20171107555555_pledge_refactor_up.sql" />
+      <jump line="51" column="18" filename="$USER_HOME$/Documents/cea/parfit/migrations/20171107555555_pledge_refactor_up.sql" />
+      <jump line="83" column="1" filename="$USER_HOME$/Documents/cea/parfit/migrations/20171107555555_pledge_refactor_up.sql" />
+      <jump line="101" column="18" filename="$USER_HOME$/Documents/cea/parfit/migrations/20171107555555_pledge_refactor_up.sql" />
+      <jump line="102" column="2" filename="$USER_HOME$/Documents/cea/parfit/migrations/20171107555555_pledge_refactor_up.sql" />
+      <jump line="110" column="4" filename="$USER_HOME$/Documents/cea/parfit/migrations/20171107555555_pledge_refactor_up.sql" />
+      <jump line="23" column="0" filename="$USER_HOME$/Documents/cea/parfit/seeds/data/organizations.organization.sql" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -481,49 +466,49 @@
   )</text>
       </register>
       <register name="-" type="4">
-        <text>surveys</text>
+        <text>'</text>
       </register>
       <register name="/" type="4">
-        <text>corresp</text>
+        <text>lott</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ZXhwb3J0cy5zZWVkID0gZnVuY3Rpb24gKGtuZXgsIFByb21pc2UpIHsKICByZXR1cm4gUHJvbWlzZS5hbGwoWwogICAgLy8gcmVmZXJyYWwgc291cmNlCiAgICBrbmV4KCdzdXJ2ZXlzLnJlZmVycmFsX3NvdXJjZScpLnRydW5jYXRlKCkKICAgICAgLnRoZW4oKCkgPT4gZXhlY1JhdyhrbmV4LCBwYXRoLmpvaW4oX19kaXJuYW1lLCAnLi4vZGF0YS9zdXJ2ZXlzLnJlZmVycmFsX3NvdXJjZS5zcWwnKSkpLAogICAgLy8gb3JnYW5pemF0aW9uX2NhdGVnb3J5CiAgICBrbmV4KCdzdXJ2ZXlzLm9yZ2FuaXphdGlvbl9jYXRlZ29yeScpLnRydW5jYXRlKCkKICAgICAgLnRoZW4oKCkgPT4gZXhlY1JhdyhrbmV4LCBwYXRoLmpvaW4oX19kaXJuYW1lLCAnLi4vZGF0YS9zdXJ2ZXlzLm9yZ2FuaXphdGlvbl9jYXRlZ29yeS5zcWwnKSkpCiAgXSkKfQo=</text>
+        <text encoding="base64">SU5TRVJUIElOVE8gcGF5bWVudHMucGF5bWVudCAoCiAgcGVyc29uX2lkLCByZWNpcGllbnQsIGNoYXJnZV9hbW91bnQsIGNoYXJnZV9jdXJyZW5jeV9jb2RlLCBnYXRld2F5LCBhbGxvY2F0aW9uCikgVkFMVUVTICgKICAoU0VMRUNUIGlkIEZST00gcGVvcGxlLnBlcnNvbiBXSEVSRSBlbWFpbD0nYUBhLmNvbScpLAogICdjZWEtdXMnLCAxMDAwMCwgJ1VTRCcsICdvZmZsaW5lJywgJ1t7InBlcmNlbnRhZ2UiOiAxMDAsICJvcmdhbml6YXRpb24iOiAiZG9ub3ItbG90dGVyeSJ9XScKKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZXhwb3J0cy5zZWVkID0gZnVuY3Rpb24oa25leCwgUHJvbWlzZSkgewogIC8vIERlbGV0ZXMgQUxMIGV4aXN0aW5nIGVudHJpZXMKICByZXR1cm4ga25leCgndGFibGVfbmFtZScpLmRlbCgpCiAgICAudGhlbihmdW5jdGlvbiAoKSB7CiAgICAgIC8vIEluc2VydHMgc2VlZCBlbnRyaWVzCiAgICAgIHJldHVybiBrbmV4KCd0YWJsZV9uYW1lJykuaW5zZXJ0KFsKICAgICAgICB7aWQ6IDEsIGNvbE5hbWU6ICdyb3dWYWx1ZTEnfSwKICAgICAgICB7aWQ6IDIsIGNvbE5hbWU6ICdyb3dWYWx1ZTInfSwKICAgICAgICB7aWQ6IDMsIGNvbE5hbWU6ICdyb3dWYWx1ZTMnfQogICAgICBdKTsKICAgIH0pOwp9Owo=</text>
+        <text encoding="base64">ICAgIC8vIG9yZ2FuaXphdGlvbl9jYXRlZ29yeQogICAgLy8ga25leCgnc3VydmV5cy5vcmdhbml6YXRpb25fY2F0ZWdvcnknKS50cnVuY2F0ZSgpCiAgICAvLyAgIC50aGVuKCgpID0+IGV4ZWNSYXcoa25leCwgcGF0aC5qb2luKF9fZGlybmFtZSwgJy4uL2RhdGEvc3VydmV5cy5vcmdhbml6YXRpb25fY2F0ZWdvcnkuc3FsJykpKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB7IUxvdHRlcnkud2lubmluZ051bWJlciAmJiAnLCB3aGljaCB3aWxsIGJlIGFwcGVhciBvbmNlIHRoZSBkcmF3IGRhdGUgaGFzIHBhc3QuJ30K</text>
+        <text encoding="base64">ICAgIC8vIHJlZmVycmFsIHNvdXJjZQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGlmICghbG9hZGluZykgewogICAgICBjb25zb2xlLmxvZygnYWwnLCBMb3R0ZXJpZXMpCiAgICB9Cg==</text>
+        <text encoding="base64">ZXhwb3J0cy5zZWVkID0gZnVuY3Rpb24oa25leCwgUHJvbWlzZSkgewogIC8vIERlbGV0ZXMgQUxMIGV4aXN0aW5nIGVudHJpZXMKICByZXR1cm4ga25leCgndGFibGVfbmFtZScpLmRlbCgpCiAgICAudGhlbihmdW5jdGlvbiAoKSB7CiAgICAgIC8vIEluc2VydHMgc2VlZCBlbnRyaWVzCiAgICAgIHJldHVybiBrbmV4KCd0YWJsZV9uYW1lJykuaW5zZXJ0KFsKICAgICAgICB7aWQ6IDEsIGNvbE5hbWU6ICdyb3dWYWx1ZTEnfSwKICAgICAgICB7aWQ6IDIsIGNvbE5hbWU6ICdyb3dWYWx1ZTInfSwKICAgICAgICB7aWQ6IDMsIGNvbE5hbWU6ICdyb3dWYWx1ZTMnfQogICAgICBdKTsKICAgIH0pOwp9Owo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">dGhyb3cgbmV3IEVycm9yKGBib29vb21gKQoK</text>
+        <text encoding="base64">ICAgICAgICB7IUxvdHRlcnkud2lubmluZ051bWJlciAmJiAnLCB3aGljaCB3aWxsIGJlIGFwcGVhciBvbmNlIHRoZSBkcmF3IGRhdGUgaGFzIHBhc3QuJ30K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Y29uc29sZS5sb2coJ2Zvb29vb28nKQoK</text>
+        <text encoding="base64">ICAgIGlmICghbG9hZGluZykgewogICAgICBjb25zb2xlLmxvZygnYWwnLCBMb3R0ZXJpZXMpCiAgICB9Cg==</text>
       </register>
       <register name="6" type="2">
+        <text encoding="base64">dGhyb3cgbmV3IEVycm9yKGBib29vb21gKQoK</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">Y29uc29sZS5sb2coJ2Zvb29vb28nKQoK</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">PHNwYW4+CiAgICAgICAgeycgJ308TGFiZWwgYnNTdHlsZT0nc3VjY2Vzcyc+V2lubmVyIOKcqDwvTGFiZWw+CiAgICAgIDwvc3Bhbj4=</text>
-      </register>
-      <register name="8" type="4">
-        <text encoding="base64">PHNwYW4+eycgJ30KICAgICAgICAgICAgICAgICAgICA8TGFiZWwgYnNTdHlsZT0nc3VjY2Vzcyc+V2lubmVyIOKcqDwvTGFiZWw+CiAgICAgICAgICAgICAgICAgIDwvc3Bhbj4=</text>
+      <register name="8" type="2">
+        <text encoding="base64">Y29uc29sZS5sb2coJ2Zvb29vb28nKQoK</text>
       </register>
       <register name="9" type="4">
-        <text>{' '}</text>
+        <text encoding="base64">PHNwYW4+CiAgICAgICAgeycgJ308TGFiZWwgYnNTdHlsZT0nc3VjY2Vzcyc+V2lubmVyIOKcqDwvTGFiZWw+CiAgICAgIDwvc3Bhbj4=</text>
       </register>
       <register name=":" type="4">
-        <text>action CheckinFiles</text>
+        <text>w!</text>
       </register>
     </registers>
     <search>
-      <last-search>corresp</last-search>
+      <last-search>lott</last-search>
       <last-offset />
-      <last-pattern>corresp</last-pattern>
+      <last-pattern>lott</last-pattern>
       <last-replace>event</last-replace>
       <last-substitute>foo</last-substitute>
       <last-dir>1</last-dir>
@@ -531,10 +516,6 @@
     </search>
     <history>
       <history-search>
-        <entry>winning</entry>
-        <entry>winningNumberInt</entry>
-        <entry>BIGIN</entry>
-        <entry>big</entry>
         <entry>cons</entry>
         <entry>consol</entry>
         <entry encoding="base64">XDxMb3R0ZXJ5RGV0YWlsc1w+</entry>
@@ -551,6 +532,10 @@
         <entry encoding="base64">XDxMb3R0ZXJpZXNPcGVuXD4=</entry>
         <entry encoding="base64">XDxBY3RpdmVMb3R0ZXJpZXNcPg==</entry>
         <entry>corresp</entry>
+        <entry>period</entry>
+        <entry>perio</entry>
+        <entry encoding="base64">XDxwZXJpb2RcPg==</entry>
+        <entry>lott</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5hY3Rpb24gTmV4dFNwbGl0dGVy</entry>
@@ -568,11 +553,11 @@
         <entry>action Back</entry>
         <entry>action GotoDeclaration</entry>
         <entry>action Refactorings.QuickListPopupAction</entry>
-        <entry>action NewFile</entry>
-        <entry>w!</entry>
-        <entry>action NextSplitter</entry>
-        <entry>action GotoFile</entry>
         <entry>action CheckinFiles</entry>
+        <entry>action GotoFile</entry>
+        <entry>action NewFile</entry>
+        <entry>action NextSplitter</entry>
+        <entry>w!</entry>
       </history-cmd>
       <history-expr />
       <history-input />
