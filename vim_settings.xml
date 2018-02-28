@@ -37,12 +37,12 @@
       <file name="$USER_HOME$/Documents/cea/aletheia/app/containers/Groups/GroupSignup/GroupSignupForm.jsx" timestamp="1519764527878">
         <mark key="'" line="30" column="4" />
       </file>
-      <file name="$USER_HOME$/Documents/cea/aletheia/app/models/Pledges/index.js" timestamp="1519249085366">
-        <mark key="'" line="26" column="26" />
-        <mark key="[" line="2" column="50" />
-        <mark key="]" line="2" column="50" />
-        <mark key="^" line="16" column="63" />
-        <mark key="." line="2" column="50" />
+      <file name="$USER_HOME$/Documents/cea/aletheia/app/models/Pledges/index.js" timestamp="1519850883549">
+        <mark key="'" line="92" column="27" />
+        <mark key="[" line="90" column="4" />
+        <mark key="]" line="90" column="4" />
+        <mark key="." line="90" column="11" />
+        <mark key="^" line="89" column="20" />
       </file>
       <file name="$USER_HOME$/Documents/cea/aletheia/app/graphqlWTF.js" timestamp="1519325521602">
         <mark key="'" line="22" column="32" />
@@ -57,6 +57,10 @@
         <mark key="]" line="40" column="33" />
         <mark key="^" line="40" column="29" />
         <mark key="." line="40" column="30" />
+      </file>
+      <file name="$USER_HOME$/Documents/cea/aletheia/app/models/Pledges/queries/getReportedDonationOrganizationTypeahead.gql" timestamp="1519783855296">
+        <mark key="[" line="1" column="2" />
+        <mark key="]" line="1" column="22" />
       </file>
       <file name="$USER_HOME$/Documents/cea/aletheia/app/graphql.js" timestamp="1519325144268">
         <mark key="'" line="0" column="22" />
@@ -84,12 +88,12 @@
         <mark key="." line="133" column="21" />
         <mark key="^" line="6" column="13" />
       </file>
-      <file name="$USER_HOME$/Documents/cea/aletheia/app/models/Payments/index.js" timestamp="1519169583683">
-        <mark key="'" line="60" column="35" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="^" line="60" column="35" />
-        <mark key="." line="0" column="0" />
+      <file name="$USER_HOME$/Documents/cea/aletheia/app/models/Payments/index.js" timestamp="1519850342151">
+        <mark key="'" line="67" column="35" />
+        <mark key="[" line="42" column="0" />
+        <mark key="]" line="42" column="0" />
+        <mark key="^" line="34" column="41" />
+        <mark key="." line="42" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/cea/aletheia/app/containers/DonationsNew/Allocation/AllocationHelpOverlayModal.jsx" timestamp="1515691027219">
         <mark key="[" line="1" column="0" />
@@ -184,6 +188,13 @@
         <mark key="." line="12" column="85" />
         <mark key="^" line="14" column="1" />
       </file>
+      <file name="$USER_HOME$/Documents/cea/aletheia/app/containers/Dashboard/DashboardPledge/DonationsTab.jsx" timestamp="1519849293667">
+        <mark key="'" line="94" column="13" />
+        <mark key="[" line="120" column="0" />
+        <mark key="]" line="120" column="0" />
+        <mark key="^" line="118" column="27" />
+        <mark key="." line="120" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/cea/aletheia/app/containers/Dashboard/DashboardSettings/PrivacySettings.jsx" timestamp="1519159913301">
         <mark key="'" line="49" column="4" />
         <mark key="[" line="100" column="4" />
@@ -254,12 +265,11 @@
         <mark key="." line="10" column="17" />
         <mark key="^" line="10" column="17" />
       </file>
-      <file name="$USER_HOME$/Documents/cea/aletheia/app/containers/Dashboard/DashboardPledge/index.jsx" timestamp="1519778441658">
-        <mark key="'" line="112" column="19" />
-        <mark key="[" line="244" column="0" />
-        <mark key="]" line="244" column="7" />
-        <mark key="." line="244" column="7" />
-        <mark key="^" line="242" column="4" />
+      <file name="$USER_HOME$/Documents/cea/aletheia/app/containers/Dashboard/DashboardPledge/index.jsx" timestamp="1519850388417">
+        <mark key="'" line="16" column="0" />
+        <mark key="[" line="355" column="0" />
+        <mark key="]" line="355" column="0" />
+        <mark key="." line="355" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/cea/parfit/.circleci/config.yml" timestamp="1519693779387">
         <mark key="'" line="10" column="31" />
@@ -285,12 +295,26 @@
         <mark key="." line="58" column="5" />
         <mark key="^" line="58" column="5" />
       </file>
+      <file name="$USER_HOME$/Documents/cea/aletheia/app/components/UI/TypeaheadSelector/index.jsx" timestamp="1519850423181">
+        <mark key="'" line="118" column="0" />
+        <mark key="[" line="104" column="0" />
+        <mark key="]" line="104" column="0" />
+        <mark key="^" line="8" column="15" />
+        <mark key="." line="104" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/cea/aletheia/app/containers/Lotteries/Lottery/index.jsx" timestamp="1518716059631">
         <mark key="'" line="162" column="30" />
         <mark key="[" line="163" column="28" />
         <mark key="]" line="163" column="31" />
         <mark key="." line="163" column="28" />
         <mark key="^" line="163" column="27" />
+      </file>
+      <file name="$USER_HOME$/Documents/cea/aletheia/app/containers/Pledge/components/ExternalDonationOrganizationEditor.jsx" timestamp="1519844165540">
+        <mark key="'" line="7" column="8" />
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="29" column="0" />
+        <mark key="^" line="17" column="20" />
+        <mark key="." line="29" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/cea/parfit/migrations/20171227101557_lottery_tickets_down.sql" timestamp="1515204604468">
         <mark key="'" line="11" column="20" />
@@ -299,11 +323,12 @@
         <mark key="^" line="0" column="49" />
         <mark key="." line="0" column="54" />
       </file>
-      <file name="$USER_HOME$/Documents/cea/aletheia/app/models/helpers.js" timestamp="1519777469443">
-        <mark key="[" line="56" column="6" />
-        <mark key="]" line="56" column="5" />
-        <mark key="." line="56" column="5" />
-        <mark key="^" line="56" column="5" />
+      <file name="$USER_HOME$/Documents/cea/aletheia/app/models/helpers.js" timestamp="1519850363525">
+        <mark key="'" line="3" column="0" />
+        <mark key="[" line="79" column="7" />
+        <mark key="]" line="79" column="7" />
+        <mark key="." line="79" column="7" />
+        <mark key="^" line="79" column="7" />
       </file>
       <file name="$USER_HOME$/Documents/cea/aletheia/app/components/UI/AddressSelector/index.jsx" timestamp="1518715145797">
         <mark key="'" line="330" column="5" />
@@ -340,8 +365,15 @@
         <mark key="^" line="7" column="8" />
         <mark key="." line="98" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/cea/aletheia/app/containers/Dashboard/DashboardPledge/IncomeTab.jsx" timestamp="1517603751099">
-        <mark key="'" line="51" column="40" />
+      <file name="$USER_HOME$/Documents/cea/aletheia/app/containers/Pledge/components/FindDonationOrganization.jsx" timestamp="1519851035937">
+        <mark key="'" line="41" column="34" />
+        <mark key="[" line="8" column="56" />
+        <mark key="]" line="8" column="56" />
+        <mark key="^" line="8" column="55" />
+        <mark key="." line="8" column="56" />
+      </file>
+      <file name="$USER_HOME$/Documents/cea/aletheia/app/containers/Dashboard/DashboardPledge/IncomeTab.jsx" timestamp="1519782892367">
+        <mark key="'" line="37" column="0" />
         <mark key="[" line="70" column="13" />
         <mark key="]" line="70" column="12" />
         <mark key="." line="70" column="12" />
@@ -358,6 +390,12 @@
         <mark key="[" line="8" column="22" />
         <mark key="]" line="8" column="23" />
         <mark key="." line="8" column="23" />
+      </file>
+      <file name="$USER_HOME$/Documents/cea/parfit/seeds/development/06-pledge.js" timestamp="1519846238459">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="^" line="9" column="0" />
+        <mark key="." line="10" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/cea/aletheia/app/containers/Lotteries/LotteriesHome/index.jsx" timestamp="1517443787643">
         <mark key="'" line="9" column="8" />
@@ -423,6 +461,13 @@
         <mark key="." line="17" column="19" />
         <mark key="^" line="17" column="18" />
       </file>
+      <file name="$USER_HOME$/Documents/cea/aletheia/app/containers/Pledge/components/DonationReportEditor.jsx" timestamp="1519844648331">
+        <mark key="'" line="359" column="2" />
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="13" column="9" />
+        <mark key="^" line="13" column="9" />
+        <mark key="." line="13" column="9" />
+      </file>
       <file name="$USER_HOME$/Documents/cea/parfit/migrations/20180130124612_reporting_up.sql" timestamp="1517425924694">
         <mark key="'" line="17" column="17" />
         <mark key="[" line="3" column="13" />
@@ -437,7 +482,11 @@
         <mark key="^" line="248" column="12" />
         <mark key="." line="20" column="15" />
       </file>
-      <file name="/Dummy.txt" timestamp="1519771818761">
+      <file name="$USER_HOME$/Documents/cea/aletheia/app/models/Pledges/reducer.js" timestamp="1519846719602">
+        <mark key="[" line="51" column="0" />
+        <mark key="]" line="51" column="105" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1519850891569">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -455,6 +504,13 @@
         <mark key="]" line="13" column="0" />
         <mark key="^" line="10" column="14" />
         <mark key="." line="10" column="14" />
+      </file>
+      <file name="$USER_HOME$/Documents/cea/aletheia/app/models/Pledges/schema.js" timestamp="1519850441981">
+        <mark key="'" line="27" column="16" />
+        <mark key="[" line="5" column="14" />
+        <mark key="]" line="5" column="14" />
+        <mark key="^" line="11" column="13" />
+        <mark key="." line="5" column="14" />
       </file>
       <file name="$USER_HOME$/Documents/cea/parfit/seeds/development/11-lottery_tickets.js" timestamp="1519420122766">
         <mark key="'" line="5" column="82" />
@@ -533,106 +589,106 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="253" column="0" filename="$USER_HOME$/Documents/cea/aletheia/app/models/Auth/sagas.js" />
-      <jump line="248" column="0" filename="$USER_HOME$/Documents/cea/aletheia/app/models/Auth/sagas.js" />
-      <jump line="244" column="0" filename="$USER_HOME$/Documents/cea/aletheia/app/models/Auth/sagas.js" />
-      <jump line="227" column="0" filename="$USER_HOME$/Documents/cea/aletheia/app/models/Auth/sagas.js" />
-      <jump line="208" column="0" filename="$USER_HOME$/Documents/cea/aletheia/app/models/Auth/sagas.js" />
-      <jump line="185" column="0" filename="$USER_HOME$/Documents/cea/aletheia/app/models/Auth/sagas.js" />
-      <jump line="177" column="0" filename="$USER_HOME$/Documents/cea/aletheia/app/models/Auth/sagas.js" />
-      <jump line="172" column="0" filename="$USER_HOME$/Documents/cea/aletheia/app/models/Auth/sagas.js" />
-      <jump line="151" column="0" filename="$USER_HOME$/Documents/cea/aletheia/app/models/Auth/sagas.js" />
-      <jump line="125" column="0" filename="$USER_HOME$/Documents/cea/aletheia/app/models/Auth/sagas.js" />
-      <jump line="113" column="21" filename="$USER_HOME$/Documents/cea/aletheia/app/models/Auth/sagas.js" />
-      <jump line="66" column="0" filename="$USER_HOME$/Documents/cea/aletheia/app/models/Auth/sagas.js" />
-      <jump line="111" column="0" filename="$USER_HOME$/Documents/cea/aletheia/app/models/Auth/sagas.js" />
-      <jump line="116" column="0" filename="$USER_HOME$/Documents/cea/aletheia/app/models/Auth/sagas.js" />
-      <jump line="254" column="0" filename="$USER_HOME$/Documents/cea/aletheia/app/models/Auth/sagas.js" />
-      <jump line="52" column="33" filename="$USER_HOME$/Documents/cea/aletheia/app/models/Auth/sagas.js" />
-      <jump line="258" column="15" filename="$USER_HOME$/Documents/cea/aletheia/app/models/Auth/sagas.js" />
-      <jump line="273" column="17" filename="$USER_HOME$/Documents/cea/aletheia/app/models/Auth/sagas.js" />
-      <jump line="119" column="18" filename="$USER_HOME$/Documents/cea/aletheia/app/models/Auth/sagas.js" />
-      <jump line="290" column="2" filename="$USER_HOME$/Documents/cea/aletheia/app/models/Auth/sagas.js" />
-      <jump line="37" column="6" filename="$USER_HOME$/Documents/cea/aletheia/app/models/Auth/sagas.js" />
-      <jump line="53" column="17" filename="$USER_HOME$/Documents/cea/aletheia/app/models/Auth/sagas.js" />
-      <jump line="79" column="5" filename="$USER_HOME$/Documents/cea/aletheia/app/models/Auth/sagas.js" />
-      <jump line="30" column="0" filename="$USER_HOME$/Documents/cea/aletheia/app/models/Auth/sagas.js" />
-      <jump line="68" column="2" filename="$USER_HOME$/Documents/cea/aletheia/app/models/Auth/sagas.js" />
-      <jump line="121" column="0" filename="$USER_HOME$/Documents/cea/aletheia/app/models/Auth/sagas.js" />
-      <jump line="252" column="0" filename="$USER_HOME$/Documents/cea/aletheia/app/models/Auth/sagas.js" />
-      <jump line="82" column="0" filename="$USER_HOME$/Documents/cea/aletheia/app/containers/LoginRegister/LoginRegisterForm/index.jsx" />
-      <jump line="0" column="0" filename="$USER_HOME$/Documents/cea/aletheia/app/containers/LoginRegister/LoginRegisterForm/index.jsx" />
-      <jump line="44" column="38" filename="$USER_HOME$/Documents/cea/aletheia/app/containers/LoginRegister/LoginRegisterForm/index.jsx" />
-      <jump line="147" column="20" filename="$USER_HOME$/Documents/cea/aletheia/app/containers/LoginRegister/LoginRegisterForm/index.jsx" />
-      <jump line="148" column="17" filename="$USER_HOME$/Documents/cea/aletheia/app/containers/LoginRegister/LoginRegisterForm/index.jsx" />
-      <jump line="174" column="37" filename="$USER_HOME$/Documents/cea/aletheia/app/containers/LoginRegister/LoginRegisterForm/index.jsx" />
-      <jump line="43" column="8" filename="$USER_HOME$/Documents/cea/aletheia/app/containers/LoginRegister/LoginRegisterForm/index.jsx" />
-      <jump line="130" column="0" filename="$USER_HOME$/Documents/cea/aletheia/app/containers/LoginRegister/LoginRegisterForm/modes/Register.jsx" />
-      <jump line="22" column="9" filename="$USER_HOME$/Documents/cea/aletheia/app/containers/LoginRegister/LoginRegisterForm/modes/Register.jsx" />
-      <jump line="32" column="14" filename="$USER_HOME$/Documents/cea/aletheia/app/containers/LoginRegister/LoginRegisterForm/modes/Register.jsx" />
-      <jump line="0" column="0" filename="$USER_HOME$/Documents/cea/aletheia/app/helpers/validate.js" />
-      <jump line="227" column="0" filename="$USER_HOME$/Documents/cea/aletheia/app/helpers/validate.js" />
-      <jump line="226" column="0" filename="$USER_HOME$/Documents/cea/aletheia/app/helpers/validate.js" />
-      <jump line="209" column="0" filename="$USER_HOME$/Documents/cea/aletheia/app/helpers/validate.js" />
-      <jump line="197" column="0" filename="$USER_HOME$/Documents/cea/aletheia/app/helpers/validate.js" />
-      <jump line="193" column="0" filename="$USER_HOME$/Documents/cea/aletheia/app/helpers/validate.js" />
-      <jump line="185" column="0" filename="$USER_HOME$/Documents/cea/aletheia/app/helpers/validate.js" />
-      <jump line="182" column="0" filename="$USER_HOME$/Documents/cea/aletheia/app/helpers/validate.js" />
-      <jump line="159" column="0" filename="$USER_HOME$/Documents/cea/aletheia/app/helpers/validate.js" />
-      <jump line="142" column="0" filename="$USER_HOME$/Documents/cea/aletheia/app/helpers/validate.js" />
-      <jump line="133" column="0" filename="$USER_HOME$/Documents/cea/aletheia/app/helpers/validate.js" />
-      <jump line="127" column="0" filename="$USER_HOME$/Documents/cea/aletheia/app/helpers/validate.js" />
-      <jump line="121" column="0" filename="$USER_HOME$/Documents/cea/aletheia/app/helpers/validate.js" />
-      <jump line="115" column="0" filename="$USER_HOME$/Documents/cea/aletheia/app/helpers/validate.js" />
-      <jump line="83" column="0" filename="$USER_HOME$/Documents/cea/aletheia/app/helpers/validate.js" />
-      <jump line="90" column="0" filename="$USER_HOME$/Documents/cea/aletheia/app/helpers/validate.js" />
-      <jump line="100" column="0" filename="$USER_HOME$/Documents/cea/aletheia/app/helpers/validate.js" />
-      <jump line="108" column="0" filename="$USER_HOME$/Documents/cea/aletheia/app/helpers/validate.js" />
-      <jump line="84" column="10" filename="$USER_HOME$/Documents/cea/aletheia/app/models/Auth/sagas.js" />
-      <jump line="144" column="14" filename="$USER_HOME$/Documents/cea/aletheia/app/models/Auth/sagas.js" />
-      <jump line="166" column="14" filename="$USER_HOME$/Documents/cea/aletheia/app/models/Auth/sagas.js" />
-      <jump line="182" column="10" filename="$USER_HOME$/Documents/cea/aletheia/app/models/Auth/sagas.js" />
-      <jump line="267" column="11" filename="$USER_HOME$/Documents/cea/aletheia/app/models/Auth/sagas.js" />
-      <jump line="38" column="1" filename="$USER_HOME$/Documents/cea/aletheia/app/models/Auth/sagas.js" />
-      <jump line="259" column="28" filename="$USER_HOME$/Documents/cea/aletheia/package.json" />
-      <jump line="8" column="56" filename="$USER_HOME$/Documents/cea/parfit/migrations/20170105122000_authentication_up.sql" />
-      <jump line="44" column="91" filename="$USER_HOME$/Documents/cea/parfit/migrations/20170105122000_authentication_up.sql" />
-      <jump line="73" column="108" filename="$USER_HOME$/Documents/cea/parfit/migrations/20170105122000_authentication_up.sql" />
-      <jump line="74" column="19" filename="$USER_HOME$/Documents/cea/parfit/migrations/20170105122000_authentication_up.sql" />
-      <jump line="81" column="9" filename="$USER_HOME$/Documents/cea/parfit/migrations/20170105122000_authentication_up.sql" />
-      <jump line="82" column="25" filename="$USER_HOME$/Documents/cea/parfit/migrations/20170105122000_authentication_up.sql" />
-      <jump line="83" column="15" filename="$USER_HOME$/Documents/cea/parfit/migrations/20170105122000_authentication_up.sql" />
-      <jump line="109" column="10" filename="$USER_HOME$/Documents/cea/aletheia/app/models/Auth/sagas.js" />
-      <jump line="146" column="14" filename="$USER_HOME$/Documents/cea/aletheia/app/models/Auth/sagas.js" />
-      <jump line="168" column="14" filename="$USER_HOME$/Documents/cea/aletheia/app/models/Auth/sagas.js" />
-      <jump line="184" column="10" filename="$USER_HOME$/Documents/cea/aletheia/app/models/Auth/sagas.js" />
-      <jump line="36" column="6" filename="$USER_HOME$/Documents/cea/aletheia/app/models/Auth/sagas.js" />
-      <jump line="257" column="58" filename="$USER_HOME$/Documents/cea/aletheia/app/models/Auth/sagas.js" />
-      <jump line="51" column="21" filename="$USER_HOME$/Documents/cea/aletheia/app/models/Auth/sagas.js" />
-      <jump line="33" column="22" filename="$USER_HOME$/Documents/cea/aletheia/app/models/Auth/sagas.js" />
-      <jump line="126" column="6" filename="$USER_HOME$/Documents/cea/aletheia/app/models/Auth/sagas.js" />
-      <jump line="99" column="6" filename="$USER_HOME$/Documents/cea/aletheia/app/models/Auth/sagas.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/Documents/cea/aletheia/app/components/PaymentForm/index.jsx" />
-      <jump line="58" column="28" filename="$USER_HOME$/Documents/cea/aletheia/app/models/Auth/sagas.js" />
-      <jump line="85" column="4" filename="$USER_HOME$/Documents/cea/aletheia/app/models/Auth/sagas.js" />
-      <jump line="101" column="6" filename="$USER_HOME$/Documents/cea/aletheia/app/models/Auth/sagas.js" />
-      <jump line="106" column="6" filename="$USER_HOME$/Documents/cea/aletheia/app/models/Auth/sagas.js" />
-      <jump line="110" column="4" filename="$USER_HOME$/Documents/cea/aletheia/app/models/Auth/sagas.js" />
-      <jump line="62" column="84" filename="$USER_HOME$/Documents/cea/aletheia/app/containers/AdminPerson/index.jsx" />
-      <jump line="20" column="8" filename="$USER_HOME$/Documents/cea/aletheia/app/containers/App/index.jsx" />
-      <jump line="19" column="8" filename="$USER_HOME$/Documents/cea/aletheia/app/containers/App/index.jsx" />
-      <jump line="443" column="16" filename="$USER_HOME$/Documents/cea/aletheia/app/components/PaymentForm/index.jsx" />
-      <jump line="418" column="28" filename="$USER_HOME$/Documents/cea/aletheia/app/containers/Groups/GroupManagement/index.jsx" />
-      <jump line="30" column="4" filename="$USER_HOME$/Documents/cea/aletheia/app/containers/Groups/GroupSignup/GroupSignupForm.jsx" />
-      <jump line="64" column="54" filename="$USER_HOME$/Documents/cea/aletheia/app/models/People/index.js" />
-      <jump line="199" column="0" filename="$USER_HOME$/Documents/cea/aletheia-alt/app/containers/Dashboard/DashboardPledge/index.jsx" />
-      <jump line="354" column="10" filename="$USER_HOME$/Documents/cea/aletheia-alt/app/containers/Dashboard/DashboardPledge/index.jsx" />
-      <jump line="355" column="11" filename="$USER_HOME$/Documents/cea/aletheia-alt/app/containers/Dashboard/DashboardPledge/index.jsx" />
-      <jump line="18" column="7" filename="$USER_HOME$/Documents/cea/aletheia-alt/app/containers/Dashboard/DashboardPledge/index.jsx" />
-      <jump line="214" column="6" filename="$USER_HOME$/Documents/cea/aletheia-alt/app/containers/Dashboard/DashboardPledge/index.jsx" />
-      <jump line="221" column="20" filename="$USER_HOME$/Documents/cea/aletheia-alt/app/containers/Dashboard/DashboardPledge/index.jsx" />
-      <jump line="239" column="23" filename="$USER_HOME$/Documents/cea/aletheia-alt/app/containers/Dashboard/DashboardPledge/index.jsx" />
-      <jump line="112" column="19" filename="$USER_HOME$/Documents/cea/aletheia/app/containers/Dashboard/DashboardPledge/index.jsx" />
+      <jump line="140" column="0" filename="$USER_HOME$/Documents/cea/aletheia/app/containers/Dashboard/DashboardPledge/IncomeTab.jsx" />
+      <jump line="125" column="0" filename="$USER_HOME$/Documents/cea/aletheia/app/containers/Dashboard/DashboardPledge/IncomeTab.jsx" />
+      <jump line="109" column="0" filename="$USER_HOME$/Documents/cea/aletheia/app/containers/Dashboard/DashboardPledge/IncomeTab.jsx" />
+      <jump line="104" column="0" filename="$USER_HOME$/Documents/cea/aletheia/app/containers/Dashboard/DashboardPledge/IncomeTab.jsx" />
+      <jump line="100" column="0" filename="$USER_HOME$/Documents/cea/aletheia/app/containers/Dashboard/DashboardPledge/IncomeTab.jsx" />
+      <jump line="94" column="0" filename="$USER_HOME$/Documents/cea/aletheia/app/containers/Dashboard/DashboardPledge/IncomeTab.jsx" />
+      <jump line="87" column="0" filename="$USER_HOME$/Documents/cea/aletheia/app/containers/Dashboard/DashboardPledge/IncomeTab.jsx" />
+      <jump line="37" column="0" filename="$USER_HOME$/Documents/cea/aletheia/app/containers/Dashboard/DashboardPledge/IncomeTab.jsx" />
+      <jump line="77" column="6" filename="$USER_HOME$/Documents/cea/aletheia/app/containers/Dashboard/DashboardPledge/index.jsx" />
+      <jump line="35" column="0" filename="$USER_HOME$/Documents/cea/aletheia/app/containers/Dashboard/DashboardPledge/index.jsx" />
+      <jump line="31" column="0" filename="$USER_HOME$/Documents/cea/aletheia/app/containers/Dashboard/DashboardPledge/index.jsx" />
+      <jump line="15" column="0" filename="$USER_HOME$/Documents/cea/aletheia/app/containers/Dashboard/DashboardPledge/index.jsx" />
+      <jump line="28" column="0" filename="$USER_HOME$/Documents/cea/aletheia/app/containers/Dashboard/DashboardPledge/index.jsx" />
+      <jump line="21" column="0" filename="$USER_HOME$/Documents/cea/aletheia/app/containers/Dashboard/DashboardPledge/index.jsx" />
+      <jump line="22" column="0" filename="$USER_HOME$/Documents/cea/aletheia/app/containers/Dashboard/DashboardPledge/index.jsx" />
+      <jump line="94" column="13" filename="$USER_HOME$/Documents/cea/aletheia/app/containers/Dashboard/DashboardPledge/DonationsTab.jsx" />
+      <jump line="14" column="8" filename="$USER_HOME$/Documents/cea/aletheia/app/containers/Pledge/components/DonationReportEditor.jsx" />
+      <jump line="361" column="0" filename="$USER_HOME$/Documents/cea/aletheia/app/containers/Pledge/components/DonationReportEditor.jsx" />
+      <jump line="360" column="0" filename="$USER_HOME$/Documents/cea/aletheia/app/containers/Pledge/components/DonationReportEditor.jsx" />
+      <jump line="340" column="0" filename="$USER_HOME$/Documents/cea/aletheia/app/containers/Pledge/components/DonationReportEditor.jsx" />
+      <jump line="331" column="0" filename="$USER_HOME$/Documents/cea/aletheia/app/containers/Pledge/components/DonationReportEditor.jsx" />
+      <jump line="212" column="0" filename="$USER_HOME$/Documents/cea/aletheia/app/containers/Pledge/components/DonationReportEditor.jsx" />
+      <jump line="205" column="0" filename="$USER_HOME$/Documents/cea/aletheia/app/containers/Pledge/components/DonationReportEditor.jsx" />
+      <jump line="201" column="0" filename="$USER_HOME$/Documents/cea/aletheia/app/containers/Pledge/components/DonationReportEditor.jsx" />
+      <jump line="190" column="0" filename="$USER_HOME$/Documents/cea/aletheia/app/containers/Pledge/components/DonationReportEditor.jsx" />
+      <jump line="182" column="0" filename="$USER_HOME$/Documents/cea/aletheia/app/containers/Pledge/components/DonationReportEditor.jsx" />
+      <jump line="177" column="0" filename="$USER_HOME$/Documents/cea/aletheia/app/containers/Pledge/components/DonationReportEditor.jsx" />
+      <jump line="163" column="0" filename="$USER_HOME$/Documents/cea/aletheia/app/containers/Pledge/components/DonationReportEditor.jsx" />
+      <jump line="157" column="0" filename="$USER_HOME$/Documents/cea/aletheia/app/containers/Pledge/components/DonationReportEditor.jsx" />
+      <jump line="148" column="0" filename="$USER_HOME$/Documents/cea/aletheia/app/containers/Pledge/components/DonationReportEditor.jsx" />
+      <jump line="134" column="0" filename="$USER_HOME$/Documents/cea/aletheia/app/containers/Pledge/components/DonationReportEditor.jsx" />
+      <jump line="127" column="0" filename="$USER_HOME$/Documents/cea/aletheia/app/containers/Pledge/components/DonationReportEditor.jsx" />
+      <jump line="115" column="0" filename="$USER_HOME$/Documents/cea/aletheia/app/containers/Pledge/components/DonationReportEditor.jsx" />
+      <jump line="108" column="0" filename="$USER_HOME$/Documents/cea/aletheia/app/containers/Pledge/components/DonationReportEditor.jsx" />
+      <jump line="99" column="0" filename="$USER_HOME$/Documents/cea/aletheia/app/containers/Pledge/components/DonationReportEditor.jsx" />
+      <jump line="95" column="0" filename="$USER_HOME$/Documents/cea/aletheia/app/containers/Pledge/components/DonationReportEditor.jsx" />
+      <jump line="88" column="0" filename="$USER_HOME$/Documents/cea/aletheia/app/containers/Pledge/components/DonationReportEditor.jsx" />
+      <jump line="82" column="0" filename="$USER_HOME$/Documents/cea/aletheia/app/containers/Pledge/components/DonationReportEditor.jsx" />
+      <jump line="71" column="0" filename="$USER_HOME$/Documents/cea/aletheia/app/containers/Pledge/components/DonationReportEditor.jsx" />
+      <jump line="56" column="0" filename="$USER_HOME$/Documents/cea/aletheia/app/containers/Pledge/components/DonationReportEditor.jsx" />
+      <jump line="44" column="0" filename="$USER_HOME$/Documents/cea/aletheia/app/containers/Pledge/components/DonationReportEditor.jsx" />
+      <jump line="40" column="0" filename="$USER_HOME$/Documents/cea/aletheia/app/containers/Pledge/components/DonationReportEditor.jsx" />
+      <jump line="38" column="0" filename="$USER_HOME$/Documents/cea/aletheia/app/containers/Pledge/components/DonationReportEditor.jsx" />
+      <jump line="35" column="0" filename="$USER_HOME$/Documents/cea/aletheia/app/containers/Pledge/components/DonationReportEditor.jsx" />
+      <jump line="33" column="0" filename="$USER_HOME$/Documents/cea/aletheia/app/containers/Pledge/components/DonationReportEditor.jsx" />
+      <jump line="31" column="0" filename="$USER_HOME$/Documents/cea/aletheia/app/containers/Pledge/components/DonationReportEditor.jsx" />
+      <jump line="16" column="0" filename="$USER_HOME$/Documents/cea/aletheia/app/containers/Pledge/components/DonationReportEditor.jsx" />
+      <jump line="13" column="0" filename="$USER_HOME$/Documents/cea/aletheia/app/containers/Pledge/components/DonationReportEditor.jsx" />
+      <jump line="11" column="0" filename="$USER_HOME$/Documents/cea/aletheia/app/containers/Pledge/components/DonationReportEditor.jsx" />
+      <jump line="4" column="0" filename="$USER_HOME$/Documents/cea/aletheia/app/containers/Pledge/components/DonationReportEditor.jsx" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/cea/aletheia/app/containers/Pledge/components/DonationReportEditor.jsx" />
+      <jump line="71" column="13" filename="$USER_HOME$/Documents/cea/aletheia/app/containers/Pledge/components/FindDonationOrganization.jsx" />
+      <jump line="72" column="14" filename="$USER_HOME$/Documents/cea/aletheia/app/containers/Pledge/components/FindDonationOrganization.jsx" />
+      <jump line="7" column="7" filename="$USER_HOME$/Documents/cea/aletheia/app/models/Pledges/index.js" />
+      <jump line="58" column="32" filename="$USER_HOME$/Documents/cea/aletheia/app/containers/Pledge/components/FindDonationOrganization.jsx" />
+      <jump line="106" column="74" filename="$USER_HOME$/Documents/cea/aletheia/app/components/UI/TypeaheadSelector/index.jsx" />
+      <jump line="109" column="8" filename="$USER_HOME$/Documents/cea/aletheia/app/components/UI/TypeaheadSelector/index.jsx" />
+      <jump line="117" column="23" filename="$USER_HOME$/Documents/cea/aletheia/app/components/UI/TypeaheadSelector/index.jsx" />
+      <jump line="135" column="24" filename="$USER_HOME$/Documents/cea/aletheia/app/components/UI/TypeaheadSelector/index.jsx" />
+      <jump line="149" column="2" filename="$USER_HOME$/Documents/cea/aletheia/app/components/UI/TypeaheadSelector/index.jsx" />
+      <jump line="30" column="6" filename="$USER_HOME$/Documents/cea/aletheia/app/components/UI/TypeaheadSelector/index.jsx" />
+      <jump line="38" column="11" filename="$USER_HOME$/Documents/cea/aletheia/app/components/UI/TypeaheadSelector/index.jsx" />
+      <jump line="41" column="49" filename="$USER_HOME$/Documents/cea/aletheia/app/components/UI/TypeaheadSelector/index.jsx" />
+      <jump line="60" column="11" filename="$USER_HOME$/Documents/cea/aletheia/app/components/UI/TypeaheadSelector/index.jsx" />
+      <jump line="63" column="55" filename="$USER_HOME$/Documents/cea/aletheia/app/components/UI/TypeaheadSelector/index.jsx" />
+      <jump line="43" column="12" filename="$USER_HOME$/Documents/cea/aletheia/app/containers/Pledge/components/FindDonationOrganization.jsx" />
+      <jump line="7" column="8" filename="$USER_HOME$/Documents/cea/aletheia/app/containers/Pledge/components/ExternalDonationOrganizationEditor.jsx" />
+      <jump line="7" column="7" filename="$USER_HOME$/Documents/cea/aletheia/app/containers/Pledge/components/DonationReportEditor.jsx" />
+      <jump line="266" column="27" filename="$USER_HOME$/Documents/cea/aletheia/app/containers/Pledge/components/DonationReportEditor.jsx" />
+      <jump line="117" column="16" filename="$USER_HOME$/Documents/cea/aletheia/app/containers/Pledge/components/DonationReportEditor.jsx" />
+      <jump line="11" column="25" filename="$USER_HOME$/Documents/cea/aletheia/app/containers/Pledge/components/FindDonationOrganization.jsx" />
+      <jump line="33" column="0" filename="$USER_HOME$/Documents/cea/aletheia/app/containers/Pledge/components/FindDonationOrganization.jsx" />
+      <jump line="13" column="0" filename="$USER_HOME$/Documents/cea/aletheia/app/containers/Pledge/components/FindDonationOrganization.jsx" />
+      <jump line="23" column="0" filename="$USER_HOME$/Documents/cea/aletheia/app/containers/Pledge/components/FindDonationOrganization.jsx" />
+      <jump line="16" column="13" filename="$USER_HOME$/Documents/cea/aletheia/app/models/Pledges/index.js" />
+      <jump line="80" column="11" filename="$USER_HOME$/Documents/cea/aletheia/app/models/Pledges/index.js" />
+      <jump line="3" column="50" filename="$USER_HOME$/Documents/cea/aletheia/app/models/Pledges/index.js" />
+      <jump line="28" column="31" filename="$USER_HOME$/Documents/cea/aletheia/app/models/Pledges/index.js" />
+      <jump line="44" column="31" filename="$USER_HOME$/Documents/cea/aletheia/app/models/Pledges/index.js" />
+      <jump line="60" column="31" filename="$USER_HOME$/Documents/cea/aletheia/app/models/Pledges/index.js" />
+      <jump line="61" column="2" filename="$USER_HOME$/Documents/cea/aletheia/app/containers/Pledge/components/FindDonationOrganization.jsx" />
+      <jump line="15" column="0" filename="$USER_HOME$/Documents/cea/aletheia/app/containers/Pledge/components/DonationReportEditor.jsx" />
+      <jump line="357" column="2" filename="$USER_HOME$/Documents/cea/aletheia/app/containers/Pledge/components/DonationReportEditor.jsx" />
+      <jump line="226" column="6" filename="$USER_HOME$/Documents/cea/aletheia/app/containers/Dashboard/DashboardPledge/index.jsx" />
+      <jump line="236" column="6" filename="$USER_HOME$/Documents/cea/aletheia/app/containers/Dashboard/DashboardPledge/index.jsx" />
+      <jump line="55" column="13" filename="$USER_HOME$/Documents/cea/aletheia/app/models/Pledges/schema.js" />
+      <jump line="11" column="16" filename="$USER_HOME$/Documents/cea/aletheia/app/models/Pledges/schema.js" />
+      <jump line="26" column="16" filename="$USER_HOME$/Documents/cea/aletheia/app/models/Pledges/schema.js" />
+      <jump line="34" column="8" filename="$USER_HOME$/Documents/cea/aletheia/app/models/Pledges/index.js" />
+      <jump line="70" column="22" filename="$USER_HOME$/Documents/cea/aletheia/app/models/Pledges/index.js" />
+      <jump line="69" column="6" filename="$USER_HOME$/Documents/cea/aletheia/app/models/Pledges/index.js" />
+      <jump line="118" column="23" filename="$USER_HOME$/Documents/cea/aletheia/app/containers/Dashboard/DashboardPledge/index.jsx" />
+      <jump line="132" column="0" filename="$USER_HOME$/Documents/cea/aletheia/app/containers/Dashboard/DashboardPledge/index.jsx" />
+      <jump line="136" column="0" filename="$USER_HOME$/Documents/cea/aletheia/app/containers/Dashboard/DashboardPledge/index.jsx" />
+      <jump line="142" column="0" filename="$USER_HOME$/Documents/cea/aletheia/app/containers/Dashboard/DashboardPledge/index.jsx" />
+      <jump line="16" column="0" filename="$USER_HOME$/Documents/cea/aletheia/app/containers/Dashboard/DashboardPledge/index.jsx" />
+      <jump line="118" column="0" filename="$USER_HOME$/Documents/cea/aletheia/app/components/UI/TypeaheadSelector/index.jsx" />
+      <jump line="92" column="27" filename="$USER_HOME$/Documents/cea/aletheia/app/models/Pledges/index.js" />
+      <jump line="4" column="8" filename="$USER_HOME$/Documents/cea/aletheia/app/containers/Pledge/components/FindDonationOrganization.jsx" />
+      <jump line="41" column="34" filename="$USER_HOME$/Documents/cea/aletheia/app/containers/Pledge/components/FindDonationOrganization.jsx" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -651,87 +707,85 @@
 '</text>
       </register>
       <register name="*" type="4">
-        <text>{}</text>
+        <text>{
+
+  }</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Lyog</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxHZXRQbGVkZ2VzQnlQZXJzb25JZFF1ZXJ5XD4=</text>
+        <text encoding="base64">XDxnZXRcPg==</text>
       </register>
       <register name="0" type="4">
-        <text>getCanManageCurrentGroup</text>
+        <text>DonationOrganizations</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgUGxlZGdlc0xvYWRpbmcsCiAgICAgIEluY29tZXNMb2FkaW5nLAogICAgICBQYXltZW50c0xvYWRpbmcKICAgIH0gPSB0aGlzLnByb3BzCg==</text>
+        <text encoding="base64">Ly8gVE9ETyAuLgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBncmFwaHFsKEdldFBsZWRnZXNCeVBlcnNvbklkUXVlcnksIHsKICAgIG5hbWU6ICdHZXRQbGVkZ2VzQnlQZXJzb25JZFF1ZXJ5JywKICAgIG9wdGlvbnM6ICh7UGVyc29ufSkgPT4gKHsKICAgICAgdmFyaWFibGVzOiB7IHBlcnNvbklkOiBQZXJzb24uaWQgfQogICAgfSkKICB9KSwKICBncmFwaHFsKEdldEluY29tZXNCeVBlcnNvbklkUXVlcnksIHsKICAgIG5hbWU6ICdHZXRJbmNvbWVzQnlQZXJzb25JZFF1ZXJ5JywKICAgIG9wdGlvbnM6ICh7UGVyc29ufSkgPT4gKHsKICAgICAgdmFyaWFibGVzOiB7IHBlcnNvbklkOiBQZXJzb24uaWQgfQogICAgfSkKICB9KSwKICBncmFwaHFsKEdldFBheW1lbnRzUXVlcnksIHsKICAgIG5hbWU6ICdHZXRQYXltZW50c1F1ZXJ5JywKICAgIG9wdGlvbnM6ICh7UGVyc29ufSkgPT4gKHt2YXJpYWJsZXM6IHsgcGVyc29uSWQ6IFBlcnNvbi5pZCB9fSkKICB9KSwK</text>
+        <text encoding="base64">aW1wb3J0IHtnZXR9IGZyb20gJ2xvZGFzaCcK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBjb25uZWN0KG1hcFN0YXRlVG9Qcm9wcykK</text>
+        <text encoding="base64">Ly8gVE9ETyByZW1vdmUKaW1wb3J0IEdldFJlcG9ydGVkRG9uYXRpb25Pcmdhbml6YXRpb25UeXBlYWhlYWRRdWVyeSBmcm9tICdtb2RlbHMvUGxlZGdlcy9xdWVyaWVzL2dldEV4dGVybmFsRG9uYXRpb25Pcmdhbml6YXRpb25UeXBlYWhlYWQuZ3FsJwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAvKiBjb25zdCBEYXNoYm9hcmRQbGVkZ2VXaXRoUXVlcmllcyA9IGNvbXBvc2UoCg==</text>
+        <text encoding="base64">ICAvLyBncmFwaHFsKEdldFJlcG9ydGVkRG9uYXRpb25Pcmdhbml6YXRpb25UeXBlYWhlYWRRdWVyeSwgewogIC8vICAgbmFtZTogJ0dldFJlcG9ydGVkRG9uYXRpb25Pcmdhbml6YXRpb25UeXBlYWhlYWRRdWVyeScsCiAgLy8gICBvcHRpb25zOiB7CiAgLy8gICAgIHZhcmlhYmxlczogeyBzZWFyY2hUZXh0OiAnJyB9CiAgLy8gICB9CiAgLy8gfSkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAvKiBjb25zdCBEYXNoYm9hcmRQbGVkZ2VXaXRoUXVlcmllcyA9IGNvbXBvc2UoCg==</text>
+        <text encoding="base64">ICAvLyBncmFwaHFsKEdldFJlcG9ydGVkRG9uYXRpb25Pcmdhbml6YXRpb25UeXBlYWhlYWRRdWVyeSwgewogIC8vICAgbmFtZTogJ0dldFJlcG9ydGVkRG9uYXRpb25Pcmdhbml6YXRpb25UeXBlYWhlYWRRdWVyeScsCiAgLy8gICBvcHRpb25zOiB7CiAgLy8gICAgIHZhcmlhYmxlczogeyBzZWFyY2hUZXh0OiAnJyB9CiAgLy8gICB9CiAgLy8gfSkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIC8vIHNldCBzb21lIHZhcmlhYmxlcwo=</text>
+        <text encoding="base64">Ly8gVE9ETyB0eXBlYWhlYWQK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">PT09PT09PQogICAgLy8gVE9ETy1RIHRoaXMgY291bGQgKHNob3VsZD8pIGJlIGJlaGluZCBhbiBBdXRoCj4+Pj4+Pj4gU3Rhc2hlZCBjaGFuZ2VzCg==</text>
+        <text encoding="base64">ICAvLyBUT0RPIG9uZSBsaW5lcgo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">PDw8PDw8PCBVcGRhdGVkIHVwc3RyZWFtCg==</text>
+      <register name="8" type="4">
+        <text>{
+
+  }</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">PDw8PDw8PCBVcGRhdGVkIHVwc3RyZWFtCg==</text>
+        <text encoding="base64">ICAgIHJldHVybiBtYXBHUUxSZXN1bHRUb1JlY29yZChEb25hdGlvbk9yZ2FuaXphdGlvbnMsIEV4dGVybmFsRG9uYXRpb25Pcmdhbml6YXRpb25SZWNvcmQpCiAgICAgIC5wdXNoKENSRUFURV9ORVdfT1JHKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w!</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxHZXRQbGVkZ2VzQnlQZXJzb25JZFF1ZXJ5XD4=</last-search>
+      <last-search encoding="base64">XDxnZXRcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxHZXRQbGVkZ2VzQnlQZXJzb25JZFF1ZXJ5XD4=</last-pattern>
-      <last-replace>'</last-replace>
-      <last-substitute>&quot;</last-substitute>
+      <last-pattern encoding="base64">XDxnZXRcPg==</last-pattern>
+      <last-replace>Income</last-replace>
+      <last-substitute>Pledge</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>TODO</entry>
+        <entry>type</entry>
+        <entry encoding="base64">XDxGaW5kUmVwb3J0ZWREb25hdGlvbk9yZ2FuaXphdGlvblw+</entry>
+        <entry encoding="base64">XDxHZXRSZXBvcnRlZERvbmF0aW9uT3JnYW5pemF0aW9uVHlwZWFoZWFkUXVlcnlcPg==</entry>
+        <entry encoding="base64">XDxzZWFyY2hSZXN1bHRzXD4=</entry>
+        <entry>finddona</entry>
+        <entry encoding="base64">XDxoYW5kbGVDaG9vc2VPcmdhbml6YXRpb25cPg==</entry>
+        <entry encoding="base64">XDxFeHRlcm5hbERvbmF0aW9uT3JnYW5pemF0aW9uXD4=</entry>
+        <entry encoding="base64">XDxDUkVBVEVfTkVXX09SR1w+</entry>
+        <entry encoding="base64">XDxtYXBHUUxSZXN1bHRUb1JlY29yZFw+</entry>
+        <entry encoding="base64">XDxnZXRSZXBvcnRlZERvbmF0aW9uT3JnYW5pemF0aW9uVHlwZWFoZWFkXD4=</entry>
+        <entry encoding="base64">XDxnZXRBbGxDdXJyZW5jaWVzXD4=</entry>
+        <entry encoding="base64">XDxFeHRlcm5hbERvbmF0aW9uc0xvYWRpbmdcPg==</entry>
+        <entry>liabi</entry>
+        <entry encoding="base64">XDxMaWFiaWxpdHlcPg==</entry>
+        <entry encoding="base64">XDxMaWFiaWxpdHlSZWNvcmRcPg==</entry>
+        <entry>liabilities.get</entry>
+        <entry>pledge</entry>
+        <entry>Pledge</entry>
         <entry encoding="base64">VE9ETyA=</entry>
-        <entry>TODO\n</entry>
-        <entry>consol</entry>
-        <entry>valid</entry>
-        <entry encoding="base64">XDx2YWxpZGF0ZUZvcm1cPg==</entry>
-        <entry>token was</entry>
-        <entry>jwt ex</entry>
-        <entry>10</entry>
-        <entry>jwt</entry>
-        <entry encoding="base64">XDxyZW1vdmVUb2tlblw+</entry>
-        <entry encoding="base64">XDxUT0tFTl9MSVZFX0RVUkFUSU9OXD4=</entry>
-        <entry>console.log</entry>
-        <entry>why not</entry>
-        <entry>conso</entry>
-        <entry encoding="base64">XDxnZXRPcmdhbml6YXRpb25zXD4=</entry>
-        <entry encoding="base64">XDxnZXRQZXJzb25cPg==</entry>
-        <entry>=====</entry>
-        <entry>====</entry>
-        <entry encoding="base64">XDxHZXRQbGVkZ2VzQnlQZXJzb25JZFF1ZXJ5XD4=</entry>
+        <entry encoding="base64">XDxnZXRcPg==</entry>
       </history-search>
       <history-cmd>
-        <entry>action CommentByLineComment</entry>
-        <entry>20</entry>
-        <entry>26</entry>
-        <entry>57</entry>
-        <entry>134</entry>
-        <entry>352</entry>
         <entry>399</entry>
         <entry>420</entry>
         <entry>25</entry>
@@ -741,10 +795,16 @@
         <entry>169</entry>
         <entry>12</entry>
         <entry>76</entry>
-        <entry>action FindInPath</entry>
+        <entry>78</entry>
         <entry>action NewFile</entry>
-        <entry>action NextSplitter</entry>
+        <entry>action GotoDeclaration</entry>
+        <entry encoding="base64">JzwsJz5zL3BsZWRnZS9pbmNvbWUvZw==</entry>
+        <entry encoding="base64">JzwsJz5zL1BsZWRnZS9JbmNvbWUvZw==</entry>
+        <entry>action CommentByLineComment</entry>
         <entry>action GotoFile</entry>
+        <entry>action Refactorings.QuickListPopupAction</entry>
+        <entry>action FindInPath</entry>
+        <entry>action NextSplitter</entry>
         <entry>w!</entry>
       </history-cmd>
       <history-expr />
