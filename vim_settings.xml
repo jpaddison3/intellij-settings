@@ -254,6 +254,13 @@
         <mark key="." line="10" column="17" />
         <mark key="^" line="10" column="17" />
       </file>
+      <file name="$USER_HOME$/Documents/cea/aletheia/app/containers/Dashboard/DashboardPledge/index.jsx" timestamp="1519778441658">
+        <mark key="'" line="112" column="19" />
+        <mark key="[" line="244" column="0" />
+        <mark key="]" line="244" column="7" />
+        <mark key="." line="244" column="7" />
+        <mark key="^" line="242" column="4" />
+      </file>
       <file name="$USER_HOME$/Documents/cea/parfit/.circleci/config.yml" timestamp="1519693779387">
         <mark key="'" line="10" column="31" />
         <mark key="[" line="30" column="70" />
@@ -291,6 +298,12 @@
         <mark key="]" line="0" column="54" />
         <mark key="^" line="0" column="49" />
         <mark key="." line="0" column="54" />
+      </file>
+      <file name="$USER_HOME$/Documents/cea/aletheia/app/models/helpers.js" timestamp="1519777469443">
+        <mark key="[" line="56" column="6" />
+        <mark key="]" line="56" column="5" />
+        <mark key="." line="56" column="5" />
+        <mark key="^" line="56" column="5" />
       </file>
       <file name="$USER_HOME$/Documents/cea/aletheia/app/components/UI/AddressSelector/index.jsx" timestamp="1518715145797">
         <mark key="'" line="330" column="5" />
@@ -520,7 +533,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="122" column="21" filename="$USER_HOME$/Documents/cea/aletheia/app/models/Auth/sagas.js" />
       <jump line="253" column="0" filename="$USER_HOME$/Documents/cea/aletheia/app/models/Auth/sagas.js" />
       <jump line="248" column="0" filename="$USER_HOME$/Documents/cea/aletheia/app/models/Auth/sagas.js" />
       <jump line="244" column="0" filename="$USER_HOME$/Documents/cea/aletheia/app/models/Auth/sagas.js" />
@@ -620,6 +632,7 @@
       <jump line="214" column="6" filename="$USER_HOME$/Documents/cea/aletheia-alt/app/containers/Dashboard/DashboardPledge/index.jsx" />
       <jump line="221" column="20" filename="$USER_HOME$/Documents/cea/aletheia-alt/app/containers/Dashboard/DashboardPledge/index.jsx" />
       <jump line="239" column="23" filename="$USER_HOME$/Documents/cea/aletheia-alt/app/containers/Dashboard/DashboardPledge/index.jsx" />
+      <jump line="112" column="19" filename="$USER_HOME$/Documents/cea/aletheia/app/containers/Dashboard/DashboardPledge/index.jsx" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -641,7 +654,7 @@
         <text>{}</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text encoding="base64">Lyog</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxHZXRQbGVkZ2VzQnlQZXJzb25JZFF1ZXJ5XD4=</text>
@@ -650,34 +663,34 @@
         <text>getCanManageCurrentGroup</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">PT09PT09PQogICAgLy8gVE9ETy1RIHRoaXMgY291bGQgKHNob3VsZD8pIGJlIGJlaGluZCBhbiBBdXRoCj4+Pj4+Pj4gU3Rhc2hlZCBjaGFuZ2VzCg==</text>
+        <text encoding="base64">ICAgICAgUGxlZGdlc0xvYWRpbmcsCiAgICAgIEluY29tZXNMb2FkaW5nLAogICAgICBQYXltZW50c0xvYWRpbmcKICAgIH0gPSB0aGlzLnByb3BzCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">PDw8PDw8PCBVcGRhdGVkIHVwc3RyZWFtCg==</text>
+        <text encoding="base64">ICBncmFwaHFsKEdldFBsZWRnZXNCeVBlcnNvbklkUXVlcnksIHsKICAgIG5hbWU6ICdHZXRQbGVkZ2VzQnlQZXJzb25JZFF1ZXJ5JywKICAgIG9wdGlvbnM6ICh7UGVyc29ufSkgPT4gKHsKICAgICAgdmFyaWFibGVzOiB7IHBlcnNvbklkOiBQZXJzb24uaWQgfQogICAgfSkKICB9KSwKICBncmFwaHFsKEdldEluY29tZXNCeVBlcnNvbklkUXVlcnksIHsKICAgIG5hbWU6ICdHZXRJbmNvbWVzQnlQZXJzb25JZFF1ZXJ5JywKICAgIG9wdGlvbnM6ICh7UGVyc29ufSkgPT4gKHsKICAgICAgdmFyaWFibGVzOiB7IHBlcnNvbklkOiBQZXJzb24uaWQgfQogICAgfSkKICB9KSwKICBncmFwaHFsKEdldFBheW1lbnRzUXVlcnksIHsKICAgIG5hbWU6ICdHZXRQYXltZW50c1F1ZXJ5JywKICAgIG9wdGlvbnM6ICh7UGVyc29ufSkgPT4gKHt2YXJpYWJsZXM6IHsgcGVyc29uSWQ6IFBlcnNvbi5pZCB9fSkKICB9KSwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">PDw8PDw8PCBVcGRhdGVkIHVwc3RyZWFtCg==</text>
+        <text encoding="base64">ICBjb25uZWN0KG1hcFN0YXRlVG9Qcm9wcykK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">PT09PT09PQovLyAgICAgZnJvbSB0aGUgcmVkdWNlciB3aWxsIHNob3cgdXAgdW5kZXIuICBGb3IgZXhhbXBsZSwgc2VlIHRoZSBnZXRTZXR0aW5ncwovLyAgICAgcXVlcnkuCi8vIFRPRE8tUSBjYW4gd2UgbWFrZSBwcm9wcyBmdW5jdGlvbiBuYW1lIGJlIG1vcmUgb2J2aW91cyB3aGF0IGl0IGRvZXMKPj4+Pj4+PiBTdGFzaGVkIGNoYW5nZXMK</text>
+        <text encoding="base64">ICAvKiBjb25zdCBEYXNoYm9hcmRQbGVkZ2VXaXRoUXVlcmllcyA9IGNvbXBvc2UoCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">PDw8PDw8PCBVcGRhdGVkIHVwc3RyZWFtCg==</text>
+        <text encoding="base64">ICAvKiBjb25zdCBEYXNoYm9hcmRQbGVkZ2VXaXRoUXVlcmllcyA9IGNvbXBvc2UoCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">PT09PT09PQogICAgY29uc3QgbmFtZSA9IGdldChzZWNvbmRPcHRpb25zLCAnbmFtZScsIGRlZmF1bHROYW1lKQo+Pj4+Pj4+IFN0YXNoZWQgY2hhbmdlcwo=</text>
+        <text encoding="base64">ICAgIC8vIHNldCBzb21lIHZhcmlhYmxlcwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">PDw8PDw8PCBVcGRhdGVkIHVwc3RyZWFtCg==</text>
+        <text encoding="base64">PT09PT09PQogICAgLy8gVE9ETy1RIHRoaXMgY291bGQgKHNob3VsZD8pIGJlIGJlaGluZCBhbiBBdXRoCj4+Pj4+Pj4gU3Rhc2hlZCBjaGFuZ2VzCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">PT09PT09PQogICAgbGV0IHJlZHVjZXJSZXN1bHQgPSB7fQo+Pj4+Pj4+IFN0YXNoZWQgY2hhbmdlcwo=</text>
+        <text encoding="base64">PDw8PDw8PCBVcGRhdGVkIHVwc3RyZWFtCg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">PDw8PDw8PCBVcGRhdGVkIHVwc3RyZWFtCg==</text>
       </register>
       <register name=":" type="4">
-        <text>action NewFile</text>
+        <text>w!</text>
       </register>
     </registers>
     <search>
@@ -728,11 +741,11 @@
         <entry>169</entry>
         <entry>12</entry>
         <entry>76</entry>
-        <entry>w!</entry>
-        <entry>action NextSplitter</entry>
         <entry>action FindInPath</entry>
-        <entry>action GotoFile</entry>
         <entry>action NewFile</entry>
+        <entry>action NextSplitter</entry>
+        <entry>action GotoFile</entry>
+        <entry>w!</entry>
       </history-cmd>
       <history-expr />
       <history-input />
