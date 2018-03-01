@@ -53,28 +53,22 @@
         <mark key="^" line="2" column="22" />
         <mark key="." line="2" column="22" />
       </file>
-      <file name="$USER_HOME$/Documents/cea/aletheia/app/models/Pledges/selectors.js" timestamp="1519862610679">
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="19" column="12" />
-        <mark key="^" line="19" column="12" />
-        <mark key="." line="19" column="12" />
+      <file name="$USER_HOME$/Documents/cea/parfit/migrations/20180125150914_external_donation_reports_up.sql" timestamp="1519933535754">
+        <mark key="[" line="8" column="2" />
+        <mark key="]" line="8" column="18" />
+        <mark key="." line="45" column="22" />
+        <mark key="^" line="45" column="22" />
       </file>
       <file name="$USER_HOME$/Documents/cea/aletheia/app/containers/DonationsNew/Organizations/OrganizationBox.js" timestamp="1515694301607">
         <mark key="[" line="8" column="22" />
         <mark key="]" line="8" column="23" />
         <mark key="." line="8" column="23" />
       </file>
-      <file name="$USER_HOME$/Documents/cea/parfit/seeds/development/06-pledge.js" timestamp="1519846238459">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="^" line="9" column="0" />
-        <mark key="." line="10" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/cea/aletheia/app/models/Organizations/schema.js" timestamp="1519870826004">
-        <mark key="[" line="0" column="15" />
-        <mark key="]" line="0" column="20" />
-        <mark key="." line="0" column="20" />
-        <mark key="^" line="0" column="20" />
+      <file name="$USER_HOME$/Documents/cea/aletheia/app/models/Organizations/schema.js" timestamp="1519934419915">
+        <mark key="[" line="14" column="2" />
+        <mark key="]" line="14" column="17" />
+        <mark key="." line="14" column="17" />
+        <mark key="^" line="14" column="17" />
       </file>
       <file name="$USER_HOME$/Documents/cea/aletheia/app/containers/Dashboard/components/ReportedDonationEditor.jsx" timestamp="1519875257679">
         <mark key="'" line="9" column="0" />
@@ -127,18 +121,18 @@
         <mark key="." line="190" column="29" />
         <mark key="^" line="190" column="29" />
       </file>
-      <file name="$USER_HOME$/Documents/cea/aletheia/app/components/ExternalOrganizations/ExternalOrganizationEditor.jsx" timestamp="1519872460890">
-        <mark key="'" line="25" column="14" />
-        <mark key="[" line="133" column="8" />
-        <mark key="]" line="133" column="8" />
-        <mark key="." line="133" column="8" />
-        <mark key="^" line="139" column="23" />
+      <file name="$USER_HOME$/Documents/cea/aletheia/app/components/ExternalOrganizations/ExternalOrganizationEditor.jsx" timestamp="1519934237136">
+        <mark key="'" line="12" column="8" />
+        <mark key="[" line="12" column="85" />
+        <mark key="]" line="12" column="85" />
+        <mark key="." line="12" column="85" />
+        <mark key="^" line="12" column="85" />
       </file>
-      <file name="$USER_HOME$/Documents/cea/aletheia/app/models/Pledges/queries/getReportedDonationsByPersonId.gql" timestamp="1519874038908">
-        <mark key="[" line="0" column="58" />
-        <mark key="]" line="1" column="19" />
-        <mark key="." line="1" column="19" />
-        <mark key="^" line="1" column="19" />
+      <file name="$USER_HOME$/Documents/cea/aletheia/app/models/Pledges/queries/getReportedDonationsByPersonId.gql" timestamp="1519933553902">
+        <mark key="[" line="14" column="22" />
+        <mark key="]" line="14" column="22" />
+        <mark key="." line="14" column="22" />
+        <mark key="^" line="14" column="22" />
       </file>
       <file name="$USER_HOME$/Documents/cea/aletheia/app/containers/Pledge/components/ExternalDonationOrganizationEditor.jsx" timestamp="1519863416847">
         <mark key="'" line="149" column="15" />
@@ -176,13 +170,7 @@
         <mark key="." line="193" column="0" />
         <mark key="^" line="0" column="6" />
       </file>
-      <file name="$USER_HOME$/Documents/cea/aletheia/app/models/Pledges/reducer.js" timestamp="1519862557448">
-        <mark key="[" line="44" column="24" />
-        <mark key="]" line="45" column="21" />
-        <mark key="^" line="45" column="21" />
-        <mark key="." line="45" column="21" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1519875260236">
+      <file name="/Dummy.txt" timestamp="1519934426728">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -206,7 +194,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="80" column="11" filename="$USER_HOME$/Documents/cea/aletheia/app/models/Pledges/index.js" />
       <jump line="3" column="50" filename="$USER_HOME$/Documents/cea/aletheia/app/models/Pledges/index.js" />
       <jump line="28" column="31" filename="$USER_HOME$/Documents/cea/aletheia/app/models/Pledges/index.js" />
       <jump line="61" column="2" filename="$USER_HOME$/Documents/cea/aletheia/app/containers/Pledge/components/FindDonationOrganization.jsx" />
@@ -306,6 +293,7 @@
       <jump line="42" column="54" filename="$USER_HOME$/Documents/cea/aletheia/app/containers/Dashboard/components/ReportedDonationEditor.jsx" />
       <jump line="6" column="7" filename="$USER_HOME$/Documents/cea/aletheia/app/containers/Dashboard/components/ReportedDonationEditor.jsx" />
       <jump line="9" column="0" filename="$USER_HOME$/Documents/cea/aletheia/app/containers/Dashboard/components/ReportedDonationEditor.jsx" />
+      <jump line="12" column="8" filename="$USER_HOME$/Documents/cea/aletheia/app/components/ExternalOrganizations/ExternalOrganizationEditor.jsx" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -329,13 +317,13 @@
   }</text>
       </register>
       <register name="-" type="4">
-        <text>donationValidationConstraints</text>
+        <text>EaFundOrgSlug</text>
       </register>
       <register name="/" type="4">
-        <text>Find</text>
+        <text encoding="base64">XDxFeHRlcm5hbE9yZ2FuaXphdGlvblw+</text>
       </register>
       <register name="0" type="4">
-        <text>reportedDonationValidationConstraints</text>
+        <text>ExternalOrganizationRecord</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgIC8vIFRPRE8gY2hhbmdlIHRoaXMK</text>
@@ -369,9 +357,9 @@
       </register>
     </registers>
     <search>
-      <last-search>Find</last-search>
+      <last-search encoding="base64">XDxFeHRlcm5hbE9yZ2FuaXphdGlvblw+</last-search>
       <last-offset />
-      <last-pattern>Find</last-pattern>
+      <last-pattern encoding="base64">XDxFeHRlcm5hbE9yZ2FuaXphdGlvblw+</last-pattern>
       <last-replace>ReportedDon</last-replace>
       <last-substitute>ExternalDon</last-substitute>
       <last-dir>1</last-dir>
@@ -382,7 +370,6 @@
         <entry encoding="base64">XDxFeHRlcm5hbERvbmF0aW9uT3JnYW5pemF0aW9uRWRpdG9yV2l0aFF1ZXJpZXNcPg==</entry>
         <entry>console.</entry>
         <entry encoding="base64">XDxnZXRcPg==</entry>
-        <entry encoding="base64">XDxFeHRlcm5hbE9yZ2FuaXphdGlvblw+</entry>
         <entry encoding="base64">XDxnZXRFeHRlcm5hbE9yZ2FuaXphdGlvblR5cGVhaGVhZEdRTFw+</entry>
         <entry encoding="base64">XDxnZXRFeHRlcm5hbE9yZ2FuaXphdGlvblR5cGVBaGVhZEdRTFw+</entry>
         <entry encoding="base64">XDxFeHRlcm5hbE9yZ2FuaXphdGlvbkVkaXRvclw+</entry>
@@ -399,9 +386,9 @@
         <entry>constra</entry>
         <entry>FindE</entry>
         <entry>Find</entry>
+        <entry encoding="base64">XDxFeHRlcm5hbE9yZ2FuaXphdGlvblw+</entry>
       </history-search>
       <history-cmd>
-        <entry>25</entry>
         <entry>170</entry>
         <entry>33</entry>
         <entry>100</entry>
@@ -414,11 +401,12 @@
         <entry encoding="base64">JzwsJz5zL1BsZWRnZS9JbmNvbWUvZw==</entry>
         <entry>action CommentByLineComment</entry>
         <entry>action GotoDeclaration</entry>
-        <entry>action NextSplitter</entry>
         <entry>action RenameFile</entry>
         <entry>%s/ExternalDon/ReportedDon/gc</entry>
         <entry>action Refactorings.QuickListPopupAction</entry>
+        <entry encoding="base64">JzwsJz53IQ==</entry>
         <entry>action GotoFile</entry>
+        <entry>action NextSplitter</entry>
         <entry>action FindInPath</entry>
         <entry>w!</entry>
       </history-cmd>
