@@ -1,6 +1,9 @@
 # Log my commands for use later
 export PROMPT_COMMAND='if [ "$(id -u)" -ne 0 ]; then echo "$(date "+%Y-%m-%d.%H:%M:%S") $(pwd) $(history 1)" >> ~/.logs/bash-history-$(date "+%Y-%m-%d").log; fi'
 
+# basic aliases
+alias flushdnscache='sudo killall -HUP mDNSResponder && echo "DNS caches flushed"'
+
 # pretty colors in bash
 export PS1="\[\033[36m\]\u\[\033[m\]@\[\033[32m\]\h:\[\033[33;1m\]\W\[\033[m\]\$ "
 export CLICOLOR=1
