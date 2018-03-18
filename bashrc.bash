@@ -1,6 +1,9 @@
 # Log my commands for use later
 export PROMPT_COMMAND='if [ "$(id -u)" -ne 0 ]; then echo "$(date "+%Y-%m-%d.%H:%M:%S") $(pwd) $(history 1)" >> ~/.logs/bash-history-$(date "+%Y-%m-%d").log; fi'
 
+# basic aliases
+alias flushdnscache='sudo killall -HUP mDNSResponder && echo "DNS caches flushed"'
+
 # pretty colors in bash
 export PS1="\[\033[36m\]\u\[\033[m\]@\[\033[32m\]\h:\[\033[33;1m\]\W\[\033[m\]\$ "
 export CLICOLOR=1
@@ -48,3 +51,9 @@ export NVM_DIR="$HOME/.nvm"
 
 # Homebrew Coreutils
 alias timeout=gtimeout
+
+PATH="/Users/jpaddison/perl5/bin${PATH:+:${PATH}}"; export PATH;
+PERL5LIB="/Users/jpaddison/perl5/lib/perl5${PERL5LIB:+:${PERL5LIB}}"; export PERL5LIB;
+PERL_LOCAL_LIB_ROOT="/Users/jpaddison/perl5${PERL_LOCAL_LIB_ROOT:+:${PERL_LOCAL_LIB_ROOT}}"; export PERL_LOCAL_LIB_ROOT;
+PERL_MB_OPT="--install_base \"/Users/jpaddison/perl5\""; export PERL_MB_OPT;
+PERL_MM_OPT="INSTALL_BASE=/Users/jpaddison/perl5"; export PERL_MM_OPT;
