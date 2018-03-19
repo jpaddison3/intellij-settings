@@ -34,6 +34,12 @@
       <file name="/a.dummy" timestamp="1514500878894">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/cea/parse_shared.py" timestamp="1521498123695">
+        <mark key="[" line="1" column="7" />
+        <mark key="]" line="2" column="12" />
+        <mark key="^" line="2" column="12" />
+        <mark key="." line="2" column="12" />
+      </file>
       <file name="$USER_HOME$/Documents/Halite2_Python3_MacOS/tf_to_halite.py" timestamp="1514767876710">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -64,15 +70,12 @@
         <mark key="." line="17" column="14" />
         <mark key="^" line="13" column="14" />
       </file>
-      <file name="$USER_HOME$/Documents/formic/formic.py" timestamp="1514769476970">
-        <mark key="'" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/MiscProgramming/bit_matching.py" timestamp="1514760812397">
+      <file name="$USER_HOME$/Documents/MiscProgramming/bit_matching.py" timestamp="1515121147610">
         <mark key="'" line="14" column="21" />
-        <mark key="[" line="3" column="112" />
-        <mark key="]" line="3" column="115" />
-        <mark key="." line="3" column="115" />
-        <mark key="^" line="3" column="115" />
+        <mark key="[" line="39" column="27" />
+        <mark key="]" line="40" column="19" />
+        <mark key="." line="40" column="19" />
+        <mark key="^" line="40" column="19" />
       </file>
       <file name="$USER_HOME$/Documents/formic/MyBot.py" timestamp="1514769498594">
         <mark key="'" line="2" column="0" />
@@ -97,7 +100,6 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/formic/hlt/entity.py" timestamp="1514770401015" />
       <file name="$USER_HOME$/Documents/cea/parfit/migrations/20171205170400_donor_lottery_up.sql" timestamp="1514407350054">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="24" column="0" />
@@ -200,7 +202,7 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text>iter</text>
       </register>
       <register name="/" type="4">
         <text>ship</text>
@@ -209,31 +211,31 @@
         <text encoding="base64">bWFwIDxsZWFkZXI+cnQgOmFjdGlvbiBSZWZhY3RvcmluZ3MuUXVpY2tMaXN0UG9wdXBBY3Rpb248Y3I+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CmRlZiBhY3Rpb25fdG9faGx0KGFjdGlvbiwgc2hpcCk6Cg==</text>
+        <text encoding="base64">ICAgIHByaW50KHN0cmF0cykK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludChjaG9pY2VzKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
+        <text encoding="base64">ICAgIHN0cmF0ID0ge30K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGlmIGFjdGlvbi50eXBlXyA9PSAidGhydXN0IjoKICAgICAgICByZXR1cm4gc2hpcC5uYXZpZ2F0ZSgKICAgICAgICAgICAgYWN0aW9uLgogICAgICAgICkK</text>
+        <text encoding="base64">ICAgICAgICBmb3IgY2hvaWNlIGluIGNob2ljZXM6Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CmRlZiBhY3Rpb25fdG9faGx0KGFjdGlvbiwgc2hpcCk6CiAgICBpZiBhY3Rpb24udHlwZV8gPT0gInRocnVzdCI6CiAgICAgICAgcmV0dXJuIHNoaXAubmF2aWdhdGUoCiAgICAgICAgICAgIGFjdGlvbi4KICAgICAgICApCg==</text>
+        <text encoding="base64">ICAgICAgICAKICAgICAgICBmb3IgCiAgICAgICAgICAgIHN0cmF0W2lucHV0X3N0cmluZ10gPSAK</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">bWFwIDxsZWFkZXI+Y3IgOmFjdGlvbiBSdW48Y3I+Cg==</text>
+      <register name="7" type="4">
+        <text encoding="base64">W10KICAgICAgICA=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">bWFwIDxsZWFkZXI+cnQgOmFjdGlvbiBSZWZhY3RvcmluZ3MuUXVpY2tMaXN0UG9wdXBBY3Rpb248Y3I+Cg==</text>
+        <text encoding="base64">ICAgIGZvciBpIGluIHJhbmdlKDMqKjgpOgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">IiBiZWxvZ2xhem92IHZpbXJjCg==</text>
+        <text encoding="base64">CmRlZiBhY3Rpb25fdG9faGx0KGFjdGlvbiwgc2hpcCk6Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w!</text>
@@ -269,6 +271,7 @@
         <entry>action Find</entry>
         <entry encoding="base64">JzwsJz5zL3NoaXAvc2VsZi5zaGlw</entry>
         <entry>action GotoFile</entry>
+        <entry>action CommentByLineComment</entry>
         <entry>w!</entry>
       </history-cmd>
       <history-expr />
