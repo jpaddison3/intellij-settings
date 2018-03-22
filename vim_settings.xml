@@ -209,6 +209,13 @@
       <file name="$USER_HOME$/Documents/cea/aletheia/app/models/Payments/schema.js" timestamp="1521505287351">
         <mark key="'" line="26" column="20" />
       </file>
+      <file name="$USER_HOME$/Documents/personal-site/src/exampleComponent.test.tsx" timestamp="1521693477717">
+        <mark key="'" line="16" column="36" />
+        <mark key="[" line="29" column="26" />
+        <mark key="]" line="29" column="24" />
+        <mark key="." line="29" column="24" />
+        <mark key="^" line="29" column="24" />
+      </file>
       <file name="$USER_HOME$/Documents/cea/aletheia/app/models/Organizations/schema.js" timestamp="1519935195558">
         <mark key="[" line="14" column="20" />
         <mark key="]" line="14" column="23" />
@@ -327,12 +334,12 @@
       <file name="$USER_HOME$/Documents/cea/aletheia/app/containers/Dashboard/DashboardPledge/DonationsTab.jsx" timestamp="1521483730872">
         <mark key="'" line="5" column="68" />
       </file>
-      <file name="$USER_HOME$/Documents/personal-site/src/exampleComponent.tsx" timestamp="1521686045273">
-        <mark key="'" line="46" column="10" />
-        <mark key="[" line="5" column="22" />
-        <mark key="]" line="5" column="26" />
-        <mark key="." line="5" column="26" />
-        <mark key="^" line="5" column="26" />
+      <file name="$USER_HOME$/Documents/personal-site/src/exampleComponent.tsx" timestamp="1521693457278">
+        <mark key="'" line="48" column="10" />
+        <mark key="[" line="41" column="35" />
+        <mark key="]" line="41" column="42" />
+        <mark key="^" line="41" column="42" />
+        <mark key="." line="41" column="42" />
       </file>
       <file name="$USER_HOME$/Documents/cea/parfit/migrations/20180319125601_more_payment_reference_up.sql" timestamp="1521512348653">
         <mark key="'" line="46" column="0" />
@@ -545,8 +552,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="99" column="0" filename="$USER_HOME$/Documents/cea/aletheia/app/containers/Groups/GroupsAll/index.jsx" />
-      <jump line="101" column="0" filename="$USER_HOME$/Documents/cea/aletheia/app/containers/Groups/GroupsAll/index.jsx" />
       <jump line="103" column="0" filename="$USER_HOME$/Documents/cea/aletheia/app/containers/Groups/GroupsAll/index.jsx" />
       <jump line="110" column="0" filename="$USER_HOME$/Documents/cea/aletheia/app/containers/Groups/GroupsAll/index.jsx" />
       <jump line="112" column="0" filename="$USER_HOME$/Documents/cea/aletheia/app/containers/Groups/GroupsAll/index.jsx" />
@@ -645,6 +650,8 @@
       <jump line="0" column="0" filename="$USER_HOME$/Documents/personal-site/tslint.json" />
       <jump line="0" column="29" filename="$USER_HOME$/Documents/personal-site/exampleComponent.test.tsx" />
       <jump line="3" column="48" filename="$USER_HOME$/Documents/personal-site/exampleComponent.test.tsx" />
+      <jump line="26" column="26" filename="$USER_HOME$/Documents/personal-site/src/exampleComponent.test.tsx" />
+      <jump line="16" column="36" filename="$USER_HOME$/Documents/personal-site/src/exampleComponent.test.tsx" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -697,37 +704,37 @@
         <text>''</text>
       </register>
       <register name="-" type="4">
-        <text>o</text>
+        <text>onCounterIncrease={incr}</text>
       </register>
       <register name="/" type="4">
-        <text>no-co</text>
+        <text encoding="base64">XDxvbkNvdW50ZXJJbmNyZWFzZVw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ZXhwb3J0IGNvbnN0IGdldE9yZ2FuaXphdGlvbnMgPSBjcmVhdGVHcmFwaFFMUmVkdWNlcih7CiAgZGVmYXVsdE5hbWU6ICdPcmdhbml6YXRpb25zJywKICBxdWVyeTogZ2V0T3JnYW5pemF0aW9uc0dRTCwKICByZWR1Y2VyOiAoe09yZ2FuaXphdGlvbnN9KSA9PiBtYXBHUUxSZXN1bHRUb1JlY29yZChPcmdhbml6YXRpb25zLCBPcmdhbml6YXRpb24pLAogIHByb3BzOiAocHJvcHMsIG5hbWUpID0+IHsKICAgIHByb3BzW2BGdW5kJHtuYW1lfWBdID0gcHJvcHNbbmFtZV0uZmlsdGVyKE9yZ2FuaXphdGlvbiA9PiBPcmdhbml6YXRpb24udHlwZSA9PT0gJ0ZVTkQnKQogICAgcHJvcHNbYE5vblByb2ZpdCR7bmFtZX1gXSA9IHByb3BzW25hbWVdLmZpbHRlcihPcmdhbml6YXRpb24gPT4gT3JnYW5pemF0aW9uLnR5cGUgPT09ICdOT05fUFJPRklUJykKICAgIHByb3BzW2BNZXRhJHtuYW1lfWBdID0gcHJvcHNbbmFtZV0uZmlsdGVyKE9yZ2FuaXphdGlvbiA9PiBPcmdhbml6YXRpb24udHlwZSA9PT0gJ01FVEEnKQogICAgcmV0dXJuIHByb3BzCiAgfQp9KQo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdjbGlja2VkJyk7Cg==</text>
       </register>
       <register name="1" type="4">
-        <text>''</text>
+        <text>onCounterIncrease={incr}</text>
       </register>
-      <register name="2" type="4">
-        <text>./exampleComponent</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ3RoZXJlXCdzIG5vIHdheSB0aGlzIGlzIHJ1bm5pbmcnKTsK</text>
       </register>
-      <register name="3" type="4">
-        <text>''</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdhZnRlciB0aGVuJyk7Cg==</text>
       </register>
-      <register name="4" type="4">
-        <text>react</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdjbGlja2VkIDInKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0ICogYXMgamVzdCBmcm9tICdqZXN0JzsK</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdjbGlja2VkJywgdGhpcy5zdGF0ZS5jbGlja3MsIG5ld0NsaWNrcyk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAibm8tY29uc29sZSI6IFsKICAgICAgICAgICAgdHJ1ZSwKICAgICAgICAgICAgImxvZyIsCiAgICAgICAgICAgICJlcnJvciIsCiAgICAgICAgICAgICJkZWJ1ZyIsCiAgICAgICAgICAgICJpbmZvIiwKICAgICAgICAgICAgInRpbWUiLAogICAgICAgICAgICAidGltZUVuZCIsCiAgICAgICAgICAgICJ0cmFjZSIKICAgICAgICBdLAo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdjbGlja2VkIDInLCB0aGlzLnN0YXRlLmNsaWNrcywgbmV3Q2xpY2tzKTsK</text>
       </register>
-      <register name="7" type="4">
-        <text>void(0)</text>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGV4cGVjdCh2YWx1ZSkudG9CZSgxKTsK</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
@@ -737,9 +744,9 @@
       </register>
     </registers>
     <search>
-      <last-search>no-co</last-search>
+      <last-search encoding="base64">XDxvbkNvdW50ZXJJbmNyZWFzZVw+</last-search>
       <last-offset />
-      <last-pattern>no-co</last-pattern>
+      <last-pattern encoding="base64">XDxvbkNvdW50ZXJJbmNyZWFzZVw+</last-pattern>
       <last-replace>&quot;</last-replace>
       <last-substitute>'</last-substitute>
       <last-dir>1</last-dir>
@@ -747,7 +754,6 @@
     </search>
     <history>
       <history-search>
-        <entry>\n</entry>
         <entry>recur</entry>
         <entry>typeah</entry>
         <entry>findex</entry>
@@ -767,6 +773,7 @@
         <entry>netli</entry>
         <entry encoding="base64">XDxuZXRsaWZ5XD4=</entry>
         <entry>no-co</entry>
+        <entry encoding="base64">XDxvbkNvdW50ZXJJbmNyZWFzZVw+</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL1xuLyAv</entry>
@@ -784,10 +791,10 @@
         <entry>s/'/&quot;/g</entry>
         <entry>action ReopenClosedTab</entry>
         <entry>action FindInPath</entry>
-        <entry>action CommentByLineComment</entry>
-        <entry>action NextSplitter</entry>
         <entry>action GotoFile</entry>
         <entry>action NewFile</entry>
+        <entry>action NextSplitter</entry>
+        <entry>action CommentByLineComment</entry>
         <entry>w!</entry>
       </history-cmd>
       <history-expr />
