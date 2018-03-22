@@ -267,12 +267,12 @@
         <mark key="." line="4" column="28" />
         <mark key="^" line="4" column="28" />
       </file>
-      <file name="$USER_HOME$/Documents/personal-site/src/App.tsx" timestamp="1521684869827">
+      <file name="$USER_HOME$/Documents/personal-site/src/App.tsx" timestamp="1521685258827">
         <mark key="'" line="18" column="58" />
-        <mark key="[" line="18" column="67" />
-        <mark key="]" line="18" column="67" />
-        <mark key="." line="18" column="67" />
-        <mark key="^" line="17" column="7" />
+        <mark key="[" line="18" column="59" />
+        <mark key="]" line="18" column="58" />
+        <mark key="." line="18" column="58" />
+        <mark key="^" line="18" column="58" />
       </file>
       <file name="$USER_HOME$/Documents/cea/aletheia/app/models/People/queries/findPersonByNameOrEmail.gql" timestamp="1521481085794">
         <mark key="[" line="13" column="0" />
@@ -327,12 +327,12 @@
       <file name="$USER_HOME$/Documents/cea/aletheia/app/containers/Dashboard/DashboardPledge/DonationsTab.jsx" timestamp="1521483730872">
         <mark key="'" line="5" column="68" />
       </file>
-      <file name="$USER_HOME$/Documents/personal-site/src/exampleComponent.tsx" timestamp="1521684701429">
-        <mark key="'" line="44" column="10" />
-        <mark key="[" line="53" column="41" />
-        <mark key="]" line="53" column="40" />
-        <mark key="." line="53" column="40" />
-        <mark key="^" line="53" column="40" />
+      <file name="$USER_HOME$/Documents/personal-site/src/exampleComponent.tsx" timestamp="1521686045273">
+        <mark key="'" line="46" column="10" />
+        <mark key="[" line="5" column="22" />
+        <mark key="]" line="5" column="26" />
+        <mark key="." line="5" column="26" />
+        <mark key="^" line="5" column="26" />
       </file>
       <file name="$USER_HOME$/Documents/cea/parfit/migrations/20180319125601_more_payment_reference_up.sql" timestamp="1521512348653">
         <mark key="'" line="46" column="0" />
@@ -545,8 +545,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="77" column="0" filename="$USER_HOME$/Documents/cea/aletheia/app/containers/Groups/GroupsAll/index.jsx" />
-      <jump line="89" column="0" filename="$USER_HOME$/Documents/cea/aletheia/app/containers/Groups/GroupsAll/index.jsx" />
       <jump line="99" column="0" filename="$USER_HOME$/Documents/cea/aletheia/app/containers/Groups/GroupsAll/index.jsx" />
       <jump line="101" column="0" filename="$USER_HOME$/Documents/cea/aletheia/app/containers/Groups/GroupsAll/index.jsx" />
       <jump line="103" column="0" filename="$USER_HOME$/Documents/cea/aletheia/app/containers/Groups/GroupsAll/index.jsx" />
@@ -645,6 +643,8 @@
       <jump line="29" column="435" filename="$USER_HOME$/Documents/cea/aletheia/app/components/PaymentForm/apollo-notes.md" />
       <jump line="31" column="86" filename="$USER_HOME$/Documents/cea/aletheia/app/components/PaymentForm/apollo-notes.md" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/personal-site/tslint.json" />
+      <jump line="0" column="29" filename="$USER_HOME$/Documents/personal-site/exampleComponent.test.tsx" />
+      <jump line="3" column="48" filename="$USER_HOME$/Documents/personal-site/exampleComponent.test.tsx" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -694,7 +694,7 @@
         <text>^jP</text>
       </register>
       <register name="*" type="4">
-        <text>&quot;&quot;</text>
+        <text>''</text>
       </register>
       <register name="-" type="4">
         <text>o</text>
@@ -705,32 +705,32 @@
       <register name="0" type="2">
         <text encoding="base64">ZXhwb3J0IGNvbnN0IGdldE9yZ2FuaXphdGlvbnMgPSBjcmVhdGVHcmFwaFFMUmVkdWNlcih7CiAgZGVmYXVsdE5hbWU6ICdPcmdhbml6YXRpb25zJywKICBxdWVyeTogZ2V0T3JnYW5pemF0aW9uc0dRTCwKICByZWR1Y2VyOiAoe09yZ2FuaXphdGlvbnN9KSA9PiBtYXBHUUxSZXN1bHRUb1JlY29yZChPcmdhbml6YXRpb25zLCBPcmdhbml6YXRpb24pLAogIHByb3BzOiAocHJvcHMsIG5hbWUpID0+IHsKICAgIHByb3BzW2BGdW5kJHtuYW1lfWBdID0gcHJvcHNbbmFtZV0uZmlsdGVyKE9yZ2FuaXphdGlvbiA9PiBPcmdhbml6YXRpb24udHlwZSA9PT0gJ0ZVTkQnKQogICAgcHJvcHNbYE5vblByb2ZpdCR7bmFtZX1gXSA9IHByb3BzW25hbWVdLmZpbHRlcihPcmdhbml6YXRpb24gPT4gT3JnYW5pemF0aW9uLnR5cGUgPT09ICdOT05fUFJPRklUJykKICAgIHByb3BzW2BNZXRhJHtuYW1lfWBdID0gcHJvcHNbbmFtZV0uZmlsdGVyKE9yZ2FuaXphdGlvbiA9PiBPcmdhbml6YXRpb24udHlwZSA9PT0gJ01FVEEnKQogICAgcmV0dXJuIHByb3BzCiAgfQp9KQo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAibm8tY29uc29sZSI6IFsKICAgICAgICAgICAgdHJ1ZSwKICAgICAgICAgICAgImxvZyIsCiAgICAgICAgICAgICJlcnJvciIsCiAgICAgICAgICAgICJkZWJ1ZyIsCiAgICAgICAgICAgICJpbmZvIiwKICAgICAgICAgICAgInRpbWUiLAogICAgICAgICAgICAidGltZUVuZCIsCiAgICAgICAgICAgICJ0cmFjZSIKICAgICAgICBdLAo=</text>
+      <register name="1" type="4">
+        <text>''</text>
       </register>
       <register name="2" type="4">
-        <text>void(0)</text>
+        <text>./exampleComponent</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="3" type="4">
+        <text>''</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="4" type="4">
+        <text>react</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0ICogYXMgamVzdCBmcm9tICdqZXN0JzsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Ly8gaW1wb3J0ICdzYW5pdGl6ZS5jc3Mvc2FuaXRpemUuY3NzJwo=</text>
+        <text encoding="base64">ICAgICAgICAibm8tY29uc29sZSI6IFsKICAgICAgICAgICAgdHJ1ZSwKICAgICAgICAgICAgImxvZyIsCiAgICAgICAgICAgICJlcnJvciIsCiAgICAgICAgICAgICJkZWJ1ZyIsCiAgICAgICAgICAgICJpbmZvIiwKICAgICAgICAgICAgInRpbWUiLAogICAgICAgICAgICAidGltZUVuZCIsCiAgICAgICAgICAgICJ0cmFjZSIKICAgICAgICBdLAo=</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">Ly8gaW1wb3J0ICdzYW5pdGl6ZS5jc3Mvc2FuaXRpemUuY3NzJwo=</text>
+      <register name="7" type="4">
+        <text>void(0)</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">IyMjIyBCYWNrZW5kCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">VGhlIGZpcnN0IHRoaW5nIEkgd2FudCB0byBkbyBpcyBnbyB0byB0aGUK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w!</text>
@@ -782,12 +782,12 @@
         <entry>action Refactorings.QuickListPopupAction</entry>
         <entry>%s/&quot;/'/g</entry>
         <entry>s/'/&quot;/g</entry>
-        <entry>action NewFile</entry>
         <entry>action ReopenClosedTab</entry>
         <entry>action FindInPath</entry>
         <entry>action CommentByLineComment</entry>
         <entry>action NextSplitter</entry>
         <entry>action GotoFile</entry>
+        <entry>action NewFile</entry>
         <entry>w!</entry>
       </history-cmd>
       <history-expr />
