@@ -69,11 +69,21 @@
         <mark key="^" line="0" column="6" />
         <mark key="." line="0" column="6" />
       </file>
+      <file name="$USER_HOME$/Documents/cea/parfit/migrations/20170901171427_refactor_person_insertion_up.sql" timestamp="1521512232042">
+        <mark key="[" line="97" column="0" />
+        <mark key="]" line="132" column="30" />
+      </file>
       <file name="$USER_HOME$/Documents/cea/parfit/db-quereis.sql" timestamp="1521240216810">
         <mark key="'" line="42" column="0" />
         <mark key="[" line="148" column="0" />
         <mark key="]" line="148" column="0" />
         <mark key="." line="148" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/hindsight/silly/tslint.json" timestamp="1521952816586">
+        <mark key="[" line="72" column="0" />
+        <mark key="]" line="82" column="8" />
+        <mark key="." line="42" column="28" />
+        <mark key="^" line="42" column="28" />
       </file>
       <file name="$USER_HOME$/Documents/cea/aletheia/app/models/Settings/queries/getSettings.gql" timestamp="1519170227895">
         <mark key="[" line="8" column="1" />
@@ -141,6 +151,12 @@
         <mark key="]" line="199" column="69" />
         <mark key="^" line="187" column="75" />
         <mark key="." line="199" column="69" />
+      </file>
+      <file name="$USER_HOME$/Documents/personal-site/src/welcome.test.tsx" timestamp="1521868773559">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="^" line="5" column="0" />
+        <mark key="." line="7" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/cea/aletheia/app/models/Organizations/queries/getReportedDonationOrganizationTypeahead.gql" timestamp="1519868219916">
         <mark key="[" line="2" column="23" />
@@ -218,6 +234,10 @@
         <mark key="^" line="9" column="0" />
         <mark key="." line="10" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/cea/parfit/package.json" timestamp="1521952996165">
+        <mark key="[" line="53" column="0" />
+        <mark key="]" line="62" column="78" />
+      </file>
       <file name="$USER_HOME$/Documents/cea/aletheia/app/containers/Lotteries/LotteriesHome/index.jsx" timestamp="1521503865437">
         <mark key="'" line="1" column="0" />
       </file>
@@ -230,12 +250,11 @@
       <file name="$USER_HOME$/Documents/cea/aletheia/app/models/Payments/schema.js" timestamp="1521505287351">
         <mark key="'" line="26" column="20" />
       </file>
-      <file name="$USER_HOME$/Documents/personal-site/src/exampleComponent.test.tsx" timestamp="1521867514013">
-        <mark key="'" line="3" column="0" />
-        <mark key="[" line="1" column="27" />
-        <mark key="]" line="1" column="27" />
-        <mark key="." line="1" column="27" />
-        <mark key="^" line="1" column="27" />
+      <file name="$USER_HOME$/Documents/personal-site/src/exampleComponent.test.tsx" timestamp="1521868780300">
+        <mark key="[" line="2" column="50" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+        <mark key="^" line="3" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/cea/aletheia/app/models/Organizations/schema.js" timestamp="1519935195558">
         <mark key="[" line="14" column="20" />
@@ -276,6 +295,12 @@
         <mark key="." line="258" column="13" />
         <mark key="^" line="258" column="13" />
       </file>
+      <file name="$USER_HOME$/Documents/hindsight/tsconfig.json" timestamp="1521951316026">
+        <mark key="[" line="3" column="25" />
+        <mark key="]" line="3" column="25" />
+        <mark key="^" line="21" column="23" />
+        <mark key="." line="3" column="25" />
+      </file>
       <file name="$USER_HOME$/Documents/cea/parfit/migrations/20180309185528_more_payment_reference_down.sql" timestamp="1521486186228">
         <mark key="'" line="18" column="22" />
         <mark key="[" line="5" column="59" />
@@ -314,23 +339,36 @@
         <mark key="^" line="92" column="23" />
         <mark key="." line="92" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/hindsight/package.json" timestamp="1521997955960">
+        <mark key="[" line="9" column="24" />
+        <mark key="]" line="9" column="24" />
+        <mark key="." line="9" column="24" />
+        <mark key="^" line="18" column="35" />
+      </file>
       <file name="$USER_HOME$/Documents/cea/aletheia/app/containers/Groups/GroupManagement/index.jsx" timestamp="1520388616290">
         <mark key="[" line="670" column="14" />
         <mark key="]" line="670" column="14" />
         <mark key="." line="670" column="14" />
         <mark key="^" line="670" column="13" />
       </file>
+      <file name="$USER_HOME$/Documents/hindsight/tslint.json" timestamp="1521997824221">
+        <mark key="'" line="29" column="2" />
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+        <mark key="^" line="12" column="40" />
+      </file>
       <file name="$USER_HOME$/.ideavimrc" timestamp="1521852040914">
         <mark key="'" line="50" column="32" />
         <mark key="[" line="34" column="24" />
         <mark key="]" line="34" column="73" />
       </file>
-      <file name="$USER_HOME$/Documents/personal-site/src/welcome.tsx" timestamp="1521868200001">
-        <mark key="'" line="12" column="7" />
-        <mark key="[" line="14" column="8" />
-        <mark key="]" line="14" column="13" />
-        <mark key="^" line="14" column="13" />
-        <mark key="." line="14" column="13" />
+      <file name="$USER_HOME$/Documents/personal-site/src/welcome.tsx" timestamp="1521868409937">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="21" column="1" />
+        <mark key="]" line="23" column="21" />
+        <mark key="^" line="23" column="21" />
+        <mark key="." line="23" column="21" />
       </file>
       <file name="$USER_HOME$/Documents/cea/aletheia/app/models/Payments/index.js" timestamp="1521509553886">
         <mark key="'" line="125" column="0" />
@@ -438,6 +476,12 @@
         <mark key="." line="22" column="6" />
         <mark key="^" line="22" column="6" />
       </file>
+      <file name="$USER_HOME$/Documents/hindsight/hello.ts" timestamp="1521949475082">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="23" />
+        <mark key="^" line="0" column="23" />
+        <mark key="." line="0" column="23" />
+      </file>
       <file name="$USER_HOME$/Documents/cea/aletheia/app/app.jsx" timestamp="1521677153927">
         <mark key="'" line="142" column="0" />
         <mark key="[" line="45" column="0" />
@@ -508,6 +552,15 @@
         <mark key="." line="51" column="2" />
         <mark key="^" line="51" column="2" />
       </file>
+      <file name="$USER_HOME$/Documents/hindsight/package2.json" timestamp="1521951744277">
+        <mark key="[" line="9" column="2" />
+        <mark key="]" line="5" column="3" />
+        <mark key="." line="9" column="3" />
+        <mark key="^" line="5" column="3" />
+      </file>
+      <file name="$USER_HOME$/Documents/cea/parfit/.eslintrc.json" timestamp="1521997751448">
+        <mark key="'" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/cea/aletheia/app/models/Pledges/schema.js" timestamp="1520034781900">
         <mark key="[" line="0" column="14" />
         <mark key="]" line="0" column="14" />
@@ -535,8 +588,8 @@
         <mark key="^" line="22" column="16" />
         <mark key="." line="22" column="16" />
       </file>
-      <file name="$USER_HOME$/Documents/personal-site/tslint.json" timestamp="1521867193099">
-        <mark key="'" line="0" column="0" />
+      <file name="$USER_HOME$/Documents/personal-site/tslint.json" timestamp="1521868246672">
+        <mark key="'" line="69" column="13" />
         <mark key="[" line="53" column="36" />
         <mark key="]" line="53" column="36" />
         <mark key="." line="53" column="36" />
@@ -579,12 +632,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="23" column="0" filename="$USER_HOME$/Documents/cea/aletheia/app/containers/Lotteries/Lottery/index.jsx" />
-      <jump line="98" column="22" filename="$USER_HOME$/Documents/cea/aletheia/app/containers/Lotteries/Lottery/index.jsx" />
-      <jump line="128" column="39" filename="$USER_HOME$/Documents/cea/aletheia/app/models/Payments/index.js" />
-      <jump line="26" column="20" filename="$USER_HOME$/Documents/cea/aletheia/app/models/Payments/schema.js" />
-      <jump line="338" column="2" filename="$USER_HOME$/Documents/cea/aletheia/app/containers/Lotteries/Lottery/index.jsx" />
-      <jump line="97" column="0" filename="$USER_HOME$/Documents/cea/aletheia/app/containers/Lotteries/Lottery/index.jsx" />
       <jump line="5" column="2" filename="$USER_HOME$/Documents/cea/aletheia/app/containers/Lotteries/Lottery/index.jsx" />
       <jump line="332" column="2" filename="$USER_HOME$/Documents/cea/aletheia/app/containers/Lotteries/Lottery/index.jsx" />
       <jump line="126" column="2" filename="$USER_HOME$/Documents/cea/aletheia/app/containers/Lotteries/Lottery/index.jsx" />
@@ -679,6 +726,12 @@
       <jump line="3" column="0" filename="$USER_HOME$/Documents/personal-site/src/exampleComponent.test.tsx" />
       <jump line="7" column="0" filename="$USER_HOME$/Documents/personal-site/src/welcome.tsx" />
       <jump line="12" column="7" filename="$USER_HOME$/Documents/personal-site/src/welcome.tsx" />
+      <jump line="14" column="13" filename="$USER_HOME$/Documents/personal-site/src/welcome.tsx" />
+      <jump line="69" column="13" filename="$USER_HOME$/Documents/personal-site/tslint.json" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/personal-site/src/welcome.tsx" />
+      <jump line="5" column="35" filename="$USER_HOME$/Documents/hindsight/tslint.json" />
+      <jump line="29" column="2" filename="$USER_HOME$/Documents/hindsight/tslint.json" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/cea/parfit/.eslintrc.json" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -734,58 +787,56 @@
         <text>()</text>
       </register>
       <register name="-" type="4">
-        <text>, &quot;jsx-double&quot;</text>
+        <text>All rights reserved</text>
       </register>
       <register name="/" type="4">
-        <text>&quot;</text>
+        <text encoding="base64">ICA=</text>
       </register>
-      <register name="0" type="4">
-        <text>https://gist.github.com/zchee/9c78f91cc5ad771c1f5d</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAicmVwb3NpdG9yeSI6IHsKICAgICJ0eXBlIjogImdpdCIsCiAgICAidXJsIjogImdpdCtodHRwczovL2dpdGh1Yi5jb20vY2VudHJlLWZvci1lZmZlY3RpdmUtYWx0cnVpc20vcGFyZml0LmdpdCIKICB9LAogICJhdXRob3IiOiAiU2FtIERlZXJlIDx0ZWNoQGVmZmVjdGl2ZWFsdHJ1aXNtLm9yZz4iLAogICJsaWNlbnNlIjogIklTQyIsCiAgImJ1Z3MiOiB7CiAgICAidXJsIjogImh0dHBzOi8vZ2l0aHViLmNvbS9jZW50cmUtZm9yLWVmZmVjdGl2ZS1hbHRydWlzbS9wYXJmaXQvaXNzdWVzIgogIH0sCiAgImhvbWVwYWdlIjogImh0dHBzOi8vZ2l0aHViLmNvbS9jZW50cmUtZm9yLWVmZmVjdGl2ZS1hbHRydWlzbS9wYXJmaXQjcmVhZG1lIiwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAiZXh0ZW5kcyI6IFsKICAgICJ0c2xpbnQ6cmVjb21tZW5kZWQiCiAgXSwK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0ICogYXMgUmVhY3QgZnJvbSAncmVhY3QnCgppbXBvcnQgeyBzaGFsbG93IH0gZnJvbSAnZW56eW1lJwppbXBvcnQgRXhhbXBsZUNvbXBvbmVudCBmcm9tICdzcmMvZXhhbXBsZUNvbXBvbmVudCcKCnNoYWxsb3coRXhhbXBsZUNvbXBvbmVudCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IEV4Cg==</text>
+        <text encoding="base64">ICAgICJidWlsZCI6ICJ0c2MiLAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IEV4YW1wbGVDb21wb25lbnQgZnJvbSAnLi9leGFtcGxlQ29tcG9uZW50Jwo=</text>
+        <text encoding="base64">ICAgICJqc1J1bGVzIjoge30sCiAgICAicnVsZXMiOiB7fSwKICAgICJydWxlc0RpcmVjdG9yeSI6IFtdCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IHtzaGFsbG93fSBmcm9tICdlbnp5bWUnCg==</text>
+        <text encoding="base64">ICAgICAgICAianN4LW5vLWxhbWJkYSI6IGZhbHNlLAogICAgICAgICJqc3gtbm8tbXVsdGlsaW5lLWpzIjogZmFsc2UsCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Y29uc29sZS5sb2coc2hhbGxvdygpRXhhbXBsZUNvbXBvbmVudCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC8qIEV4cGVyaW1lbnRhbCBPcHRpb25zICovCiAgICAvLyAiZXhwZXJpbWVudGFsRGVjb3JhdG9ycyI6IHRydWUsICAgICAgICAvKiBFbmFibGVzIGV4cGVyaW1lbnRhbCBzdXBwb3J0IGZvciBFUzcgZGVjb3JhdG9ycy4gKi8KICAgIC8vICJlbWl0RGVjb3JhdG9yTWV0YWRhdGEiOiB0cnVlLCAgICAgICAgIC8qIEVuYWJsZXMgZXhwZXJpbWVudGFsIHN1cHBvcnQgZm9yIGVtaXR0aW5nIHR5cGUgbWV0YWRhdGEgZm9yIGRlY29yYXRvcnMuICovCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC8vICJpbmxpbmVTb3VyY2VzIjogdHJ1ZSwgICAgICAgICAgICAgICAgIC8qIEVtaXQgdGhlIHNvdXJjZSBhbG9uZ3NpZGUgdGhlIHNvdXJjZW1hcHMgd2l0aGluIGEgc2luZ2xlIGZpbGU7IHJlcXVpcmVzICctLWlubGluZVNvdXJjZU1hcCcgb3IgJy0tc291cmNlTWFwJyB0byBiZSBzZXQuICovCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">RFJPUCAK</text>
+        <text encoding="base64">ICAgIC8vICJpbmxpbmVTb3VyY2VNYXAiOiB0cnVlLCAgICAgICAgICAgICAgIC8qIEVtaXQgYSBzaW5nbGUgZmlsZSB3aXRoIHNvdXJjZSBtYXBzIGluc3RlYWQgb2YgaGF2aW5nIGEgc2VwYXJhdGUgZmlsZS4gKi8K</text>
       </register>
       <register name=":" type="4">
-        <text>w!</text>
+        <text>action GotoFile</text>
       </register>
     </registers>
     <search>
-      <last-search>&quot;</last-search>
+      <last-search encoding="base64">ICA=</last-search>
       <last-offset />
-      <last-pattern>&quot;</last-pattern>
-      <last-replace />
-      <last-substitute>&quot;</last-substitute>
+      <last-pattern encoding="base64">ICA=</last-pattern>
+      <last-replace encoding="base64">IA==</last-replace>
+      <last-substitute encoding="base64">ICA=</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxzaG93RWRpdEV4dGVybmFsT3JnYW5pemF0aW9uXD4=</entry>
-        <entry>reop</entry>
         <entry>params</entry>
         <entry encoding="base64">XDxnZXRBY3RpdmVMb3R0ZXJpZXNcPg==</entry>
         <entry encoding="base64">XDxnZXRMb3R0ZXJ5XD4=</entry>
@@ -804,28 +855,30 @@
         <entry encoding="base64">XDxmaW5kX3BlcnNvbl9ieV9wYXlfcmVmXD4=</entry>
         <entry>;</entry>
         <entry>&quot;</entry>
+        <entry>indent</entry>
+        <entry encoding="base64">ICA=</entry>
       </history-search>
       <history-cmd>
-        <entry>s/first_name/email/g</entry>
         <entry encoding="base64">OicnPDwsLCcnPj5zcy8vXFxubi8vICAvL2dn</entry>
         <entry encoding="base64">JzwsJz4nPCwnPnMvXG4vIC9n</entry>
         <entry>action GotoDeclaration</entry>
         <entry>134</entry>
-        <entry>action SplitVertically</entry>
         <entry>action Refactorings.QuickListPopupAction</entry>
         <entry>%s/&quot;/'/g</entry>
         <entry>s/'/&quot;/g</entry>
         <entry>action ReopenClosedTab</entry>
-        <entry>action GotoFile</entry>
-        <entry>action NewFile</entry>
         <entry>%s/;//g</entry>
         <entry>s/&quot;/'/g</entry>
         <entry>@</entry>
         <entry encoding="base64">JzwsJz5zLw==</entry>
-        <entry>action NextSplitter</entry>
         <entry>action FindInPath</entry>
         <entry>action CommentByLineComment</entry>
+        <entry>action NewFile</entry>
+        <entry>action SplitVertically</entry>
+        <entry>%s/  / /g</entry>
+        <entry>action NextSplitter</entry>
         <entry>w!</entry>
+        <entry>action GotoFile</entry>
       </history-cmd>
       <history-expr />
       <history-input />
