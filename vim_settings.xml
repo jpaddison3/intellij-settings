@@ -12,7 +12,7 @@
       </file>
       <file name="$USER_HOME$/Documents/cea/parfit/db/searchPath.js" timestamp="1522003469823">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="12" column="0" />
+        <mark key="]" line="13" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/cea/aletheia/app/containers/Groups/GroupsAll/index.jsx" timestamp="1521483596612">
         <mark key="'" line="158" column="0" />
@@ -105,11 +105,12 @@
         <mark key="." line="1" column="37" />
         <mark key="^" line="1" column="37" />
       </file>
-      <file name="$USER_HOME$/Documents/cea/aletheia/app/components/PaymentEntry/index.jsx" timestamp="1521674931047">
-        <mark key="[" line="199" column="69" />
-        <mark key="]" line="199" column="69" />
-        <mark key="^" line="187" column="75" />
-        <mark key="." line="199" column="69" />
+      <file name="$USER_HOME$/Documents/cea/aletheia/app/components/PaymentEntry/index.jsx" timestamp="1522800184665">
+        <mark key="'" line="8" column="19" />
+        <mark key="[" line="17" column="17" />
+        <mark key="]" line="10" column="1" />
+        <mark key="^" line="10" column="1" />
+        <mark key="." line="10" column="1" />
       </file>
       <file name="$USER_HOME$/Documents/personal-site/src/welcome.test.tsx" timestamp="1521868773559">
         <mark key="[" line="7" column="0" />
@@ -189,10 +190,6 @@
         <mark key="^" line="9" column="0" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/cea/parfit/package.json" timestamp="1521952996165">
-        <mark key="[" line="53" column="0" />
-        <mark key="]" line="62" column="78" />
-      </file>
       <file name="$USER_HOME$/Documents/cea/aletheia/app/containers/Lotteries/LotteriesHome/index.jsx" timestamp="1521503865437">
         <mark key="'" line="1" column="0" />
       </file>
@@ -226,6 +223,11 @@
         <mark key="]" line="32" column="12" />
         <mark key="." line="51" column="12" />
         <mark key="^" line="32" column="12" />
+      </file>
+      <file name="$USER_HOME$/Documents/cea/aletheia/app/components/Layout/Header/index.jsx" timestamp="1522795162161">
+        <mark key="[" line="118" column="0" />
+        <mark key="]" line="118" column="0" />
+        <mark key="." line="118" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/cea/aletheia/app/containers/Dashboard/components/ReportedDonationEditor.jsx" timestamp="1521484823809">
         <mark key="'" line="214" column="6" />
@@ -342,8 +344,15 @@
         <mark key="^" line="22" column="18" />
         <mark key="." line="25" column="8" />
       </file>
-      <file name="$USER_HOME$/Documents/cea/aletheia/package.json" timestamp="1519861076674">
+      <file name="$USER_HOME$/Documents/cea/aletheia/package.json" timestamp="1522800473537">
         <mark key="'" line="24" column="44" />
+      </file>
+      <file name="$USER_HOME$/Documents/cea/aletheia/silly.sql" timestamp="1522800678754">
+        <mark key="'" line="30" column="1" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="30" column="1" />
+        <mark key="." line="16" column="53" />
+        <mark key="^" line="16" column="53" />
       </file>
       <file name="$USER_HOME$/Documents/cea/aletheia/app/containers/Lotteries/Lottery/LotteryDetails.jsx" timestamp="1521504607945">
         <mark key="'" line="87" column="0" />
@@ -381,6 +390,13 @@
       <file name="$USER_HOME$/Documents/cea/aletheia/app/containers/Groups/GroupSignup/index.jsx" timestamp="1521484779032">
         <mark key="'" line="12" column="6" />
       </file>
+      <file name="$USER_HOME$/Documents/cea/aletheia/app/routes.js" timestamp="1522795054184">
+        <mark key="'" line="315" column="35" />
+        <mark key="[" line="310" column="22" />
+        <mark key="]" line="310" column="26" />
+        <mark key="^" line="310" column="26" />
+        <mark key="." line="310" column="26" />
+      </file>
       <file name="$USER_HOME$/Documents/cea/parfit/migrations/20180126150914_pledge_completion_calculations_up.sql" timestamp="1520033184339">
         <mark key="'" line="65" column="0" />
       </file>
@@ -413,11 +429,11 @@
         <mark key="'" line="45" column="29" />
       </file>
       <file name="$USER_HOME$/Documents/cea/aletheia/app/models/helpers.js" timestamp="1522033386580">
-        <mark key="'" line="30" column="21" />
-        <mark key="[" line="22" column="3" />
-        <mark key="]" line="22" column="6" />
-        <mark key="." line="22" column="6" />
-        <mark key="^" line="22" column="6" />
+        <mark key="'" line="29" column="21" />
+        <mark key="[" line="21" column="3" />
+        <mark key="]" line="21" column="6" />
+        <mark key="." line="21" column="6" />
+        <mark key="^" line="21" column="6" />
       </file>
       <file name="$USER_HOME$/Documents/hindsight/hello.ts" timestamp="1521949475082">
         <mark key="[" line="0" column="0" />
@@ -431,6 +447,9 @@
         <mark key="^" line="0" column="6" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/cea/aletheia/app/app.jsx" timestamp="1522794601818">
+        <mark key="'" line="83" column="6" />
+      </file>
       <file name="$USER_HOME$/Documents/cea/parfit/seeds/data/payments.lottery_ticket.sql" timestamp="1521507987037">
         <mark key="[" line="18" column="3" />
         <mark key="]" line="18" column="57" />
@@ -443,12 +462,11 @@
       <file name="$USER_HOME$/Documents/cea/parfit/seeds/data/groups.group.sql" timestamp="1519408350088">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/cea/parfit/migrations/20180130124612_reporting_up.sql" timestamp="1521234786486">
-        <mark key="'" line="206" column="0" />
-        <mark key="[" line="207" column="30" />
-        <mark key="]" line="207" column="44" />
-        <mark key="." line="207" column="44" />
-        <mark key="^" line="207" column="44" />
+      <file name="$USER_HOME$/Documents/cea/parfit/migrations/20180130124612_reporting_up.sql" timestamp="1523043639929">
+        <mark key="[" line="110" column="3" />
+        <mark key="]" line="110" column="19" />
+        <mark key="." line="110" column="19" />
+        <mark key="^" line="110" column="19" />
       </file>
       <file name="$USER_HOME$/Documents/cea/aletheia/app/models/Pledges/reducer.js" timestamp="1519862557448">
         <mark key="[" line="44" column="24" />
@@ -456,7 +474,7 @@
         <mark key="^" line="45" column="21" />
         <mark key="." line="45" column="21" />
       </file>
-      <file name="/Dummy.txt" timestamp="1522083535445">
+      <file name="/Dummy.txt" timestamp="1522972791797">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -533,84 +551,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="96" column="43" filename="$USER_HOME$/Documents/cea/parfit/migrations/20170105124000_payments_up.sql" />
-      <jump line="50" column="66" filename="$USER_HOME$/Documents/cea/parfit/migrations/20180319125601_more_payment_reference_up.sql" />
-      <jump line="55" column="66" filename="$USER_HOME$/Documents/cea/parfit/migrations/20180319125601_more_payment_reference_up.sql" />
-      <jump line="86" column="20" filename="$USER_HOME$/Documents/cea/aletheia/app/models/People/index.js" />
-      <jump line="2" column="22" filename="$USER_HOME$/Documents/cea/parfit/seeds/data/payments.payment.sql" />
-      <jump line="32" column="13" filename="$USER_HOME$/Documents/cea/parfit/seeds/data/payments.payment.sql" />
-      <jump line="33" column="13" filename="$USER_HOME$/Documents/cea/parfit/seeds/data/payments.payment.sql" />
-      <jump line="34" column="13" filename="$USER_HOME$/Documents/cea/parfit/seeds/data/payments.payment.sql" />
-      <jump line="35" column="13" filename="$USER_HOME$/Documents/cea/parfit/seeds/data/payments.payment.sql" />
-      <jump line="36" column="13" filename="$USER_HOME$/Documents/cea/parfit/seeds/data/payments.payment.sql" />
-      <jump line="37" column="13" filename="$USER_HOME$/Documents/cea/parfit/seeds/data/payments.payment.sql" />
-      <jump line="38" column="13" filename="$USER_HOME$/Documents/cea/parfit/seeds/data/payments.payment.sql" />
-      <jump line="39" column="13" filename="$USER_HOME$/Documents/cea/parfit/seeds/data/payments.payment.sql" />
-      <jump line="40" column="13" filename="$USER_HOME$/Documents/cea/parfit/seeds/data/payments.payment.sql" />
-      <jump line="41" column="13" filename="$USER_HOME$/Documents/cea/parfit/seeds/data/payments.payment.sql" />
-      <jump line="42" column="13" filename="$USER_HOME$/Documents/cea/parfit/seeds/data/payments.payment.sql" />
-      <jump line="43" column="13" filename="$USER_HOME$/Documents/cea/parfit/seeds/data/payments.payment.sql" />
-      <jump line="44" column="13" filename="$USER_HOME$/Documents/cea/parfit/seeds/data/payments.payment.sql" />
-      <jump line="45" column="13" filename="$USER_HOME$/Documents/cea/parfit/seeds/data/payments.payment.sql" />
-      <jump line="46" column="13" filename="$USER_HOME$/Documents/cea/parfit/seeds/data/payments.payment.sql" />
-      <jump line="47" column="13" filename="$USER_HOME$/Documents/cea/parfit/seeds/data/payments.payment.sql" />
-      <jump line="48" column="13" filename="$USER_HOME$/Documents/cea/parfit/seeds/data/payments.payment.sql" />
-      <jump line="49" column="13" filename="$USER_HOME$/Documents/cea/parfit/seeds/data/payments.payment.sql" />
-      <jump line="50" column="13" filename="$USER_HOME$/Documents/cea/parfit/seeds/data/payments.payment.sql" />
-      <jump line="51" column="13" filename="$USER_HOME$/Documents/cea/parfit/seeds/data/payments.payment.sql" />
-      <jump line="0" column="30" filename="$USER_HOME$/Documents/cea/parfit/seeds/data/payments.payment.sql" />
-      <jump line="44" column="35" filename="$USER_HOME$/Documents/cea/parfit/db_tests/payment_ref_tests.sql" />
-      <jump line="38" column="67" filename="$USER_HOME$/Documents/cea/parfit/db_tests/payment_ref_tests.sql" />
-      <jump line="39" column="64" filename="$USER_HOME$/Documents/cea/parfit/db_tests/payment_ref_tests.sql" />
-      <jump line="41" column="66" filename="$USER_HOME$/Documents/cea/parfit/db_tests/payment_ref_tests.sql" />
-      <jump line="42" column="64" filename="$USER_HOME$/Documents/cea/parfit/db_tests/payment_ref_tests.sql" />
-      <jump line="12" column="0" filename="$USER_HOME$/Documents/cea/parfit/migrations/20180319125601_more_payment_reference_down.sql" />
-      <jump line="18" column="0" filename="$USER_HOME$/Documents/personal-site/src/exampleComponent.test.tsx" />
-      <jump line="0" column="7" filename="$USER_HOME$/Documents/personal-site/src/exampleComponent.test.tsx" />
-      <jump line="3" column="0" filename="$USER_HOME$/Documents/personal-site/src/exampleComponent.test.tsx" />
-      <jump line="7" column="0" filename="$USER_HOME$/Documents/personal-site/src/welcome.tsx" />
-      <jump line="12" column="7" filename="$USER_HOME$/Documents/personal-site/src/welcome.tsx" />
-      <jump line="14" column="13" filename="$USER_HOME$/Documents/personal-site/src/welcome.tsx" />
-      <jump line="69" column="13" filename="$USER_HOME$/Documents/personal-site/tslint.json" />
-      <jump line="0" column="0" filename="$USER_HOME$/Documents/personal-site/src/welcome.tsx" />
-      <jump line="5" column="35" filename="$USER_HOME$/Documents/hindsight/tslint.json" />
-      <jump line="29" column="2" filename="$USER_HOME$/Documents/hindsight/tslint.json" />
-      <jump line="0" column="0" filename="$USER_HOME$/Documents/cea/parfit/.eslintrc.json" />
-      <jump line="23" column="85" filename="$USER_HOME$/Documents/hindsight/tsconfig.json" />
-      <jump line="13" column="23" filename="$USER_HOME$/Documents/cea/parfit/migrations/20161125111455_init.js" />
-      <jump line="14" column="9" filename="$USER_HOME$/Documents/cea/parfit/migrations/20161125111455_init.js" />
-      <jump line="33" column="26" filename="$USER_HOME$/Documents/cea/parfit/migrations/20161125111455_init.js" />
-      <jump line="36" column="25" filename="$USER_HOME$/Documents/cea/parfit/migrations/20161125111455_init.js" />
-      <jump line="37" column="21" filename="$USER_HOME$/Documents/cea/parfit/migrations/20161125111455_init.js" />
-      <jump line="35" column="32" filename="$USER_HOME$/Documents/hindsight/knexfile.ts" />
-      <jump line="40" column="38" filename="$USER_HOME$/Documents/hindsight/knexfile.ts" />
-      <jump line="58" column="3" filename="$USER_HOME$/Documents/hindsight/knexfile.ts" />
-      <jump line="59" column="0" filename="$USER_HOME$/Documents/hindsight/knexfile.ts" />
-      <jump line="50" column="29" filename="$USER_HOME$/Documents/cea/aletheia/app/models/helpers.js" />
-      <jump line="51" column="21" filename="$USER_HOME$/Documents/cea/aletheia/app/models/helpers.js" />
-      <jump line="52" column="38" filename="$USER_HOME$/Documents/cea/aletheia/app/models/helpers.js" />
-      <jump line="54" column="38" filename="$USER_HOME$/Documents/cea/aletheia/app/models/helpers.js" />
-      <jump line="11" column="35" filename="$USER_HOME$/Documents/cea/aletheia/app/models/helpers.js" />
-      <jump line="25" column="3" filename="$USER_HOME$/Documents/cea/aletheia/app/models/helpers.js" />
-      <jump line="28" column="3" filename="$USER_HOME$/Documents/cea/aletheia/app/models/helpers.js" />
-      <jump line="30" column="21" filename="$USER_HOME$/Documents/cea/aletheia/app/models/helpers.js" />
-      <jump line="189" column="23" filename="$USER_HOME$/Documents/cea/aletheia/app/containers/StaticPage/FundsHome/index.jsx" />
-      <jump line="289" column="0" filename="$USER_HOME$/Documents/cea/aletheia/app/containers/StaticPage/FundsHome/index.jsx" />
-      <jump line="288" column="0" filename="$USER_HOME$/Documents/cea/aletheia/app/containers/StaticPage/FundsHome/index.jsx" />
-      <jump line="282" column="0" filename="$USER_HOME$/Documents/cea/aletheia/app/containers/StaticPage/FundsHome/index.jsx" />
-      <jump line="277" column="0" filename="$USER_HOME$/Documents/cea/aletheia/app/containers/StaticPage/FundsHome/index.jsx" />
-      <jump line="273" column="0" filename="$USER_HOME$/Documents/cea/aletheia/app/containers/StaticPage/FundsHome/index.jsx" />
-      <jump line="175" column="0" filename="$USER_HOME$/Documents/cea/aletheia/app/containers/StaticPage/FundsHome/index.jsx" />
-      <jump line="173" column="0" filename="$USER_HOME$/Documents/cea/aletheia/app/containers/StaticPage/FundsHome/index.jsx" />
-      <jump line="161" column="0" filename="$USER_HOME$/Documents/cea/aletheia/app/containers/StaticPage/FundsHome/index.jsx" />
-      <jump line="157" column="0" filename="$USER_HOME$/Documents/cea/aletheia/app/containers/StaticPage/FundsHome/index.jsx" />
-      <jump line="153" column="0" filename="$USER_HOME$/Documents/cea/aletheia/app/containers/StaticPage/FundsHome/index.jsx" />
-      <jump line="147" column="0" filename="$USER_HOME$/Documents/cea/aletheia/app/containers/StaticPage/FundsHome/index.jsx" />
-      <jump line="141" column="0" filename="$USER_HOME$/Documents/cea/aletheia/app/containers/StaticPage/FundsHome/index.jsx" />
-      <jump line="132" column="0" filename="$USER_HOME$/Documents/cea/aletheia/app/containers/StaticPage/FundsHome/index.jsx" />
-      <jump line="139" column="0" filename="$USER_HOME$/Documents/cea/aletheia/app/containers/StaticPage/FundsHome/index.jsx" />
-      <jump line="75" column="34" filename="$USER_HOME$/Documents/cea/aletheia/apollo-notes.md" />
-      <jump line="6" column="0" filename="$USER_HOME$/Documents/cea/aletheia/apollo-notes.md" />
       <jump line="10" column="0" filename="$USER_HOME$/Documents/cea/aletheia/apollo-notes.md" />
       <jump line="12" column="0" filename="$USER_HOME$/Documents/cea/aletheia/apollo-notes.md" />
       <jump line="18" column="0" filename="$USER_HOME$/Documents/cea/aletheia/apollo-notes.md" />
@@ -633,6 +573,84 @@
       <jump line="79" column="13" filename="$USER_HOME$/Documents/cea/aletheia/apollo-notes.md" />
       <jump line="100" column="37" filename="$USER_HOME$/Documents/cea/aletheia/apollo-notes.md" />
       <jump line="3" column="26" filename="$USER_HOME$/Documents/hindsight/.env" />
+      <jump line="73" column="0" filename="$USER_HOME$/Documents/cea/aletheia/app/routes.js" />
+      <jump line="311" column="14" filename="$USER_HOME$/Documents/cea/aletheia/app/routes.js" />
+      <jump line="312" column="13" filename="$USER_HOME$/Documents/cea/aletheia/app/routes.js" />
+      <jump line="328" column="14" filename="$USER_HOME$/Documents/cea/aletheia/app/routes.js" />
+      <jump line="329" column="13" filename="$USER_HOME$/Documents/cea/aletheia/app/routes.js" />
+      <jump line="332" column="36" filename="$USER_HOME$/Documents/cea/aletheia/app/routes.js" />
+      <jump line="345" column="14" filename="$USER_HOME$/Documents/cea/aletheia/app/routes.js" />
+      <jump line="346" column="13" filename="$USER_HOME$/Documents/cea/aletheia/app/routes.js" />
+      <jump line="349" column="36" filename="$USER_HOME$/Documents/cea/aletheia/app/routes.js" />
+      <jump line="362" column="14" filename="$USER_HOME$/Documents/cea/aletheia/app/routes.js" />
+      <jump line="379" column="14" filename="$USER_HOME$/Documents/cea/aletheia/app/routes.js" />
+      <jump line="363" column="13" filename="$USER_HOME$/Documents/cea/aletheia/app/routes.js" />
+      <jump line="80" column="0" filename="$USER_HOME$/Documents/cea/aletheia/app/components/Layout/Header/index.jsx" />
+      <jump line="232" column="19" filename="$USER_HOME$/Documents/cea/aletheia/app/components/Layout/Header/index.jsx" />
+      <jump line="118" column="5" filename="$USER_HOME$/Documents/cea/aletheia/app/components/Layout/Header/index.jsx" />
+      <jump line="119" column="14" filename="$USER_HOME$/Documents/cea/aletheia/app/components/Layout/Header/index.jsx" />
+      <jump line="120" column="25" filename="$USER_HOME$/Documents/cea/aletheia/app/components/Layout/Header/index.jsx" />
+      <jump line="203" column="36" filename="$USER_HOME$/Documents/cea/aletheia/app/components/Layout/Header/index.jsx" />
+      <jump line="204" column="117" filename="$USER_HOME$/Documents/cea/aletheia/app/components/Layout/Header/index.jsx" />
+      <jump line="224" column="27" filename="$USER_HOME$/Documents/cea/aletheia/app/components/Layout/Header/index.jsx" />
+      <jump line="225" column="31" filename="$USER_HOME$/Documents/cea/aletheia/app/components/Layout/Header/index.jsx" />
+      <jump line="226" column="72" filename="$USER_HOME$/Documents/cea/aletheia/app/components/Layout/Header/index.jsx" />
+      <jump line="227" column="49" filename="$USER_HOME$/Documents/cea/aletheia/app/components/Layout/Header/index.jsx" />
+      <jump line="228" column="49" filename="$USER_HOME$/Documents/cea/aletheia/app/components/Layout/Header/index.jsx" />
+      <jump line="229" column="49" filename="$USER_HOME$/Documents/cea/aletheia/app/components/Layout/Header/index.jsx" />
+      <jump line="230" column="49" filename="$USER_HOME$/Documents/cea/aletheia/app/components/Layout/Header/index.jsx" />
+      <jump line="292" column="6" filename="$USER_HOME$/Documents/cea/aletheia/app/routes.js" />
+      <jump line="314" column="6" filename="$USER_HOME$/Documents/cea/aletheia/app/routes.js" />
+      <jump line="331" column="6" filename="$USER_HOME$/Documents/cea/aletheia/app/routes.js" />
+      <jump line="348" column="6" filename="$USER_HOME$/Documents/cea/aletheia/app/routes.js" />
+      <jump line="365" column="6" filename="$USER_HOME$/Documents/cea/aletheia/app/routes.js" />
+      <jump line="382" column="6" filename="$USER_HOME$/Documents/cea/aletheia/app/routes.js" />
+      <jump line="399" column="6" filename="$USER_HOME$/Documents/cea/aletheia/app/routes.js" />
+      <jump line="416" column="6" filename="$USER_HOME$/Documents/cea/aletheia/app/routes.js" />
+      <jump line="438" column="6" filename="$USER_HOME$/Documents/cea/aletheia/app/routes.js" />
+      <jump line="455" column="6" filename="$USER_HOME$/Documents/cea/aletheia/app/routes.js" />
+      <jump line="472" column="6" filename="$USER_HOME$/Documents/cea/aletheia/app/routes.js" />
+      <jump line="490" column="6" filename="$USER_HOME$/Documents/cea/aletheia/app/routes.js" />
+      <jump line="31" column="6" filename="$USER_HOME$/Documents/cea/aletheia/app/routes.js" />
+      <jump line="70" column="6" filename="$USER_HOME$/Documents/cea/aletheia/app/routes.js" />
+      <jump line="87" column="6" filename="$USER_HOME$/Documents/cea/aletheia/app/routes.js" />
+      <jump line="104" column="6" filename="$USER_HOME$/Documents/cea/aletheia/app/routes.js" />
+      <jump line="123" column="6" filename="$USER_HOME$/Documents/cea/aletheia/app/routes.js" />
+      <jump line="140" column="6" filename="$USER_HOME$/Documents/cea/aletheia/app/routes.js" />
+      <jump line="157" column="6" filename="$USER_HOME$/Documents/cea/aletheia/app/routes.js" />
+      <jump line="178" column="6" filename="$USER_HOME$/Documents/cea/aletheia/app/routes.js" />
+      <jump line="199" column="6" filename="$USER_HOME$/Documents/cea/aletheia/app/routes.js" />
+      <jump line="220" column="6" filename="$USER_HOME$/Documents/cea/aletheia/app/routes.js" />
+      <jump line="237" column="6" filename="$USER_HOME$/Documents/cea/aletheia/app/routes.js" />
+      <jump line="258" column="6" filename="$USER_HOME$/Documents/cea/aletheia/app/routes.js" />
+      <jump line="275" column="6" filename="$USER_HOME$/Documents/cea/aletheia/app/routes.js" />
+      <jump line="22" column="9" filename="$USER_HOME$/Documents/cea/aletheia/app/routes.js" />
+      <jump line="77" column="14" filename="$USER_HOME$/Documents/cea/aletheia/app/routes.js" />
+      <jump line="432" column="22" filename="$USER_HOME$/Documents/cea/aletheia/app/routes.js" />
+      <jump line="215" column="0" filename="$USER_HOME$/Documents/cea/aletheia/app/routes.js" />
+      <jump line="107" column="0" filename="$USER_HOME$/Documents/cea/aletheia/app/app.jsx" />
+      <jump line="63" column="7" filename="$USER_HOME$/Documents/cea/aletheia/app/app.jsx" />
+      <jump line="85" column="2" filename="$USER_HOME$/Documents/cea/aletheia/app/app.jsx" />
+      <jump line="95" column="20" filename="$USER_HOME$/Documents/cea/aletheia/app/app.jsx" />
+      <jump line="83" column="6" filename="$USER_HOME$/Documents/cea/aletheia/app/app.jsx" />
+      <jump line="315" column="35" filename="$USER_HOME$/Documents/cea/aletheia/app/routes.js" />
+      <jump line="269" column="12" filename="$USER_HOME$/Documents/cea/aletheia/app/components/Layout/Header/index.jsx" />
+      <jump line="1" column="0" filename="$USER_HOME$/Documents/cea/aletheia/app/components/Layout/Header/index.jsx" />
+      <jump line="7" column="0" filename="$USER_HOME$/Documents/cea/aletheia/app/components/Layout/Header/index.jsx" />
+      <jump line="10" column="0" filename="$USER_HOME$/Documents/cea/aletheia/app/components/Layout/Header/index.jsx" />
+      <jump line="23" column="0" filename="$USER_HOME$/Documents/cea/aletheia/app/components/Layout/Header/index.jsx" />
+      <jump line="26" column="0" filename="$USER_HOME$/Documents/cea/aletheia/app/components/Layout/Header/index.jsx" />
+      <jump line="42" column="0" filename="$USER_HOME$/Documents/cea/aletheia/app/components/Layout/Header/index.jsx" />
+      <jump line="85" column="0" filename="$USER_HOME$/Documents/cea/aletheia/app/components/Layout/Header/index.jsx" />
+      <jump line="108" column="0" filename="$USER_HOME$/Documents/cea/aletheia/app/components/Layout/Header/index.jsx" />
+      <jump line="112" column="0" filename="$USER_HOME$/Documents/cea/aletheia/app/components/Layout/Header/index.jsx" />
+      <jump line="127" column="0" filename="$USER_HOME$/Documents/cea/aletheia/app/components/Layout/Header/index.jsx" />
+      <jump line="152" column="30" filename="$USER_HOME$/Documents/cea/aletheia/app/components/PaymentEntry/index.jsx" />
+      <jump line="8" column="19" filename="$USER_HOME$/Documents/cea/aletheia/app/components/PaymentEntry/index.jsx" />
+      <jump line="30" column="1" filename="$USER_HOME$/Documents/cea/aletheia/silly.sql" />
+      <jump line="212" column="9" filename="$USER_HOME$/Documents/cea/parfit/migrations/20180130124612_reporting_up.sql" />
+      <jump line="211" column="0" filename="$USER_HOME$/Documents/cea/parfit/migrations/20180130124612_reporting_up.sql" />
+      <jump line="112" column="0" filename="$USER_HOME$/Documents/cea/parfit/migrations/20180130124612_reporting_up.sql" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -654,17 +672,9 @@
           <key char="47" code="0" mods="0" />
           <key char="103" code="0" mods="0" />
           <key char="65535" code="10" mods="0" />
-          <key char="108" code="0" mods="0" />
-          <key char="104" code="0" mods="0" />
-          <key char="118" code="0" mods="0" />
-          <key char="37" code="0" mods="0" />
-          <key char="65535" code="27" mods="0" />
-          <key char="104" code="0" mods="0" />
-          <key char="118" code="0" mods="0" />
-          <key char="108" code="0" mods="0" />
-          <key char="37" code="0" mods="0" />
-          <key char="108" code="0" mods="0" />
           <key char="121" code="0" mods="0" />
+          <key char="97" code="0" mods="0" />
+          <key char="41" code="0" mods="0" />
         </keys>
       </register>
       <register name="&quot;" type="4">
@@ -688,65 +698,56 @@
         <text>''</text>
       </register>
       <register name="-" type="4">
-        <text>;</text>
+        <text>//givewell-report.csv</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxjb21wb25lbnRPcHRzXD4=</text>
+        <text>\n</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">aW1wb3J0ICogYXMgS25leCBmcm9tICJrbmV4IjsK</text>
+        <text encoding="base64">XGNvcHkgKCAgIFNFTEVDVCAgICAgcGVyc29uLmZpcnN0X25hbWUsICAgICBwZXJzb24ubGFzdF9uYW1lLCAgICAgcGVyc29uLmVtYWlsLCAgICAgZG9ub3JzX2J5X29yZ2FuaXphdGlvbi4qLCAgICAgcHJpdmFjeS5wYXJ0bmVyX2NoYXJpdGllc19jYW5fY29udGFjdCAgIEZST00gKCAgICAgU0VMRUNUICAgICAgIHBlcnNvbl9pZCwgICAgICAgU1VNIChwYXltZW50X2Ftb3VudF90b19vcmdhbml6YXRpb24pIEFTIHRvdGFsX3BheW1lbnRzLCAgICAgICBwYXltZW50X2N1cnJlbmN5X2NvZGUgQVMgY3VycmVuY3lfY29kZSwgICAgICAgUk9VTkQoU1VNKG5vcm1hbGl6ZV9hbW91bnRfdG9fdXNkKHBheW1lbnRfYW1vdW50X3RvX29yZ2FuaXphdGlvbiwgcGF5bWVudF9jdXJyZW5jeV9jb2RlLCBwYXltZW50X2NyZWF0ZWRfYXQ6OkRBVEUpKSwgMikgQVMgdG90YWxfcGF5bWVudHNfdXNkLCAgICAgICBNSU4ocGF5bWVudF9jcmVhdGVkX2F0KSBBUyBlYXJsaWVzdF9wYXltZW50LCAgICAgICBNQVgocGF5bWVudF9jcmVhdGVkX2F0KSBBUyBsYXRlc3RfcGF5bWVudCwgICAgICAgQ09VTlQocGF5bWVudF9pZCkgQVMgbnVtYmVyX29mX3BheW1lbnRzLCAgICAgICBvcmdhbml6YXRpb25fc2x1ZyAgICAgRlJPTSAgICAgKFNFTEVDVCAgICAgICAgIHBheW1lbnQuaWQgQVMgcGF5bWVudF9pZCwgICAgICAgICBwZXJzb24uaWQgQVMgcGVyc29uX2lkLCAgICAgICAgIHBlcnNvbi5maXJzdF9uYW1lIEFTIHBlcnNvbl9maXJzdF9uYW1lLCAgICAgICAgIHBlcnNvbi5sYXN0X25hbWUgQVMgcGVyc29uX2xhc3RfbmFtZSwgICAgICAgICBwZXJzb24uZW1haWwgQVMgcGVyc29uX2VtYWlsLCAgICAgICAgIHBheW1lbnQuYW1vdW50IEFTIHBheW1lbnRfYW1vdW50LCAgICAgICAgIHBheW1lbnQuY3VycmVuY3lfY29kZSBBUyBwYXltZW50X2N1cnJlbmN5X2NvZGUsICAgICAgICAgb3JnYW5pemF0aW9uLnNsdWcgQVMgb3JnYW5pemF0aW9uX3NsdWcsICAgICAgICAgb3JnYW5pemF0aW9uLm5hbWUgQVMgb3JnYW5pemF0aW9uX25hbWUsICAgICAgICAgb3JnYW5pemF0aW9uLnR5cGUgQVMgb3JnYW5pemF0aW9uX3R5cGUsICAgICAgICAgYWxsb2NhdGlvbl9pdGVtcy5hbGxvY2F0aW9uX2l0ZW0tPj4ncGVyY2VudGFnZScgQVMgcGF5bWVudF9wZXJjZW50YWdlX3RvX29yZ2FuaXphdGlvbiwgICAgICAgICBST1VORCgoKChhbGxvY2F0aW9uX2l0ZW1zLmFsbG9jYXRpb25faXRlbS0+PidwZXJjZW50YWdlJyk6Ok5VTUVSSUMgLyAxMDApICogcGF5bWVudC5hbW91bnQpLCAyKSBBUyBwYXltZW50X2Ftb3VudF90b19vcmdhbml6YXRpb24sICAgICAgICAgcGF5bWVudC5hbGxvY2F0aW9uIEFTIHBheW1lbnRfYWxsb2NhdGlvbiwgICAgICAgICBwYXltZW50LmNyZWF0ZWRfYXQgQVMgcGF5bWVudF9jcmVhdGVkX2F0LCAgICAgICAgIE5PVygpIEFTIGxhc3RfcmVmcmVzaCAgICAgICBGUk9NIHBheW1lbnRzLnBheW1lbnQgICAgICAgSk9JTiBwZW9wbGUucGVyc29uIE9OIHBlcnNvbi5pZCA9IHBheW1lbnQucGVyc29uX2lkICAgICAgIEpPSU4gICAgICAgICAoU0VMRUNUICAgICAgICAgICBwYXltZW50LmlkIEFTIHBheW1lbnRfaWQsICAgICAgICAgICBqc29uYl9hcnJheV9lbGVtZW50cyhhbGxvY2F0aW9uKSBBUyBhbGxvY2F0aW9uX2l0ZW0gICAgICAgICBGUk9NIHBheW1lbnRzLnBheW1lbnQgICAgICAgICBXSEVSRSBzdGF0dXMgPSAnc3VjY2VlZGVkJyAgICAgICAgICAgQU5EIGFtb3VudCBJUyBOT1QgTlVMTCAgICAgICAgICkgYWxsb2NhdGlvbl9pdGVtcyAgICAgICBPTiBhbGxvY2F0aW9uX2l0ZW1zLnBheW1lbnRfaWQgPSBwYXltZW50LmlkICAgICAgIEpPSU4gb3JnYW5pemF0aW9ucy5vcmdhbml6YXRpb24gT04gYWxsb2NhdGlvbl9pdGVtcy5hbGxvY2F0aW9uX2l0ZW0tPj4nb3JnYW5pemF0aW9uJyA9IG9yZ2FuaXphdGlvbi5zbHVnICAgICAgIE9SREVSIEJZIHBheW1lbnQuaWQgICAgICkgcGF5bWVudHNfYnlfb3JnYW5pemF0aW9uICAgICBHUk9VUCBCWSBwZXJzb25faWQsIG9yZ2FuaXphdGlvbl9zbHVnLCBwYXltZW50X2N1cnJlbmN5X2NvZGUgICApIGRvbm9yc19ieV9vcmdhbml6YXRpb24gICBKT0lOIHBlb3BsZS5wZXJzb24gT04gcGVyc29uLmlkID0gZG9ub3JzX2J5X29yZ2FuaXphdGlvbi5wZXJzb25faWQgICBKT0lOIHNldHRpbmdzLnByaXZhY3kgT04gcHJpdmFjeS5wZXJzb25faWQgPSBkb25vcnNfYnlfb3JnYW5pemF0aW9uLnBlcnNvbl9pZCAgIFdIRVJFIGRvbm9yc19ieV9vcmdhbml6YXRpb24ub3JnYW5pemF0aW9uX3NsdWcgPSAnc2VudGllbmNlLWluc3RpdHV0ZScgICBBTkQgcHJpdmFjeS5zaGFyZV9kZXRhaWxzX3dpdGhfcGFydG5lcl9jaGFyaXRpZXMgPSBUUlVFICAgT1JERVIgQlkgZWFybGllc3RfcGF5bWVudCwgbGF0ZXN0X3BheW1lbnQsIHRvdGFsX3BheW1lbnRzX3VzZCApIFRPICcvVXNlcnMvanBhZGRpc29uL0RvY3VtZW50cy9jZWEvcGFyZml0L3NlbnRpZW5jZS5jc3YnIFdJVEggKEZPUk1BVCBDU1YsIEhFQURFUik7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CmV4cG9ydHMudXAgPSBmdW5jdGlvbiAoa25leCkgewp9CgpleHBvcnRzLmRvd24gPSBmdW5jdGlvbiAoa25leCkgewoKfQo=</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">Y29uc3Qge21pZ3JhdGVVcCwgbWlncmF0ZURvd259ID0gcmVxdWlyZSgnLi4vaGVscGVycy9rbmV4JykK</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAvLyBncm91cHM6IHsKICAvLyAgIG5hbWU6ICdHcm91cHMnLAogIC8vICAgbG9nb0ltYWdlOiAnL2xvZ28tZ3JvdXBzLnN2ZycKICAvLyB9LAo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgIHsvKnNlY3Rpb24gPT09ICdncm91cHMnICYmIDxOYXY+CiAgICAgICAgICAgIDxOYXZJdGVtIGhyZWY9Jy9ncm91cHMnPkZpbmQgYSBHcm91cDwvTmF2SXRlbT4KICAgICAgICAgICAgPE5hdkRyb3Bkb3duIGV2ZW50S2V5PSIxIiB0aXRsZT0iT3JnYW5pemluZyBhIEdyb3VwIiBpZD0iZ3JvdXBzLXJlc291cmNlcy1kcm9wZG93biI+CiAgICAgICAgICAgICAgPE1lbnVJdGVtIGV2ZW50S2V5PSIxLjIiIGhyZWY9Jy9ncm91cHMvcmVzb3VyY2VzL3Jlc291cmNlcy1hbmQtc3VwcG9ydCc+UmVzb3VyY2VzIGFuZCBTdXBwb3J0PC9NZW51SXRlbT4KICAgICAgICAgICAgICA8TWVudUl0ZW0gZXZlbnRLZXk9IjEuMiIgaHJlZj0nL2dyb3Vwcy9yZXNvdXJjZXMvZWZmZWN0aXZlLWFsdHJ1aXNtLWNvbW11bml0eS1idWlsZGluZyc+RUEgQ29tbXVuaXR5IEJ1aWxkaW5nPC9NZW51SXRlbT4KICAgICAgICAgICAgICA8TWVudUl0ZW0gZXZlbnRLZXk9IjEuMiIgaHJlZj0nL2dyb3Vwcy9yZXNvdXJjZXMvYWN0aXZpdHktaWRlYXMnPkFjdGl2aXRpZXMgYW5kIFByb2plY3RzPC9NZW51SXRlbT4KICAgICAgICAgICAgICA8TWVudUl0ZW0gZXZlbnRLZXk9IjEuMSIgaHJlZj0nL2dyb3Vwcy9yZXNvdXJjZXMvbWVudG9yc2hpcC1hbmQtZnVuZGluZyc+TWVudG9yc2hpcCBhbmQgRnVuZGluZzwvTWVudUl0ZW0+CiAgICAgICAgICAgIDwvTmF2RHJvcGRvd24+CiAgICAgICAgICA8L05hdj4qL30K</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">ICByZXR1cm4gbWlncmF0ZVVwKGtuZXgsIF9fZGlybmFtZSwgX19maWxlbmFtZSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHsvKjxNZW51SXRlbSBocmVmPScvZ3JvdXBzJz4qL30KICAgICAgICAgICAgICAgICAgey8qPEhlYWRlck1lbnVEcm9wZG93bkltYWdlIGNsYXNzTmFtZT0naW1nLXJlc3BvbnNpdmUnIGFsdD17YCR7c2l0ZS5USVRMRX0gR3JvdXBzYH0gc3JjPXtzZWN0aW9uc1snZ3JvdXBzJ10ubG9nb0ltYWdlfSAvPiovfQogICAgICAgICAgICAgICAgey8qPC9NZW51SXRlbT4qL30K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAogIAo=</text>
+        <text encoding="base64">ICAgIC8vIHsKICAgIC8vICAgcGF0aDogJy9ncm91cHMnLAogICAgLy8gICBuYW1lOiAnZ3JvdXBzSG9tZScsCiAgICAvLyAgIGdldENvbXBvbmVudCAobmV4dFN0YXRlLCBjYikgewogICAgLy8gICAgIGNvbnN0IGltcG9ydE1vZHVsZXMgPSBQcm9taXNlLmFsbChbCiAgICAvLyAgICAgICBpbXBvcnQoJ2NvbnRhaW5lcnMvR3JvdXBzL0dyb3Vwc0hvbWUnKQogICAgLy8gICAgIF0pCiAgICAvLwogICAgLy8gICAgIGNvbnN0IHJlbmRlclJvdXRlID0gbG9hZE1vZHVsZShjYikKICAgIC8vCiAgICAvLyAgICAgaW1wb3J0TW9kdWxlcy50aGVuKChbY29tcG9uZW50XSkgPT4gewogICAgLy8gICAgICAgcmVuZGVyUm91dGUoY29tcG9uZW50KQogICAgLy8gICAgIH0pCiAgICAvLwogICAgLy8gICAgIGltcG9ydE1vZHVsZXMuY2F0Y2goZXJyb3JMb2FkaW5nKQogICAgLy8gICB9CiAgICAvLyB9LAo=</text>
       </register>
-      <register name="6" type="4">
-        <text>migrate (knex, dirname, filename)</text>
+      <register name="6" type="2">
+        <text encoding="base64">CmV4cG9ydHMudXAgPSBmdW5jdGlvbiAoa25leCkgewp9CgpleHBvcnRzLmRvd24gPSBmdW5jdGlvbiAoa25leCkgewoKfQo=</text>
       </register>
-      <register name="7" type="4">
-        <text>''</text>
+      <register name="7" type="2">
+        <text encoding="base64">Y29uc3Qge21pZ3JhdGVVcCwgbWlncmF0ZURvd259ID0gcmVxdWlyZSgnLi4vaGVscGVycy9rbmV4JykK</text>
       </register>
-      <register name="8" type="4">
-        <text>12345</text>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">eyBNYXliZSByZXNldFN0b3JlIGlzIHN1cHBvc2VkIHRvIHJlZmV0Y2ggcXVlcmllcyBmb3IgeW91LiAgSXQgZG9lc24ndCBzZWVtIHRvIGJlIGRvaW5nIHNvIGZvciBxdWVyaWVzIHRoYXQgd2VyZSBlaXRoZXIgc2tpcHBlZCBvciBlcnJvcmVkLiB9Cg==</text>
+        <text encoding="base64">ICByZXR1cm4gbWlncmF0ZVVwKGtuZXgsIF9fZGlybmFtZSwgX19maWxlbmFtZSkK</text>
       </register>
       <register name=":" type="4">
-        <text>action NewFile</text>
+        <text>action FindInPath</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxjb21wb25lbnRPcHRzXD4=</last-search>
+      <last-search>\n</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxjb21wb25lbnRPcHRzXD4=</last-pattern>
+      <last-pattern>\n</last-pattern>
       <last-replace encoding="base64">IA==</last-replace>
-      <last-substitute encoding="base64">ICA=</last-substitute>
+      <last-substitute>\n</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxnZXRMb3R0ZXJ5XD4=</entry>
-        <entry encoding="base64">XDxnZXRMb3R0ZXJ5QnlJZFw+</entry>
-        <entry>Lotteries</entry>
-        <entry encoding="base64">XDxnZXRBY3RpdmVMb3R0ZXJpZXNHUUxcPg==</entry>
-        <entry>public</entry>
-        <entry>'</entry>
-        <entry>netli</entry>
-        <entry encoding="base64">XDxuZXRsaWZ5XD4=</entry>
-        <entry>no-co</entry>
         <entry encoding="base64">XDxvbkNvdW50ZXJJbmNyZWFzZVw+</entry>
         <entry encoding="base64">XDxpbnNlcnRfdGVzdF9wYXltZW50XD4=</entry>
         <entry>recip</entry>
@@ -758,28 +759,37 @@
         <entry encoding="base64">ICA=</entry>
         <entry encoding="base64">XDxrbmV4XD4=</entry>
         <entry encoding="base64">XDxjb21wb25lbnRPcHRzXD4=</entry>
+        <entry>groups</entry>
+        <entry encoding="base64">XDxnZXRDb21wb25lbnRcPg==</entry>
+        <entry>redire</entry>
+        <entry encoding="base64">XDxjcmVhdGVSb3V0ZXNcPg==</entry>
+        <entry encoding="base64">XDxjaGlsZFJvdXRlc1w+</entry>
+        <entry encoding="base64">XDxyb290Um91dGVcPg==</entry>
+        <entry encoding="base64">LCA=</entry>
+        <entry encoding="base64">XG4g</entry>
+        <entry>\n</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">OicnPDwsLCcnPj5zcy8vXFxubi8vICAvL2dn</entry>
-        <entry encoding="base64">JzwsJz4nPCwnPnMvXG4vIC9n</entry>
-        <entry>action GotoDeclaration</entry>
-        <entry>134</entry>
-        <entry>action Refactorings.QuickListPopupAction</entry>
-        <entry>%s/&quot;/'/g</entry>
         <entry>s/'/&quot;/g</entry>
         <entry>action ReopenClosedTab</entry>
         <entry>%s/;//g</entry>
         <entry>s/&quot;/'/g</entry>
         <entry>@</entry>
         <entry encoding="base64">JzwsJz5zLw==</entry>
-        <entry>action CommentByLineComment</entry>
         <entry>action SplitVertically</entry>
         <entry>%s/  / /g</entry>
-        <entry>action FindInPath</entry>
-        <entry>w!</entry>
-        <entry>action GotoFile</entry>
-        <entry>action NextSplitter</entry>
+        <entry encoding="base64">JzwsJz5hY3Rpb24gQ29tbWVudEJ5TGluZUNvbW1lbnQ=</entry>
+        <entry>action GotoDeclaration</entry>
+        <entry>s/, /,\n/g</entry>
         <entry>action NewFile</entry>
+        <entry>action NextSplitter</entry>
+        <entry>action GotoFile</entry>
+        <entry encoding="base64">JzwsJz4nPCwnPnMvXG4vIC9n</entry>
+        <entry encoding="base64">JzwsJz5zL1xuIC9n</entry>
+        <entry encoding="base64">JzwsJz5zL1xuLyAvZw==</entry>
+        <entry>action CommentByLineComment</entry>
+        <entry>w!</entry>
+        <entry>action FindInPath</entry>
       </history-cmd>
       <history-expr />
       <history-input />
