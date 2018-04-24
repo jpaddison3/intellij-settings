@@ -116,12 +116,12 @@
         <mark key="." line="28" column="17" />
         <mark key="^" line="28" column="17" />
       </file>
-      <file name="$USER_HOME$/Documents/cea/parfit/migrations/20180417113445_giftaid_reporting_up.sql" timestamp="1524533263671">
+      <file name="$USER_HOME$/Documents/cea/parfit/migrations/20180417113445_giftaid_reporting_up.sql" timestamp="1524605082685">
         <mark key="'" line="70" column="0" />
-        <mark key="[" line="83" column="7" />
-        <mark key="]" line="84" column="46" />
-        <mark key="^" line="84" column="46" />
-        <mark key="." line="84" column="46" />
+        <mark key="[" line="95" column="47" />
+        <mark key="]" line="95" column="49" />
+        <mark key="^" line="95" column="49" />
+        <mark key="." line="95" column="49" />
       </file>
       <file name="$USER_HOME$/Documents/cea/aletheia/app/containers/Dashboard/schema.js" timestamp="1519959745212">
         <mark key="[" line="5" column="18" />
@@ -141,7 +141,7 @@
         <mark key="." line="31" column="0" />
         <mark key="^" line="30" column="31" />
       </file>
-      <file name="$USER_HOME$/Documents/cea/parfit/migrations/20180417113445_giftaid_reporting_down.sql" timestamp="1524531414664">
+      <file name="$USER_HOME$/Documents/cea/parfit/migrations/20180417113445_giftaid_reporting_down.sql" timestamp="1524607304680">
         <mark key="[" line="7" column="7" />
         <mark key="]" line="7" column="6" />
         <mark key="." line="7" column="6" />
@@ -243,6 +243,9 @@
         <mark key="^" line="9" column="0" />
         <mark key="." line="10" column="0" />
       </file>
+      <file name="/a.sql" timestamp="1524607307643">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/cea/aletheia/app/components/UI/FindPerson/index.jsx" timestamp="1521742223452">
         <mark key="[" line="1" column="30" />
         <mark key="]" line="2" column="24" />
@@ -326,12 +329,12 @@
         <mark key="." line="5" column="59" />
         <mark key="^" line="5" column="59" />
       </file>
-      <file name="$USER_HOME$/Documents/cea/parfit/db_tests/gift_aid_reporting_tests.sql" timestamp="1524532861859">
+      <file name="$USER_HOME$/Documents/cea/parfit/db_tests/gift_aid_reporting_tests.sql" timestamp="1524606834248">
         <mark key="'" line="35" column="14" />
-        <mark key="[" line="46" column="28" />
-        <mark key="]" line="46" column="63" />
-        <mark key="." line="46" column="63" />
-        <mark key="^" line="46" column="63" />
+        <mark key="[" line="8" column="25" />
+        <mark key="]" line="8" column="28" />
+        <mark key="." line="8" column="28" />
+        <mark key="^" line="8" column="28" />
       </file>
       <file name="$USER_HOME$/Documents/cea/parfit/add_ref_to_old_payments.sql" timestamp="1524184818152">
         <mark key="[" line="4" column="0" />
@@ -370,7 +373,7 @@
         <mark key="." line="0" column="1" />
         <mark key="^" line="0" column="1" />
       </file>
-      <file name="$USER_HOME$/Documents/cea/parfit/.env" timestamp="1524532899123">
+      <file name="$USER_HOME$/Documents/cea/parfit/.env" timestamp="1524604793764">
         <mark key="'" line="5" column="43" />
         <mark key="[" line="5" column="49" />
         <mark key="]" line="5" column="53" />
@@ -597,7 +600,7 @@
         <mark key="^" line="45" column="21" />
         <mark key="." line="45" column="21" />
       </file>
-      <file name="/Dummy.txt" timestamp="1524530301832">
+      <file name="/Dummy.txt" timestamp="1524607406068">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -831,7 +834,7 @@
         <text>()</text>
       </register>
       <register name="-" type="4">
-        <text>BIGINT</text>
+        <text>ment</text>
       </register>
       <register name="/" type="4">
         <text>modal</text>
@@ -840,31 +843,31 @@
         <text>DROP FUNCTION tests.insert_test_payment(citext, NUMERIC, TEXT);</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIF9yZXBvcnRfaWQgSU5UOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">WEVST19ERU1PX0NPTlNVTUVSX0tFWT0wUlBDMlRBTERIVTMwUUhXMU5NUlhOVVdNQU5LQVYKWEVST19ERU1PX0NPTlNVTUVSX1NFQ1JFVD1TVk84UlRLUFNSUFZFSTBUVUROSlFSUUlRT0JRVUEK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CiAgICAgIAo=</text>
+        <text encoding="base64">WEVST19ERU1PX0NPTlNVTUVSX0tFWT1MQUJDRkJMRUFXUkhZRFRRQkZDQVpSV01ZRkVMRFQKWEVST19ERU1PX0NPTlNVTUVSX1NFQ1JFVD1HSkpKRktIT0RXR05GRldGN0RGWEhTUlRTVVpEQk8K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIFJFVFVSTiBORVhUIGlzKF9yZXBvcnQuZmlyc3RfbmFtZSwgJ2EnLCAnVE9ETycpOwogICAgUkVUVVJOIE5FWFQgaXMoX3JlcG9ydC5ob3VzZV9udW1iZXIsICcyNScsICdUT0RPJyk7CiAgICBSRVRVUk4gTkVYVCBpcyhfcmVwb3J0LmFtb3VudDo6TlVNRVJJQywgMTAwMjo6TlVNRVJJQywgJ1RPRE8nKTsKCg==</text>
+        <text encoding="base64">WEVST19ERU1PX0NPTlNVTUVSX0tFWT0wUlBDMlRBTERIVTMwUUhXMU5NUlhOVVdNQU5LQVYKWEVST19ERU1PX0NPTlNVTUVSX1NFQ1JFVD1TVk84UlRLUFNSUFZFSTBUVUROSlFSUUlRT0JRVUEK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIF9yZXBvcnQgcGF5bWVudHMuZ2lmdF9haWRfY2xhaW1fcmVwb3J0Owo=</text>
+        <text encoding="base64">ICAgIF9yZXBvcnRfaWQgSU5UOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgUkVUVVJOIE5FWFQgX3JlcG9ydF9pZDsK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIEZPUiBfcmVwb3J0IElOIChTRUxFQ1QgKiBGUk9NIHBheW1lbnRzLmdpZnRfYWlkX2NsYWltX3JlcG9ydCBXSEVSRSByZXBvcnRfaWQgPSBfcmVwb3J0X2lkKSBMT09QCiAgICAgIFJFVFVSTiBORVhUIF9yZXBvcnQ7CiAgICBFTkQgTE9PUDsK</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">ICAgICAgCg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">CiAgICAgIAo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIFJFVFVSTiBORVhUIGlzKF9yZXBvcnQuZmlyc3RfbmFtZSwgJ2EnLCAnVE9ETycpOwogICAgUkVUVVJOIE5FWFQgaXMoX3JlcG9ydC5ob3VzZV9udW1iZXIsICcyNScsICdUT0RPJyk7CiAgICBSRVRVUk4gTkVYVCBpcyhfcmVwb3J0LmFtb3VudDo6TlVNRVJJQywgMTAwMjo6TlVNRVJJQywgJ1RPRE8nKTsKCg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIFNFTEVDVCBuZXh0dmFsKCdwYXltZW50cy5naWZ0X2FpZF9jbGFpbV9yZXBvcnRfaWRfc2VxdWVuY2UnKSBJTlRPIF9yZXBvcnRfaWQ7CiAgICBVUERBVEUgcGF5bWVudHMuZ2lmdF9haWRfY2xhaW0gU0VUIHJlcG9ydF9pZCA9IF9yZXBvcnRfaWQKICAgICAgV0hFUkUgcGF5bWVudF9pZCBJTiAoCiAgICAgICAgU0VMRUNUIHBheW1lbnRfaWQgRlJPTSBwYXltZW50cy5naWZ0X2FpZF9jbGFpbQogICAgICAgICAgSk9JTiBwYXltZW50cy5wYXltZW50IE9OIGdpZnRfYWlkX2NsYWltLnBheW1lbnRfaWQgPSBwYXltZW50LmlkCiAgICAgICAgICBXSEVSRSBwYXltZW50LmNyZWF0ZWRfYXQgQkVUV0VFTiBzdGFydF9kYXRlIEFORCBlbmRfZGF0ZQogICAgICApOwo=</text>
+        <text encoding="base64">ICAgIF9yZXBvcnQgcGF5bWVudHMuZ2lmdF9haWRfY2xhaW1fcmVwb3J0Owo=</text>
       </register>
       <register name=":" type="4">
         <text>w!</text>
@@ -910,7 +913,6 @@
         <entry>s/, /,\n/g</entry>
         <entry encoding="base64">JzwsJz5zL1xuIC9n</entry>
         <entry encoding="base64">JzwsJz5zL1xuLyAvZw==</entry>
-        <entry encoding="base64">JzwsJz5hY3Rpb24gTmV4dFNwbGl0dGVy</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gR290b0ZpbGU=</entry>
         <entry>action RenameFile</entry>
         <entry>action SplitHorizontally</entry>
@@ -920,8 +922,9 @@
         <entry>action NewFile</entry>
         <entry>action FindInPath</entry>
         <entry>action CommentByLineComment</entry>
-        <entry>action NextSplitter</entry>
         <entry>action GotoFile</entry>
+        <entry encoding="base64">JzwsJz5hY3Rpb24gTmV4dFNwbGl0dGVy</entry>
+        <entry>action NextSplitter</entry>
         <entry>w!</entry>
       </history-cmd>
       <history-expr />
