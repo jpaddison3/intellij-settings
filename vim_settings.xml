@@ -10,7 +10,8 @@
         <mark key="." line="0" column="6" />
         <mark key="^" line="0" column="6" />
       </file>
-      <file name="$USER_HOME$/Documents/cea/parfit/migrations/20170105124000_payments_up.sql" timestamp="1524789043388">
+      <file name="$USER_HOME$/Documents/cea/parfit/migrations/20170105124000_payments_up.sql" timestamp="1525305160650">
+        <mark key="'" line="122" column="0" />
         <mark key="[" line="121" column="0" />
         <mark key="]" line="122" column="47" />
         <mark key="^" line="76" column="11" />
@@ -109,7 +110,6 @@
         <mark key="." line="13" column="18" />
         <mark key="^" line="13" column="18" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/30227b55-4086-41da-872e-33c17a7348cd/console.sql" timestamp="1524616625218" />
       <file name="$USER_HOME$/Documents/hindsight/db/connection.ts" timestamp="1523659861637">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="6" />
@@ -123,18 +123,25 @@
         <mark key="." line="28" column="17" />
         <mark key="^" line="28" column="17" />
       </file>
-      <file name="$USER_HOME$/Documents/cea/parfit/migrations/20180417113445_giftaid_reporting_up.sql" timestamp="1524782864319">
-        <mark key="'" line="50" column="10" />
-        <mark key="[" line="1" column="63" />
-        <mark key="]" line="2" column="18" />
-        <mark key="^" line="2" column="18" />
-        <mark key="." line="2" column="18" />
+      <file name="$USER_HOME$/Documents/cea/parfit/migrations/20180417113445_giftaid_reporting_up.sql" timestamp="1525304880126">
+        <mark key="'" line="85" column="0" />
+        <mark key="[" line="100" column="0" />
+        <mark key="]" line="100" column="0" />
+        <mark key="^" line="126" column="51" />
+        <mark key="." line="100" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/cea/aletheia/app/containers/Dashboard/schema.js" timestamp="1519959745212">
         <mark key="[" line="5" column="18" />
         <mark key="]" line="5" column="16" />
         <mark key="." line="5" column="16" />
         <mark key="^" line="5" column="16" />
+      </file>
+      <file name="$USER_HOME$/Documents/cea/parfit/services/payments/handlers/stripe/index.js" timestamp="1525376047716">
+        <mark key="a" line="51" column="48" />
+        <mark key="[" line="49" column="51" />
+        <mark key="]" line="50" column="45" />
+        <mark key="^" line="50" column="45" />
+        <mark key="." line="50" column="45" />
       </file>
       <file name="$USER_HOME$/Documents/cea/aletheia/app/models/Payments/queries/getLotteryById.gql" timestamp="1521509334521">
         <mark key="[" line="7" column="17" />
@@ -242,6 +249,13 @@
         <mark key="." line="3" column="31" />
         <mark key="^" line="3" column="31" />
       </file>
+      <file name="$USER_HOME$/Documents/cea/parfit/services/payments/queues.js" timestamp="1525383905203">
+        <mark key="'" line="98" column="3" />
+        <mark key="[" line="20" column="33" />
+        <mark key="]" line="20" column="46" />
+        <mark key="^" line="20" column="46" />
+        <mark key="." line="20" column="46" />
+      </file>
       <file name="$USER_HOME$/Documents/cea/parfit/services/emails/templates/layouts/payments/styles.scss" timestamp="1524270154718">
         <mark key="[" line="9" column="0" />
         <mark key="]" line="9" column="0" />
@@ -253,14 +267,14 @@
         <mark key="." line="38" column="18" />
         <mark key="^" line="38" column="18" />
       </file>
+      <file name="$USER_HOME$/Documents/cea/parfit/db_tests/lottery_tickets_tests.sql" timestamp="1524508597751">
+        <mark key="'" line="370" column="107" />
+      </file>
       <file name="$USER_HOME$/Documents/cea/parfit/seeds/development/06-pledge.js" timestamp="1519846238459">
         <mark key="[" line="10" column="0" />
         <mark key="]" line="10" column="0" />
         <mark key="^" line="9" column="0" />
         <mark key="." line="10" column="0" />
-      </file>
-      <file name="/a.sql" timestamp="1524607307643">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/cea/aletheia/app/components/UI/FindPerson/index.jsx" timestamp="1521742223452">
         <mark key="[" line="1" column="30" />
@@ -273,6 +287,9 @@
         <mark key="]" line="384" column="0" />
         <mark key="^" line="383" column="0" />
         <mark key="." line="384" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/cea/eaglobal-static/tasks/update-embed-data.js" timestamp="1524096869774">
+        <mark key="'" line="79" column="32" />
       </file>
       <file name="$USER_HOME$/Documents/personal-site/src/exampleComponent.test.tsx" timestamp="1521868780300">
         <mark key="[" line="2" column="50" />
@@ -352,12 +369,12 @@
         <mark key="." line="5" column="59" />
         <mark key="^" line="5" column="59" />
       </file>
-      <file name="$USER_HOME$/Documents/cea/parfit/db_tests/gift_aid_reporting_tests.sql" timestamp="1524606834248">
-        <mark key="'" line="35" column="14" />
-        <mark key="[" line="8" column="25" />
-        <mark key="]" line="8" column="28" />
-        <mark key="." line="8" column="28" />
-        <mark key="^" line="8" column="28" />
+      <file name="$USER_HOME$/Documents/cea/parfit/db_tests/gift_aid_reporting_tests.sql" timestamp="1525371684142">
+        <mark key="'" line="42" column="8" />
+        <mark key="[" line="55" column="29" />
+        <mark key="]" line="55" column="30" />
+        <mark key="." line="55" column="30" />
+        <mark key="^" line="58" column="67" />
       </file>
       <file name="$USER_HOME$/Documents/cea/parfit/add_ref_to_old_payments.sql" timestamp="1524184818152">
         <mark key="[" line="4" column="0" />
@@ -370,6 +387,11 @@
         <mark key="]" line="10" column="14" />
         <mark key="." line="10" column="14" />
         <mark key="^" line="10" column="14" />
+      </file>
+      <file name="$USER_HOME$/Documents/cea/aletheia/eag-tech-notes.md" timestamp="1525300878748">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/cea/parfit/migrations/20170228162534_gift_aid_up.sql" timestamp="1524788361112">
         <mark key="[" line="1" column="1" />
@@ -401,12 +423,18 @@
         <mark key="." line="0" column="1" />
         <mark key="^" line="0" column="1" />
       </file>
-      <file name="$USER_HOME$/Documents/cea/parfit/.env" timestamp="1524782335354">
+      <file name="$USER_HOME$/Documents/cea/parfit/.env" timestamp="1525371244021">
         <mark key="'" line="5" column="43" />
         <mark key="[" line="5" column="49" />
         <mark key="]" line="5" column="49" />
         <mark key="." line="5" column="49" />
         <mark key="^" line="5" column="53" />
+      </file>
+      <file name="$USER_HOME$/Documents/cea/parfit/migrations/20180502113445_giftaid_reporting_down.sql" timestamp="1525367638298">
+        <mark key="'" line="30" column="31" />
+      </file>
+      <file name="$USER_HOME$/Documents/cea/eaglobal-static/tasks/create-eagx-roles.js" timestamp="1524095972723">
+        <mark key="'" line="119" column="3" />
       </file>
       <file name="$USER_HOME$/Documents/cea/aletheia/app/containers/Auth/index.jsx" timestamp="1520388684079">
         <mark key="[" line="92" column="0" />
@@ -439,6 +467,9 @@
         <mark key="]" line="144" column="78" />
         <mark key="^" line="144" column="78" />
         <mark key="." line="144" column="78" />
+      </file>
+      <file name="$USER_HOME$/Documents/cea/aletheia/app/containers/Pledge/PledgeSignup/stages/Profile.jsx" timestamp="1524186527495">
+        <mark key="'" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/cea/eaglobal-static/src/templates/event.pug" timestamp="1524187768293">
         <mark key="[" line="39" column="66" />
@@ -492,6 +523,13 @@
         <mark key="^" line="13" column="42" />
         <mark key="." line="14" column="71" />
       </file>
+      <file name="$USER_HOME$/Documents/cea/parfit/migrations/20180502113445_giftaid_reporting_up.sql" timestamp="1525388551536">
+        <mark key="'" line="76" column="43" />
+        <mark key="[" line="69" column="29" />
+        <mark key="]" line="69" column="43" />
+        <mark key="." line="69" column="43" />
+        <mark key="^" line="69" column="43" />
+      </file>
       <file name="$USER_HOME$/Documents/cea/aletheia/silly.sql" timestamp="1522800678754">
         <mark key="'" line="30" column="1" />
         <mark key="[" line="0" column="0" />
@@ -504,6 +542,12 @@
         <mark key="]" line="4" column="0" />
         <mark key="^" line="4" column="0" />
         <mark key="." line="4" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/cea/parfit/migrations/20180503151844_gift_aid_claim_allocation_up.sql" timestamp="1525388819026">
+        <mark key="[" line="0" column="12" />
+        <mark key="]" line="0" column="52" />
+        <mark key="." line="7" column="15" />
+        <mark key="^" line="7" column="15" />
       </file>
       <file name="$USER_HOME$/Documents/cea/aletheia/app/models/People/index.js" timestamp="1521746030764">
         <mark key="'" line="86" column="20" />
@@ -556,6 +600,11 @@
         <mark key="." line="72" column="35" />
         <mark key="^" line="49" column="21" />
       </file>
+      <file name="$USER_HOME$/Documents/cea/parfit/migrations/20170304153947_stats_up.sql" timestamp="1525387310966">
+        <mark key="'" line="26" column="0" />
+        <mark key="[" line="63" column="0" />
+        <mark key="]" line="63" column="86" />
+      </file>
       <file name="$USER_HOME$/Documents/cea/aletheia/app/models/Pledges/queries/getReportedDonationsByPersonId.gql" timestamp="1520036573595">
         <mark key="[" line="1" column="8" />
         <mark key="]" line="1" column="8" />
@@ -597,11 +646,17 @@
         <mark key="." line="45" column="44" />
         <mark key="^" line="45" column="39" />
       </file>
+      <file name="$USER_HOME$/Documents/cea/parfit/queue/factory.js" timestamp="1525383633364">
+        <mark key="'" line="25" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/cea/parfit/seeds/data/payments.lottery_ticket.sql" timestamp="1521507987037">
         <mark key="[" line="18" column="3" />
         <mark key="]" line="18" column="57" />
         <mark key="^" line="12" column="0" />
         <mark key="." line="14" column="2" />
+      </file>
+      <file name="$USER_HOME$/Documents/cea/aletheia/app/components/PaymentForm/GiftAidSelector.jsx" timestamp="1524530441487">
+        <mark key="'" line="115" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/cea/aletheia/app/helpers/validate.js" timestamp="1524099494219">
         <mark key="'" line="105" column="17" />
@@ -609,6 +664,15 @@
         <mark key="]" line="112" column="1" />
         <mark key="^" line="112" column="1" />
         <mark key="." line="112" column="1" />
+      </file>
+      <file name="$USER_HOME$/Documents/cea/parfit/services/payments/handlers/xero.js" timestamp="1525389858516">
+        <mark key="a" line="239" column="21" />
+        <mark key="b" line="128" column="0" />
+        <mark key="'" line="218" column="29" />
+        <mark key="[" line="309" column="25" />
+        <mark key="]" line="309" column="24" />
+        <mark key="." line="309" column="24" />
+        <mark key="^" line="309" column="24" />
       </file>
       <file name="$USER_HOME$/Documents/cea/parfit/migrations/20180130124612_reporting_up.sql" timestamp="1525217891474">
         <mark key="'" line="107" column="52" />
@@ -623,7 +687,7 @@
         <mark key="^" line="45" column="21" />
         <mark key="." line="45" column="21" />
       </file>
-      <file name="/Dummy.txt" timestamp="1524789022573">
+      <file name="/Dummy.txt" timestamp="1525389793743">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -658,6 +722,10 @@
         <mark key="]" line="5" column="3" />
         <mark key="." line="9" column="3" />
         <mark key="^" line="5" column="3" />
+      </file>
+      <file name="$USER_HOME$/Documents/cea/parfit/queue/topology.js" timestamp="1525383678121">
+        <mark key="[" line="0" column="24" />
+        <mark key="]" line="0" column="29" />
       </file>
       <file name="$USER_HOME$/Documents/cea/parfit/parse_shared.py" timestamp="1521497792431">
         <mark key="[" line="0" column="22" />
@@ -710,74 +778,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="20" column="47" filename="$USER_HOME$/Documents/cea/parfit/db_dumps/parfit-20180411-11:55.sql" />
-      <jump line="30" column="49" filename="$USER_HOME$/Documents/cea/parfit/db_dumps/parfit-20180411-11:55.sql" />
-      <jump line="40" column="50" filename="$USER_HOME$/Documents/cea/parfit/db_dumps/parfit-20180411-11:55.sql" />
-      <jump line="50" column="47" filename="$USER_HOME$/Documents/cea/parfit/db_dumps/parfit-20180411-11:55.sql" />
-      <jump line="60" column="56" filename="$USER_HOME$/Documents/cea/parfit/db_dumps/parfit-20180411-11:55.sql" />
-      <jump line="70" column="51" filename="$USER_HOME$/Documents/cea/parfit/db_dumps/parfit-20180411-11:55.sql" />
-      <jump line="80" column="49" filename="$USER_HOME$/Documents/cea/parfit/db_dumps/parfit-20180411-11:55.sql" />
-      <jump line="90" column="50" filename="$USER_HOME$/Documents/cea/parfit/db_dumps/parfit-20180411-11:55.sql" />
-      <jump line="100" column="50" filename="$USER_HOME$/Documents/cea/parfit/db_dumps/parfit-20180411-11:55.sql" />
-      <jump line="110" column="51" filename="$USER_HOME$/Documents/cea/parfit/db_dumps/parfit-20180411-11:55.sql" />
-      <jump line="120" column="50" filename="$USER_HOME$/Documents/cea/parfit/db_dumps/parfit-20180411-11:55.sql" />
-      <jump line="130" column="48" filename="$USER_HOME$/Documents/cea/parfit/db_dumps/parfit-20180411-11:55.sql" />
-      <jump line="305" column="53" filename="$USER_HOME$/Documents/cea/parfit/db_dumps/parfit-20180411-11:55.sql" />
-      <jump line="321" column="68" filename="$USER_HOME$/Documents/cea/parfit/db_dumps/parfit-20180411-11:55.sql" />
-      <jump line="338" column="56" filename="$USER_HOME$/Documents/cea/parfit/db_dumps/parfit-20180411-11:55.sql" />
-      <jump line="353" column="70" filename="$USER_HOME$/Documents/cea/parfit/db_dumps/parfit-20180411-11:55.sql" />
-      <jump line="369" column="73" filename="$USER_HOME$/Documents/cea/parfit/db_dumps/parfit-20180411-11:55.sql" />
-      <jump line="387" column="72" filename="$USER_HOME$/Documents/cea/parfit/db_dumps/parfit-20180411-11:55.sql" />
-      <jump line="0" column="0" filename="$USER_HOME$/Documents/cea/parfit/db_dumps/parfit-20180411-11:55.sql" />
-      <jump line="118715" column="70" filename="$USER_HOME$/Documents/cea/parfit/db_dumps/parfit-20180411-11:55.sql" />
-      <jump line="3459" column="35" filename="$USER_HOME$/Documents/cea/parfit/db_dumps/parfit-20180411-11:55.sql" />
-      <jump line="3486" column="35" filename="$USER_HOME$/Documents/cea/parfit/db_dumps/parfit-20180411-11:55.sql" />
-      <jump line="115154" column="151" filename="$USER_HOME$/Documents/cea/parfit/db_dumps/parfit-20180411-11:55.sql" />
-      <jump line="115215" column="84" filename="$USER_HOME$/Documents/cea/parfit/db_dumps/parfit-20180411-11:55.sql" />
-      <jump line="115260" column="104" filename="$USER_HOME$/Documents/cea/parfit/db_dumps/parfit-20180411-11:55.sql" />
-      <jump line="115312" column="175" filename="$USER_HOME$/Documents/cea/parfit/db_dumps/parfit-20180411-11:55.sql" />
-      <jump line="26" column="0" filename="$USER_HOME$/Documents/cea/parfit/.env" />
-      <jump line="5" column="43" filename="$USER_HOME$/Documents/cea/parfit/.env" />
-      <jump line="0" column="0" filename="$USER_HOME$/Documents/cea/eaglobal-static/tasks/metalsmith.js" />
-      <jump line="24" column="26" filename="$USER_HOME$/Documents/cea/eaglobal-static/tasks/metalsmith.js" />
-      <jump line="35" column="39" filename="$USER_HOME$/Documents/cea/eaglobal-static/tasks/metalsmith.js" />
-      <jump line="65" column="4" filename="$USER_HOME$/Documents/cea/eaglobal-static/tasks/metalsmith.js" />
-      <jump line="139" column="12" filename="$USER_HOME$/Documents/cea/eaglobal-static/tasks/metalsmith.js" />
-      <jump line="170" column="39" filename="$USER_HOME$/Documents/cea/eaglobal-static/tasks/metalsmith.js" />
-      <jump line="173" column="38" filename="$USER_HOME$/Documents/cea/eaglobal-static/tasks/metalsmith.js" />
-      <jump line="178" column="61" filename="$USER_HOME$/Documents/cea/eaglobal-static/tasks/metalsmith.js" />
-      <jump line="179" column="32" filename="$USER_HOME$/Documents/cea/eaglobal-static/tasks/metalsmith.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/Documents/cea/eaglobal-static/tasks/create-eagx-roles.js" />
-      <jump line="1" column="47" filename="$USER_HOME$/Documents/cea/eaglobal-static/tasks/create-eagx-roles.js" />
-      <jump line="119" column="3" filename="$USER_HOME$/Documents/cea/eaglobal-static/tasks/create-eagx-roles.js" />
-      <jump line="23" column="29" filename="$USER_HOME$/Documents/cea/eaglobal-static/tasks/update-embed-data.js" />
-      <jump line="108" column="47" filename="$USER_HOME$/Documents/cea/eaglobal-static/tasks/update-embed-data.js" />
-      <jump line="164" column="0" filename="$USER_HOME$/Documents/cea/eaglobal-static/tasks/update-embed-data.js" />
-      <jump line="2" column="28" filename="$USER_HOME$/Documents/cea/eaglobal-static/tasks/update-embed-data.js" />
-      <jump line="20" column="23" filename="$USER_HOME$/Documents/cea/eaglobal-static/tasks/update-embed-data.js" />
-      <jump line="25" column="41" filename="$USER_HOME$/Documents/cea/eaglobal-static/tasks/update-embed-data.js" />
-      <jump line="26" column="0" filename="$USER_HOME$/Documents/cea/eaglobal-static/tasks/update-embed-data.js" />
-      <jump line="79" column="32" filename="$USER_HOME$/Documents/cea/eaglobal-static/tasks/update-embed-data.js" />
-      <jump line="12" column="0" filename="$USER_HOME$/Documents/cea/eaglobal-static/package.json" />
-      <jump line="103" column="17" filename="$USER_HOME$/Documents/cea/aletheia/app/helpers/validate.js" />
-      <jump line="105" column="17" filename="$USER_HOME$/Documents/cea/aletheia/app/helpers/validate.js" />
-      <jump line="145" column="8" filename="$USER_HOME$/Documents/cea/eaglobal-static/tasks/metalsmith.js" />
-      <jump line="157" column="8" filename="$USER_HOME$/Documents/cea/eaglobal-static/tasks/metalsmith.js" />
-      <jump line="668" column="12" filename="$USER_HOME$/Documents/cea/eaglobal-static/tasks/metalsmith.js" />
-      <jump line="723" column="8" filename="$USER_HOME$/Documents/cea/eaglobal-static/tasks/metalsmith.js" />
-      <jump line="144" column="12" filename="$USER_HOME$/Documents/cea/eaglobal-static/tasks/metalsmith.js" />
-      <jump line="404" column="19" filename="$USER_HOME$/Documents/cea/eaglobal-static/tasks/metalsmith.js" />
-      <jump line="476" column="34" filename="$USER_HOME$/Documents/cea/eaglobal-static/tasks/metalsmith.js" />
-      <jump line="181" column="39" filename="$USER_HOME$/Documents/cea/parfit/migrations/20180130124612_reporting_up.sql" />
-      <jump line="235" column="2" filename="$USER_HOME$/Documents/cea/parfit/migrations/20180130124612_reporting_up.sql" />
-      <jump line="0" column="0" filename="$USER_HOME$/Documents/cea/aletheia/app/containers/Pledge/PledgeSignup/stages/Profile.jsx" />
-      <jump line="237" column="2" filename="$USER_HOME$/Documents/cea/parfit/migrations/20180130124612_reporting_up.sql" />
-      <jump line="234" column="0" filename="$USER_HOME$/Documents/cea/parfit/migrations/20180130124612_reporting_up.sql" />
-      <jump line="5" column="8" filename="$USER_HOME$/Documents/cea/parfit/services/emails/templates/layouts/payments/fundsReceipt.pug" />
-      <jump line="7" column="8" filename="$USER_HOME$/Documents/cea/parfit/services/emails/templates/layouts/payments/fundsReceipt.pug" />
-      <jump line="11" column="12" filename="$USER_HOME$/Documents/cea/parfit/services/emails/templates/layouts/payments/fundsReceipt.pug" />
-      <jump line="87" column="31" filename="$USER_HOME$/Documents/cea/parfit/services/emails/templates/layouts/payments/fundsReceipt.pug" />
-      <jump line="15" column="8" filename="$USER_HOME$/Documents/cea/parfit/services/emails/templates/layouts/payments/fundsReceipt.pug" />
       <jump line="370" column="107" filename="$USER_HOME$/Documents/cea/parfit/db_tests/lottery_tickets_tests.sql" />
       <jump line="21" column="34" filename="$USER_HOME$/Documents/cea/parfit/migrations/20180417113445_giftaid_reporting_up.sql" />
       <jump line="97" column="83" filename="$USER_HOME$/Documents/cea/parfit/migrations/20180417113445_giftaid_reporting_up.sql" />
@@ -810,6 +810,74 @@
       <jump line="117" column="7" filename="$USER_HOME$/Documents/cea/parfit/migrations/20180130124612_reporting_up.sql" />
       <jump line="52" column="8" filename="$USER_HOME$/Documents/cea/parfit/migrations/20180130124612_reporting_up.sql" />
       <jump line="107" column="52" filename="$USER_HOME$/Documents/cea/parfit/migrations/20180130124612_reporting_up.sql" />
+      <jump line="50" column="0" filename="$USER_HOME$/Documents/cea/aletheia/eag-tech-notes.md" />
+      <jump line="10" column="205" filename="$USER_HOME$/Documents/cea/aletheia/eag-tech-notes.md" />
+      <jump line="13" column="12" filename="$USER_HOME$/Documents/cea/aletheia/eag-tech-notes.md" />
+      <jump line="14" column="33" filename="$USER_HOME$/Documents/cea/aletheia/eag-tech-notes.md" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/cea/aletheia/eag-tech-notes.md" />
+      <jump line="12" column="174" filename="$USER_HOME$/Documents/cea/aletheia/eag-tech-notes.md" />
+      <jump line="15" column="3" filename="$USER_HOME$/Documents/cea/aletheia/eag-tech-notes.md" />
+      <jump line="33" column="33" filename="$USER_HOME$/Documents/cea/aletheia/eag-tech-notes.md" />
+      <jump line="31" column="32" filename="$USER_HOME$/Documents/cea/aletheia/eag-tech-notes.md" />
+      <jump line="23" column="0" filename="$USER_HOME$/Documents/cea/aletheia/eag-tech-notes.md" />
+      <jump line="6" column="0" filename="$USER_HOME$/Documents/cea/aletheia/eag-tech-notes.md" />
+      <jump line="33" column="16" filename="$USER_HOME$/Documents/cea/parfit/migrations/20180417113445_giftaid_reporting_up.sql" />
+      <jump line="24" column="30" filename="$USER_HOME$/Documents/cea/parfit/migrations/20180417113445_giftaid_reporting_up.sql" />
+      <jump line="121" column="25" filename="$USER_HOME$/Documents/cea/parfit/migrations/20180417113445_giftaid_reporting_up.sql" />
+      <jump line="3" column="3" filename="$USER_HOME$/Documents/cea/parfit/migrations/20180417113445_giftaid_reporting_up.sql" />
+      <jump line="2" column="3" filename="$USER_HOME$/Documents/cea/parfit/migrations/20180417113445_giftaid_reporting_up.sql" />
+      <jump line="89" column="3" filename="$USER_HOME$/Documents/cea/parfit/migrations/20180417113445_giftaid_reporting_up.sql" />
+      <jump line="0" column="3" filename="$USER_HOME$/Documents/cea/parfit/migrations/20180417113445_giftaid_reporting_up.sql" />
+      <jump line="85" column="0" filename="$USER_HOME$/Documents/cea/parfit/migrations/20180417113445_giftaid_reporting_up.sql" />
+      <jump line="122" column="0" filename="$USER_HOME$/Documents/cea/parfit/migrations/20170105124000_payments_up.sql" />
+      <jump line="44" column="4" filename="$USER_HOME$/Documents/cea/parfit/db_tests/gift_aid_reporting_tests.sql" />
+      <jump line="42" column="8" filename="$USER_HOME$/Documents/cea/parfit/db_tests/gift_aid_reporting_tests.sql" />
+      <jump line="114" column="33" filename="$USER_HOME$/Documents/cea/parfit/migrations/20180502113445_giftaid_reporting_up.sql" />
+      <jump line="30" column="31" filename="$USER_HOME$/Documents/cea/parfit/migrations/20180502113445_giftaid_reporting_down.sql" />
+      <jump line="97" column="42" filename="$USER_HOME$/Documents/cea/parfit/migrations/20180502113445_giftaid_reporting_up.sql" />
+      <jump line="102" column="26" filename="$USER_HOME$/Documents/cea/parfit/migrations/20180502113445_giftaid_reporting_up.sql" />
+      <jump line="115" column="8" filename="$USER_HOME$/Documents/cea/parfit/migrations/20180502113445_giftaid_reporting_up.sql" />
+      <jump line="65" column="2" filename="$USER_HOME$/Documents/cea/parfit/migrations/20180502113445_giftaid_reporting_up.sql" />
+      <jump line="88" column="22" filename="$USER_HOME$/Documents/cea/parfit/migrations/20180502113445_giftaid_reporting_up.sql" />
+      <jump line="116" column="35" filename="$USER_HOME$/Documents/cea/parfit/migrations/20180502113445_giftaid_reporting_up.sql" />
+      <jump line="75" column="7" filename="$USER_HOME$/Documents/cea/parfit/migrations/20180502113445_giftaid_reporting_up.sql" />
+      <jump line="93" column="3" filename="$USER_HOME$/Documents/cea/parfit/services/payments/queues.js" />
+      <jump line="36" column="10" filename="$USER_HOME$/Documents/cea/parfit/migrations/20180502113445_giftaid_reporting_up.sql" />
+      <jump line="53" column="1" filename="$USER_HOME$/Documents/cea/parfit/services/payments/handlers/xero.js" />
+      <jump line="58" column="18" filename="$USER_HOME$/Documents/cea/parfit/services/payments/handlers/xero.js" />
+      <jump line="358" column="0" filename="$USER_HOME$/Documents/cea/parfit/services/payments/handlers/xero.js" />
+      <jump line="283" column="0" filename="$USER_HOME$/Documents/cea/parfit/services/payments/handlers/xero.js" />
+      <jump line="250" column="0" filename="$USER_HOME$/Documents/cea/parfit/services/payments/handlers/xero.js" />
+      <jump line="142" column="0" filename="$USER_HOME$/Documents/cea/parfit/services/payments/handlers/xero.js" />
+      <jump line="169" column="0" filename="$USER_HOME$/Documents/cea/parfit/services/payments/handlers/xero.js" />
+      <jump line="175" column="0" filename="$USER_HOME$/Documents/cea/parfit/services/payments/handlers/xero.js" />
+      <jump line="203" column="0" filename="$USER_HOME$/Documents/cea/parfit/services/payments/handlers/xero.js" />
+      <jump line="226" column="0" filename="$USER_HOME$/Documents/cea/parfit/services/payments/handlers/xero.js" />
+      <jump line="236" column="0" filename="$USER_HOME$/Documents/cea/parfit/services/payments/handlers/xero.js" />
+      <jump line="228" column="0" filename="$USER_HOME$/Documents/cea/parfit/services/payments/handlers/xero.js" />
+      <jump line="227" column="0" filename="$USER_HOME$/Documents/cea/parfit/services/payments/handlers/xero.js" />
+      <jump line="204" column="0" filename="$USER_HOME$/Documents/cea/parfit/services/payments/handlers/xero.js" />
+      <jump line="176" column="0" filename="$USER_HOME$/Documents/cea/parfit/services/payments/handlers/xero.js" />
+      <jump line="170" column="0" filename="$USER_HOME$/Documents/cea/parfit/services/payments/handlers/xero.js" />
+      <jump line="143" column="0" filename="$USER_HOME$/Documents/cea/parfit/services/payments/handlers/xero.js" />
+      <jump line="128" column="0" filename="$USER_HOME$/Documents/cea/parfit/services/payments/handlers/xero.js" />
+      <jump line="133" column="9" filename="$USER_HOME$/Documents/cea/parfit/services/payments/handlers/xero.js" />
+      <jump line="25" column="0" filename="$USER_HOME$/Documents/cea/parfit/queue/factory.js" />
+      <jump line="135" column="9" filename="$USER_HOME$/Documents/cea/parfit/services/payments/handlers/xero.js" />
+      <jump line="71" column="61" filename="$USER_HOME$/Documents/cea/parfit/services/payments/handlers/xero.js" />
+      <jump line="131" column="10" filename="$USER_HOME$/Documents/cea/parfit/services/payments/handlers/xero.js" />
+      <jump line="130" column="10" filename="$USER_HOME$/Documents/cea/parfit/services/payments/handlers/xero.js" />
+      <jump line="97" column="0" filename="$USER_HOME$/Documents/cea/parfit/services/payments/handlers/xero.js" />
+      <jump line="242" column="68" filename="$USER_HOME$/Documents/cea/parfit/services/payments/handlers/xero.js" />
+      <jump line="74" column="3" filename="$USER_HOME$/Documents/cea/parfit/migrations/20180502113445_giftaid_reporting_up.sql" />
+      <jump line="26" column="0" filename="$USER_HOME$/Documents/cea/parfit/migrations/20170304153947_stats_up.sql" />
+      <jump line="5" column="14" filename="$USER_HOME$/Documents/cea/parfit/migrations/20180503151844_gift_aid_claim_allocation_up.sql" />
+      <jump line="6" column="40" filename="$USER_HOME$/Documents/cea/parfit/migrations/20180503151844_gift_aid_claim_allocation_up.sql" />
+      <jump line="76" column="43" filename="$USER_HOME$/Documents/cea/parfit/migrations/20180502113445_giftaid_reporting_up.sql" />
+      <jump line="239" column="21" filename="$USER_HOME$/Documents/cea/parfit/services/payments/handlers/xero.js" />
+      <jump line="159" column="33" filename="$USER_HOME$/Documents/cea/parfit/services/payments/handlers/xero.js" />
+      <jump line="309" column="11" filename="$USER_HOME$/Documents/cea/parfit/services/payments/handlers/xero.js" />
+      <jump line="218" column="29" filename="$USER_HOME$/Documents/cea/parfit/services/payments/handlers/xero.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -863,54 +931,49 @@
         <text>()</text>
       </register>
       <register name="-" type="4">
-        <text>You aren't a bot are you?</text>
+        <text>Allocation</text>
       </register>
       <register name="/" type="4">
-        <text>sentien</text>
+        <text encoding="base64">XDxnZXRMaW5lSXRlbXNGcm9tUGF5bWVudFw+</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">XGNvcHkgKCAgIFNFTEVDVCAgICAgcGVyc29uLmZpcnN0X25hbWUsICAgICBwZXJzb24ubGFzdF9uYW1lLCAgICAgcGVyc29uLmVtYWlsLCAgICAgZG9ub3JzX2J5X29yZ2FuaXphdGlvbi4qLCAgICAgcHJpdmFjeS5wYXJ0bmVyX2NoYXJpdGllc19jYW5fY29udGFjdCAgIEZST00gKCAgICAgU0VMRUNUICAgICAgIHBlcnNvbl9pZCwgICAgICAgU1VNIChwYXltZW50X2Ftb3VudF90b19vcmdhbml6YXRpb24pIEFTIHRvdGFsX3BheW1lbnRzLCAgICAgICBwYXltZW50X2N1cnJlbmN5X2NvZGUgQVMgY3VycmVuY3lfY29kZSwgICAgICAgUk9VTkQoU1VNKG5vcm1hbGl6ZV9hbW91bnRfdG9fdXNkKHBheW1lbnRfYW1vdW50X3RvX29yZ2FuaXphdGlvbiwgcGF5bWVudF9jdXJyZW5jeV9jb2RlLCBwYXltZW50X2NyZWF0ZWRfYXQ6OkRBVEUpKSwgMikgQVMgdG90YWxfcGF5bWVudHNfdXNkLCAgICAgICBNSU4ocGF5bWVudF9jcmVhdGVkX2F0KSBBUyBlYXJsaWVzdF9wYXltZW50LCAgICAgICBNQVgocGF5bWVudF9jcmVhdGVkX2F0KSBBUyBsYXRlc3RfcGF5bWVudCwgICAgICAgQ09VTlQocGF5bWVudF9pZCkgQVMgbnVtYmVyX29mX3BheW1lbnRzLCAgICAgICBvcmdhbml6YXRpb25fc2x1ZyAgICAgRlJPTSAgICAgKFNFTEVDVCAgICAgICAgIHBheW1lbnQuaWQgQVMgcGF5bWVudF9pZCwgICAgICAgICBwZXJzb24uaWQgQVMgcGVyc29uX2lkLCAgICAgICAgIHBlcnNvbi5maXJzdF9uYW1lIEFTIHBlcnNvbl9maXJzdF9uYW1lLCAgICAgICAgIHBlcnNvbi5sYXN0X25hbWUgQVMgcGVyc29uX2xhc3RfbmFtZSwgICAgICAgICBwZXJzb24uZW1haWwgQVMgcGVyc29uX2VtYWlsLCAgICAgICAgIHBheW1lbnQuYW1vdW50IEFTIHBheW1lbnRfYW1vdW50LCAgICAgICAgIHBheW1lbnQuY3VycmVuY3lfY29kZSBBUyBwYXltZW50X2N1cnJlbmN5X2NvZGUsICAgICAgICAgb3JnYW5pemF0aW9uLnNsdWcgQVMgb3JnYW5pemF0aW9uX3NsdWcsICAgICAgICAgb3JnYW5pemF0aW9uLm5hbWUgQVMgb3JnYW5pemF0aW9uX25hbWUsICAgICAgICAgb3JnYW5pemF0aW9uLnR5cGUgQVMgb3JnYW5pemF0aW9uX3R5cGUsICAgICAgICAgYWxsb2NhdGlvbl9pdGVtcy5hbGxvY2F0aW9uX2l0ZW0tPj4ncGVyY2VudGFnZScgQVMgcGF5bWVudF9wZXJjZW50YWdlX3RvX29yZ2FuaXphdGlvbiwgICAgICAgICBST1VORCgoKChhbGxvY2F0aW9uX2l0ZW1zLmFsbG9jYXRpb25faXRlbS0+PidwZXJjZW50YWdlJyk6Ok5VTUVSSUMgLyAxMDApICogcGF5bWVudC5hbW91bnQpLCAyKSBBUyBwYXltZW50X2Ftb3VudF90b19vcmdhbml6YXRpb24sICAgICAgICAgcGF5bWVudC5hbGxvY2F0aW9uIEFTIHBheW1lbnRfYWxsb2NhdGlvbiwgICAgICAgICBwYXltZW50LmNyZWF0ZWRfYXQgQVMgcGF5bWVudF9jcmVhdGVkX2F0LCAgICAgICAgIE5PVygpIEFTIGxhc3RfcmVmcmVzaCAgICAgICBGUk9NIHBheW1lbnRzLnBheW1lbnQgICAgICAgSk9JTiBwZW9wbGUucGVyc29uIE9OIHBlcnNvbi5pZCA9IHBheW1lbnQucGVyc29uX2lkICAgICAgIEpPSU4gICAgICAgICAoU0VMRUNUICAgICAgICAgICBwYXltZW50LmlkIEFTIHBheW1lbnRfaWQsICAgICAgICAgICBqc29uYl9hcnJheV9lbGVtZW50cyhhbGxvY2F0aW9uKSBBUyBhbGxvY2F0aW9uX2l0ZW0gICAgICAgICBGUk9NIHBheW1lbnRzLnBheW1lbnQgICAgICAgICBXSEVSRSBzdGF0dXMgPSAnc3VjY2VlZGVkJyAgICAgICAgICAgQU5EIGFtb3VudCBJUyBOT1QgTlVMTCAgICAgICAgICkgYWxsb2NhdGlvbl9pdGVtcyAgICAgICBPTiBhbGxvY2F0aW9uX2l0ZW1zLnBheW1lbnRfaWQgPSBwYXltZW50LmlkICAgICAgIEpPSU4gb3JnYW5pemF0aW9ucy5vcmdhbml6YXRpb24gT04gYWxsb2NhdGlvbl9pdGVtcy5hbGxvY2F0aW9uX2l0ZW0tPj4nb3JnYW5pemF0aW9uJyA9IG9yZ2FuaXphdGlvbi5zbHVnICAgICAgIE9SREVSIEJZIHBheW1lbnQuaWQgICAgICkgcGF5bWVudHNfYnlfb3JnYW5pemF0aW9uICAgICBHUk9VUCBCWSBwZXJzb25faWQsIG9yZ2FuaXphdGlvbl9zbHVnLCBwYXltZW50X2N1cnJlbmN5X2NvZGUgICApIGRvbm9yc19ieV9vcmdhbml6YXRpb24gICBKT0lOIHBlb3BsZS5wZXJzb24gT04gcGVyc29uLmlkID0gZG9ub3JzX2J5X29yZ2FuaXphdGlvbi5wZXJzb25faWQgICBKT0lOIHNldHRpbmdzLnByaXZhY3kgT04gcHJpdmFjeS5wZXJzb25faWQgPSBkb25vcnNfYnlfb3JnYW5pemF0aW9uLnBlcnNvbl9pZCAgIFdIRVJFIGRvbm9yc19ieV9vcmdhbml6YXRpb24ub3JnYW5pemF0aW9uX3NsdWcgPSAnc2VudGllbmNlLWluc3RpdHV0ZScgICBBTkQgcHJpdmFjeS5zaGFyZV9kZXRhaWxzX3dpdGhfcGFydG5lcl9jaGFyaXRpZXMgPSBUUlVFICAgT1JERVIgQlkgZWFybGllc3RfcGF5bWVudCwgbGF0ZXN0X3BheW1lbnQsIHRvdGFsX3BheW1lbnRzX3VzZCApIFRPICcvVXNlcnMvanBhZGRpc29uL0RvY3VtZW50cy9jZWEvcGFyZml0L3JlcG9ydHMvc2VudGllbmNlLmNzdicgV0lUSCAoRk9STUFUIENTViwgSEVBREVSKTs=</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICBjb25zb2xlLmxvZygnQWxsb2NhdGlvbicsIEFsbG9jYXRpb24pCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIC8qIGhlaWdodDogMXB4OyAqLwogICAgLyogb3ZlcmZsb3c6IGhpZGRlbjsgKi8K</text>
+        <text encoding="base64">ICBpZiAoIVN1bW1hcnkubGVuZ3RoKSB7CiAgICB0aHJvdyBuZXcgRXJyb3IoYE5vIHJlcG9ydCBzdW1tYXJpZXMgZm91bmQgd2l0aCBpZCAke3JlcG9ydElkfWApCiAgfQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICBpZiAoIUFsbG9jYXRpb24ubGVuZ3RoKSB7CiAgICB0aHJvdyBuZXcgRXJyb3IoYE5vIHJlcG9ydCBhbGxvY2F0aW9ucyBmb3VuZCB3aXRoIGlkICR7cmVwb3J0SWR9YCkKICB9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">QUxURVIgVFlQRSBwYXltZW50cy5wYXltZW50X3N0YXR1cyBEUk9QIEFUVFJJQlVURSAncmVmdW5kZWQnOwo=</text>
+        <text encoding="base64">ICAgIC0tIFRPRE8gd2hhdCBlbHNlIGRhdGUgcmFuZ2UsIGNvdW50Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">LS0gVE9ETyB3aHkgbm90IHJldHVybiB0aGUgcmVwb3J0cz8gKENhdXNlIG11bHRpcGxlIHJlcG9ydHMgY2FuJ3QgYmUgc3VibWl0dGVkIHRvZ2V0aGVyPykK</text>
+        <text encoding="base64">ICAgIGNvdW50KCkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">LS0gVE9ETyB3aGF0IGNsYWltcyBhbHJlYWR5IGhhdmUgZ2lmdCBhaWQgcmVwb3J0X2lkCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text>(
-      SELECT COUNT(*) FROM payments.gift_aid_claim
-        JOIN payments.payment ON gift_aid_claim.payment_id = payment.id
-        WHERE payment.created_at BETWEEN start_date AND end_date
-          AND report_id IS NULL
-    )</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIGRhdGVyYW5nZShNSU4oY3JlYXRlZF9hdCksIE1BWChjcmVhdGVkX2F0KSwgJ1tdJykgQVMgZGF0ZV9yYW5nZSwK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIF9jb3VudCBJTlQ7Cg==</text>
+        <text encoding="base64">ICAgIE1BWChjcmVhdGVkX2F0KSBBUyBmb28sCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgIHJlcG9ydF9pZAo=</text>
       </register>
       <register name=":" type="4">
         <text>w!</text>
       </register>
     </registers>
     <search>
-      <last-search>sentien</last-search>
+      <last-search encoding="base64">XDxnZXRMaW5lSXRlbXNGcm9tUGF5bWVudFw+</last-search>
       <last-offset />
-      <last-pattern>sentien</last-pattern>
+      <last-pattern encoding="base64">XDxnZXRMaW5lSXRlbXNGcm9tUGF5bWVudFw+</last-pattern>
       <last-replace encoding="base64">IA==</last-replace>
       <last-substitute>\n</last-substitute>
       <last-dir>1</last-dir>
@@ -918,10 +981,6 @@
     </search>
     <history>
       <history-search>
-        <entry>parfit</entry>
-        <entry>content</entry>
-        <entry>management_</entry>
-        <entry>management</entry>
         <entry>access</entry>
         <entry>token</entry>
         <entry encoding="base64">XDxDb250ZW50ZnVsXD4=</entry>
@@ -938,10 +997,12 @@
         <entry encoding="base64">XDx0b29sdGlwXD4=</entry>
         <entry>modal</entry>
         <entry>sentien</entry>
+        <entry>TODO</entry>
+        <entry>from payments.gener</entry>
+        <entry>from payments.gif</entry>
+        <entry encoding="base64">XDxnZXRMaW5lSXRlbXNGcm9tUGF5bWVudFw+</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5zLw==</entry>
-        <entry>%s/  / /g</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gQ29tbWVudEJ5TGluZUNvbW1lbnQ=</entry>
         <entry>s/, /,\n/g</entry>
         <entry encoding="base64">JzwsJz5zL1xuIC9n</entry>
@@ -954,11 +1015,13 @@
         <entry encoding="base64">JzwsJz4nPCwnPnMvXG4vIC9n</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gTmV4dFNwbGl0dGVy</entry>
         <entry>action CommentByLineComment</entry>
-        <entry>action GotoDeclaration</entry>
+        <entry>action Back</entry>
         <entry>action NewFile</entry>
+        <entry>action NextSplitter</entry>
+        <entry>action GotoDeclaration</entry>
         <entry>action FindInPath</entry>
         <entry>action GotoFile</entry>
-        <entry>action NextSplitter</entry>
+        <entry>action Refactorings.QuickListPopupAction</entry>
         <entry>w!</entry>
       </history-cmd>
       <history-expr />
