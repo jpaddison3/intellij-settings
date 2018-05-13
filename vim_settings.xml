@@ -36,6 +36,12 @@
         <mark key="." line="6" column="30" />
         <mark key="^" line="6" column="30" />
       </file>
+      <file name="$USER_HOME$/Documents/cea/parfit/migrations/20180503151844_gift_aid_claim_allocation_down.sql" timestamp="1525989980683">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="4" />
+        <mark key="." line="0" column="4" />
+        <mark key="^" line="0" column="4" />
+      </file>
       <file name="$USER_HOME$/Documents/cea/aletheia/apollo-notes.md" timestamp="1523051829526">
         <mark key="'" line="100" column="37" />
         <mark key="[" line="1" column="0" />
@@ -136,20 +142,20 @@
         <mark key="." line="5" column="16" />
         <mark key="^" line="5" column="16" />
       </file>
-      <file name="$USER_HOME$/Documents/cea/parfit/services/payments/handlers/stripe/index.js" timestamp="1525719264181">
+      <file name="$USER_HOME$/Documents/cea/parfit/services/payments/handlers/stripe/index.js" timestamp="1526064819112">
         <mark key="a" line="50" column="48" />
-        <mark key="'" line="29" column="0" />
-        <mark key="[" line="49" column="51" />
-        <mark key="]" line="50" column="45" />
-        <mark key="^" line="50" column="45" />
-        <mark key="." line="50" column="45" />
+        <mark key="'" line="13" column="2" />
+        <mark key="[" line="208" column="8" />
+        <mark key="]" line="208" column="7" />
+        <mark key="^" line="208" column="7" />
+        <mark key="." line="208" column="7" />
       </file>
-      <file name="$USER_HOME$/Documents/cea/parfit/services/payments/handlers/xero/index.js" timestamp="1525741314281">
-        <mark key="'" line="136" column="10" />
-        <mark key="[" line="274" column="17" />
-        <mark key="]" line="274" column="27" />
-        <mark key="." line="274" column="27" />
-        <mark key="^" line="274" column="27" />
+      <file name="$USER_HOME$/Documents/cea/parfit/services/payments/handlers/xero/index.js" timestamp="1526088851705">
+        <mark key="'" line="13" column="35" />
+        <mark key="[" line="278" column="47" />
+        <mark key="]" line="278" column="47" />
+        <mark key="." line="278" column="47" />
+        <mark key="^" line="257" column="45" />
       </file>
       <file name="$USER_HOME$/Documents/cea/parfit/services/payments/handlers/xero/helpers.test.js" timestamp="1525461716394">
         <mark key="[" line="0" column="0" />
@@ -263,12 +269,12 @@
         <mark key="." line="3" column="31" />
         <mark key="^" line="3" column="31" />
       </file>
-      <file name="$USER_HOME$/Documents/cea/parfit/services/payments/queues.js" timestamp="1525736622171">
-        <mark key="'" line="103" column="3" />
-        <mark key="[" line="20" column="40" />
-        <mark key="]" line="20" column="46" />
-        <mark key="." line="20" column="46" />
-        <mark key="^" line="20" column="46" />
+      <file name="$USER_HOME$/Documents/cea/parfit/services/payments/queues.js" timestamp="1525994622872">
+        <mark key="'" line="2" column="20" />
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+        <mark key="^" line="1" column="36" />
       </file>
       <file name="$USER_HOME$/Documents/cea/parfit/services/emails/templates/layouts/payments/styles.scss" timestamp="1524270154718">
         <mark key="[" line="9" column="0" />
@@ -289,6 +295,9 @@
         <mark key="]" line="10" column="0" />
         <mark key="^" line="9" column="0" />
         <mark key="." line="10" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/cea/parfit/package.json" timestamp="1526075566534">
+        <mark key="'" line="33" column="13" />
       </file>
       <file name="$USER_HOME$/Documents/cea/aletheia/app/components/UI/FindPerson/index.jsx" timestamp="1521742223452">
         <mark key="[" line="1" column="30" />
@@ -329,12 +338,12 @@
         <mark key="]" line="271" column="2" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/cea/parfit/services/payments/gateways/xero.js" timestamp="1525714798558">
-        <mark key="'" line="114" column="89" />
-        <mark key="[" line="158" column="38" />
-        <mark key="]" line="158" column="42" />
-        <mark key="^" line="158" column="42" />
-        <mark key="." line="158" column="42" />
+      <file name="$USER_HOME$/Documents/cea/parfit/services/payments/gateways/xero.js" timestamp="1526066606446">
+        <mark key="'" line="7" column="0" />
+        <mark key="[" line="157" column="9" />
+        <mark key="]" line="157" column="13" />
+        <mark key="." line="157" column="13" />
+        <mark key="^" line="157" column="13" />
       </file>
       <file name="$USER_HOME$/Documents/cea/aletheia/app/components/Layout/Header/index.jsx" timestamp="1522795162161">
         <mark key="[" line="118" column="0" />
@@ -347,6 +356,7 @@
         <mark key="^" line="18" column="66" />
         <mark key="." line="18" column="66" />
       </file>
+      <file name="$USER_HOME$/Documents/cea/parfit/migrations/20161125111455_init_up.sql" timestamp="1526074897221" />
       <file name="$USER_HOME$/Documents/cea/aletheia/app/containers/Dashboard/components/ReportedDonationEditor.jsx" timestamp="1525474871948">
         <mark key="'" line="258" column="13" />
         <mark key="[" line="258" column="13" />
@@ -360,10 +370,6 @@
         <mark key="]" line="31" column="62" />
         <mark key="^" line="31" column="62" />
         <mark key="." line="31" column="62" />
-      </file>
-      <file name="$USER_HOME$/Documents/cea/parfit/services/payments/handlers/payment.js" timestamp="1524788781486">
-        <mark key="[" line="12" column="11" />
-        <mark key="]" line="12" column="30" />
       </file>
       <file name="$USER_HOME$/Documents/cea/eaglobal-static/.env" timestamp="1524180097851">
         <mark key="[" line="4" column="18" />
@@ -403,7 +409,7 @@
         <mark key="." line="10" column="14" />
         <mark key="^" line="10" column="14" />
       </file>
-      <file name="$USER_HOME$/Documents/cea/aletheia/eag-tech-notes.md" timestamp="1525300878748">
+      <file name="$USER_HOME$/Documents/cea/aletheia/eag-tech-notes.md" timestamp="1525817299578">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -559,12 +565,12 @@
         <mark key="^" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/cea/parfit/migrations/20180503151844_gift_aid_claim_allocation_up.sql" timestamp="1525456458413">
-        <mark key="'" line="19" column="0" />
-        <mark key="[" line="0" column="12" />
-        <mark key="]" line="0" column="52" />
-        <mark key="." line="7" column="15" />
-        <mark key="^" line="7" column="15" />
+      <file name="$USER_HOME$/Documents/cea/parfit/migrations/20180503151844_gift_aid_claim_allocation_up.sql" timestamp="1526066051835">
+        <mark key="'" line="25" column="57" />
+        <mark key="[" line="31" column="65" />
+        <mark key="]" line="32" column="28" />
+        <mark key="." line="32" column="28" />
+        <mark key="^" line="32" column="28" />
       </file>
       <file name="$USER_HOME$/Documents/cea/aletheia/app/models/People/index.js" timestamp="1521746030764">
         <mark key="'" line="86" column="20" />
@@ -611,26 +617,25 @@
         <mark key="]" line="20" column="0" />
         <mark key="." line="20" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/cea/parfit/services/payments/handlers/stripe/helpers.js" timestamp="1526086507624">
+        <mark key="a" line="59" column="9" />
+        <mark key="'" line="12" column="35" />
+        <mark key="[" line="70" column="50" />
+        <mark key="]" line="71" column="1" />
+        <mark key="^" line="71" column="1" />
+        <mark key="." line="71" column="1" />
+      </file>
       <file name="$USER_HOME$/Documents/cea/aletheia/app/containers/Pledge/PledgeHome/index.jsx" timestamp="1520450186954">
         <mark key="[" line="72" column="35" />
         <mark key="]" line="72" column="51" />
         <mark key="." line="72" column="35" />
         <mark key="^" line="49" column="21" />
       </file>
-      <file name="$USER_HOME$/Documents/cea/parfit/migrations/20170304153947_stats_up.sql" timestamp="1525387310966">
-        <mark key="'" line="26" column="0" />
-        <mark key="[" line="63" column="0" />
-        <mark key="]" line="63" column="86" />
-      </file>
       <file name="$USER_HOME$/Documents/cea/aletheia/app/models/Pledges/queries/getReportedDonationsByPersonId.gql" timestamp="1520036573595">
         <mark key="[" line="1" column="8" />
         <mark key="]" line="1" column="8" />
         <mark key="." line="1" column="8" />
         <mark key="^" line="1" column="8" />
-      </file>
-      <file name="$USER_HOME$/Documents/cea/parfit/services/payments/handlers/gift-aid.js" timestamp="1524788681523">
-        <mark key="[" line="5" column="2" />
-        <mark key="]" line="5" column="18" />
       </file>
       <file name="$USER_HOME$/Documents/cea/aletheia/app/models/helpers.js" timestamp="1522033386580">
         <mark key="'" line="30" column="21" />
@@ -666,12 +671,14 @@
       <file name="$USER_HOME$/Documents/cea/parfit/queue/factory.js" timestamp="1525383633364">
         <mark key="'" line="25" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/cea/parfit/services/payments/handlers/xero/helpers.js" timestamp="1525740903349">
-        <mark key="'" line="114" column="6" />
-        <mark key="[" line="149" column="57" />
-        <mark key="]" line="149" column="69" />
-        <mark key="^" line="149" column="69" />
-        <mark key="." line="149" column="69" />
+      <file name="$USER_HOME$/Documents/cea/parfit/services/payments/handlers/xero/helpers.js" timestamp="1526089259008">
+        <mark key="'" line="220" column="25" />
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/cea/parfit/services/payments/workers/xero-balance-sheets.js" timestamp="1526078596409">
+        <mark key="'" line="161" column="11" />
       </file>
       <file name="$USER_HOME$/Documents/cea/parfit/seeds/data/payments.lottery_ticket.sql" timestamp="1521507987037">
         <mark key="[" line="18" column="3" />
@@ -706,7 +713,7 @@
         <mark key="^" line="45" column="21" />
         <mark key="." line="45" column="21" />
       </file>
-      <file name="/Dummy.txt" timestamp="1525741751606">
+      <file name="/Dummy.txt" timestamp="1526074871657">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -741,10 +748,6 @@
         <mark key="]" line="5" column="3" />
         <mark key="." line="9" column="3" />
         <mark key="^" line="5" column="3" />
-      </file>
-      <file name="$USER_HOME$/Documents/cea/parfit/queue/topology.js" timestamp="1525383678121">
-        <mark key="[" line="0" column="24" />
-        <mark key="]" line="0" column="29" />
       </file>
       <file name="$USER_HOME$/Documents/cea/parfit/parse_shared.py" timestamp="1521497792431">
         <mark key="[" line="0" column="22" />
@@ -798,106 +801,106 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="97" column="0" filename="$USER_HOME$/Documents/cea/parfit/services/payments/handlers/xero.js" />
-      <jump line="242" column="68" filename="$USER_HOME$/Documents/cea/parfit/services/payments/handlers/xero.js" />
-      <jump line="74" column="3" filename="$USER_HOME$/Documents/cea/parfit/migrations/20180502113445_giftaid_reporting_up.sql" />
-      <jump line="26" column="0" filename="$USER_HOME$/Documents/cea/parfit/migrations/20170304153947_stats_up.sql" />
-      <jump line="5" column="14" filename="$USER_HOME$/Documents/cea/parfit/migrations/20180503151844_gift_aid_claim_allocation_up.sql" />
-      <jump line="6" column="40" filename="$USER_HOME$/Documents/cea/parfit/migrations/20180503151844_gift_aid_claim_allocation_up.sql" />
-      <jump line="76" column="43" filename="$USER_HOME$/Documents/cea/parfit/migrations/20180502113445_giftaid_reporting_up.sql" />
-      <jump line="239" column="21" filename="$USER_HOME$/Documents/cea/parfit/services/payments/handlers/xero.js" />
-      <jump line="159" column="33" filename="$USER_HOME$/Documents/cea/parfit/services/payments/handlers/xero.js" />
-      <jump line="309" column="11" filename="$USER_HOME$/Documents/cea/parfit/services/payments/handlers/xero.js" />
-      <jump line="218" column="29" filename="$USER_HOME$/Documents/cea/parfit/services/payments/handlers/xero.js" />
-      <jump line="29" column="0" filename="$USER_HOME$/Documents/cea/parfit/migrations/20180503151844_gift_aid_claim_allocation_up.sql" />
-      <jump line="28" column="0" filename="$USER_HOME$/Documents/cea/parfit/migrations/20180503151844_gift_aid_claim_allocation_up.sql" />
-      <jump line="0" column="0" filename="$USER_HOME$/Documents/cea/parfit/migrations/20180503151844_gift_aid_claim_allocation_up.sql" />
-      <jump line="19" column="0" filename="$USER_HOME$/Documents/cea/parfit/migrations/20180503151844_gift_aid_claim_allocation_up.sql" />
-      <jump line="250" column="1" filename="$USER_HOME$/Documents/cea/parfit/services/payments/handlers/xero/index.js" />
-      <jump line="61" column="34" filename="$USER_HOME$/Documents/cea/parfit/services/payments/handlers/xero/helpers.js" />
-      <jump line="5" column="1" filename="$USER_HOME$/Documents/cea/parfit/services/payments/handlers/xero/helpers.js" />
+      <jump line="291" column="55" filename="$USER_HOME$/Documents/cea/parfit/services/payments/handlers/xero/index.js" />
+      <jump line="262" column="8" filename="$USER_HOME$/Documents/cea/parfit/services/payments/handlers/xero/index.js" />
+      <jump line="271" column="28" filename="$USER_HOME$/Documents/cea/parfit/services/payments/handlers/xero/index.js" />
+      <jump line="29" column="35" filename="$USER_HOME$/Documents/cea/parfit/services/payments/handlers/xero/helpers.js" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/cea/parfit/services/payments/handlers/xero/helpers.js" />
-      <jump line="38" column="7" filename="$USER_HOME$/Documents/cea/parfit/services/payments/handlers/xero/helpers.js" />
-      <jump line="1" column="8" filename="$USER_HOME$/Documents/cea/parfit/services/payments/handlers/xero/index.js" />
-      <jump line="10" column="33" filename="$USER_HOME$/Documents/cea/parfit/services/payments/handlers/xero/index.js" />
-      <jump line="159" column="33" filename="$USER_HOME$/Documents/cea/parfit/services/payments/handlers/xero/index.js" />
-      <jump line="68" column="11" filename="$USER_HOME$/Documents/cea/parfit/services/payments/handlers/xero/helpers.js" />
-      <jump line="5" column="48" filename="$USER_HOME$/Documents/cea/parfit/.env" />
-      <jump line="31" column="0" filename="$USER_HOME$/Documents/cea/parfit/services/payments/handlers/xero/index.js" />
-      <jump line="258" column="13" filename="$USER_HOME$/Documents/cea/aletheia/app/containers/Dashboard/components/ReportedDonationEditor.jsx" />
-      <jump line="281" column="11" filename="$USER_HOME$/Documents/cea/parfit/services/payments/handlers/xero.js" />
-      <jump line="146" column="33" filename="$USER_HOME$/Documents/cea/parfit/services/payments/handlers/xero.js" />
-      <jump line="205" column="29" filename="$USER_HOME$/Documents/cea/parfit/services/payments/handlers/xero.js" />
-      <jump line="171" column="27" filename="$USER_HOME$/Documents/cea/parfit/services/payments/handlers/xero.js" />
-      <jump line="180" column="8" filename="$USER_HOME$/Documents/cea/parfit/services/payments/handlers/xero.js" />
-      <jump line="172" column="25" filename="$USER_HOME$/Documents/cea/parfit/services/payments/handlers/xero.js" />
-      <jump line="145" column="47" filename="$USER_HOME$/Documents/cea/parfit/services/payments/handlers/xero.js" />
-      <jump line="129" column="44" filename="$USER_HOME$/Documents/cea/parfit/services/payments/handlers/xero.js" />
-      <jump line="2" column="0" filename="$USER_HOME$/Documents/cea/parfit/services/payments/handlers/xero.js" />
-      <jump line="3" column="34" filename="$USER_HOME$/Documents/cea/parfit/services/payments/handlers/xero.js" />
-      <jump line="51" column="94" filename="$USER_HOME$/Documents/cea/parfit/services/payments/handlers/xero.js" />
-      <jump line="75" column="23" filename="$USER_HOME$/Documents/cea/parfit/services/payments/handlers/xero.js" />
-      <jump line="77" column="27" filename="$USER_HOME$/Documents/cea/parfit/services/payments/handlers/xero.js" />
-      <jump line="86" column="10" filename="$USER_HOME$/Documents/cea/parfit/services/payments/handlers/xero.js" />
-      <jump line="112" column="12" filename="$USER_HOME$/Documents/cea/parfit/services/payments/handlers/xero.js" />
-      <jump line="113" column="29" filename="$USER_HOME$/Documents/cea/parfit/services/payments/handlers/xero.js" />
-      <jump line="114" column="62" filename="$USER_HOME$/Documents/cea/parfit/services/payments/handlers/xero.js" />
-      <jump line="126" column="3" filename="$USER_HOME$/Documents/cea/parfit/services/payments/handlers/xero.js" />
-      <jump line="131" column="52" filename="$USER_HOME$/Documents/cea/parfit/services/payments/handlers/xero.js" />
-      <jump line="135" column="13" filename="$USER_HOME$/Documents/cea/parfit/services/payments/handlers/xero.js" />
-      <jump line="136" column="21" filename="$USER_HOME$/Documents/cea/parfit/services/payments/handlers/xero.js" />
-      <jump line="138" column="91" filename="$USER_HOME$/Documents/cea/parfit/services/payments/handlers/xero.js" />
-      <jump line="137" column="9" filename="$USER_HOME$/Documents/cea/parfit/services/payments/handlers/xero.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/Documents/cea/parfit/services/payments/gateways/xero.js" />
-      <jump line="145" column="0" filename="$USER_HOME$/Documents/cea/parfit/services/payments/gateways/xero.js" />
-      <jump line="2" column="3" filename="$USER_HOME$/Documents/cea/parfit/services/payments/gateways/xero.js" />
-      <jump line="7" column="27" filename="$USER_HOME$/Documents/cea/parfit/services/payments/gateways/xero.js" />
-      <jump line="14" column="12" filename="$USER_HOME$/Documents/cea/parfit/services/payments/gateways/xero.js" />
-      <jump line="48" column="34" filename="$USER_HOME$/Documents/cea/parfit/services/payments/gateways/xero.js" />
-      <jump line="56" column="34" filename="$USER_HOME$/Documents/cea/parfit/services/payments/gateways/xero.js" />
-      <jump line="64" column="34" filename="$USER_HOME$/Documents/cea/parfit/services/payments/gateways/xero.js" />
-      <jump line="112" column="64" filename="$USER_HOME$/Documents/cea/parfit/services/payments/gateways/xero.js" />
-      <jump line="113" column="90" filename="$USER_HOME$/Documents/cea/parfit/services/payments/gateways/xero.js" />
-      <jump line="114" column="89" filename="$USER_HOME$/Documents/cea/parfit/services/payments/gateways/xero.js" />
-      <jump line="208" column="55" filename="$USER_HOME$/Documents/cea/parfit/services/payments/handlers/xero/index.js" />
-      <jump line="74" column="0" filename="$USER_HOME$/Documents/cea/parfit/services/payments/handlers/stripe/index.js" />
-      <jump line="37" column="0" filename="$USER_HOME$/Documents/cea/parfit/services/payments/handlers/stripe/index.js" />
-      <jump line="29" column="0" filename="$USER_HOME$/Documents/cea/parfit/services/payments/handlers/stripe/index.js" />
-      <jump line="58" column="28" filename="$USER_HOME$/Documents/cea/parfit/services/payments/handlers/xero/index.js" />
-      <jump line="55" column="26" filename="$USER_HOME$/Documents/cea/parfit/services/payments/handlers/xero/index.js" />
-      <jump line="66" column="26" filename="$USER_HOME$/Documents/cea/parfit/services/payments/handlers/xero/index.js" />
-      <jump line="122" column="12" filename="$USER_HOME$/Documents/cea/parfit/services/payments/handlers/xero/index.js" />
-      <jump line="126" column="25" filename="$USER_HOME$/Documents/cea/parfit/services/payments/handlers/xero/index.js" />
-      <jump line="156" column="11" filename="$USER_HOME$/Documents/cea/parfit/services/payments/handlers/xero/index.js" />
-      <jump line="27" column="38" filename="$USER_HOME$/Documents/cea/parfit/services/payments/handlers/xero/index.js" />
-      <jump line="117" column="38" filename="$USER_HOME$/Documents/cea/parfit/services/payments/handlers/xero/index.js" />
-      <jump line="146" column="11" filename="$USER_HOME$/Documents/cea/parfit/services/payments/handlers/xero/index.js" />
-      <jump line="17" column="29" filename="$USER_HOME$/Documents/cea/parfit/services/payments/handlers/xero/index.js" />
-      <jump line="33" column="12" filename="$USER_HOME$/Documents/cea/parfit/services/payments/handlers/xero/index.js" />
-      <jump line="193" column="17" filename="$USER_HOME$/Documents/cea/parfit/services/payments/handlers/xero/index.js" />
-      <jump line="147" column="6" filename="$USER_HOME$/Documents/cea/parfit/services/payments/handlers/xero/index.js" />
-      <jump line="148" column="25" filename="$USER_HOME$/Documents/cea/parfit/services/payments/handlers/xero/index.js" />
-      <jump line="149" column="30" filename="$USER_HOME$/Documents/cea/parfit/services/payments/handlers/xero/index.js" />
-      <jump line="151" column="26" filename="$USER_HOME$/Documents/cea/parfit/services/payments/handlers/xero/index.js" />
-      <jump line="191" column="74" filename="$USER_HOME$/Documents/cea/parfit/services/payments/handlers/xero/index.js" />
-      <jump line="168" column="8" filename="$USER_HOME$/Documents/cea/parfit/services/payments/handlers/xero/index.js" />
-      <jump line="189" column="67" filename="$USER_HOME$/Documents/cea/parfit/services/payments/handlers/xero/index.js" />
-      <jump line="166" column="79" filename="$USER_HOME$/Documents/cea/parfit/services/payments/handlers/xero/index.js" />
-      <jump line="169" column="72" filename="$USER_HOME$/Documents/cea/parfit/services/payments/handlers/xero/index.js" />
-      <jump line="202" column="36" filename="$USER_HOME$/Documents/cea/parfit/services/payments/handlers/xero/index.js" />
-      <jump line="261" column="4" filename="$USER_HOME$/Documents/cea/parfit/services/payments/handlers/xero/index.js" />
-      <jump line="136" column="10" filename="$USER_HOME$/Documents/cea/parfit/services/payments/handlers/xero/index.js" />
-      <jump line="118" column="19" filename="$USER_HOME$/Documents/cea/parfit/services/payments/handlers/xero/helpers.js" />
-      <jump line="93" column="10" filename="$USER_HOME$/Documents/cea/parfit/services/payments/handlers/xero/helpers.js" />
-      <jump line="95" column="6" filename="$USER_HOME$/Documents/cea/parfit/services/payments/handlers/xero/helpers.js" />
-      <jump line="101" column="6" filename="$USER_HOME$/Documents/cea/parfit/services/payments/handlers/xero/helpers.js" />
-      <jump line="102" column="6" filename="$USER_HOME$/Documents/cea/parfit/services/payments/handlers/xero/helpers.js" />
-      <jump line="105" column="6" filename="$USER_HOME$/Documents/cea/parfit/services/payments/handlers/xero/helpers.js" />
-      <jump line="106" column="55" filename="$USER_HOME$/Documents/cea/parfit/services/payments/handlers/xero/helpers.js" />
-      <jump line="108" column="6" filename="$USER_HOME$/Documents/cea/parfit/services/payments/handlers/xero/helpers.js" />
-      <jump line="112" column="6" filename="$USER_HOME$/Documents/cea/parfit/services/payments/handlers/xero/helpers.js" />
-      <jump line="114" column="6" filename="$USER_HOME$/Documents/cea/parfit/services/payments/handlers/xero/helpers.js" />
-      <jump line="38" column="40" filename="$USER_HOME$/Documents/cea/eaglobal-static/src/templates/event.pug" />
+      <jump line="11" column="2" filename="$USER_HOME$/Documents/cea/parfit/services/payments/handlers/stripe/helpers.js" />
+      <jump line="264" column="25" filename="$USER_HOME$/Documents/cea/parfit/services/payments/handlers/xero/index.js" />
+      <jump line="163" column="34" filename="$USER_HOME$/Documents/cea/parfit/services/payments/handlers/xero/helpers.js" />
+      <jump line="153" column="0" filename="$USER_HOME$/Documents/cea/parfit/services/payments/handlers/xero/helpers.js" />
+      <jump line="71" column="0" filename="$USER_HOME$/Documents/cea/parfit/services/payments/handlers/xero/helpers.js" />
+      <jump line="38" column="0" filename="$USER_HOME$/Documents/cea/parfit/services/payments/handlers/xero/helpers.js" />
+      <jump line="23" column="0" filename="$USER_HOME$/Documents/cea/parfit/services/payments/handlers/xero/helpers.js" />
+      <jump line="15" column="0" filename="$USER_HOME$/Documents/cea/parfit/services/payments/handlers/xero/helpers.js" />
+      <jump line="7" column="0" filename="$USER_HOME$/Documents/cea/parfit/services/payments/handlers/xero/helpers.js" />
+      <jump line="14" column="0" filename="$USER_HOME$/Documents/cea/parfit/services/payments/handlers/xero/helpers.js" />
+      <jump line="36" column="0" filename="$USER_HOME$/Documents/cea/parfit/services/payments/handlers/xero/helpers.js" />
+      <jump line="69" column="0" filename="$USER_HOME$/Documents/cea/parfit/services/payments/handlers/xero/helpers.js" />
+      <jump line="172" column="0" filename="$USER_HOME$/Documents/cea/parfit/services/payments/handlers/xero/helpers.js" />
+      <jump line="151" column="0" filename="$USER_HOME$/Documents/cea/parfit/services/payments/handlers/xero/helpers.js" />
+      <jump line="7" column="0" filename="$USER_HOME$/Documents/cea/parfit/services/payments/gateways/xero.js" />
+      <jump line="28" column="0" filename="$USER_HOME$/Documents/cea/parfit/services/payments/handlers/xero/index.js" />
+      <jump line="274" column="8" filename="$USER_HOME$/Documents/cea/parfit/services/payments/handlers/xero/index.js" />
+      <jump line="276" column="26" filename="$USER_HOME$/Documents/cea/parfit/services/payments/handlers/xero/index.js" />
+      <jump line="280" column="29" filename="$USER_HOME$/Documents/cea/parfit/services/payments/handlers/xero/index.js" />
+      <jump line="268" column="22" filename="$USER_HOME$/Documents/cea/parfit/services/payments/handlers/xero/index.js" />
+      <jump line="20" column="10" filename="$USER_HOME$/Documents/cea/parfit/migrations/20180503151844_gift_aid_claim_allocation_up.sql" />
+      <jump line="2" column="20" filename="$USER_HOME$/Documents/cea/parfit/services/payments/queues.js" />
+      <jump line="75" column="15" filename="$USER_HOME$/Documents/cea/parfit/services/payments/handlers/xero/helpers.js" />
+      <jump line="22" column="43" filename="$USER_HOME$/Documents/cea/parfit/migrations/20180503151844_gift_aid_claim_allocation_up.sql" />
+      <jump line="10" column="14" filename="$USER_HOME$/Documents/cea/parfit/migrations/20180503151844_gift_aid_claim_allocation_up.sql" />
+      <jump line="25" column="57" filename="$USER_HOME$/Documents/cea/parfit/migrations/20180503151844_gift_aid_claim_allocation_up.sql" />
+      <jump line="293" column="47" filename="$USER_HOME$/Documents/cea/parfit/services/payments/handlers/xero/index.js" />
+      <jump line="296" column="30" filename="$USER_HOME$/Documents/cea/parfit/services/payments/handlers/xero/index.js" />
+      <jump line="155" column="21" filename="$USER_HOME$/Documents/cea/parfit/services/payments/handlers/xero/helpers.js" />
+      <jump line="160" column="11" filename="$USER_HOME$/Documents/cea/parfit/services/payments/handlers/xero/helpers.js" />
+      <jump line="159" column="0" filename="$USER_HOME$/Documents/cea/parfit/services/payments/handlers/xero/helpers.js" />
+      <jump line="199" column="5" filename="$USER_HOME$/Documents/cea/parfit/services/payments/handlers/xero/helpers.js" />
+      <jump line="19" column="0" filename="$USER_HOME$/Documents/cea/parfit/services/payments/handlers/xero/helpers.js" />
+      <jump line="281" column="30" filename="$USER_HOME$/Documents/cea/parfit/services/payments/handlers/xero/index.js" />
+      <jump line="179" column="59" filename="$USER_HOME$/Documents/cea/parfit/services/payments/handlers/xero/helpers.js" />
+      <jump line="11" column="40" filename="$USER_HOME$/Documents/cea/parfit/services/payments/handlers/xero/helpers.js" />
+      <jump line="69" column="36" filename="$USER_HOME$/Documents/cea/parfit/services/payments/handlers/xero/index.js" />
+      <jump line="46" column="0" filename="$USER_HOME$/Documents/cea/parfit/services/payments/handlers/xero/helpers.js" />
+      <jump line="198" column="54" filename="$USER_HOME$/Documents/cea/parfit/services/payments/handlers/xero/helpers.js" />
+      <jump line="197" column="0" filename="$USER_HOME$/Documents/cea/parfit/services/payments/handlers/xero/helpers.js" />
+      <jump line="164" column="0" filename="$USER_HOME$/Documents/cea/parfit/services/payments/handlers/xero/helpers.js" />
+      <jump line="162" column="0" filename="$USER_HOME$/Documents/cea/parfit/services/payments/handlers/xero/helpers.js" />
+      <jump line="138" column="0" filename="$USER_HOME$/Documents/cea/parfit/services/payments/handlers/xero/helpers.js" />
+      <jump line="59" column="9" filename="$USER_HOME$/Documents/cea/parfit/services/payments/handlers/stripe/helpers.js" />
+      <jump line="12" column="35" filename="$USER_HOME$/Documents/cea/parfit/services/payments/handlers/stripe/helpers.js" />
+      <jump line="158" column="20" filename="$USER_HOME$/Documents/cea/parfit/services/payments/handlers/stripe/index.js" />
+      <jump line="12" column="2" filename="$USER_HOME$/Documents/cea/parfit/services/payments/handlers/stripe/index.js" />
+      <jump line="13" column="2" filename="$USER_HOME$/Documents/cea/parfit/services/payments/handlers/stripe/index.js" />
+      <jump line="49" column="21" filename="$USER_HOME$/Documents/cea/parfit/services/payments/handlers/xero/helpers.js" />
+      <jump line="201" column="6" filename="$USER_HOME$/Documents/cea/parfit/services/payments/handlers/xero/helpers.js" />
+      <jump line="137" column="30" filename="$USER_HOME$/Documents/cea/parfit/services/payments/handlers/xero/helpers.js" />
+      <jump line="9" column="36" filename="$USER_HOME$/Documents/cea/parfit/services/payments/handlers/xero/helpers.js" />
+      <jump line="25" column="24" filename="$USER_HOME$/Documents/cea/parfit/services/payments/handlers/xero/helpers.js" />
+      <jump line="28" column="28" filename="$USER_HOME$/Documents/cea/parfit/services/payments/handlers/xero/helpers.js" />
+      <jump line="50" column="5" filename="$USER_HOME$/Documents/cea/parfit/package.json" />
+      <jump line="61" column="3" filename="$USER_HOME$/Documents/cea/parfit/package.json" />
+      <jump line="153" column="5" filename="$USER_HOME$/Documents/cea/parfit/package.json" />
+      <jump line="154" column="5" filename="$USER_HOME$/Documents/cea/parfit/package.json" />
+      <jump line="155" column="5" filename="$USER_HOME$/Documents/cea/parfit/package.json" />
+      <jump line="156" column="5" filename="$USER_HOME$/Documents/cea/parfit/package.json" />
+      <jump line="157" column="5" filename="$USER_HOME$/Documents/cea/parfit/package.json" />
+      <jump line="158" column="5" filename="$USER_HOME$/Documents/cea/parfit/package.json" />
+      <jump line="33" column="13" filename="$USER_HOME$/Documents/cea/parfit/package.json" />
+      <jump line="36" column="0" filename="$USER_HOME$/Documents/cea/parfit/services/payments/workers/xero-balance-sheets.js" />
+      <jump line="224" column="0" filename="$USER_HOME$/Documents/cea/parfit/services/payments/workers/xero-balance-sheets.js" />
+      <jump line="220" column="0" filename="$USER_HOME$/Documents/cea/parfit/services/payments/workers/xero-balance-sheets.js" />
+      <jump line="218" column="0" filename="$USER_HOME$/Documents/cea/parfit/services/payments/workers/xero-balance-sheets.js" />
+      <jump line="216" column="0" filename="$USER_HOME$/Documents/cea/parfit/services/payments/workers/xero-balance-sheets.js" />
+      <jump line="213" column="0" filename="$USER_HOME$/Documents/cea/parfit/services/payments/workers/xero-balance-sheets.js" />
+      <jump line="200" column="0" filename="$USER_HOME$/Documents/cea/parfit/services/payments/workers/xero-balance-sheets.js" />
+      <jump line="172" column="0" filename="$USER_HOME$/Documents/cea/parfit/services/payments/workers/xero-balance-sheets.js" />
+      <jump line="167" column="0" filename="$USER_HOME$/Documents/cea/parfit/services/payments/workers/xero-balance-sheets.js" />
+      <jump line="137" column="11" filename="$USER_HOME$/Documents/cea/parfit/services/payments/workers/xero-balance-sheets.js" />
+      <jump line="42" column="42" filename="$USER_HOME$/Documents/cea/parfit/services/payments/workers/xero-balance-sheets.js" />
+      <jump line="154" column="9" filename="$USER_HOME$/Documents/cea/parfit/services/payments/workers/xero-balance-sheets.js" />
+      <jump line="47" column="33" filename="$USER_HOME$/Documents/cea/parfit/services/payments/workers/xero-balance-sheets.js" />
+      <jump line="110" column="31" filename="$USER_HOME$/Documents/cea/parfit/services/payments/workers/xero-balance-sheets.js" />
+      <jump line="123" column="71" filename="$USER_HOME$/Documents/cea/parfit/services/payments/workers/xero-balance-sheets.js" />
+      <jump line="46" column="37" filename="$USER_HOME$/Documents/cea/parfit/services/payments/workers/xero-balance-sheets.js" />
+      <jump line="168" column="8" filename="$USER_HOME$/Documents/cea/parfit/services/payments/workers/xero-balance-sheets.js" />
+      <jump line="70" column="33" filename="$USER_HOME$/Documents/cea/parfit/services/payments/workers/xero-balance-sheets.js" />
+      <jump line="60" column="15" filename="$USER_HOME$/Documents/cea/parfit/services/payments/workers/xero-balance-sheets.js" />
+      <jump line="170" column="9" filename="$USER_HOME$/Documents/cea/parfit/services/payments/workers/xero-balance-sheets.js" />
+      <jump line="56" column="47" filename="$USER_HOME$/Documents/cea/parfit/services/payments/workers/xero-balance-sheets.js" />
+      <jump line="161" column="11" filename="$USER_HOME$/Documents/cea/parfit/services/payments/workers/xero-balance-sheets.js" />
+      <jump line="187" column="0" filename="$USER_HOME$/Documents/cea/parfit/services/payments/handlers/xero/helpers.js" />
+      <jump line="94" column="21" filename="$USER_HOME$/Documents/cea/parfit/services/payments/handlers/xero/helpers.js" />
+      <jump line="145" column="9" filename="$USER_HOME$/Documents/cea/parfit/services/payments/handlers/xero/helpers.js" />
+      <jump line="13" column="34" filename="$USER_HOME$/Documents/cea/parfit/services/payments/handlers/xero/helpers.js" />
+      <jump line="261" column="43" filename="$USER_HOME$/Documents/cea/parfit/services/payments/handlers/xero/index.js" />
+      <jump line="285" column="20" filename="$USER_HOME$/Documents/cea/parfit/services/payments/handlers/xero/index.js" />
+      <jump line="13" column="35" filename="$USER_HOME$/Documents/cea/parfit/services/payments/handlers/xero/index.js" />
+      <jump line="21" column="6" filename="$USER_HOME$/Documents/cea/parfit/services/payments/handlers/xero/helpers.js" />
+      <jump line="134" column="20" filename="$USER_HOME$/Documents/cea/parfit/services/payments/handlers/xero/helpers.js" />
+      <jump line="214" column="25" filename="$USER_HOME$/Documents/cea/parfit/services/payments/handlers/xero/helpers.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -951,49 +954,56 @@
         <text>()</text>
       </register>
       <register name="-" type="4">
-        <text>a(href=contactEmail)</text>
+        <text>HMRC</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxkZXNjcmlwdGlvblBhcnRzXD4=</text>
+        <text encoding="base64">XDxITVJDX0NPTlRBQ1RfRU1BSUxcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZygnICB4ZXJvJywgSW52b2ljZURhdGUpCg==</text>
+        <text encoding="base64">Y29uc3QgSE1SQ19GSVJTVF9OQU1FID0gJ0hNUkMnCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBsb2dnZXIuaW5mbyhgICBnb3QgaGVyZSA0YCkgLy8gVE9ETyBwcmludAogIGxvZ2dlci5pbmZvKGAke3R5cGVOYW1lfSBjcmVhdGVkIHN1Y2Nlc3NmdWxseSFgKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBjb25zdCBJCg==</text>
+        <text encoding="base64">Ly8gVE9ETyBRIGNvbmZpcm0gdGhpcyBlbWFpbAovLyBUT0RPIHRoZW4gYWRkIGFsaWFzIHRvIGRldnRlYW0KLy8gVE9ETyByZW1lbWJlciB0byB1c2UgcmVhbCBuYW1lIHdoZW4gY3JlYXRpbmcgaW4gZGIsIGl0IHdpbGwgd2luZCB1cCBpbiB4ZXJvCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAvLyBUT0RPIFEgMyBtb250aHM/Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IExpbmVJdGVtVG90YWwgPSAK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICBjb25zdCB4ZXJvQ29udGFjCg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">CgoKCgoKCgoKCg==</text>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAvLyBUT0RPIFRIaXMgY2FuIGp1c3QgYmUgYW4gb2JqZWN0Cg==</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAvLyBUT0RPIENhc2UgaXMgd2hlcmUgeGVybyBjb250YWN0IGV4aXN0cyBidXQgcGVyc29uIGRvZXMgbm90LiAgU2hvdWxkIGJlIHByZXR0eSByYXJlLCBidXQgbWlnaHQKICAvLyBiZSB3b3J0aCBkb2luZyBzb21ldGhpbmcgYWJvdXQgVE9ETyB1cHNlcnQ/Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICByZXR1cm4ga25leCgneGVyb19jb250YWN0Jykud2l0aFNjaGVtYSgncGF5bWVudHMnKQogICAgLmluc2VydCgpCg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIC5jYXRjaChlcnIgPT4gbG9nZ2VyLmVycm9yKGVycikpCiAgICAudGhlbigoKSA9PiBYZXJvQ29udGFjdCkK</text>
+      </register>
+      <register name="9" type="4">
+        <text>{
+  report_date: reportDate.toISOString(),
+  reference: Category.reference,
+  recipient: Category.recipient,
+  xero_tracking_category_name: Category.xero_tracking_category_name,
+  amount: summaryRowValue.toNumber(),
+  currency_code: PaymentRecipient.currency_code
+}</text>
       </register>
       <register name=":" type="4">
         <text>w!</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxkZXNjcmlwdGlvblBhcnRzXD4=</last-search>
+      <last-search encoding="base64">XDxITVJDX0NPTlRBQ1RfRU1BSUxcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxkZXNjcmlwdGlvblBhcnRzXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxITVJDX0NPTlRBQ1RfRU1BSUxcPg==</last-pattern>
       <last-replace encoding="base64">IA==</last-replace>
       <last-substitute encoding="base64">XDxjcmVhdGVYZXJvSW52b2ljZVw+</last-substitute>
       <last-dir>1</last-dir>
@@ -1001,26 +1011,26 @@
     </search>
     <history>
       <history-search>
-        <entry>sentien</entry>
-        <entry>TODO</entry>
-        <entry>from payments.gener</entry>
-        <entry>from payments.gif</entry>
-        <entry encoding="base64">XDxnZXRPckNyZWF0ZVhlcm9Db250YWN0SURcPg==</entry>
+        <entry encoding="base64">XDxTdW1tYXJ5XD4=</entry>
+        <entry encoding="base64">XDxjb1w+</entry>
+        <entry encoding="base64">XDxjcmVhdGVkX2F0XD4=</entry>
+        <entry>getOrCreateSr</entry>
+        <entry>getOrCreateStrip</entry>
+        <entry encoding="base64">XDxnZXRPckNyZWF0ZVN0cmlwZVNvdXJjZVw+</entry>
+        <entry encoding="base64">XDxjcmVhdGVITVJDUGVyc29uREJcPg==</entry>
         <entry encoding="base64">XDxnZXRPckNyZWF0ZVhlcm9Db250YWN0SWRcPg==</entry>
-        <entry>logger</entry>
-        <entry encoding="base64">XDxnZXRMaW5lSXRlbXNGcm9tUGF5bWVudFw+</entry>
-        <entry encoding="base64">XDxnZXRMaW5lSXRlbXNmcm9tUGF5bWVudFw+</entry>
-        <entry encoding="base64">XDx4ZXJvXD4=</entry>
-        <entry>init</entry>
-        <entry encoding="base64">XDxYZXJvXD4=</entry>
-        <entry encoding="base64">XDxjcmVhdGVYZXJvSW52b2ljZVw+</entry>
-        <entry>createXeroInvoice</entry>
-        <entry encoding="base64">XDx0eXBlTmFtZVw+</entry>
-        <entry encoding="base64">XDxhbW91bnRLZXlcPg==</entry>
-        <entry encoding="base64">XDxhY2NvdW50Q29kZVw+</entry>
-        <entry>amount</entry>
-        <entry encoding="base64">XDxjcmVhdGVYZXJvR2lmdEFpZEludm9pY2VcPg==</entry>
-        <entry encoding="base64">XDxkZXNjcmlwdGlvblBhcnRzXD4=</entry>
+        <entry encoding="base64">XDxnZXRYZXJvQ29udGFjdElkXD4=</entry>
+        <entry encoding="base64">XDxjcmVhdGVYZXJvQ29udGFjdFw+</entry>
+        <entry>eslint</entry>
+        <entry encoding="base64">XDxnZXRYZXJvVHJhY2tpbmdCeVJlY2lwaWVudFw+</entry>
+        <entry encoding="base64">XDxQYXltZW50UmVjaXBpZW50XD4=</entry>
+        <entry encoding="base64">XDxnZXRQYXltZW50UmVjaXBpZW50XD4=</entry>
+        <entry encoding="base64">XDxUcmFja2luZ0NhdGVnb3J5T3B0aW9uXD4=</entry>
+        <entry encoding="base64">XDxnZXRUcmFja2luZ0NhdGVnb3J5T3B0aW9uXD4=</entry>
+        <entry>util</entry>
+        <entry encoding="base64">XDxnZXRMaW5lSXRlbXNGcm9tR2lmdEFpZEFsbG9jYXRpb25cPg==</entry>
+        <entry encoding="base64">XDxnZXRMaW5lSXRlbXNGcm9tR2lmdEFpZEFsbG9jYXRpb25zXD4=</entry>
+        <entry encoding="base64">XDxITVJDX0NPTlRBQ1RfRU1BSUxcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>s/, /,\n/g</entry>
@@ -1032,16 +1042,16 @@
         <entry encoding="base64">JzwsJz5hY3Rpb24gRmluZEluUGF0aA==</entry>
         <entry encoding="base64">JzwsJz4nPCwnPnMvXG4vIC9n</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gTmV4dFNwbGl0dGVy</entry>
-        <entry>action Back</entry>
-        <entry>action Refactorings.QuickListPopupAction</entry>
         <entry>source ~/.ideavimrc</entry>
         <entry>action RenameFile</entry>
         <entry>action NewFile</entry>
+        <entry>action Refactorings.QuickListPopupAction</entry>
+        <entry>action Back</entry>
         <entry>action GotoDeclaration</entry>
         <entry>action CommentByLineComment</entry>
+        <entry>action FindInPath</entry>
         <entry>action GotoFile</entry>
         <entry>action NextSplitter</entry>
-        <entry>action FindInPath</entry>
         <entry>w!</entry>
       </history-cmd>
       <history-expr />
