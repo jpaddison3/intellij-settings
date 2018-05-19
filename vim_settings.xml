@@ -10,12 +10,24 @@
         <mark key="." line="0" column="6" />
         <mark key="^" line="0" column="6" />
       </file>
-      <file name="$USER_HOME$/Documents/cea/parfit/migrations/20170105124000_payments_up.sql" timestamp="1525305160650">
+      <file name="$USER_HOME$/Documents/cea/parfit/migrations/20170105124000_payments_up.sql" timestamp="1526665692760">
         <mark key="'" line="122" column="0" />
-        <mark key="[" line="121" column="0" />
-        <mark key="]" line="122" column="47" />
-        <mark key="^" line="76" column="11" />
-        <mark key="." line="76" column="11" />
+        <mark key="[" line="206" column="0" />
+        <mark key="]" line="214" column="53" />
+        <mark key="^" line="75" column="11" />
+        <mark key="." line="75" column="11" />
+      </file>
+      <file name="$USER_HOME$/Documents/cea/aletheia/app/models/People/queries/getPersonAllData.gql" timestamp="1520989418036">
+        <mark key="[" line="66" column="17" />
+        <mark key="]" line="67" column="16" />
+        <mark key="^" line="67" column="16" />
+        <mark key="." line="67" column="16" />
+      </file>
+      <file name="$USER_HOME$/Documents/cea/aletheia/app/models/Pledges/constraints.js" timestamp="1520019652748">
+        <mark key="[" line="68" column="3" />
+        <mark key="]" line="68" column="3" />
+        <mark key="^" line="68" column="3" />
+        <mark key="." line="68" column="3" />
       </file>
       <file name="$USER_HOME$/Documents/hindsight/.env" timestamp="1523740004199">
         <mark key="'" line="3" column="26" />
@@ -29,12 +41,42 @@
         <mark key="]" line="1" column="49" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/cea/aletheia/apollo-notes.md" timestamp="1523051829526">
+      <file name="$USER_HOME$/Documents/cea/aletheia/app/components/PaymentForm/schema.js" timestamp="1526669287499">
+        <mark key="[" line="0" column="32" />
+        <mark key="]" line="1" column="0" />
+        <mark key="^" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/cea/aletheia/apollo-notes.md" timestamp="1526683059135">
         <mark key="'" line="100" column="37" />
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="315" />
-        <mark key="." line="1" column="267" />
-        <mark key="^" line="1" column="250" />
+        <mark key="[" line="55" column="129" />
+        <mark key="]" line="55" column="129" />
+        <mark key="." line="55" column="129" />
+        <mark key="^" line="55" column="129" />
+      </file>
+      <file name="$USER_HOME$/Documents/cea/aletheia/app/components/PaymentEntry/UserPaymentEntry.jsx" timestamp="1520363286365">
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="28" column="0" />
+        <mark key="." line="28" column="0" />
+        <mark key="^" line="24" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/cea/aletheia/app/containers/Pledge/PledgeSignup/stages/Completion.jsx" timestamp="1524530839962">
+        <mark key="[" line="34" column="17" />
+        <mark key="]" line="34" column="30" />
+        <mark key="." line="34" column="30" />
+        <mark key="^" line="34" column="30" />
+      </file>
+      <file name="$USER_HOME$/Documents/cea/parfit/migrations/20170301185942_auth_notification_refactor_up.sql" timestamp="1520387564272">
+        <mark key="[" line="103" column="44" />
+        <mark key="]" line="103" column="44" />
+        <mark key="^" line="103" column="44" />
+        <mark key="." line="103" column="44" />
+      </file>
+      <file name="$USER_HOME$/Documents/cea/parfit/migrations/20180305104317_admin_payment_status_down.sql" timestamp="1521488213487">
+        <mark key="[" line="0" column="4" />
+        <mark key="]" line="0" column="6" />
+        <mark key="^" line="0" column="6" />
+        <mark key="." line="0" column="6" />
       </file>
       <file name="$USER_HOME$/Documents/cea/parfit/services/emails/templates/layouts/payments/fundsReceipt.pug" timestamp="1524264169091">
         <mark key="'" line="15" column="8" />
@@ -44,10 +86,28 @@
         <mark key="." line="41" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/cea/parfit/migrations/20170901171427_refactor_person_insertion_up.sql" timestamp="1526317020373" />
+      <file name="$USER_HOME$/Documents/cea/parfit/services/emails/templates/layouts/payments/partials/bankDetails.pug" timestamp="1524263439736">
+        <mark key="[" line="37" column="47" />
+        <mark key="]" line="37" column="52" />
+        <mark key="." line="37" column="52" />
+        <mark key="^" line="37" column="52" />
+      </file>
+      <file name="$USER_HOME$/Documents/hindsight/ts_src/postgraphql.ts" timestamp="1523741523951">
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="1" />
+        <mark key="." line="20" column="1" />
+        <mark key="^" line="17" column="28" />
+      </file>
       <file name="$USER_HOME$/Documents/cea/discourse/containers/forumtest1.yml" timestamp="1523654698332">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/hindsight/silly/tslint.json" timestamp="1521952816586">
+        <mark key="[" line="72" column="0" />
+        <mark key="]" line="82" column="8" />
+        <mark key="." line="42" column="28" />
+        <mark key="^" line="42" column="28" />
       </file>
       <file name="$USER_HOME$/Documents/cea/parfit/services/web/postgraphql/index.js" timestamp="1523741514023">
         <mark key="'" line="0" column="43" />
@@ -55,6 +115,24 @@
         <mark key="]" line="8" column="30" />
         <mark key="^" line="8" column="30" />
         <mark key="." line="8" column="30" />
+      </file>
+      <file name="$USER_HOME$/Documents/cea/eaglobal-static/src/styles/partials/content/_speaker.scss" timestamp="1524183060765">
+        <mark key="[" line="13" column="17" />
+        <mark key="]" line="13" column="18" />
+        <mark key="." line="13" column="18" />
+        <mark key="^" line="13" column="18" />
+      </file>
+      <file name="$USER_HOME$/Documents/cea/parfit/services/payments/workers/replay-stripe-subscriptions.js" timestamp="1526683415176">
+        <mark key="[" line="0" column="3" />
+        <mark key="]" line="0" column="84" />
+        <mark key="^" line="0" column="84" />
+        <mark key="." line="0" column="84" />
+      </file>
+      <file name="$USER_HOME$/Documents/hindsight/db/connection.ts" timestamp="1523659861637">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="6" />
+        <mark key="." line="0" column="6" />
+        <mark key="^" line="0" column="6" />
       </file>
       <file name="$USER_HOME$/Documents/cea/parfit/migrations/20180319125601_more_payment_reference_down.sql" timestamp="1524533195182">
         <mark key="'" line="12" column="0" />
@@ -70,20 +148,63 @@
         <mark key="^" line="126" column="51" />
         <mark key="." line="100" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/cea/parfit/services/payments/handlers/stripe/index.js" timestamp="1526064819112">
-        <mark key="a" line="50" column="48" />
-        <mark key="'" line="13" column="2" />
-        <mark key="[" line="208" column="8" />
-        <mark key="]" line="208" column="7" />
-        <mark key="^" line="208" column="7" />
-        <mark key="." line="208" column="7" />
+      <file name="$USER_HOME$/Documents/cea/aletheia/app/containers/Dashboard/schema.js" timestamp="1519959745212">
+        <mark key="[" line="5" column="18" />
+        <mark key="]" line="5" column="16" />
+        <mark key="." line="5" column="16" />
+        <mark key="^" line="5" column="16" />
       </file>
-      <file name="$USER_HOME$/Documents/cea/parfit/services/payments/handlers/xero/index.js" timestamp="1526338761305">
-        <mark key="'" line="60" column="39" />
-        <mark key="[" line="34" column="0" />
-        <mark key="]" line="34" column="0" />
-        <mark key="." line="34" column="0" />
-        <mark key="^" line="60" column="71" />
+      <file name="$USER_HOME$/Documents/cea/parfit/services/payments/handlers/stripe/index.js" timestamp="1526683447552">
+        <mark key="a" line="50" column="48" />
+        <mark key="'" line="137" column="11" />
+        <mark key="[" line="69" column="20" />
+        <mark key="]" line="69" column="29" />
+        <mark key="^" line="69" column="29" />
+        <mark key="." line="69" column="29" />
+      </file>
+      <file name="$USER_HOME$/Documents/cea/parfit/services/payments/handlers/xero/index.js" timestamp="1526578683706">
+        <mark key="a" line="290" column="33" />
+        <mark key="'" line="273" column="0" />
+        <mark key="[" line="291" column="4" />
+        <mark key="]" line="291" column="12" />
+        <mark key="." line="291" column="12" />
+        <mark key="^" line="291" column="12" />
+      </file>
+      <file name="$USER_HOME$/Documents/cea/parfit/seeds/data/payments.xero_account.sql" timestamp="1526679046222">
+        <mark key="[" line="36" column="37" />
+        <mark key="]" line="37" column="16" />
+        <mark key="^" line="37" column="16" />
+        <mark key="." line="37" column="16" />
+      </file>
+      <file name="$USER_HOME$/Documents/cea/parfit/services/payments/handlers/xero/helpers.test.js" timestamp="1525461716394">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="36" />
+        <mark key="^" line="0" column="36" />
+        <mark key="." line="0" column="36" />
+      </file>
+      <file name="$USER_HOME$/Documents/cea/aletheia/app/models/Payments/queries/getLotteryById.gql" timestamp="1521509334521">
+        <mark key="[" line="7" column="17" />
+        <mark key="]" line="8" column="9" />
+        <mark key="." line="8" column="9" />
+        <mark key="^" line="8" column="9" />
+      </file>
+      <file name="$USER_HOME$/Documents/cea/aletheia/app/containers/Groups/utils.js" timestamp="1520388006275">
+        <mark key="[" line="31" column="0" />
+        <mark key="]" line="31" column="0" />
+        <mark key="." line="31" column="0" />
+        <mark key="^" line="30" column="31" />
+      </file>
+      <file name="$USER_HOME$/Documents/cea/parfit/migrations/20180417113445_giftaid_reporting_down.sql" timestamp="1524607304680">
+        <mark key="[" line="7" column="7" />
+        <mark key="]" line="7" column="6" />
+        <mark key="." line="7" column="6" />
+        <mark key="^" line="7" column="6" />
+      </file>
+      <file name="$USER_HOME$/Documents/cea/parfit/migrations/20180130124612_reporting_down.sql" timestamp="1521234796568">
+        <mark key="[" line="1" column="27" />
+        <mark key="]" line="1" column="37" />
+        <mark key="." line="1" column="37" />
+        <mark key="^" line="1" column="37" />
       </file>
       <file name="$USER_HOME$/Documents/cea/aletheia/app/components/PaymentEntry/index.jsx" timestamp="1524785191639">
         <mark key="'" line="8" column="19" />
@@ -92,12 +213,48 @@
         <mark key="^" line="192" column="52" />
         <mark key="." line="192" column="52" />
       </file>
+      <file name="$USER_HOME$/Documents/personal-site/src/welcome.test.tsx" timestamp="1521868773559">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="^" line="5" column="0" />
+        <mark key="." line="7" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/cea/aletheia/app/models/Organizations/queries/getReportedDonationOrganizationTypeahead.gql" timestamp="1519868219916">
+        <mark key="[" line="2" column="23" />
+        <mark key="]" line="2" column="22" />
+        <mark key="^" line="2" column="22" />
+        <mark key="." line="2" column="22" />
+      </file>
       <file name="$USER_HOME$/Documents/cea/parfit/db_tests/admin_payment_status_tests.sql" timestamp="1521743767644">
         <mark key="'" line="33" column="20" />
         <mark key="[" line="62" column="14" />
         <mark key="]" line="62" column="14" />
         <mark key="." line="62" column="18" />
         <mark key="^" line="33" column="18" />
+      </file>
+      <file name="$USER_HOME$/Documents/cea/parfit/migrations/20180426124055_refund_part_1_down.sql" timestamp="1524782023285">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="27" />
+        <mark key="^" line="0" column="27" />
+        <mark key="." line="0" column="27" />
+      </file>
+      <file name="$USER_HOME$/Documents/cea/aletheia/app/components/UI/TypeaheadSelector/index.jsx" timestamp="1521741996640">
+        <mark key="[" line="89" column="10" />
+        <mark key="]" line="89" column="87" />
+        <mark key="^" line="89" column="9" />
+        <mark key="." line="89" column="10" />
+      </file>
+      <file name="$USER_HOME$/Documents/cea/parfit/migrations/20180125150914_external_donation_reports_up.sql" timestamp="1520042132016">
+        <mark key="[" line="41" column="17" />
+        <mark key="]" line="41" column="17" />
+        <mark key="." line="41" column="17" />
+        <mark key="^" line="36" column="11" />
+      </file>
+      <file name="$USER_HOME$/Documents/cea/aletheia/app/models/People/queries/findPersonByPayRef.gql" timestamp="1521745975233">
+        <mark key="[" line="0" column="6" />
+        <mark key="]" line="0" column="23" />
+        <mark key="." line="0" column="23" />
+        <mark key="^" line="0" column="23" />
       </file>
       <file name="$USER_HOME$/Documents/cea/aletheia/app/containers/Lotteries/Lottery/index.jsx" timestamp="1521509469420">
         <mark key="'" line="202" column="17" />
@@ -113,11 +270,35 @@
         <mark key="." line="17" column="15" />
         <mark key="^" line="10" column="123" />
       </file>
-      <file name="$USER_HOME$/Documents/cea/parfit/services/payments/queues.js" timestamp="1525994622872">
-        <mark key="'" line="2" column="20" />
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
+      <file name="$USER_HOME$/Documents/cea/parfit/migrations/20170315115656_xero_up.sql" timestamp="1526678932025">
+        <mark key="[" line="73" column="78" />
+        <mark key="]" line="73" column="87" />
+        <mark key="^" line="73" column="87" />
+        <mark key="." line="73" column="87" />
+      </file>
+      <file name="$USER_HOME$/Documents/cea/centreforeffectivealtruism-org/src/styles/partials/_utilities.scss" timestamp="1525219596530">
+        <mark key="[" line="92" column="0" />
+        <mark key="]" line="92" column="0" />
+        <mark key="^" line="90" column="0" />
+        <mark key="." line="92" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/cea/aletheia/app/models/Pledges/selectors.js" timestamp="1519862610679">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="19" column="12" />
+        <mark key="^" line="19" column="12" />
+        <mark key="." line="19" column="12" />
+      </file>
+      <file name="$USER_HOME$/Documents/hindsight/migrations/20180326145143_init.ts" timestamp="1523227942977">
+        <mark key="[" line="3" column="29" />
+        <mark key="]" line="3" column="31" />
+        <mark key="." line="3" column="31" />
+        <mark key="^" line="3" column="31" />
+      </file>
+      <file name="$USER_HOME$/Documents/cea/parfit/services/payments/queues.js" timestamp="1526667447455">
+        <mark key="'" line="91" column="33" />
+        <mark key="[" line="63" column="0" />
+        <mark key="]" line="63" column="0" />
+        <mark key="." line="63" column="0" />
         <mark key="^" line="1" column="36" />
       </file>
       <file name="$USER_HOME$/Documents/cea/parfit/services/emails/templates/layouts/payments/styles.scss" timestamp="1524270154718">
@@ -125,14 +306,42 @@
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/cea/parfit/db_tests/lottery_tickets_tests.sql" timestamp="1524508597751">
-        <mark key="'" line="370" column="107" />
+      <file name="$USER_HOME$/Documents/cea/parfit/services/emails/send/index.js" timestamp="1520533422011">
+        <mark key="[" line="38" column="14" />
+        <mark key="]" line="38" column="18" />
+        <mark key="." line="38" column="18" />
+        <mark key="^" line="38" column="18" />
       </file>
-      <file name="$USER_HOME$/Documents/cea/parfit/package.json" timestamp="1526075566534">
-        <mark key="'" line="33" column="13" />
+      <file name="$USER_HOME$/Documents/cea/parfit/seeds/development/06-pledge.js" timestamp="1519846238459">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="^" line="9" column="0" />
+        <mark key="." line="10" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/cea/eaglobal-static/tasks/update-embed-data.js" timestamp="1524096869774">
-        <mark key="'" line="79" column="32" />
+      <file name="$USER_HOME$/Documents/cea/aletheia/app/components/UI/FindPerson/index.jsx" timestamp="1521742223452">
+        <mark key="[" line="1" column="30" />
+        <mark key="]" line="2" column="24" />
+        <mark key="^" line="2" column="24" />
+        <mark key="." line="2" column="24" />
+      </file>
+      <file name="$USER_HOME$/Documents/cea/parfit/README.md" timestamp="1526591322298">
+        <mark key="'" line="268" column="34" />
+        <mark key="[" line="258" column="448" />
+        <mark key="]" line="258" column="448" />
+        <mark key="^" line="258" column="448" />
+        <mark key="." line="258" column="448" />
+      </file>
+      <file name="$USER_HOME$/Documents/personal-site/src/exampleComponent.test.tsx" timestamp="1521868780300">
+        <mark key="[" line="2" column="50" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+        <mark key="^" line="3" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/cea/aletheia/app/models/Organizations/schema.js" timestamp="1519935195558">
+        <mark key="[" line="14" column="20" />
+        <mark key="]" line="14" column="23" />
+        <mark key="." line="14" column="23" />
+        <mark key="^" line="14" column="23" />
       </file>
       <file name="$USER_HOME$/Documents/cea/parfit/seeds/data/payments.payment.sql" timestamp="1521746510297">
         <mark key="'" line="0" column="30" />
@@ -146,6 +355,9 @@
         <mark key="]" line="271" column="2" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/cea/parfit/services/payments/handlers/recurring-payment.js" timestamp="1526664006523">
+        <mark key="'" line="64" column="12" />
+      </file>
       <file name="$USER_HOME$/Documents/cea/parfit/services/payments/gateways/xero.js" timestamp="1526327540223">
         <mark key="'" line="72" column="0" />
         <mark key="[" line="166" column="19" />
@@ -157,6 +369,12 @@
         <mark key="[" line="118" column="0" />
         <mark key="]" line="118" column="0" />
         <mark key="." line="118" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/cea/aletheia/app/components/UI/PasswordStrengthIndicator/index.jsx" timestamp="1524099370550">
+        <mark key="[" line="18" column="66" />
+        <mark key="]" line="18" column="66" />
+        <mark key="^" line="18" column="66" />
+        <mark key="." line="18" column="66" />
       </file>
       <file name="$USER_HOME$/Documents/cea/aletheia/app/containers/Dashboard/components/ReportedDonationEditor.jsx" timestamp="1525474871948">
         <mark key="'" line="258" column="13" />
@@ -172,6 +390,18 @@
         <mark key="^" line="31" column="62" />
         <mark key="." line="31" column="62" />
       </file>
+      <file name="$USER_HOME$/Documents/cea/eaglobal-static/.env" timestamp="1524180097851">
+        <mark key="[" line="4" column="18" />
+        <mark key="]" line="4" column="94" />
+        <mark key="." line="2" column="88" />
+        <mark key="^" line="7" column="1" />
+      </file>
+      <file name="$USER_HOME$/Documents/cea/discourse/containers/forumtest.yml" timestamp="1523656967523">
+        <mark key="[" line="80" column="13" />
+        <mark key="]" line="80" column="20" />
+        <mark key="^" line="80" column="20" />
+        <mark key="." line="80" column="20" />
+      </file>
       <file name="$USER_HOME$/Documents/cea/parfit/migrations/20180309185528_more_payment_reference_down.sql" timestamp="1521486186228">
         <mark key="'" line="18" column="22" />
         <mark key="[" line="5" column="59" />
@@ -186,15 +416,34 @@
         <mark key="." line="55" column="30" />
         <mark key="^" line="58" column="67" />
       </file>
-      <file name="$USER_HOME$/Documents/cea/aletheia/eag-tech-notes.md" timestamp="1525817299578">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+      <file name="$USER_HOME$/Documents/cea/parfit/add_ref_to_old_payments.sql" timestamp="1524184818152">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="^" line="4" column="27" />
+        <mark key="." line="4" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/cea/parfit/services/emails/templates/layouts/payments/partials/offline.pug" timestamp="1524263243113">
+        <mark key="[" line="10" column="26" />
+        <mark key="]" line="10" column="14" />
+        <mark key="." line="10" column="14" />
+        <mark key="^" line="10" column="14" />
+      </file>
+      <file name="$USER_HOME$/Documents/cea/aletheia/eag-tech-notes.md" timestamp="1526683071747">
+        <mark key="[" line="4" column="4" />
+        <mark key="]" line="4" column="4" />
+        <mark key="." line="4" column="4" />
+        <mark key="^" line="4" column="4" />
       </file>
       <file name="$USER_HOME$/Documents/cea/parfit/migrations/20170228162534_gift_aid_up.sql" timestamp="1524788361112">
         <mark key="[" line="1" column="1" />
         <mark key="]" line="1" column="44" />
         <mark key="." line="1" column="1" />
+      </file>
+      <file name="$USER_HOME$/Documents/cea/aletheia/app/containers/Dashboard/components/DonationReportEditor.jsx" timestamp="1519869396492">
+        <mark key="[" line="4" column="13" />
+        <mark key="]" line="4" column="28" />
+        <mark key="." line="4" column="28" />
+        <mark key="^" line="4" column="28" />
       </file>
       <file name="$USER_HOME$/Documents/personal-site/src/App.tsx" timestamp="1521685258827">
         <mark key="'" line="18" column="58" />
@@ -203,6 +452,18 @@
         <mark key="." line="18" column="58" />
         <mark key="^" line="18" column="58" />
       </file>
+      <file name="$USER_HOME$/Documents/cea/aletheia/app/models/People/queries/findPersonByNameOrEmail.gql" timestamp="1521742254082">
+        <mark key="[" line="0" column="11" />
+        <mark key="]" line="0" column="15" />
+        <mark key="." line="0" column="15" />
+        <mark key="^" line="0" column="15" />
+      </file>
+      <file name="$USER_HOME$/Documents/cea/discourse-src/README.md" timestamp="1523906923832">
+        <mark key="[" line="0" column="1" />
+        <mark key="]" line="0" column="1" />
+        <mark key="." line="0" column="1" />
+        <mark key="^" line="0" column="1" />
+      </file>
       <file name="$USER_HOME$/Documents/cea/parfit/.env" timestamp="1525475897729">
         <mark key="'" line="5" column="48" />
         <mark key="[" line="22" column="26" />
@@ -210,11 +471,11 @@
         <mark key="." line="22" column="26" />
         <mark key="^" line="21" column="23" />
       </file>
-      <file name="$USER_HOME$/Documents/cea/parfit/migrations/20180502113445_giftaid_reporting_down.sql" timestamp="1525367638298">
-        <mark key="'" line="30" column="31" />
-      </file>
-      <file name="$USER_HOME$/Documents/cea/eaglobal-static/tasks/create-eagx-roles.js" timestamp="1524095972723">
-        <mark key="'" line="119" column="3" />
+      <file name="$USER_HOME$/Documents/cea/aletheia/app/containers/Auth/index.jsx" timestamp="1520388684079">
+        <mark key="[" line="92" column="0" />
+        <mark key="]" line="92" column="0" />
+        <mark key="^" line="92" column="23" />
+        <mark key="." line="92" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/cea/aletheia/app/components/PaymentForm/DonationAmountSelector.jsx" timestamp="1524530692591">
         <mark key="'" line="160" column="11" />
@@ -223,6 +484,19 @@
         <mark key="^" line="45" column="14" />
         <mark key="." line="45" column="14" />
       </file>
+      <file name="$USER_HOME$/Documents/hindsight/package.json" timestamp="1523228220183">
+        <mark key="[" line="19" column="48" />
+        <mark key="]" line="19" column="50" />
+        <mark key="." line="19" column="50" />
+        <mark key="^" line="19" column="50" />
+      </file>
+      <file name="$USER_HOME$/Documents/cea/parfit/gift-aid-notes.org" timestamp="1526683472794" />
+      <file name="$USER_HOME$/Documents/cea/aletheia/app/containers/Groups/GroupManagement/index.jsx" timestamp="1520388616290">
+        <mark key="[" line="670" column="14" />
+        <mark key="]" line="670" column="14" />
+        <mark key="." line="670" column="14" />
+        <mark key="^" line="670" column="13" />
+      </file>
       <file name="$USER_HOME$/Documents/cea/eaglobal-static/tasks/metalsmith.js" timestamp="1524187562323">
         <mark key="'" line="476" column="34" />
         <mark key="[" line="144" column="17" />
@@ -230,15 +504,18 @@
         <mark key="^" line="144" column="78" />
         <mark key="." line="144" column="78" />
       </file>
-      <file name="$USER_HOME$/Documents/cea/aletheia/app/containers/Pledge/PledgeSignup/stages/Profile.jsx" timestamp="1524186527495">
-        <mark key="'" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/cea/eaglobal-static/src/templates/event.pug" timestamp="1525741804164">
         <mark key="'" line="38" column="40" />
         <mark key="[" line="40" column="63" />
         <mark key="]" line="40" column="63" />
         <mark key="^" line="40" column="61" />
         <mark key="." line="40" column="63" />
+      </file>
+      <file name="$USER_HOME$/Documents/hindsight/ts_src/hello.ts" timestamp="1523226374524">
+        <mark key="[" line="0" column="19" />
+        <mark key="]" line="0" column="25" />
+        <mark key="^" line="0" column="25" />
+        <mark key="." line="0" column="25" />
       </file>
       <file name="$USER_HOME$/Documents/personal-site/src/welcome.tsx" timestamp="1521868409937">
         <mark key="'" line="0" column="0" />
@@ -261,6 +538,24 @@
         <mark key="." line="118275" column="38" />
         <mark key="^" line="118275" column="38" />
       </file>
+      <file name="$USER_HOME$/Documents/hindsight/ts_src/web.ts" timestamp="1523739882224">
+        <mark key="[" line="9" column="33" />
+        <mark key="]" line="10" column="0" />
+        <mark key="^" line="10" column="0" />
+        <mark key="." line="10" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/cea/aletheia/app/components/PaymentForm/index.jsx" timestamp="1526683119378">
+        <mark key="a" line="401" column="45" />
+        <mark key="r" line="474" column="12" />
+        <mark key="d" line="86" column="0" />
+        <mark key="v" line="401" column="45" />
+        <mark key="'" line="396" column="0" />
+        <mark key="[" line="479" column="0" />
+        <mark key="]" line="479" column="0" />
+        <mark key="." line="479" column="0" />
+        <mark key="^" line="479" column="9" />
+        <mark key="n" line="352" column="5" />
+      </file>
       <file name="$USER_HOME$/Documents/hindsight/db/helpers.ts" timestamp="1523225714619">
         <mark key="'" line="19" column="0" />
         <mark key="[" line="14" column="70" />
@@ -281,6 +576,12 @@
         <mark key="]" line="30" column="1" />
         <mark key="." line="16" column="53" />
         <mark key="^" line="16" column="53" />
+      </file>
+      <file name="$USER_HOME$/Documents/cea/parfit/services/payments/index.js" timestamp="1523479208981">
+        <mark key="[" line="4" column="1" />
+        <mark key="]" line="4" column="0" />
+        <mark key="^" line="4" column="0" />
+        <mark key="." line="4" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/cea/parfit/migrations/20180503151844_gift_aid_claim_allocation_up.sql" timestamp="1526327603663">
         <mark key="[" line="1" column="3" />
@@ -309,6 +610,18 @@
         <mark key="." line="7" column="34" />
         <mark key="^" line="7" column="34" />
       </file>
+      <file name="$USER_HOME$/Documents/cea/aletheia/app/containers/LoginRegister/LoginRegisterForm/modes/PasswordInstructions.jsx" timestamp="1524252911044">
+        <mark key="[" line="17" column="112" />
+        <mark key="]" line="17" column="112" />
+        <mark key="." line="17" column="112" />
+        <mark key="^" line="17" column="115" />
+      </file>
+      <file name="$USER_HOME$/Documents/cea/parfit/.gitignore" timestamp="1524254059337">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="10" />
+        <mark key="^" line="18" column="10" />
+        <mark key="." line="18" column="10" />
+      </file>
       <file name="$USER_HOME$/Documents/cea/parfit/seeds/data/payments.lottery.sql" timestamp="1521506882306">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="57" column="22" />
@@ -321,17 +634,26 @@
         <mark key="]" line="20" column="0" />
         <mark key="." line="20" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/cea/parfit/services/payments/handlers/stripe/helpers.js" timestamp="1526086507624">
-        <mark key="a" line="59" column="9" />
-        <mark key="'" line="12" column="35" />
-        <mark key="[" line="70" column="50" />
-        <mark key="]" line="71" column="1" />
-        <mark key="^" line="71" column="1" />
-        <mark key="." line="71" column="1" />
+      <file name="$USER_HOME$/Documents/cea/parfit/services/payments/handlers/stripe/helpers.js" timestamp="1526683312782">
+        <mark key="'" line="15" column="0" />
+        <mark key="[" line="140" column="0" />
+        <mark key="]" line="140" column="0" />
+        <mark key="." line="140" column="0" />
+        <mark key="^" line="58" column="11" />
       </file>
-      <file name="$USER_HOME$/Documents/cea/aletheia/app/containers/Dashboard/DashboardPledge/index.jsx" timestamp="1526407325948">
-        <mark key="'" line="311" column="20" />
+      <file name="$USER_HOME$/Documents/cea/aletheia/app/containers/Pledge/PledgeHome/index.jsx" timestamp="1520450186954">
+        <mark key="[" line="72" column="35" />
+        <mark key="]" line="72" column="51" />
+        <mark key="." line="72" column="35" />
+        <mark key="^" line="49" column="21" />
       </file>
+      <file name="$USER_HOME$/Documents/cea/aletheia/app/models/Pledges/queries/getReportedDonationsByPersonId.gql" timestamp="1520036573595">
+        <mark key="[" line="1" column="8" />
+        <mark key="]" line="1" column="8" />
+        <mark key="." line="1" column="8" />
+        <mark key="^" line="1" column="8" />
+      </file>
+      <file name="$USER_HOME$/Documents/cea/parfit/migrations/20170502123343_additional_organizations_up.sql" timestamp="1526510443383" />
       <file name="$USER_HOME$/Documents/cea/aletheia/app/models/helpers.js" timestamp="1522033386580">
         <mark key="'" line="30" column="21" />
         <mark key="[" line="21" column="3" />
@@ -339,25 +661,61 @@
         <mark key="." line="21" column="6" />
         <mark key="^" line="21" column="6" />
       </file>
+      <file name="$USER_HOME$/Documents/hindsight/hello.ts" timestamp="1521949475082">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="23" />
+        <mark key="^" line="0" column="23" />
+        <mark key="." line="0" column="23" />
+      </file>
+      <file name="$USER_HOME$/Documents/cea/aletheia/app/models/Payments/queries/getPayment.gql" timestamp="1521480896138">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="0" column="6" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/cea/aletheia/app/app.jsx" timestamp="1526683046414">
+        <mark key="'" line="11" column="0" />
+        <mark key="[" line="139" column="0" />
+        <mark key="]" line="139" column="0" />
+        <mark key="^" line="139" column="16" />
+        <mark key="." line="139" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/cea/parfit/ngrok-howto.md" timestamp="1524077952725">
+        <mark key="[" line="18" column="94" />
+        <mark key="]" line="20" column="87" />
+        <mark key="." line="20" column="87" />
+        <mark key="^" line="20" column="87" />
+      </file>
+      <file name="$USER_HOME$/Documents/cea/parfit/migrations/20180518104148_remove_stripe_source_up.sql" timestamp="1526665579288">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="33" />
+        <mark key="^" line="0" column="33" />
+        <mark key="." line="0" column="33" />
+      </file>
       <file name="$USER_HOME$/Documents/cea/parfit/services/emails/handlers/payments.js" timestamp="1526342620592">
         <mark key="[" line="39" column="0" />
         <mark key="]" line="39" column="0" />
         <mark key="." line="39" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/cea/parfit/queue/factory.js" timestamp="1525383633364">
-        <mark key="'" line="25" column="0" />
+      <file name="$USER_HOME$/Documents/cea/parfit/migrations/20180518104148_remove_stripe_source_down.sql" timestamp="1526665698166">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/cea/parfit/services/payments/handlers/xero/helpers.js" timestamp="1526324688324">
-        <mark key="'" line="224" column="9" />
-        <mark key="[" line="19" column="8" />
-        <mark key="]" line="19" column="9" />
-        <mark key="^" line="19" column="9" />
-        <mark key="." line="19" column="9" />
+      <file name="$USER_HOME$/Documents/cea/parfit/services/payments/handlers/xero/helpers.js" timestamp="1526679869881">
+        <mark key="'" line="186" column="0" />
+        <mark key="[" line="151" column="41" />
+        <mark key="]" line="151" column="41" />
+        <mark key="^" line="151" column="69" />
+        <mark key="." line="151" column="41" />
       </file>
-      <file name="$USER_HOME$/Documents/cea/parfit/services/payments/workers/xero-balance-sheets.js" timestamp="1526078596409">
-        <mark key="'" line="161" column="11" />
+      <file name="$USER_HOME$/Documents/cea/parfit/seeds/data/payments.lottery_ticket.sql" timestamp="1521507987037">
+        <mark key="[" line="18" column="3" />
+        <mark key="]" line="18" column="57" />
+        <mark key="^" line="12" column="0" />
+        <mark key="." line="14" column="2" />
       </file>
-      <file name="$USER_HOME$/Documents/cea/aletheia/app/components/PaymentForm/GiftAidSelector.jsx" timestamp="1524530441487">
+      <file name="$USER_HOME$/Documents/cea/aletheia/app/components/PaymentForm/GiftAidSelector.jsx" timestamp="1526594676046">
         <mark key="'" line="115" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/cea/aletheia/app/helpers/validate.js" timestamp="1524099494219">
@@ -374,10 +732,28 @@
         <mark key="^" line="114" column="2486" />
         <mark key="." line="114" column="2486" />
       </file>
-      <file name="/Dummy.txt" timestamp="1526342473460">
+      <file name="$USER_HOME$/Documents/cea/aletheia/app/models/Pledges/reducer.js" timestamp="1519862557448">
+        <mark key="[" line="44" column="24" />
+        <mark key="]" line="45" column="21" />
+        <mark key="^" line="45" column="21" />
+        <mark key="." line="45" column="21" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1526683448923">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/cea/aletheia/app/containers/Pledge/PledgeSignup/index.jsx" timestamp="1520450326056">
+        <mark key="[" line="254" column="15" />
+        <mark key="]" line="255" column="16" />
+        <mark key="." line="255" column="16" />
+        <mark key="^" line="255" column="16" />
+      </file>
+      <file name="$USER_HOME$/Documents/cea/eaglobal-static/src/templates/speaker.pug" timestamp="1524187603024">
+        <mark key="[" line="46" column="79" />
+        <mark key="]" line="47" column="27" />
+        <mark key="." line="47" column="27" />
+        <mark key="^" line="47" column="27" />
       </file>
       <file name="$USER_HOME$/Documents/cea/aletheia/app/components/PaymentForm/apollo-notes.md" timestamp="1521680488493">
         <mark key="'" line="31" column="86" />
@@ -386,14 +762,40 @@
         <mark key="." line="51" column="2" />
         <mark key="^" line="51" column="2" />
       </file>
-      <file name="$USER_HOME$/Documents/cea/parfit/seeds/development/02-people.js" timestamp="1526423427294">
-        <mark key="[" line="3" column="11" />
-        <mark key="]" line="3" column="25" />
+      <file name="$USER_HOME$/Documents/cea/parfit/migrations/20180413123749_auth_registration_utils.js" timestamp="1523990798395">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="4" />
+        <mark key="." line="2" column="4" />
+        <mark key="^" line="2" column="4" />
+      </file>
+      <file name="$USER_HOME$/Documents/hindsight/package2.json" timestamp="1521951744277">
+        <mark key="[" line="9" column="2" />
+        <mark key="]" line="5" column="3" />
+        <mark key="." line="9" column="3" />
+        <mark key="^" line="5" column="3" />
+      </file>
+      <file name="$USER_HOME$/Documents/cea/aletheia/app/containers/DonationsNew/Organizations/OrganizationBox.jsx" timestamp="1526594666535" />
+      <file name="$USER_HOME$/Documents/cea/parfit/seeds/data/payments.xero_tracking.sql" timestamp="1526678983929">
+        <mark key="'" line="6" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="1" column="81" />
+      </file>
+      <file name="$USER_HOME$/Documents/cea/parfit/parse_shared.py" timestamp="1521497792431">
+        <mark key="[" line="0" column="22" />
+        <mark key="]" line="0" column="20" />
+        <mark key="^" line="0" column="20" />
+        <mark key="." line="0" column="20" />
       </file>
       <file name="$USER_HOME$/Documents/cea/parfit/migrations/20180417113445_giftaid_reporting.js" timestamp="1523990184743">
         <mark key="[" line="9" column="0" />
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/cea/aletheia/app/models/Payments/queries/getPayments.gql" timestamp="1520903297517">
+        <mark key="[" line="21" column="18" />
+        <mark key="]" line="22" column="16" />
+        <mark key="^" line="22" column="16" />
+        <mark key="." line="22" column="16" />
       </file>
       <file name="$USER_HOME$/Documents/personal-site/tslint.json" timestamp="1521868246672">
         <mark key="'" line="69" column="13" />
@@ -402,6 +804,18 @@
         <mark key="." line="53" column="36" />
         <mark key="^" line="55" column="33" />
       </file>
+      <file name="$USER_HOME$/Documents/cea/aletheia/app/models/Payments/mutations/updatePaymentStatus.gql" timestamp="1520296579071">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="^" line="10" column="0" />
+        <mark key="." line="10" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/cea/aletheia/internals/webpack/webpack.base.babel.js" timestamp="1526682620053">
+        <mark key="[" line="45" column="33" />
+        <mark key="]" line="45" column="32" />
+        <mark key="^" line="45" column="32" />
+        <mark key="." line="45" column="32" />
+      </file>
       <file name="$USER_HOME$/Documents/hindsight/knexfile.ts" timestamp="1523228589138">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="31" column="14" />
@@ -409,108 +823,114 @@
         <mark key="." line="31" column="14" />
         <mark key="^" line="48" column="72" />
       </file>
+      <file name="$USER_HOME$/Documents/cea/parfit/migrations/20180426124055_refund_part_1_up.sql" timestamp="1524782628865">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="55" />
+        <mark key="^" line="0" column="55" />
+        <mark key="." line="0" column="55" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="19" column="0" filename="$USER_HOME$/Documents/cea/parfit/services/payments/handlers/xero/helpers.js" />
-      <jump line="281" column="30" filename="$USER_HOME$/Documents/cea/parfit/services/payments/handlers/xero/index.js" />
-      <jump line="179" column="59" filename="$USER_HOME$/Documents/cea/parfit/services/payments/handlers/xero/helpers.js" />
-      <jump line="11" column="40" filename="$USER_HOME$/Documents/cea/parfit/services/payments/handlers/xero/helpers.js" />
-      <jump line="69" column="36" filename="$USER_HOME$/Documents/cea/parfit/services/payments/handlers/xero/index.js" />
-      <jump line="46" column="0" filename="$USER_HOME$/Documents/cea/parfit/services/payments/handlers/xero/helpers.js" />
-      <jump line="198" column="54" filename="$USER_HOME$/Documents/cea/parfit/services/payments/handlers/xero/helpers.js" />
-      <jump line="197" column="0" filename="$USER_HOME$/Documents/cea/parfit/services/payments/handlers/xero/helpers.js" />
-      <jump line="164" column="0" filename="$USER_HOME$/Documents/cea/parfit/services/payments/handlers/xero/helpers.js" />
-      <jump line="162" column="0" filename="$USER_HOME$/Documents/cea/parfit/services/payments/handlers/xero/helpers.js" />
-      <jump line="59" column="9" filename="$USER_HOME$/Documents/cea/parfit/services/payments/handlers/stripe/helpers.js" />
-      <jump line="12" column="35" filename="$USER_HOME$/Documents/cea/parfit/services/payments/handlers/stripe/helpers.js" />
-      <jump line="158" column="20" filename="$USER_HOME$/Documents/cea/parfit/services/payments/handlers/stripe/index.js" />
-      <jump line="12" column="2" filename="$USER_HOME$/Documents/cea/parfit/services/payments/handlers/stripe/index.js" />
-      <jump line="13" column="2" filename="$USER_HOME$/Documents/cea/parfit/services/payments/handlers/stripe/index.js" />
-      <jump line="49" column="21" filename="$USER_HOME$/Documents/cea/parfit/services/payments/handlers/xero/helpers.js" />
-      <jump line="201" column="6" filename="$USER_HOME$/Documents/cea/parfit/services/payments/handlers/xero/helpers.js" />
-      <jump line="137" column="30" filename="$USER_HOME$/Documents/cea/parfit/services/payments/handlers/xero/helpers.js" />
-      <jump line="9" column="36" filename="$USER_HOME$/Documents/cea/parfit/services/payments/handlers/xero/helpers.js" />
-      <jump line="25" column="24" filename="$USER_HOME$/Documents/cea/parfit/services/payments/handlers/xero/helpers.js" />
-      <jump line="28" column="28" filename="$USER_HOME$/Documents/cea/parfit/services/payments/handlers/xero/helpers.js" />
-      <jump line="50" column="5" filename="$USER_HOME$/Documents/cea/parfit/package.json" />
-      <jump line="61" column="3" filename="$USER_HOME$/Documents/cea/parfit/package.json" />
-      <jump line="153" column="5" filename="$USER_HOME$/Documents/cea/parfit/package.json" />
-      <jump line="154" column="5" filename="$USER_HOME$/Documents/cea/parfit/package.json" />
-      <jump line="155" column="5" filename="$USER_HOME$/Documents/cea/parfit/package.json" />
-      <jump line="156" column="5" filename="$USER_HOME$/Documents/cea/parfit/package.json" />
-      <jump line="157" column="5" filename="$USER_HOME$/Documents/cea/parfit/package.json" />
-      <jump line="158" column="5" filename="$USER_HOME$/Documents/cea/parfit/package.json" />
-      <jump line="33" column="13" filename="$USER_HOME$/Documents/cea/parfit/package.json" />
-      <jump line="36" column="0" filename="$USER_HOME$/Documents/cea/parfit/services/payments/workers/xero-balance-sheets.js" />
-      <jump line="224" column="0" filename="$USER_HOME$/Documents/cea/parfit/services/payments/workers/xero-balance-sheets.js" />
-      <jump line="220" column="0" filename="$USER_HOME$/Documents/cea/parfit/services/payments/workers/xero-balance-sheets.js" />
-      <jump line="218" column="0" filename="$USER_HOME$/Documents/cea/parfit/services/payments/workers/xero-balance-sheets.js" />
-      <jump line="216" column="0" filename="$USER_HOME$/Documents/cea/parfit/services/payments/workers/xero-balance-sheets.js" />
-      <jump line="213" column="0" filename="$USER_HOME$/Documents/cea/parfit/services/payments/workers/xero-balance-sheets.js" />
-      <jump line="200" column="0" filename="$USER_HOME$/Documents/cea/parfit/services/payments/workers/xero-balance-sheets.js" />
-      <jump line="172" column="0" filename="$USER_HOME$/Documents/cea/parfit/services/payments/workers/xero-balance-sheets.js" />
-      <jump line="167" column="0" filename="$USER_HOME$/Documents/cea/parfit/services/payments/workers/xero-balance-sheets.js" />
-      <jump line="137" column="11" filename="$USER_HOME$/Documents/cea/parfit/services/payments/workers/xero-balance-sheets.js" />
-      <jump line="42" column="42" filename="$USER_HOME$/Documents/cea/parfit/services/payments/workers/xero-balance-sheets.js" />
-      <jump line="154" column="9" filename="$USER_HOME$/Documents/cea/parfit/services/payments/workers/xero-balance-sheets.js" />
-      <jump line="47" column="33" filename="$USER_HOME$/Documents/cea/parfit/services/payments/workers/xero-balance-sheets.js" />
-      <jump line="110" column="31" filename="$USER_HOME$/Documents/cea/parfit/services/payments/workers/xero-balance-sheets.js" />
-      <jump line="123" column="71" filename="$USER_HOME$/Documents/cea/parfit/services/payments/workers/xero-balance-sheets.js" />
-      <jump line="46" column="37" filename="$USER_HOME$/Documents/cea/parfit/services/payments/workers/xero-balance-sheets.js" />
-      <jump line="168" column="8" filename="$USER_HOME$/Documents/cea/parfit/services/payments/workers/xero-balance-sheets.js" />
-      <jump line="70" column="33" filename="$USER_HOME$/Documents/cea/parfit/services/payments/workers/xero-balance-sheets.js" />
-      <jump line="60" column="15" filename="$USER_HOME$/Documents/cea/parfit/services/payments/workers/xero-balance-sheets.js" />
-      <jump line="170" column="9" filename="$USER_HOME$/Documents/cea/parfit/services/payments/workers/xero-balance-sheets.js" />
-      <jump line="56" column="47" filename="$USER_HOME$/Documents/cea/parfit/services/payments/workers/xero-balance-sheets.js" />
-      <jump line="161" column="11" filename="$USER_HOME$/Documents/cea/parfit/services/payments/workers/xero-balance-sheets.js" />
-      <jump line="187" column="0" filename="$USER_HOME$/Documents/cea/parfit/services/payments/handlers/xero/helpers.js" />
-      <jump line="94" column="21" filename="$USER_HOME$/Documents/cea/parfit/services/payments/handlers/xero/helpers.js" />
-      <jump line="145" column="9" filename="$USER_HOME$/Documents/cea/parfit/services/payments/handlers/xero/helpers.js" />
-      <jump line="261" column="43" filename="$USER_HOME$/Documents/cea/parfit/services/payments/handlers/xero/index.js" />
-      <jump line="285" column="20" filename="$USER_HOME$/Documents/cea/parfit/services/payments/handlers/xero/index.js" />
-      <jump line="13" column="35" filename="$USER_HOME$/Documents/cea/parfit/services/payments/handlers/xero/index.js" />
-      <jump line="21" column="6" filename="$USER_HOME$/Documents/cea/parfit/services/payments/handlers/xero/helpers.js" />
-      <jump line="214" column="25" filename="$USER_HOME$/Documents/cea/parfit/services/payments/handlers/xero/helpers.js" />
-      <jump line="17" column="101" filename="$USER_HOME$/Documents/cea/parfit/services/payments/handlers/xero/helpers.js" />
-      <jump line="218" column="11" filename="$USER_HOME$/Documents/cea/parfit/services/payments/handlers/xero/helpers.js" />
-      <jump line="138" column="11" filename="$USER_HOME$/Documents/cea/parfit/services/payments/handlers/xero/helpers.js" />
-      <jump line="12" column="40" filename="$USER_HOME$/Documents/cea/parfit/services/payments/handlers/xero/helpers.js" />
-      <jump line="151" column="9" filename="$USER_HOME$/Documents/cea/parfit/services/payments/handlers/xero/helpers.js" />
-      <jump line="13" column="2" filename="$USER_HOME$/Documents/cea/parfit/services/payments/handlers/xero/helpers.js" />
-      <jump line="116" column="5" filename="$USER_HOME$/Documents/cea/parfit/migrations/20180502113445_giftaid_reporting_up.sql" />
-      <jump line="117" column="0" filename="$USER_HOME$/Documents/cea/parfit/migrations/20180502113445_giftaid_reporting_up.sql" />
-      <jump line="73" column="37" filename="$USER_HOME$/Documents/cea/parfit/services/payments/handlers/xero/helpers.js" />
-      <jump line="80" column="17" filename="$USER_HOME$/Documents/cea/parfit/services/payments/handlers/xero/helpers.js" />
-      <jump line="95" column="32" filename="$USER_HOME$/Documents/cea/parfit/services/payments/handlers/xero/helpers.js" />
-      <jump line="97" column="32" filename="$USER_HOME$/Documents/cea/parfit/services/payments/handlers/xero/helpers.js" />
-      <jump line="103" column="31" filename="$USER_HOME$/Documents/cea/parfit/services/payments/handlers/xero/helpers.js" />
-      <jump line="127" column="13" filename="$USER_HOME$/Documents/cea/parfit/services/payments/gateways/xero.js" />
-      <jump line="18" column="20" filename="$USER_HOME$/Documents/cea/parfit/services/payments/gateways/xero.js" />
-      <jump line="23" column="34" filename="$USER_HOME$/Documents/cea/parfit/services/payments/gateways/xero.js" />
-      <jump line="231" column="72" filename="$USER_HOME$/Documents/cea/parfit/services/payments/handlers/xero/helpers.js" />
-      <jump line="227" column="0" filename="$USER_HOME$/Documents/cea/parfit/services/payments/handlers/xero/helpers.js" />
-      <jump line="215" column="0" filename="$USER_HOME$/Documents/cea/parfit/services/payments/handlers/xero/helpers.js" />
-      <jump line="193" column="0" filename="$USER_HOME$/Documents/cea/parfit/services/payments/handlers/xero/helpers.js" />
-      <jump line="180" column="0" filename="$USER_HOME$/Documents/cea/parfit/services/payments/handlers/xero/helpers.js" />
-      <jump line="172" column="0" filename="$USER_HOME$/Documents/cea/parfit/services/payments/handlers/xero/helpers.js" />
-      <jump line="170" column="0" filename="$USER_HOME$/Documents/cea/parfit/services/payments/handlers/xero/helpers.js" />
-      <jump line="147" column="0" filename="$USER_HOME$/Documents/cea/parfit/services/payments/handlers/xero/helpers.js" />
-      <jump line="134" column="0" filename="$USER_HOME$/Documents/cea/parfit/services/payments/handlers/xero/helpers.js" />
-      <jump line="52" column="0" filename="$USER_HOME$/Documents/cea/parfit/services/payments/handlers/xero/helpers.js" />
-      <jump line="39" column="0" filename="$USER_HOME$/Documents/cea/parfit/services/payments/handlers/xero/helpers.js" />
-      <jump line="290" column="23" filename="$USER_HOME$/Documents/cea/parfit/services/payments/handlers/xero/index.js" />
-      <jump line="229" column="9" filename="$USER_HOME$/Documents/cea/parfit/services/payments/handlers/xero/helpers.js" />
-      <jump line="291" column="36" filename="$USER_HOME$/Documents/cea/parfit/services/payments/handlers/xero/index.js" />
-      <jump line="260" column="37" filename="$USER_HOME$/Documents/cea/parfit/services/payments/handlers/xero/index.js" />
-      <jump line="72" column="0" filename="$USER_HOME$/Documents/cea/parfit/services/payments/gateways/xero.js" />
-      <jump line="11" column="14" filename="$USER_HOME$/Documents/cea/parfit/services/payments/handlers/xero/index.js" />
-      <jump line="60" column="39" filename="$USER_HOME$/Documents/cea/parfit/services/payments/handlers/xero/index.js" />
-      <jump line="44" column="20" filename="$USER_HOME$/Documents/cea/aletheia/app/containers/Dashboard/DashboardPledge/index.jsx" />
-      <jump line="309" column="18" filename="$USER_HOME$/Documents/cea/aletheia/app/containers/Dashboard/DashboardPledge/index.jsx" />
-      <jump line="301" column="20" filename="$USER_HOME$/Documents/cea/aletheia/app/containers/Dashboard/DashboardPledge/index.jsx" />
-      <jump line="307" column="16" filename="$USER_HOME$/Documents/cea/aletheia/app/containers/Dashboard/DashboardPledge/index.jsx" />
-      <jump line="305" column="20" filename="$USER_HOME$/Documents/cea/aletheia/app/containers/Dashboard/DashboardPledge/index.jsx" />
-      <jump line="311" column="20" filename="$USER_HOME$/Documents/cea/aletheia/app/containers/Dashboard/DashboardPledge/index.jsx" />
+      <jump line="179" column="8" filename="$USER_HOME$/Documents/cea/aletheia/app/components/PaymentForm/index.jsx" />
+      <jump line="187" column="31" filename="$USER_HOME$/Documents/cea/aletheia/app/components/PaymentForm/index.jsx" />
+      <jump line="191" column="31" filename="$USER_HOME$/Documents/cea/aletheia/app/components/PaymentForm/index.jsx" />
+      <jump line="193" column="6" filename="$USER_HOME$/Documents/cea/aletheia/app/components/PaymentForm/index.jsx" />
+      <jump line="207" column="20" filename="$USER_HOME$/Documents/cea/aletheia/app/components/PaymentForm/index.jsx" />
+      <jump line="209" column="31" filename="$USER_HOME$/Documents/cea/aletheia/app/components/PaymentForm/index.jsx" />
+      <jump line="210" column="70" filename="$USER_HOME$/Documents/cea/aletheia/app/components/PaymentForm/index.jsx" />
+      <jump line="213" column="8" filename="$USER_HOME$/Documents/cea/aletheia/app/components/PaymentForm/index.jsx" />
+      <jump line="214" column="8" filename="$USER_HOME$/Documents/cea/aletheia/app/components/PaymentForm/index.jsx" />
+      <jump line="279" column="11" filename="$USER_HOME$/Documents/cea/aletheia/app/components/PaymentForm/index.jsx" />
+      <jump line="280" column="24" filename="$USER_HOME$/Documents/cea/aletheia/app/components/PaymentForm/index.jsx" />
+      <jump line="283" column="38" filename="$USER_HOME$/Documents/cea/aletheia/app/components/PaymentForm/index.jsx" />
+      <jump line="325" column="56" filename="$USER_HOME$/Documents/cea/aletheia/app/components/PaymentForm/index.jsx" />
+      <jump line="339" column="34" filename="$USER_HOME$/Documents/cea/aletheia/app/components/PaymentForm/index.jsx" />
+      <jump line="98" column="0" filename="$USER_HOME$/Documents/cea/aletheia/app/components/PaymentForm/index.jsx" />
+      <jump line="401" column="45" filename="$USER_HOME$/Documents/cea/aletheia/app/components/PaymentForm/index.jsx" />
+      <jump line="127" column="2" filename="$USER_HOME$/Documents/cea/aletheia/app/components/PaymentForm/index.jsx" />
+      <jump line="135" column="47" filename="$USER_HOME$/Documents/cea/aletheia/app/components/PaymentForm/index.jsx" />
+      <jump line="485" column="16" filename="$USER_HOME$/Documents/cea/aletheia/app/components/PaymentForm/index.jsx" />
+      <jump line="586" column="66" filename="$USER_HOME$/Documents/cea/aletheia/app/components/PaymentForm/index.jsx" />
+      <jump line="639" column="138" filename="$USER_HOME$/Documents/cea/aletheia/app/components/PaymentForm/index.jsx" />
+      <jump line="91" column="17" filename="$USER_HOME$/Documents/cea/aletheia/app/components/PaymentForm/index.jsx" />
+      <jump line="196" column="17" filename="$USER_HOME$/Documents/cea/aletheia/app/components/PaymentForm/index.jsx" />
+      <jump line="216" column="107" filename="$USER_HOME$/Documents/cea/aletheia/app/components/PaymentForm/index.jsx" />
+      <jump line="240" column="24" filename="$USER_HOME$/Documents/cea/aletheia/app/components/PaymentForm/index.jsx" />
+      <jump line="524" column="48" filename="$USER_HOME$/Documents/cea/aletheia/app/components/PaymentForm/index.jsx" />
+      <jump line="241" column="32" filename="$USER_HOME$/Documents/cea/aletheia/app/components/PaymentForm/index.jsx" />
+      <jump line="237" column="2" filename="$USER_HOME$/Documents/cea/aletheia/app/components/PaymentForm/index.jsx" />
+      <jump line="268" column="2" filename="$USER_HOME$/Documents/cea/aletheia/app/components/PaymentForm/index.jsx" />
+      <jump line="55" column="30" filename="$USER_HOME$/Documents/cea/aletheia/app/components/PaymentForm/index.jsx" />
+      <jump line="403" column="7" filename="$USER_HOME$/Documents/cea/aletheia/app/components/PaymentForm/index.jsx" />
+      <jump line="414" column="9" filename="$USER_HOME$/Documents/cea/aletheia/app/components/PaymentForm/index.jsx" />
+      <jump line="6" column="0" filename="$USER_HOME$/Documents/cea/parfit/seeds/data/payments.xero_tracking.sql" />
+      <jump line="133" column="17" filename="$USER_HOME$/Documents/cea/aletheia/app/components/PaymentForm/index.jsx" />
+      <jump line="512" column="15" filename="$USER_HOME$/Documents/cea/aletheia/app/components/PaymentForm/index.jsx" />
+      <jump line="517" column="26" filename="$USER_HOME$/Documents/cea/aletheia/app/components/PaymentForm/index.jsx" />
+      <jump line="657" column="0" filename="$USER_HOME$/Documents/cea/aletheia/app/components/PaymentForm/index.jsx" />
+      <jump line="652" column="150" filename="$USER_HOME$/Documents/cea/aletheia/app/components/PaymentForm/index.jsx" />
+      <jump line="669" column="20" filename="$USER_HOME$/Documents/cea/aletheia/app/components/PaymentForm/index.jsx" />
+      <jump line="655" column="20" filename="$USER_HOME$/Documents/cea/aletheia/app/components/PaymentForm/index.jsx" />
+      <jump line="651" column="42" filename="$USER_HOME$/Documents/cea/aletheia/app/components/PaymentForm/index.jsx" />
+      <jump line="5" column="0" filename="$USER_HOME$/Documents/cea/aletheia/app/components/PaymentForm/index.jsx" />
+      <jump line="41" column="2" filename="$USER_HOME$/Documents/cea/aletheia/app/components/PaymentForm/index.jsx" />
+      <jump line="81" column="20" filename="$USER_HOME$/Documents/cea/aletheia/app/components/PaymentForm/index.jsx" />
+      <jump line="599" column="118" filename="$USER_HOME$/Documents/cea/aletheia/app/components/PaymentForm/index.jsx" />
+      <jump line="566" column="24" filename="$USER_HOME$/Documents/cea/aletheia/app/components/PaymentForm/index.jsx" />
+      <jump line="419" column="37" filename="$USER_HOME$/Documents/cea/aletheia/app/components/PaymentForm/index.jsx" />
+      <jump line="20" column="0" filename="$USER_HOME$/Documents/cea/aletheia/app/components/PaymentForm/index.jsx" />
+      <jump line="21" column="0" filename="$USER_HOME$/Documents/cea/aletheia/app/components/PaymentForm/index.jsx" />
+      <jump line="26" column="0" filename="$USER_HOME$/Documents/cea/aletheia/app/components/PaymentForm/index.jsx" />
+      <jump line="28" column="0" filename="$USER_HOME$/Documents/cea/aletheia/app/components/PaymentForm/index.jsx" />
+      <jump line="33" column="0" filename="$USER_HOME$/Documents/cea/aletheia/app/components/PaymentForm/index.jsx" />
+      <jump line="58" column="0" filename="$USER_HOME$/Documents/cea/aletheia/app/components/PaymentForm/index.jsx" />
+      <jump line="60" column="0" filename="$USER_HOME$/Documents/cea/aletheia/app/components/PaymentForm/index.jsx" />
+      <jump line="64" column="0" filename="$USER_HOME$/Documents/cea/aletheia/app/components/PaymentForm/index.jsx" />
+      <jump line="68" column="0" filename="$USER_HOME$/Documents/cea/aletheia/app/components/PaymentForm/index.jsx" />
+      <jump line="79" column="0" filename="$USER_HOME$/Documents/cea/aletheia/app/components/PaymentForm/index.jsx" />
+      <jump line="83" column="0" filename="$USER_HOME$/Documents/cea/aletheia/app/components/PaymentForm/index.jsx" />
+      <jump line="154" column="0" filename="$USER_HOME$/Documents/cea/aletheia/app/components/PaymentForm/index.jsx" />
+      <jump line="123" column="0" filename="$USER_HOME$/Documents/cea/aletheia/app/components/PaymentForm/index.jsx" />
+      <jump line="115" column="0" filename="$USER_HOME$/Documents/cea/aletheia/app/components/PaymentForm/index.jsx" />
+      <jump line="113" column="0" filename="$USER_HOME$/Documents/cea/aletheia/app/components/PaymentForm/index.jsx" />
+      <jump line="111" column="0" filename="$USER_HOME$/Documents/cea/aletheia/app/components/PaymentForm/index.jsx" />
+      <jump line="109" column="0" filename="$USER_HOME$/Documents/cea/aletheia/app/components/PaymentForm/index.jsx" />
+      <jump line="89" column="0" filename="$USER_HOME$/Documents/cea/aletheia/app/components/PaymentForm/index.jsx" />
+      <jump line="80" column="29" filename="$USER_HOME$/Documents/cea/aletheia/app/components/PaymentForm/index.jsx" />
+      <jump line="516" column="15" filename="$USER_HOME$/Documents/cea/aletheia/app/components/PaymentForm/index.jsx" />
+      <jump line="132" column="5" filename="$USER_HOME$/Documents/cea/aletheia/app/components/PaymentForm/index.jsx" />
+      <jump line="161" column="5" filename="$USER_HOME$/Documents/cea/aletheia/app/components/PaymentForm/index.jsx" />
+      <jump line="352" column="2" filename="$USER_HOME$/Documents/cea/aletheia/app/components/PaymentForm/index.jsx" />
+      <jump line="376" column="0" filename="$USER_HOME$/Documents/cea/aletheia/app/components/PaymentForm/index.jsx" />
+      <jump line="612" column="0" filename="$USER_HOME$/Documents/cea/aletheia/app/components/PaymentForm/index.jsx" />
+      <jump line="66" column="6" filename="$USER_HOME$/Documents/cea/aletheia/app/components/PaymentForm/index.jsx" />
+      <jump line="644" column="10" filename="$USER_HOME$/Documents/cea/aletheia/app/components/PaymentForm/index.jsx" />
+      <jump line="492" column="8" filename="$USER_HOME$/Documents/cea/aletheia/app/components/PaymentForm/index.jsx" />
+      <jump line="493" column="9" filename="$USER_HOME$/Documents/cea/aletheia/app/components/PaymentForm/index.jsx" />
+      <jump line="497" column="11" filename="$USER_HOME$/Documents/cea/aletheia/app/components/PaymentForm/index.jsx" />
+      <jump line="56" column="8" filename="$USER_HOME$/Documents/cea/aletheia/app/components/PaymentForm/index.jsx" />
+      <jump line="250" column="9" filename="$USER_HOME$/Documents/cea/aletheia/app/components/PaymentForm/index.jsx" />
+      <jump line="255" column="9" filename="$USER_HOME$/Documents/cea/aletheia/app/components/PaymentForm/index.jsx" />
+      <jump line="337" column="28" filename="$USER_HOME$/Documents/cea/aletheia/app/components/PaymentForm/index.jsx" />
+      <jump line="338" column="28" filename="$USER_HOME$/Documents/cea/aletheia/app/components/PaymentForm/index.jsx" />
+      <jump line="341" column="14" filename="$USER_HOME$/Documents/cea/aletheia/app/components/PaymentForm/index.jsx" />
+      <jump line="343" column="9" filename="$USER_HOME$/Documents/cea/aletheia/app/components/PaymentForm/index.jsx" />
+      <jump line="139" column="4" filename="$USER_HOME$/Documents/cea/aletheia/app/app.jsx" />
+      <jump line="11" column="0" filename="$USER_HOME$/Documents/cea/aletheia/app/app.jsx" />
+      <jump line="491" column="23" filename="$USER_HOME$/Documents/cea/aletheia/app/components/PaymentForm/index.jsx" />
+      <jump line="499" column="34" filename="$USER_HOME$/Documents/cea/aletheia/app/components/PaymentForm/index.jsx" />
+      <jump line="490" column="0" filename="$USER_HOME$/Documents/cea/aletheia/app/components/PaymentForm/index.jsx" />
+      <jump line="134" column="0" filename="$USER_HOME$/Documents/cea/aletheia/app/components/PaymentForm/index.jsx" />
+      <jump line="139" column="0" filename="$USER_HOME$/Documents/cea/aletheia/app/components/PaymentForm/index.jsx" />
+      <jump line="143" column="5" filename="$USER_HOME$/Documents/cea/aletheia/app/components/PaymentForm/index.jsx" />
+      <jump line="270" column="0" filename="$USER_HOME$/Documents/cea/aletheia/app/components/PaymentForm/index.jsx" />
+      <jump line="379" column="0" filename="$USER_HOME$/Documents/cea/aletheia/app/components/PaymentForm/index.jsx" />
+      <jump line="387" column="0" filename="$USER_HOME$/Documents/cea/aletheia/app/components/PaymentForm/index.jsx" />
+      <jump line="394" column="0" filename="$USER_HOME$/Documents/cea/aletheia/app/components/PaymentForm/index.jsx" />
+      <jump line="396" column="0" filename="$USER_HOME$/Documents/cea/aletheia/app/components/PaymentForm/index.jsx" />
+      <jump line="141" column="11" filename="$USER_HOME$/Documents/cea/parfit/services/payments/handlers/stripe/helpers.js" />
+      <jump line="137" column="11" filename="$USER_HOME$/Documents/cea/parfit/services/payments/handlers/stripe/index.js" />
+      <jump line="15" column="0" filename="$USER_HOME$/Documents/cea/parfit/services/payments/handlers/stripe/helpers.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -564,81 +984,78 @@
         <text>()</text>
       </register>
       <register name="-" type="4">
-        <text>.netlify-hide</text>
+        <text>TODO docstring</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxmb3JtYXR0ZWRDdXJyZW50UGVyaW9kRW5kRGF0ZVw+</text>
+        <text encoding="base64">XDxjYW5jZWxTdHJpcGVTdWJzY3JpcHRpb25cPg==</text>
       </register>
       <register name="0" type="4">
-        <text>bertrandrussell</text>
+        <text>cancelStripeSubscription</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAvLyBUT0RPIFd0ZiBhcmUgdGhlc2UgJiZzCg==</text>
+        <text encoding="base64">ZnVuY3Rpb24gKiBjYW5jZWxTdHJpcGVTdWJzY3JpcHRpb24gKHBlcnNvbklkLCBzdHJpcGVJbnN0YW5jZSkgewogIGlmIChwZXJzb25JZCkgewoKICB9Cn0KCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgcmFpc2Ugbm90aWNlICdudW0gdXBkYXRlZCAlJywgX2NvdW50X3VwZGF0ZWQ7Cg==</text>
+        <text encoding="base64">ICBjYW5jZWxTdHJpcGVTdWJzY3JpcHRpb246IGNvLndyYXAoY2FuY2VsU3RyaXBlU3Vic2NyaXB0aW9uKSwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHJhaXNlIG5vdGljZSAnbnVtIGNsYWltcyAlJywgX251bV9jbGFpbXM7Cg==</text>
+        <text encoding="base64">Ly8gVE9ETyBrCmZ1bmN0aW9uICogY2FuY2VsU3RyaXBlU3Vic2NyaXB0aW9uIChwZXJzb25JZCwgc3RyaXBlSW5zdGFuY2UpIHsKICBpZiAocGVyc29uSWQpIHsKCiAgfQp9Cgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Ly8gVE9ETyBjb21wbGV0ZWx5IHRyYWNlIHRocm91Z2ggb2xkIGFuZCBuZXcK</text>
+        <text encoding="base64">Ly8gVE9ETyBub2RlIGVudj8K</text>
       </register>
-      <register name="5" type="4">
-        <text>()</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgIHsvKlRPRE8gb25seSB3aGVuIGRldiovfQo=</text>
       </register>
-      <register name="6" type="4">
-        <text>PrevPayment.status === 'pending'</text>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text>()</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAvLyBUT0RPIHVudXNlZD8KICBoYW5kbGVFbWFpbENoYW5nZSA9IChldmVudCkgPT4gewogICAgdGhpcy51cGRhdGVQYXltZW50KHtlbWFpbDogZXZlbnQudGFyZ2V0LnZhbHVlfSkKICB9Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text>Payment.status</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdiaXNlY3QgMScpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBXSEVSRSBwYXltZW50LmNyZWF0ZWRfYXQgQkVUV0VFTiBzdGFydF9kYXRlIEFORCBlbmRfZGF0ZQo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdiaXNlY3QgMC44NzUnKQo=</text>
       </register>
       <register name=":" type="4">
-        <text>w!</text>
+        <text>action FindInPath</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxmb3JtYXR0ZWRDdXJyZW50UGVyaW9kRW5kRGF0ZVw+</last-search>
+      <last-search encoding="base64">XDxjYW5jZWxTdHJpcGVTdWJzY3JpcHRpb25cPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxmb3JtYXR0ZWRDdXJyZW50UGVyaW9kRW5kRGF0ZVw+</last-pattern>
-      <last-replace encoding="base64">IA==</last-replace>
-      <last-substitute encoding="base64">XDxjcmVhdGVYZXJvSW52b2ljZVw+</last-substitute>
+      <last-pattern encoding="base64">XDxjYW5jZWxTdHJpcGVTdWJzY3JpcHRpb25cPg==</last-pattern>
+      <last-replace>,\n</last-replace>
+      <last-substitute encoding="base64">LCA=</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>eslint</entry>
-        <entry encoding="base64">XDxnZXRYZXJvVHJhY2tpbmdCeVJlY2lwaWVudFw+</entry>
-        <entry encoding="base64">XDxQYXltZW50UmVjaXBpZW50XD4=</entry>
-        <entry encoding="base64">XDxnZXRQYXltZW50UmVjaXBpZW50XD4=</entry>
-        <entry encoding="base64">XDxUcmFja2luZ0NhdGVnb3J5T3B0aW9uXD4=</entry>
-        <entry encoding="base64">XDxnZXRUcmFja2luZ0NhdGVnb3J5T3B0aW9uXD4=</entry>
-        <entry>util</entry>
-        <entry encoding="base64">XDxnZXRMaW5lSXRlbXNGcm9tR2lmdEFpZEFsbG9jYXRpb25zXD4=</entry>
-        <entry encoding="base64">XDxITVJDX0NPTlRBQ1RfRU1BSUxcPg==</entry>
-        <entry encoding="base64">XDxjcmVhdGVITVJDUGVyc29uREJcPg==</entry>
-        <entry encoding="base64">XDxnZXRPckNyZWF0ZUhNUkNYZXJvQ29udGFjdElEXD4=</entry>
-        <entry encoding="base64">XDxnZXRMaW5lSXRlbXNGcm9tR2lmdEFpZEFsbG9jYXRpb25cPg==</entry>
-        <entry encoding="base64">XDxQZXJjZW50YWdlXD4=</entry>
-        <entry encoding="base64">XDx4bWxCdWlsZGVyXD4=</entry>
-        <entry encoding="base64">XDxib2R5XD4=</entry>
-        <entry encoding="base64">XDxyZXBvcnRJZFw+</entry>
-        <entry>lastpledgelia</entry>
-        <entry encoding="base64">XDxsYXN0UGxlZGdlTGlhYmlsaXR5SW5jb21lXD4=</entry>
-        <entry encoding="base64">XDxjdXJyZW50UGVyaW9kRW5kRGF0ZVw+</entry>
-        <entry encoding="base64">XDxmb3JtYXR0ZWRDdXJyZW50UGVyaW9kRW5kRGF0ZVw+</entry>
+        <entry encoding="base64">XDxQYXltZW50XD4=</entry>
+        <entry>gateway</entry>
+        <entry>one-off</entry>
+        <entry>every month</entry>
+        <entry>recurr</entry>
+        <entry encoding="base64">XDxzZXRSZWN1cnJpbmdEb25hdGlvblw+</entry>
+        <entry encoding="base64">XDxoYW5kbGVTZXRSZWN1cnJpbmdEb25hdGlvblw+</entry>
+        <entry encoding="base64">XDx2YWxpZGF0ZVw+</entry>
+        <entry>carl</entry>
+        <entry encoding="base64">XDxkZXZGaWxsXD4=</entry>
+        <entry>donate now</entry>
+        <entry encoding="base64">XDxic1N0eWxlXD4=</entry>
+        <entry encoding="base64">XDxCdXR0b25cPg==</entry>
+        <entry encoding="base64">XDxnZXRDdXJyZW50UGF5bWVudFJlY2lwaWVudFw+</entry>
+        <entry>TODO</entry>
+        <entry encoding="base64">XDxwYXltZW50U3RhdHVzXD4=</entry>
+        <entry encoding="base64">XDxQYXltZW50Rm9ybVdyYXBwZXJcPg==</entry>
+        <entry encoding="base64">XDxnZXRcPg==</entry>
+        <entry>console.log</entry>
+        <entry encoding="base64">XDxjYW5jZWxTdHJpcGVTdWJzY3JpcHRpb25cPg==</entry>
       </history-search>
       <history-cmd>
-        <entry>s/, /,\n/g</entry>
-        <entry encoding="base64">JzwsJz5zL1xuIC9n</entry>
-        <entry encoding="base64">JzwsJz5zL1xuLyAvZw==</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gR290b0ZpbGU=</entry>
         <entry>action SplitHorizontally</entry>
         <entry>action SplitVertically</entry>
@@ -646,16 +1063,19 @@
         <entry encoding="base64">JzwsJz5hY3Rpb24gTmV4dFNwbGl0dGVy</entry>
         <entry>source ~/.ideavimrc</entry>
         <entry>action RenameFile</entry>
-        <entry>action NewFile</entry>
         <entry>action Refactorings.QuickListPopupAction</entry>
         <entry>action Back</entry>
-        <entry>action GotoDeclaration</entry>
-        <entry>action CommentByLineComment</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gRmluZEluUGF0aA==</entry>
-        <entry>action FindInPath</entry>
+        <entry>s/, /,\n/g</entry>
+        <entry>.,.+1action GotoFile</entry>
+        <entry>action NewFile</entry>
+        <entry>action ReopenClosedTab</entry>
+        <entry>action CommentByLineComment</entry>
+        <entry>action GotoDeclaration</entry>
         <entry>action GotoFile</entry>
         <entry>action NextSplitter</entry>
         <entry>w!</entry>
+        <entry>action FindInPath</entry>
       </history-cmd>
       <history-expr />
       <history-input />
