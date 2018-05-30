@@ -152,9 +152,6 @@
         <mark key="." line="0" column="6" />
         <mark key="^" line="0" column="6" />
       </file>
-      <file name="$USER_HOME$/Documents/cea/Lesswrong2/packages/lesswrong/components/form-components/MultiSelectButtons.jsx" timestamp="1527012026090">
-        <mark key="^" line="47" column="19" />
-      </file>
       <file name="$USER_HOME$/Documents/cea/parfit/migrations/20180319125601_more_payment_reference_down.sql" timestamp="1524533195182">
         <mark key="'" line="12" column="0" />
         <mark key="[" line="12" column="0" />
@@ -180,6 +177,13 @@
         <mark key="]" line="5" column="16" />
         <mark key="." line="5" column="16" />
         <mark key="^" line="5" column="16" />
+      </file>
+      <file name="$USER_HOME$/Documents/cea/parfit/migrations/20180530124914_succeeded_status_up.sql" timestamp="1527713109207">
+        <mark key="'" line="24" column="10" />
+        <mark key="[" line="36" column="23" />
+        <mark key="]" line="36" column="25" />
+        <mark key="." line="36" column="25" />
+        <mark key="^" line="36" column="25" />
       </file>
       <file name="$USER_HOME$/Documents/cea/parfit/seeds/data/payments.xero_account.sql" timestamp="1526688892176">
         <mark key="[" line="31" column="31" />
@@ -329,10 +333,10 @@
         <mark key="." line="38" column="18" />
         <mark key="^" line="38" column="18" />
       </file>
-      <file name="$USER_HOME$/Documents/cea/centreforeffectivealtruism-org/src/styles/partials/layout/_header.scss" timestamp="1527698131532">
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="0" />
-        <mark key="." line="13" column="0" />
+      <file name="$USER_HOME$/Documents/cea/centreforeffectivealtruism-org/src/styles/partials/layout/_header.scss" timestamp="1527711330274">
+        <mark key="[" line="9" column="4" />
+        <mark key="]" line="9" column="22" />
+        <mark key="." line="9" column="4" />
         <mark key="^" line="9" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/cea/parfit/seeds/development/06-pledge.js" timestamp="1519846238459">
@@ -944,10 +948,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="491" column="23" filename="$USER_HOME$/Documents/cea/aletheia/app/components/PaymentForm/index.jsx" />
-      <jump line="499" column="34" filename="$USER_HOME$/Documents/cea/aletheia/app/components/PaymentForm/index.jsx" />
-      <jump line="490" column="0" filename="$USER_HOME$/Documents/cea/aletheia/app/components/PaymentForm/index.jsx" />
-      <jump line="134" column="0" filename="$USER_HOME$/Documents/cea/aletheia/app/components/PaymentForm/index.jsx" />
       <jump line="139" column="0" filename="$USER_HOME$/Documents/cea/aletheia/app/components/PaymentForm/index.jsx" />
       <jump line="143" column="5" filename="$USER_HOME$/Documents/cea/aletheia/app/components/PaymentForm/index.jsx" />
       <jump line="270" column="0" filename="$USER_HOME$/Documents/cea/aletheia/app/components/PaymentForm/index.jsx" />
@@ -1044,6 +1044,10 @@
       <jump line="12" column="14" filename="$USER_HOME$/Documents/cea/Lesswrong2/packages/lesswrong/lib/collections/posts/views.js" />
       <jump line="419" column="0" filename="$USER_HOME$/Documents/cea/Lesswrong2/packages/lesswrong/lib/collections/posts/views.js" />
       <jump line="335" column="4" filename="$USER_HOME$/Documents/cea/Lesswrong2/packages/lesswrong/lib/collections/posts/views.js" />
+      <jump line="27" column="69" filename="$USER_HOME$/Documents/cea/parfit/migrations/20180530124914_succeeded_status_up.sql" />
+      <jump line="16" column="14" filename="$USER_HOME$/Documents/cea/parfit/migrations/20180530124914_succeeded_status_up.sql" />
+      <jump line="10" column="43" filename="$USER_HOME$/Documents/cea/parfit/migrations/20180530124914_succeeded_status_up.sql" />
+      <jump line="23" column="10" filename="$USER_HOME$/Documents/cea/parfit/migrations/20180530124914_succeeded_status_up.sql" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1109,13 +1113,13 @@
         <text>()</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">CQ==</text>
+        <text>NEW.status = 'succeeded'</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxnZXREZWZhdWx0TXV0YXRpb25zXD4=</text>
       </register>
-      <register name="0" type="4">
-        <text>getDefaultMutations</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIF9udWxsX2NvZGVzIEJPT0w7Cg==</text>
       </register>
       <register name="p" type="4">
         <keys>
@@ -1128,37 +1132,37 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CW1pbi1oZWlnaHQ6IDE4MHB4Owo=</text>
+        <text encoding="base64">ICAgIC0tIGlmIG9uZSBpcyBudWxsIGFuZCB0aGUgb3RoZXIgaXNuJ3Qgc29tZXRoaW5nIHdlaXJkIGlzIGdvaW5nIG9uLi4uCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJLmNvbC14cy04LmNvbC14cy1vZmZzZXQtMi5jb2wtc20tMy5jb2wtc20tb2Zmc2V0LTQK</text>
+        <text encoding="base64">ICAgIC0tIFRPRE8gb2xkICE9IHN1Ywo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAnY3VyYXRlZCc6IHsKICAgIGxhYmVsOiAiQ3VyYXRlZCBQb3N0cyIsCiAgICBkZXNjcmlwdGlvbjogIkN1cmF0ZWQgLSBSZWNlbnQsIGhpZ2ggcXVhbGl0eSBwb3N0cyBzZWxlY3RlZCBcbmJ5IHRoZSBMZXNzV3JvbmcgbW9kZXJhdGlvbiB0ZWFtLiIsCiAgICBsZWFybk1vcmVMaW5rOiAiL3Bvc3RzL3RLVGNybktuMllTZHhreEtHL2Zyb250cGFnZS1wb3N0aW5nLWFuZC1jb21tZW50aW5nLWd1aWRlbGluZXMiLAogICAgY2F0ZWdvcnlJY29uOiJzdGFyIiwKICAgIHJzc1ZpZXc6ICJjdXJhdGVkLXJzcyIsCiAgICByc3M6dHJ1ZQogIH0sCg==</text>
+        <text encoding="base64">ICAgIF9uZXdfc3VjY2VzcyBCT09MOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxDb21wb25lbnRzLlNlY3Rpb24gdGl0bGU9IkN1cmF0ZWQgQ29udGVudCI+CiAgICAgICAgICAgIDxDb21wb25lbnRzLlBvc3RzTGlzdCB0ZXJtcz17Y3VyYXRlZFBvc3RzVGVybXN9IHNob3dIZWFkZXI9e2ZhbHNlfSBzaG93TG9hZE1vcmU9e2ZhbHNlfS8+CiAgICAgICAgICA8L0NvbXBvbmVudHMuU2VjdGlvbj4K</text>
+        <text encoding="base64">ICAgIG1ldGFkYXRhLAo=</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIGRlZmF1bHQ6CiAgICAgIHJldHVybiAiUmVjZW50IFBvc3RzIjsK</text>
+      <register name="5" type="4">
+        <text encoding="base64">IFNFTEVDVCAnU0VMRUNUICcgfHwgYXJyYXlfdG9fc3RyaW5nKEFSUkFZKFNFTEVDVCAnbycgfHwgJy4nIHx8IGMuY29sdW1uX25hbWUKICAgRlJPTSBpbmZvcm1hdGlvbl9zY2hlbWEuY29sdW1ucyBBcyBjCiAgIFdIRVJFIHRhYmxlX25hbWUgPSAnb2ZmaWNlcGFyaycKICAgQU5EICBjLmNvbHVtbl9uYW1lIE5PVCBJTignb2ZmaWNlcGFya2lkJywgJ2NvbnRyYWN0b3InKQogICAgKSwgJywnKSB8fCAnIEZST00gb2ZmaWNlcGFyayBBcyBvJyk7CgpTRUxFQ1QgJ1NFTEVDVCAnIHx8IGFycmF5X3RvX3N0cmluZyhBUlJBWShTRUxFQ1QgJ28nIHx8ICcuJyB8fCBjLmNvbHVtbl9uYW1lCiAgICAgICAgRlJPTSBpbmZvcm1hdGlvbl9zY2hlbWEuY29sdW1ucyBBcyBjCiAgICAgICAgICAgIFdIRVJFIHRhYmxlX25hbWUgPSAncGF5bWVudHMucGF5bWVudCcKICAgICAgICAgICAgQU5EICBjLmNvbHVtbl9uYW1lICE9ICdtZXRhZGF0YScKICAgICksICcsJykgfHwgJyBGUk9NIHBheW1lbnRzLnBheW1lbnQgQXMgbycgQXMgc3Fsc3RtdA==</text>
       </register>
       <register name="u" type="4">
         <text>uu</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIGRlZmF1bHQ6CiAgICAgIHJldHVybiAiUmVjZW50IFBvc3RzIjsK</text>
+      <register name="6" type="4">
+        <text>()</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIGNhc2UgImN1cmF0ZWQiOgogICAgICBpZiAoY3VycmVudFVzZXIpIHsKICAgICAgICByZWNlbnRQb3N0c1RpdGxlID0gIk1vcmUgQ3VyYXRlZCI7IGJyZWFrOwogICAgICB9IGVsc2UgewogICAgICAgIHJlY2VudFBvc3RzVGl0bGUgPSAiQ3VyYXRlZCBQb3N0cyI7IGJyZWFrOwogICAgICB9Cg==</text>
+      <register name="7" type="4">
+        <text>'metadata'</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBjb25zdCBjdXJhdGVkUG9zdHNUZXJtcyA9IHt2aWV3OiJjdXJhdGVkIiwgbGltaXQ6M30K</text>
+        <text encoding="base64">CW1pbi1oZWlnaHQ6IDE4MHB4Owo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBjb25zdCBjdXJhdGVkUG9zdHNUZXJtcyA9IHt2aWV3OiJjdXJhdGVkIiwgbGltaXQ6M30K</text>
+        <text encoding="base64">CQkJLmNvbC14cy04LmNvbC14cy1vZmZzZXQtMi5jb2wtc20tMy5jb2wtc20tb2Zmc2V0LTQK</text>
       </register>
       <register name=":" type="4">
-        <text>action GotoFile</text>
+        <text>w!</text>
       </register>
     </registers>
     <search>
@@ -1211,9 +1215,9 @@
         <entry>action Refactorings.QuickListPopupAction</entry>
         <entry>action GotoDeclaration</entry>
         <entry>action FindInPath</entry>
-        <entry>w!</entry>
         <entry>action NextSplitter</entry>
         <entry>action GotoFile</entry>
+        <entry>w!</entry>
       </history-cmd>
       <history-expr />
       <history-input />
