@@ -342,6 +342,12 @@
         <mark key="^" line="87" column="11" />
         <mark key="." line="87" column="11" />
       </file>
+      <file name="$USER_HOME$/.tmux.conf" timestamp="1528135632601">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="1" />
+        <mark key="." line="2" column="1" />
+        <mark key="^" line="2" column="1" />
+      </file>
       <file name="$USER_HOME$/Documents/cea/parfit/services/emails/templates/layouts/payments/styles.scss" timestamp="1524270154718">
         <mark key="[" line="9" column="0" />
         <mark key="]" line="9" column="0" />
@@ -703,6 +709,13 @@
         <mark key="^" line="1" column="2" />
         <mark key="." line="1" column="2" />
       </file>
+      <file name="$USER_HOME$/Downloads/tmux.conf" timestamp="1528135865734">
+        <mark key="'" line="56" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="53" column="20" />
+        <mark key="^" line="55" column="0" />
+        <mark key="." line="55" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/cea/aletheia/app/models/People/index.js" timestamp="1527895354057">
         <mark key="'" line="66" column="33" />
         <mark key="[" line="90" column="11" />
@@ -1038,7 +1051,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="137" column="23" filename="$USER_HOME$/Documents/cea/Lesswrong2/packages/lesswrong/components/posts/PostsViews.jsx" />
       <jump line="96" column="2" filename="$USER_HOME$/Documents/cea/Lesswrong2/packages/lesswrong/components/posts/PostsViews.jsx" />
       <jump line="35" column="8" filename="$USER_HOME$/Documents/cea/Lesswrong2/packages/vulcan-lib/lib/modules/collections.js" />
       <jump line="36" column="17" filename="$USER_HOME$/Documents/cea/Lesswrong2/packages/vulcan-lib/lib/modules/collections.js" />
@@ -1138,6 +1150,7 @@
       <jump line="154" column="0" filename="$USER_HOME$/Documents/cea/aletheia/app/containers/DonationsNew/index.jsx" />
       <jump line="159" column="0" filename="$USER_HOME$/Documents/cea/aletheia/app/containers/DonationsNew/index.jsx" />
       <jump line="175" column="0" filename="$USER_HOME$/Documents/cea/aletheia/app/containers/DonationsNew/index.jsx" />
+      <jump line="56" column="0" filename="$USER_HOME$/Downloads/tmux.conf" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1209,7 +1222,7 @@
         <text>console</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGlmIChsb2FkaW5nKSByZXR1cm4gPExvYWRpbmdTcGlubmVyLz4K</text>
+        <text encoding="base64">IyBGaXhlcyBwYnBhc3RlIGFuZCBzdWJsIGlzc3VlcwojIEZyb20gaHR0cHM6Ly9naXRodWIuY29tL0NocmlzSm9obnNlbi90bXV4LU1hY09TWC1wYXN0ZWJvYXJkCnNldC1vcHRpb24gLWcgZGVmYXVsdC1jb21tYW5kICJyZWF0dGFjaC10by11c2VyLW5hbWVzcGFjZSAtbCAvYmluL2Jhc2giCgojIE51bWJlciB3aW5kb3dzIGZyb20gMSwgbm90IDAKc2V0IC1nIGJhc2UtaW5kZXggMQpzZXR3IC1nIHBhbmUtYmFzZS1pbmRleCAxCgojIEZyb20gaHR0cHM6Ly9naXRodWIuY29tL3JpY2Vpc3NhL2RvdGZpbGVzL2Jsb2IvbWFzdGVyLy50bXV4LmNvbmYKc2V0LW9wdGlvbiAtZyBkZWZhdWx0LXRlcm1pbmFsICJzY3JlZW4tMjU2Y29sb3IiCnNldC1vcHRpb24gLWcgZGVmYXVsdC1zaGVsbCAvYmluL2Jhc2gKc2V0LW9wdGlvbiAtZyBzZXQtdGl0bGVzIG9uCnNldC1vcHRpb24gLWcgc2V0LXRpdGxlcy1zdHJpbmcgIiNXIgoKIyMjIwojIyBGcm9tIGh0dHBzOi8vZ2lzdC5naXRodWIuY29tL3NwaWN5Y29kZS8xMjI5NjEyCgpzZXR3IC1nIG1vZGUta2V5cyB2aQoKIyBzZXR1cCAndicgdG8gYmVnaW4gc2VsZWN0aW9uIGxpa2UgaW4gVmltCmJpbmQta2V5IC1UIGNvcHktbW9kZS12aSB2IHNlbmQta2V5cyAtWCBiZWdpbi1zZWxlY3Rpb24KYmluZC1rZXkgLVQgY29weS1tb2RlLXZpIHkgc2VuZC1rZXlzIC1YIGNvcHktcGlwZSAicmVhdHRhY2gtdG8tdXNlci1uYW1lc3BhY2UgcGJjb3B5IgpiaW5kLWtleSAtVCBjb3B5LW1vZGUtdmkgJ0VudGVyJyBzZW5kIC1YIGNvcHktcGlwZS1hbmQtY2FuY2VsICJyZWF0dGFjaC10by11c2VyLW5hbWVzcGFjZSBwYmNvcHkiCgojIFBhbmUgcmVzaXppbmcKYmluZC1rZXkgSiByZXNpemUtcGFuZSAtRCA1CmJpbmQta2V5IEsgcmVzaXplLXBhbmUgLVUgNQpiaW5kLWtleSBIIHJlc2l6ZS1wYW5lIC1MIDUKYmluZC1rZXkgTCByZXNpemUtcGFuZSAtUiA1CgojIFZpbSBzdHlsZSBwYW5lIHNlbGVjdGlvbgpiaW5kIGggc2VsZWN0LXBhbmUgLUwKYmluZCBqIHNlbGVjdC1wYW5lIC1ECmJpbmQgayBzZWxlY3QtcGFuZSAtVQpiaW5kIGwgc2VsZWN0LXBhbmUgLVIKCiMgVXNlIEFsdC12aW0ga2V5cyB3aXRob3V0IHByZWZpeCBrZXkgdG8gc3dpdGNoIHBhbmVzCmJpbmQgLW4gTS1oIHNlbGVjdC1wYW5lIC1MCmJpbmQgLW4gTS1qIHNlbGVjdC1wYW5lIC1ECmJpbmQgLW4gTS1rIHNlbGVjdC1wYW5lIC1VCmJpbmQgLW4gTS1sIHNlbGVjdC1wYW5lIC1SCgojIFVzZSBBbHQtYXJyb3cga2V5cyB3aXRob3V0IHByZWZpeCBrZXkgdG8gc3dpdGNoIHBhbmVzCmJpbmQgLW4gTS1MZWZ0IHNlbGVjdC1wYW5lIC1MCmJpbmQgLW4gTS1SaWdodCBzZWxlY3QtcGFuZSAtUgpiaW5kIC1uIE0tVXAgc2VsZWN0LXBhbmUgLVUKYmluZCAtbiBNLURvd24gc2VsZWN0LXBhbmUgLUQKCiMgU2hpZnQgYXJyb3cgdG8gc3dpdGNoIHdpbmRvd3MKYmluZCAtbiBTLUxlZnQgIHByZXZpb3VzLXdpbmRvdwpiaW5kIC1uIFMtUmlnaHQgbmV4dC13aW5kb3cKCiMgTm8gZGVsYXkgZm9yIGVzY2FwZSBrZXkgcHJlc3MKc2V0IC1zZyBlc2NhcGUtdGltZSAwCg==</text>
       </register>
       <register name="p" type="4">
         <keys>
@@ -1222,16 +1235,16 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">c2V0dyAtZyBtb2RlLWtleXMgdmkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIC8vIGFkZCBvcHRpbWl6ZWx5IGV4cGVyaW1lbnRzIHRvIHN0YXRlCg==</text>
+        <text encoding="base64">c2V0LXdpbmRvdy1vcHRpb24gLWcgbW9kZS1rZXlzIHZpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIC8vIGFkZCBvcHRpbWl6ZWx5IGV4cGVyaW1lbnRzIHRvIHN0YXRlCg==</text>
+        <text encoding="base64">c2V0LXdpbmRvdy1vcHRpb24gLWcgbW9kZS1rZXlzIHZpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIC8vIGFkZCBvcHRpbWl6ZWx5IGV4cGVyaW1lbnRzIHRvIHN0YXRlCg==</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">ICAgIC8vIGFkZCBvcHRpbWl6ZWx5IGV4cGVyaW1lbnRzIHRvIHN0YXRlCg==</text>
@@ -1240,16 +1253,16 @@
         <text>uu</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnc2V0dGluZ0FsbG9jYXRpb24gZnJvbSBzYXZlZCcpCg==</text>
+        <text encoding="base64">ICAgIC8vIGFkZCBvcHRpbWl6ZWx5IGV4cGVyaW1lbnRzIHRvIHN0YXRlCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdzZXR0aW5nIGFsbG9jYXRpb24gdG8nLCBBbGxvY2F0aW9uKQo=</text>
+        <text encoding="base64">ICAgIC8vIGFkZCBvcHRpbWl6ZWx5IGV4cGVyaW1lbnRzIHRvIHN0YXRlCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ2NoZWNrQWxsb2NhdGlvbiBtb3ZpbmcnKQo=</text>
+        <text encoding="base64">ICAgIC8vIGFkZCBvcHRpbWl6ZWx5IGV4cGVyaW1lbnRzIHRvIHN0YXRlCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIC8vIGRvbid0IGxvYWQgdGhlIGFsbG9jYXRpb24gcGFnZSBpZiB0aGVyZSBhcmVuJ3QgYW55IGFjdGl2ZSBvcmdzCg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnc2V0dGluZ0FsbG9jYXRpb24gZnJvbSBzYXZlZCcpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w!</text>
@@ -1303,10 +1316,10 @@
         <entry>.,.+2action NextSplitter</entry>
         <entry>action SplitVertically</entry>
         <entry>action GotoDeclaration</entry>
-        <entry>action CommentByLineComment</entry>
-        <entry>action NextSplitter</entry>
         <entry>action FindInPath</entry>
         <entry>action GotoFile</entry>
+        <entry>action NextSplitter</entry>
+        <entry>action CommentByLineComment</entry>
         <entry>w!</entry>
       </history-cmd>
       <history-expr />
