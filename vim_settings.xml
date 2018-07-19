@@ -3,6 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Documents/cea/Forum/Forum/packages/lesswrong/components/users/UsersEditForm.jsx" timestamp="1531769526071" />
       <file name="$USER_HOME$/Documents/cea/aletheia/app/models/People/queries/getPersonAllData.gql" timestamp="1520989418036">
         <mark key="[" line="66" column="17" />
         <mark key="]" line="67" column="16" />
@@ -14,6 +15,12 @@
         <mark key="]" line="68" column="3" />
         <mark key="^" line="68" column="3" />
         <mark key="." line="68" column="3" />
+      </file>
+      <file name="$USER_HOME$/Documents/cea/Forum/recruitment/.env" timestamp="1531960344665">
+        <mark key="'" line="3" column="49" />
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/cea/Forum/Vulcan-Starter/packages/example-forum/lib/modules/index.js" timestamp="1531355977016">
         <mark key="[" line="0" column="20" />
@@ -51,28 +58,14 @@
         <mark key="." line="3" column="37" />
         <mark key="^" line="3" column="37" />
       </file>
-      <file name="$USER_HOME$/Documents/cea/predictive-altruism/packages/predictive-altruism/lib/components/movies/MoviesApp.jsx" timestamp="1531607626298">
-        <mark key="[" line="13" column="42" />
-        <mark key="]" line="13" column="52" />
-        <mark key="." line="13" column="42" />
-      </file>
       <file name="$USER_HOME$/Documents/cea/parfit/migrations/20180305104317_admin_payment_status_down.sql" timestamp="1521488213487">
         <mark key="[" line="0" column="4" />
         <mark key="]" line="0" column="6" />
         <mark key="^" line="0" column="6" />
         <mark key="." line="0" column="6" />
       </file>
-      <file name="$USER_HOME$/Documents/cea/Forum/Forum/packages/lesswrong/components/users/UsersAccountMenu.jsx" timestamp="1531336158529">
-        <mark key="'" line="44" column="22" />
-        <mark key="[" line="36" column="58" />
-        <mark key="]" line="36" column="58" />
-        <mark key="^" line="36" column="61" />
-        <mark key="." line="36" column="58" />
-      </file>
-      <file name="$USER_HOME$/Documents/cea/predictive-altruism/packages/predictive-altruism/lib/server/seed.js" timestamp="1531616938340">
-        <mark key="[" line="37" column="0" />
-        <mark key="]" line="37" column="0" />
-        <mark key="." line="37" column="0" />
+      <file name="$USER_HOME$/Documents/cea/parfit/migrations/20170901171427_refactor_person_insertion_up.sql" timestamp="1531787421707">
+        <mark key="'" line="141" column="29" />
       </file>
       <file name="$USER_HOME$/Documents/cea/parfit/services/emails/templates/layouts/payments/partials/bankDetails.pug" timestamp="1524263439736">
         <mark key="[" line="37" column="47" />
@@ -103,6 +96,12 @@
         <mark key="]" line="13" column="18" />
         <mark key="." line="13" column="18" />
         <mark key="^" line="13" column="18" />
+      </file>
+      <file name="$USER_HOME$/Documents/cea/Forum/recruitment/package.json" timestamp="1531959366596">
+        <mark key="[" line="18" column="3" />
+        <mark key="]" line="20" column="16" />
+        <mark key="^" line="20" column="16" />
+        <mark key="." line="20" column="16" />
       </file>
       <file name="$USER_HOME$/Documents/cea/Forum/Forum/packages/lesswrong/lib/collections/posts/permissions.js" timestamp="1531332215309">
         <mark key="[" line="20" column="7" />
@@ -224,6 +223,12 @@
         <mark key="." line="0" column="23" />
         <mark key="^" line="0" column="23" />
       </file>
+      <file name="$USER_HOME$/Documents/cea/aletheia/app/containers/Dashboard/DashboardPledge/PledgeSummary.jsx" timestamp="1531776865333">
+        <mark key="[" line="205" column="34" />
+        <mark key="]" line="205" column="44" />
+        <mark key="^" line="205" column="44" />
+        <mark key="." line="205" column="44" />
+      </file>
       <file name="$USER_HOME$/Documents/cea/parfit/migrations/20170315115656_xero_up.sql" timestamp="1526678932025">
         <mark key="[" line="73" column="78" />
         <mark key="]" line="73" column="87" />
@@ -236,12 +241,14 @@
         <mark key="^" line="90" column="0" />
         <mark key="." line="92" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/cea/Forum/Forum/packages/lesswrong/lib/scripts/invites.js" timestamp="1531523702201">
-        <mark key="'" line="16" column="61" />
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="28" />
-        <mark key="^" line="16" column="60" />
-        <mark key="." line="16" column="11" />
+      <file name="$USER_HOME$/Documents/cea/Forum/Forum/packages/lesswrong/lib/scripts/invites.js" timestamp="1531951242014">
+        <mark key="[" line="28" column="38" />
+        <mark key="]" line="28" column="59" />
+        <mark key="." line="28" column="59" />
+        <mark key="^" line="28" column="59" />
+      </file>
+      <file name="$USER_HOME$/Documents/cea/Forum/Forum/sample_settings.json" timestamp="1531962306344">
+        <mark key="'" line="48" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/cea/aletheia/app/models/Pledges/selectors.js" timestamp="1519862610679">
         <mark key="[" line="18" column="0" />
@@ -291,6 +298,10 @@
         <mark key="." line="9" column="4" />
         <mark key="^" line="9" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/cea/Forum/Vulcan/packages/vulcan-accounts/imports/ui/components/LoginFormInner.jsx" timestamp="1531950762383">
+        <mark key="'" line="878" column="8" />
+        <mark key="i" line="3" column="13" />
+      </file>
       <file name="$USER_HOME$/Documents/cea/predictive-altruism/packages/predictive-altruism/lib/modules/collection.js" timestamp="1531608281203">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="18" />
@@ -309,6 +320,17 @@
         <mark key="^" line="20" column="39" />
         <mark key="." line="20" column="39" />
       </file>
+      <file name="$USER_HOME$/Documents/cea/parfit/package.json" timestamp="1532025478025">
+        <mark key="[" line="42" column="5" />
+        <mark key="]" line="42" column="30" />
+      </file>
+      <file name="$USER_HOME$/Documents/cea/parfit/services/payments/workers/gift-aid-sheets/index.js" timestamp="1531868475338">
+        <mark key="'" line="24" column="0" />
+        <mark key="[" line="99" column="52" />
+        <mark key="]" line="99" column="52" />
+        <mark key="^" line="99" column="52" />
+        <mark key="." line="99" column="52" />
+      </file>
       <file name="$USER_HOME$/Documents/cea/predictive-altruism/packages/predictive-altruism/lib/modules/fragments.js" timestamp="1531608979928">
         <mark key="[" line="3" column="34" />
         <mark key="]" line="3" column="41" />
@@ -321,13 +343,6 @@
         <mark key="^" line="2" column="24" />
         <mark key="." line="2" column="24" />
       </file>
-      <file name="$USER_HOME$/Documents/cea/predictive-altruism/packages/predictive-altruism/lib/modules/collections/predictions/index.js" timestamp="1531611960308">
-        <mark key="'" line="13" column="10" />
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="0" />
-        <mark key="." line="11" column="10" />
-        <mark key="^" line="9" column="14" />
-      </file>
       <file name="$USER_HOME$/Documents/personal-site/src/exampleComponent.test.tsx" timestamp="1521868780300">
         <mark key="[" line="2" column="50" />
         <mark key="]" line="3" column="0" />
@@ -339,6 +354,13 @@
         <mark key="]" line="14" column="23" />
         <mark key="." line="14" column="23" />
         <mark key="^" line="14" column="23" />
+      </file>
+      <file name="$USER_HOME$/Documents/cea/parfit/services/payments/gateways/xero.js" timestamp="1532029638291">
+        <mark key="'" line="154" column="6" />
+        <mark key="[" line="155" column="0" />
+        <mark key="]" line="155" column="0" />
+        <mark key="." line="155" column="0" />
+        <mark key="^" line="162" column="39" />
       </file>
       <file name="$USER_HOME$/Documents/cea/Forum/Forum/packages/lesswrong/components/sunshineDashboard/AdminHome.jsx" timestamp="1531356914778">
         <mark key="[" line="30" column="45" />
@@ -388,16 +410,22 @@
         <mark key="." line="10" column="14" />
         <mark key="^" line="10" column="14" />
       </file>
-      <file name="$USER_HOME$/Documents/cea/predictive-altruism/packages/predictive-altruism/lib/components/other/Nav.jsx" timestamp="1531617025675">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="." line="8" column="0" />
+      <file name="$USER_HOME$/Documents/cea/Forum/recruitment/stageUpdated.js" timestamp="1532040905693">
+        <mark key="'" line="54" column="20" />
+        <mark key="[" line="86" column="5" />
+        <mark key="]" line="86" column="10" />
+        <mark key="^" line="86" column="10" />
+        <mark key="." line="86" column="10" />
       </file>
       <file name="$USER_HOME$/Documents/cea/aletheia/app/containers/Dashboard/components/DonationReportEditor.jsx" timestamp="1519869396492">
         <mark key="[" line="4" column="13" />
         <mark key="]" line="4" column="28" />
         <mark key="." line="4" column="28" />
         <mark key="^" line="4" column="28" />
+      </file>
+      <file name="$USER_HOME$/Documents/cea/parfit/migrations/20180502113445_giftaid_reporting.js" timestamp="1530039692985">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="8" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/cea/aletheia/.gitignore" timestamp="1530127560237">
         <mark key="[" line="12" column="5" />
@@ -417,6 +445,16 @@
         <mark key="." line="0" column="1" />
         <mark key="^" line="0" column="1" />
       </file>
+      <file name="$USER_HOME$/Documents/cea/parfit/migrations/20180502113445_giftaid_reporting_down.sql" timestamp="1530146257896">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="66" />
+      </file>
+      <file name="$USER_HOME$/Documents/cea/parfit/.env" timestamp="1532026054619">
+        <mark key="[" line="26" column="56" />
+        <mark key="]" line="26" column="56" />
+        <mark key="^" line="10" column="4" />
+        <mark key="." line="26" column="56" />
+      </file>
       <file name="$USER_HOME$/Documents/cea/aletheia/app/containers/Admin/index.jsx" timestamp="1527895290521">
         <mark key="[" line="39" column="63" />
         <mark key="]" line="39" column="63" />
@@ -424,11 +462,7 @@
         <mark key="^" line="39" column="76" />
       </file>
       <file name="$USER_HOME$/Documents/cea/parfit/seeds/data/organizations.organization.sql" timestamp="1530834460223">
-        <mark key="'" line="121" column="0" />
-        <mark key="[" line="75" column="1" />
-        <mark key="]" line="75" column="1" />
-        <mark key="." line="75" column="1" />
-        <mark key="^" line="75" column="2" />
+        <mark key="'" line="7" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/cea/parfit/debugging-on-prod.md" timestamp="1528482019883">
         <mark key="[" line="0" column="0" />
@@ -436,7 +470,12 @@
         <mark key="^" line="1" column="33" />
         <mark key="." line="1" column="33" />
       </file>
-      <file name="$USER_HOME$/Documents/cea/Forum/Forum/packages/lesswrong/components/users/UsersAccount.jsx" timestamp="1531613205507" />
+      <file name="$USER_HOME$/Documents/cea/Forum/Forum/packages/lesswrong/components/users/UsersAccount.jsx" timestamp="1531761137397">
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="23" column="65" />
+        <mark key="^" line="23" column="65" />
+        <mark key="." line="23" column="65" />
+      </file>
       <file name="$USER_HOME$/Documents/hindsight/package.json" timestamp="1523228220183">
         <mark key="[" line="19" column="48" />
         <mark key="]" line="19" column="50" />
@@ -468,13 +507,6 @@
         <mark key="." line="670" column="14" />
         <mark key="^" line="670" column="13" />
       </file>
-      <file name="$USER_HOME$/Documents/cea/Forum/Forum/packages/lesswrong/components/common/Header.jsx" timestamp="1531336087729">
-        <mark key="'" line="43" column="27" />
-        <mark key="[" line="165" column="28" />
-        <mark key="]" line="165" column="28" />
-        <mark key="." line="165" column="28" />
-        <mark key="^" line="165" column="28" />
-      </file>
       <file name="$USER_HOME$/Documents/hindsight/ts_src/hello.ts" timestamp="1523226374524">
         <mark key="[" line="0" column="19" />
         <mark key="]" line="0" column="25" />
@@ -500,6 +532,12 @@
         <mark key="." line="31" column="6" />
         <mark key="^" line="31" column="6" />
       </file>
+      <file name="$USER_HOME$/Documents/cea/aletheia/app/components/PaymentForm/index.jsx" timestamp="1531769671617">
+        <mark key="[" line="145" column="16" />
+        <mark key="]" line="145" column="17" />
+        <mark key="^" line="146" column="13" />
+        <mark key="." line="145" column="17" />
+      </file>
       <file name="$USER_HOME$/Documents/cea/parfit/services/payments/index.js" timestamp="1523479208981">
         <mark key="[" line="4" column="1" />
         <mark key="]" line="4" column="0" />
@@ -518,29 +556,27 @@
         <mark key="^" line="33" column="66" />
         <mark key="." line="23" column="8" />
       </file>
+      <file name="$USER_HOME$/Documents/cea/Forum/Vulcan/packages/vulcan-accounts/imports/ui/components/PasswordOrService.jsx" timestamp="1531352134314">
+        <mark key="'" line="25" column="2" />
+      </file>
       <file name="$USER_HOME$/Documents/cea/predictive-altruism/packages/predictive-altruism/lib/components/movies/MoviesNew.jsx" timestamp="1531611449736">
         <mark key="[" line="11" column="24" />
         <mark key="]" line="11" column="38" />
         <mark key="." line="11" column="38" />
         <mark key="^" line="11" column="38" />
       </file>
-      <file name="$USER_HOME$/Documents/cea/parfit/migrations/20180627153659_giftaid_report_fix_up.sql" timestamp="1530831084173">
-        <mark key="[" line="1" column="76" />
-        <mark key="]" line="2" column="2" />
-        <mark key="." line="2" column="2" />
-        <mark key="^" line="2" column="2" />
+      <file name="$USER_HOME$/Documents/cea/parfit/migrations/20180627153659_giftaid_report_fix_up.sql" timestamp="1532029264780">
+        <mark key="'" line="50" column="40" />
+        <mark key="[" line="18" column="21" />
+        <mark key="]" line="18" column="21" />
+        <mark key="." line="18" column="21" />
+        <mark key="^" line="18" column="21" />
       </file>
       <file name="$USER_HOME$/Documents/cea/Forum/Forum/packages/lesswrong/server.js" timestamp="1531521164770">
         <mark key="[" line="17" column="22" />
         <mark key="]" line="17" column="36" />
         <mark key="^" line="17" column="36" />
         <mark key="." line="17" column="36" />
-      </file>
-      <file name="$USER_HOME$/Documents/cea/predictive-altruism/packages/predictive-altruism/lib/modules/collections/predictions/schema.js" timestamp="1531612178072">
-        <mark key="[" line="42" column="30" />
-        <mark key="]" line="43" column="20" />
-        <mark key="." line="43" column="20" />
-        <mark key="^" line="43" column="20" />
       </file>
       <file name="$USER_HOME$/Documents/cea/Forum/Vulcan-Starter/packages/example-forum/lib/components/posts/PostsSingle.jsx" timestamp="1531614507198" />
       <file name="$USER_HOME$/Documents/cea/aletheia/app/containers/LoginRegister/LoginRegisterForm/modes/PasswordInstructions.jsx" timestamp="1524252911044">
@@ -549,24 +585,23 @@
         <mark key="." line="17" column="112" />
         <mark key="^" line="17" column="115" />
       </file>
-      <file name="$USER_HOME$/Documents/cea/parfit/migrations/20180626124538_org_reports_up.sql" timestamp="1531339125685">
-        <mark key="'" line="58" column="0" />
-        <mark key="[" line="36" column="12" />
-        <mark key="]" line="36" column="51" />
-        <mark key="." line="57" column="18" />
-        <mark key="^" line="54" column="42" />
-      </file>
       <file name="$USER_HOME$/Documents/cea/centreforeffectivealtruism-org/src/layouts/layout/header.pug" timestamp="1527698064283">
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="0" />
         <mark key="^" line="6" column="8" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/cea/Forum/Forum/packages/lesswrong/components/Layout.jsx" timestamp="1531332173261">
-        <mark key="[" line="50" column="14" />
-        <mark key="]" line="50" column="30" />
-        <mark key="." line="50" column="30" />
-        <mark key="^" line="50" column="30" />
+      <file name="$USER_HOME$/Documents/cea/parfit/services/payments/handlers/stripe/helpers.js" timestamp="1531775388287">
+        <mark key="[" line="59" column="73" />
+        <mark key="]" line="60" column="73" />
+        <mark key="^" line="60" column="73" />
+        <mark key="." line="60" column="73" />
+      </file>
+      <file name="$USER_HOME$/Documents/cea/Forum/recruitment/.gitignore" timestamp="1532040870704">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="^" line="7" column="0" />
+        <mark key="." line="7" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/cea/aletheia/app/models/Pledges/queries/getReportedDonationsByPersonId.gql" timestamp="1520036573595">
         <mark key="[" line="1" column="8" />
@@ -605,13 +640,6 @@
         <mark key="." line="3" column="19" />
         <mark key="^" line="3" column="13" />
       </file>
-      <file name="$USER_HOME$/Documents/cea/parfit/scripts/make_migration.js" timestamp="1530834620211">
-        <mark key="'" line="43" column="57" />
-        <mark key="[" line="41" column="14" />
-        <mark key="]" line="41" column="14" />
-        <mark key="." line="41" column="14" />
-        <mark key="^" line="41" column="14" />
-      </file>
       <file name="$USER_HOME$/Documents/hindsight/hello.ts" timestamp="1521949475082">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="23" />
@@ -648,11 +676,9 @@
         <mark key="^" line="0" column="33" />
         <mark key="." line="0" column="33" />
       </file>
-      <file name="$USER_HOME$/Documents/cea/Forum/Forum/packages/lesswrong/components/common/Home.jsx" timestamp="1531333604168">
-        <mark key="[" line="18" column="6" />
-        <mark key="]" line="18" column="23" />
-        <mark key="." line="18" column="23" />
-        <mark key="^" line="18" column="23" />
+      <file name="$USER_HOME$/Documents/cea/Forum/Vulcan/packages/vulcan-accounts/imports/ui/components/LoginForm.jsx" timestamp="1531336284683">
+        <mark key="[" line="7" column="18" />
+        <mark key="]" line="7" column="38" />
       </file>
       <file name="$USER_HOME$/Documents/cea/Forum/Vulcan-Starter/packages/example-forum/lib/components/posts/PostsPage.jsx" timestamp="1531620292286" />
       <file name="$USER_HOME$/Documents/cea/predictive-altruism/packages/predictive-altruism/lib/components/movies/QuestionSingle.jsx" timestamp="1531614743044">
@@ -661,6 +687,7 @@
         <mark key="." line="5" column="48" />
         <mark key="^" line="5" column="48" />
       </file>
+      <file name="$USER_HOME$/Documents/cea/parfit/services/payments/workers/xero-balance-sheets.js" timestamp="1532025282018" />
       <file name="$USER_HOME$/Documents/cea/parfit/seeds/data/payments.lottery_ticket.sql" timestamp="1521507987037">
         <mark key="[" line="18" column="3" />
         <mark key="]" line="18" column="57" />
@@ -672,11 +699,6 @@
         <mark key="]" line="17" column="20" />
         <mark key="^" line="17" column="19" />
         <mark key="." line="17" column="20" />
-      </file>
-      <file name="$USER_HOME$/Documents/cea/predictive-altruism/packages/predictive-altruism/lib/server/graphql.js" timestamp="1531616879493">
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="19" column="0" />
-        <mark key="." line="19" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/cea/aletheia/app/models/Pledges/reducer.js" timestamp="1519862557448">
         <mark key="[" line="44" column="24" />
@@ -696,27 +718,32 @@
         <mark key="." line="47" column="27" />
         <mark key="^" line="47" column="27" />
       </file>
-      <file name="$USER_HOME$/Documents/cea/Forum/Vulcan-Starter/packages/example-forum/lib/components/posts/PostsCommentsThread.jsx" timestamp="1531620343634">
-        <mark key="'" line="49" column="14" />
-      </file>
       <file name="$USER_HOME$/Documents/cea/parfit/migrations/20180413123749_auth_registration_utils.js" timestamp="1523990798395">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="4" />
         <mark key="." line="2" column="4" />
         <mark key="^" line="2" column="4" />
       </file>
-      <file name="$USER_HOME$/Documents/cea/Forum/Forum/packages/lesswrong/lib/scripts/eafIBetaInvites.js" timestamp="1531528234188">
+      <file name="$USER_HOME$/Documents/cea/Forum/Forum/packages/lesswrong/lib/scripts/eafIBetaInvites.js" timestamp="1531928333668">
         <mark key="'" line="13" column="19" />
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="^" line="14" column="51" />
-        <mark key="." line="8" column="0" />
+        <mark key="[" line="22" column="34" />
+        <mark key="]" line="22" column="33" />
+        <mark key="^" line="22" column="33" />
+        <mark key="." line="22" column="33" />
       </file>
       <file name="$USER_HOME$/Documents/hindsight/package2.json" timestamp="1521951744277">
         <mark key="[" line="9" column="2" />
         <mark key="]" line="5" column="3" />
         <mark key="." line="9" column="3" />
         <mark key="^" line="5" column="3" />
+      </file>
+      <file name="$USER_HOME$/Documents/cea/parfit/services/emails/handlers/auth.js" timestamp="1531787577239" />
+      <file name="$USER_HOME$/Documents/cea/Forum/recruitment/notifications.js" timestamp="1532040105818">
+        <mark key="'" line="86" column="0" />
+        <mark key="[" line="99" column="1" />
+        <mark key="]" line="99" column="0" />
+        <mark key="^" line="99" column="0" />
+        <mark key="." line="99" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/cea/parfit/parse_shared.py" timestamp="1521497792431">
         <mark key="[" line="0" column="22" />
@@ -768,56 +795,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="77" column="34" filename="$USER_HOME$/Documents/cea/parfit/migrations/20180502113445_giftaid_reporting_up.sql" />
-      <jump line="14" column="0" filename="$USER_HOME$/Documents/cea/Forum/Forum/packages/lesswrong/components/common/Header.jsx" />
-      <jump line="49" column="6" filename="$USER_HOME$/Documents/cea/Forum/Forum/packages/lesswrong/components/posts/PostsViews.jsx" />
-      <jump line="130" column="33" filename="$USER_HOME$/Documents/cea/Forum/Forum/packages/lesswrong/components/posts/PostsViews.jsx" />
-      <jump line="72" column="29" filename="$USER_HOME$/Documents/cea/Forum/Forum/packages/lesswrong/components/posts/PostsViews.jsx" />
-      <jump line="48" column="0" filename="$USER_HOME$/Documents/cea/parfit/services/payments/workers/gift-aid-sheets/index.js" />
-      <jump line="98" column="80" filename="$USER_HOME$/Documents/cea/parfit/services/payments/workers/gift-aid-sheets/index.js" />
-      <jump line="31" column="23" filename="$USER_HOME$/Documents/cea/parfit/services/payments/workers/gift-aid-sheets/index.js" />
-      <jump line="16" column="6" filename="$USER_HOME$/Documents/cea/parfit/services/payments/workers/gift-aid-sheets/index.js" />
-      <jump line="18" column="17" filename="$USER_HOME$/Documents/cea/parfit/services/payments/workers/gift-aid-sheets/index.js" />
-      <jump line="20" column="6" filename="$USER_HOME$/Documents/cea/parfit/services/payments/workers/gift-aid-sheets/index.js" />
-      <jump line="26" column="7" filename="$USER_HOME$/Documents/cea/parfit/services/payments/workers/gift-aid-sheets/index.js" />
-      <jump line="96" column="0" filename="$USER_HOME$/Documents/cea/parfit/services/payments/workers/gift-aid-sheets/index.js" />
-      <jump line="24" column="9" filename="$USER_HOME$/Documents/cea/parfit/services/payments/workers/gift-aid-sheets/index.js" />
-      <jump line="106" column="4" filename="$USER_HOME$/Documents/cea/parfit/services/payments/workers/gift-aid-sheets/index.js" />
-      <jump line="58" column="0" filename="$USER_HOME$/Documents/cea/parfit/migrations/20180626124538_org_reports_up.sql" />
-      <jump line="22" column="35" filename="$USER_HOME$/Documents/cea/parfit/scripts/make_migration.js" />
-      <jump line="40" column="57" filename="$USER_HOME$/Documents/cea/parfit/scripts/make_migration.js" />
-      <jump line="9" column="24" filename="$USER_HOME$/Documents/cea/parfit/seeds/data/organizations.organization.sql" />
-      <jump line="208" column="0" filename="$USER_HOME$/Documents/cea/parfit/seeds/data/organizations.organization.sql" />
-      <jump line="209" column="0" filename="$USER_HOME$/Documents/cea/parfit/seeds/data/organizations.organization.sql" />
-      <jump line="127" column="0" filename="$USER_HOME$/Documents/cea/parfit/seeds/data/organizations.organization.sql" />
-      <jump line="42" column="0" filename="$USER_HOME$/Documents/cea/parfit/seeds/data/organizations.organization.sql" />
-      <jump line="8" column="17" filename="$USER_HOME$/Documents/cea/parfit/seeds/data/organizations.organization.sql" />
-      <jump line="126" column="0" filename="$USER_HOME$/Documents/cea/parfit/seeds/data/organizations.organization.sql" />
-      <jump line="11" column="0" filename="$USER_HOME$/Documents/cea/parfit/seeds/data/organizations.organization.sql" />
-      <jump line="47" column="1" filename="$USER_HOME$/Documents/cea/parfit/seeds/data/organizations.organization.sql" />
-      <jump line="76" column="0" filename="$USER_HOME$/Documents/cea/parfit/seeds/data/organizations.organization.sql" />
-      <jump line="121" column="0" filename="$USER_HOME$/Documents/cea/parfit/seeds/data/organizations.organization.sql" />
-      <jump line="98" column="0" filename="$USER_HOME$/Documents/cea/Forum/Forum/packages/lesswrong/components/common/Header.jsx" />
-      <jump line="31" column="29" filename="$USER_HOME$/Documents/cea/Forum/Forum/packages/lesswrong/lib/components.js" />
-      <jump line="162" column="0" filename="$USER_HOME$/Documents/cea/Forum/Forum/packages/lesswrong/lib/components.js" />
-      <jump line="42" column="2" filename="$USER_HOME$/Documents/cea/Forum/Forum/packages/lesswrong/components/common/Header.jsx" />
-      <jump line="158" column="15" filename="$USER_HOME$/Documents/cea/Forum/Forum/packages/lesswrong/components/common/Header.jsx" />
-      <jump line="171" column="16" filename="$USER_HOME$/Documents/cea/Forum/Forum/packages/lesswrong/components/common/Header.jsx" />
-      <jump line="9" column="32" filename="$USER_HOME$/Documents/cea/Forum/Forum/packages/lesswrong/components/common/Header.jsx" />
-      <jump line="43" column="27" filename="$USER_HOME$/Documents/cea/Forum/Forum/packages/lesswrong/components/common/Header.jsx" />
-      <jump line="19" column="22" filename="$USER_HOME$/Documents/cea/Forum/Forum/packages/lesswrong/components/users/UsersAccountMenu.jsx" />
-      <jump line="44" column="22" filename="$USER_HOME$/Documents/cea/Forum/Forum/packages/lesswrong/components/users/UsersAccountMenu.jsx" />
-      <jump line="75" column="11" filename="$USER_HOME$/Documents/cea/Forum/Vulcan/packages/vulcan-accounts/imports/ui/components/StateSwitcher.jsx" />
-      <jump line="96" column="18" filename="$USER_HOME$/Documents/cea/Forum/Vulcan/packages/vulcan-accounts/imports/ui/components/StateSwitcher.jsx" />
-      <jump line="24" column="0" filename="$USER_HOME$/Documents/cea/Forum/Vulcan/packages/vulcan-accounts/imports/ui/components/StateSwitcher.jsx" />
-      <jump line="101" column="0" filename="$USER_HOME$/Documents/cea/Forum/Vulcan/packages/vulcan-accounts/imports/ui/components/StateSwitcher.jsx" />
-      <jump line="0" column="0" filename="$USER_HOME$/Documents/cea/Forum/Vulcan/packages/vulcan-accounts/imports/ui/components/StateSwitcher.jsx" />
-      <jump line="3" column="0" filename="$USER_HOME$/Documents/cea/Forum/Vulcan/packages/vulcan-accounts/imports/ui/components/StateSwitcher.jsx" />
-      <jump line="707" column="9" filename="$USER_HOME$/Documents/cea/Forum/Vulcan/packages/vulcan-accounts/imports/ui/components/LoginFormInner.jsx" />
-      <jump line="708" column="8" filename="$USER_HOME$/Documents/cea/Forum/Vulcan/packages/vulcan-accounts/imports/ui/components/LoginFormInner.jsx" />
-      <jump line="740" column="8" filename="$USER_HOME$/Documents/cea/Forum/Vulcan/packages/vulcan-accounts/imports/ui/components/LoginFormInner.jsx" />
-      <jump line="741" column="35" filename="$USER_HOME$/Documents/cea/Forum/Vulcan/packages/vulcan-accounts/imports/ui/components/LoginFormInner.jsx" />
-      <jump line="742" column="8" filename="$USER_HOME$/Documents/cea/Forum/Vulcan/packages/vulcan-accounts/imports/ui/components/LoginFormInner.jsx" />
       <jump line="743" column="36" filename="$USER_HOME$/Documents/cea/Forum/Vulcan/packages/vulcan-accounts/imports/ui/components/LoginFormInner.jsx" />
       <jump line="744" column="8" filename="$USER_HOME$/Documents/cea/Forum/Vulcan/packages/vulcan-accounts/imports/ui/components/LoginFormInner.jsx" />
       <jump line="745" column="36" filename="$USER_HOME$/Documents/cea/Forum/Vulcan/packages/vulcan-accounts/imports/ui/components/LoginFormInner.jsx" />
@@ -846,7 +823,6 @@
       <jump line="850" column="21" filename="$USER_HOME$/Documents/cea/Forum/Vulcan/packages/vulcan-accounts/imports/ui/components/LoginFormInner.jsx" />
       <jump line="854" column="8" filename="$USER_HOME$/Documents/cea/Forum/Vulcan/packages/vulcan-accounts/imports/ui/components/LoginFormInner.jsx" />
       <jump line="1000" column="28" filename="$USER_HOME$/Documents/cea/Forum/Vulcan/packages/vulcan-accounts/imports/ui/components/LoginFormInner.jsx" />
-      <jump line="822" column="15" filename="$USER_HOME$/Documents/cea/Forum/Vulcan/packages/vulcan-accounts/imports/ui/components/LoginFormInner.jsx" />
       <jump line="5" column="0" filename="$USER_HOME$/Documents/cea/Forum/Vulcan/packages/vulcan-accounts/imports/ui/components/LoginFormInner.jsx" />
       <jump line="24" column="13" filename="$USER_HOME$/Documents/cea/Forum/Vulcan/packages/vulcan-accounts/imports/ui/components/LoginFormInner.jsx" />
       <jump line="71" column="42" filename="$USER_HOME$/Documents/cea/Forum/Vulcan/packages/vulcan-accounts/imports/ui/components/LoginFormInner.jsx" />
@@ -868,6 +844,57 @@
       <jump line="13" column="10" filename="$USER_HOME$/Documents/cea/predictive-altruism/packages/predictive-altruism/lib/modules/collections/predictions/index.js" />
       <jump line="13" column="28" filename="$USER_HOME$/Documents/cea/predictive-altruism/packages/predictive-altruism/lib/components/movies/QuestionPage.jsx" />
       <jump line="49" column="14" filename="$USER_HOME$/Documents/cea/Forum/Vulcan-Starter/packages/example-forum/lib/components/posts/PostsCommentsThread.jsx" />
+      <jump line="28" column="21" filename="$USER_HOME$/Documents/cea/Forum/Forum/package.json" />
+      <jump line="30" column="6" filename="$USER_HOME$/Documents/cea/parfit/migrations/20180627153659_giftaid_report_fix_up.sql" />
+      <jump line="17" column="0" filename="$USER_HOME$/Documents/cea/parfit/migrations/20180627153659_giftaid_report_fix_up.sql" />
+      <jump line="56" column="0" filename="$USER_HOME$/Documents/cea/parfit/db_tests/gift_aid_reporting_tests.sql" />
+      <jump line="141" column="29" filename="$USER_HOME$/Documents/cea/parfit/migrations/20170901171427_refactor_person_insertion_up.sql" />
+      <jump line="112" column="10" filename="$USER_HOME$/Documents/cea/parfit/services/payments/workers/gift-aid-sheets/index.js" />
+      <jump line="14" column="0" filename="$USER_HOME$/Documents/cea/parfit/services/payments/workers/gift-aid-sheets/index.js" />
+      <jump line="110" column="10" filename="$USER_HOME$/Documents/cea/parfit/services/payments/workers/gift-aid-sheets/index.js" />
+      <jump line="25" column="23" filename="$USER_HOME$/Documents/cea/parfit/services/payments/workers/gift-aid-sheets/index.js" />
+      <jump line="92" column="48" filename="$USER_HOME$/Documents/cea/parfit/services/payments/workers/gift-aid-sheets/index.js" />
+      <jump line="27" column="4" filename="$USER_HOME$/Documents/cea/parfit/services/payments/workers/gift-aid-sheets/index.js" />
+      <jump line="24" column="0" filename="$USER_HOME$/Documents/cea/parfit/services/payments/workers/gift-aid-sheets/index.js" />
+      <jump line="33" column="34" filename="$USER_HOME$/Documents/cea/Forum/Vulcan/packages/vulcan-accounts/imports/ui/components/LoginFormInner.jsx" />
+      <jump line="42" column="14" filename="$USER_HOME$/Documents/cea/Forum/Vulcan/packages/vulcan-accounts/imports/ui/components/LoginFormInner.jsx" />
+      <jump line="46" column="32" filename="$USER_HOME$/Documents/cea/Forum/Vulcan/packages/vulcan-accounts/imports/ui/components/LoginFormInner.jsx" />
+      <jump line="47" column="34" filename="$USER_HOME$/Documents/cea/Forum/Vulcan/packages/vulcan-accounts/imports/ui/components/LoginFormInner.jsx" />
+      <jump line="72" column="44" filename="$USER_HOME$/Documents/cea/Forum/Vulcan/packages/vulcan-accounts/imports/ui/components/LoginFormInner.jsx" />
+      <jump line="669" column="10" filename="$USER_HOME$/Documents/cea/Forum/Vulcan/packages/vulcan-accounts/imports/ui/components/LoginFormInner.jsx" />
+      <jump line="752" column="8" filename="$USER_HOME$/Documents/cea/Forum/Vulcan/packages/vulcan-accounts/imports/ui/components/LoginFormInner.jsx" />
+      <jump line="822" column="10" filename="$USER_HOME$/Documents/cea/Forum/Vulcan/packages/vulcan-accounts/imports/ui/components/LoginFormInner.jsx" />
+      <jump line="878" column="8" filename="$USER_HOME$/Documents/cea/Forum/Vulcan/packages/vulcan-accounts/imports/ui/components/LoginFormInner.jsx" />
+      <jump line="86" column="0" filename="$USER_HOME$/Documents/cea/Forum/recruitment/notifications.js" />
+      <jump line="65" column="8" filename="$USER_HOME$/Documents/cea/Forum/recruitment/stageUpdated.js" />
+      <jump line="83" column="8" filename="$USER_HOME$/Documents/cea/Forum/recruitment/stageUpdated.js" />
+      <jump line="84" column="8" filename="$USER_HOME$/Documents/cea/Forum/recruitment/stageUpdated.js" />
+      <jump line="9" column="13" filename="$USER_HOME$/Documents/cea/Forum/recruitment/stageUpdated.js" />
+      <jump line="41" column="14" filename="$USER_HOME$/Documents/cea/Forum/recruitment/stageUpdated.js" />
+      <jump line="4" column="49" filename="$USER_HOME$/Documents/cea/Forum/recruitment/.env" />
+      <jump line="31" column="0" filename="$USER_HOME$/Documents/cea/Forum/Forum/packages/lesswrong/components/Layout.jsx" />
+      <jump line="48" column="0" filename="$USER_HOME$/Documents/cea/Forum/Forum/sample_settings.json" />
+      <jump line="178" column="29" filename="$USER_HOME$/Documents/cea/parfit/services/payments/workers/xero-balance-sheets.js" />
+      <jump line="19" column="0" filename="$USER_HOME$/Documents/cea/parfit/services/payments/workers/xero-balance-sheets.js" />
+      <jump line="21" column="0" filename="$USER_HOME$/Documents/cea/parfit/services/payments/workers/xero-balance-sheets.js" />
+      <jump line="23" column="0" filename="$USER_HOME$/Documents/cea/parfit/services/payments/workers/xero-balance-sheets.js" />
+      <jump line="28" column="0" filename="$USER_HOME$/Documents/cea/parfit/services/payments/workers/xero-balance-sheets.js" />
+      <jump line="30" column="0" filename="$USER_HOME$/Documents/cea/parfit/services/payments/workers/xero-balance-sheets.js" />
+      <jump line="32" column="0" filename="$USER_HOME$/Documents/cea/parfit/services/payments/workers/xero-balance-sheets.js" />
+      <jump line="34" column="0" filename="$USER_HOME$/Documents/cea/parfit/services/payments/workers/xero-balance-sheets.js" />
+      <jump line="46" column="0" filename="$USER_HOME$/Documents/cea/parfit/services/payments/workers/xero-balance-sheets.js" />
+      <jump line="52" column="0" filename="$USER_HOME$/Documents/cea/parfit/services/payments/workers/xero-balance-sheets.js" />
+      <jump line="58" column="0" filename="$USER_HOME$/Documents/cea/parfit/services/payments/workers/xero-balance-sheets.js" />
+      <jump line="74" column="0" filename="$USER_HOME$/Documents/cea/parfit/services/payments/workers/xero-balance-sheets.js" />
+      <jump line="76" column="0" filename="$USER_HOME$/Documents/cea/parfit/services/payments/workers/xero-balance-sheets.js" />
+      <jump line="80" column="0" filename="$USER_HOME$/Documents/cea/parfit/services/payments/workers/xero-balance-sheets.js" />
+      <jump line="141" column="0" filename="$USER_HOME$/Documents/cea/parfit/services/payments/workers/xero-balance-sheets.js" />
+      <jump line="123" column="0" filename="$USER_HOME$/Documents/cea/parfit/services/payments/workers/xero-balance-sheets.js" />
+      <jump line="85" column="0" filename="$USER_HOME$/Documents/cea/parfit/services/payments/workers/xero-balance-sheets.js" />
+      <jump line="161" column="44" filename="$USER_HOME$/Documents/cea/parfit/services/payments/gateways/xero.js" />
+      <jump line="50" column="40" filename="$USER_HOME$/Documents/cea/parfit/migrations/20180627153659_giftaid_report_fix_up.sql" />
+      <jump line="154" column="6" filename="$USER_HOME$/Documents/cea/parfit/services/payments/gateways/xero.js" />
+      <jump line="54" column="20" filename="$USER_HOME$/Documents/cea/Forum/recruitment/stageUpdated.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -929,7 +956,7 @@
         <text>.nn</text>
       </register>
       <register name="*" type="4">
-        <text>{}</text>
+        <text>``</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -1038,13 +1065,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">d2l0aE1vdmllc0NvdW50LCA=</text>
+        <text>'</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxjb21tZW50c0xpc3RRdWVyeVw+</text>
+        <text encoding="base64">XDxzeW5jUmVjb3JkUHJldmlvdXNTdGFnZVw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIDxwPlBvc2VkIGJ5OiB7ZG9jdW1lbnQuY3JlYXRvci5kaXNwbGF5TmFtZX08L3A+Cg==</text>
+        <text encoding="base64">ICAgICAgbG9nZ2VyLnZlcmJvc2UoJyAgRnVsbCBlcnJvciBmcm9tIHhlcm8nKQo=</text>
       </register>
       <register name="p" type="4">
         <keys>
@@ -1057,43 +1084,43 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKG1vbWVudCgpLmZvcm1hdCgpKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IHdpdGhNb3ZpZXNDb3VudCBmcm9tICcuLi8uLi9ob2NzL3dpdGhNb3ZpZXNDb3VudC5qcyc7Cg==</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ZXhwb3J0IGNvbnN0IHNlZWRNb3ZpZXMgPSAoKSA9PiB7CiAgCiAgaWYgKFVzZXJzLmZpbmQoKS5jb3VudCgpID09PSAwKSB7CiAgICBQcm9taXNlLmF3YWl0KGNyZWF0ZUR1bW15VXNlcnMoKSk7CiAgfQogIAogIGlmIChNb3ZpZXMuZmluZCgpLmZldGNoKCkubGVuZ3RoID09PSAwKSB7CiAgICAKICAgIGNvbnN0IGFsbFVzZXJzID0gVXNlcnMuZmluZCgpLmZldGNoKCk7CiAgICAKICAgIC8vIGVzbGludC1kaXNhYmxlLW5leHQtbGluZSBuby1jb25zb2xlCiAgICBjb25zb2xlLmxvZygnLy8gc2VlZGluZyBtb3ZpZXPigKYnKTsKICAgIAogICAgUHJvbWlzZS5hd2FpdEFsbChzZWVkRGF0YS5tYXAoZG9jdW1lbnQgPT4gbmV3TXV0YXRpb24oewogICAgICBjb2xsZWN0aW9uOiBNb3ZpZXMsCiAgICAgIGRvY3VtZW50OiBkb2N1bWVudCwgCiAgICAgIGN1cnJlbnRVc2VyOiBfLnNhbXBsZShhbGxVc2VycyksIC8vIGdldCBhIHJhbmRvbSB1c2VyCiAgICAgIHZhbGlkYXRlOiBmYWxzZQogICAgfSkpKTsKICB9Cn07Cg==</text>
+      <register name="3" type="2">
+        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICB7CiAgICBuYW1lOiAnU3RhciBXYXJzJywKICAgIHllYXI6ICcxOTczJywKICAgIHJldmlldzogYEEgY2xhc3NpYy5gLAogICAgcHJpdmF0ZUNvbW1lbnRzOiBgQWN0dWFsbHksIEkgZG9uJ3QgcmVhbGx5IGxpa2UgU3RhciBXYXJz4oCmYAogIH0sCiAgewogICAgbmFtZTogJ0RpZSBIYXJkJywKICAgIHllYXI6ICcxOTg3JywKICAgIHJldmlldzogYEEgbXVzdC1zZWUgaWYgeW91IGxpa2UgYWN0aW9uIG1vdmllcy5gLAogICAgcHJpdmF0ZUNvbW1lbnRzOiBgSSBsb3ZlIEJydWNlIFdpbGxpcyBzbyBtdWNoIWAKICB9LAogIHsKICAgIG5hbWU6ICdUZXJtaW5hdG9yJywKICAgIHllYXI6ICcxOTgzJywKICAgIHJldmlldzogYE9uY2UgYWdhaW4sIFNjaHdhcnplbmVnZ2VyIHNob3dzIHdoeSBoZSdzIHRoZSBib3NzLmAsCiAgICBwcml2YXRlQ29tbWVudHM6IGBUZXJtaW5hdG9yIGlzIG15IGZhdm9yaXRlIG1vdmllIGV2ZXIuIGAKICB9LAogIHsKICAgIG5hbWU6ICdKYXdzJywKICAgIHllYXI6ICcxOTcxJywKICAgIHJldmlldzogJ1RoZSBvcmlnaW5hbCBibG9ja2J1c3Rlci4nLAogICAgcHJpdmF0ZUNvbW1lbnRzOiBgSSdtIHNjYXJlZCBvZiBzaGFya3PigKZgCiAgfSwKICB7CiAgICBuYW1lOiAnRGllIEhhcmQgSUknLAogICAgeWVhcjogJzE5OTEnLAogICAgcmV2aWV3OiBgQW5vdGhlciBjbGFzc2ljLmAKICB9LAogIHsKICAgIG5hbWU6ICdSdXNoIEhvdXInLAogICAgeWVhcjogJzE5OTMnLAogICAgcmV2aWV3OiBgSmFja2llIENoYW4gYXQgaGlzIGJlc3QuYCwKICB9LAogIHsKICAgIG5hbWU6ICdDaXRpemVuIEthbmUnLAogICAgeWVhcjogJzE5NDMnLAogICAgcmV2aWV3OiBgQSBkaXNhcHBvaW50aW5nIGxhY2sgb2YgYWN0aW9uIHNlcXVlbmNlcy5gLAogIH0sCiAgewogICAgbmFtZTogJ0NvbW1hbmRvJywKICAgIHllYXI6ICcxOTgzJywKICAgIHJldmlldzogJ0EgZ29vZCBjb250ZW5kZXIgZm9yIGhpZ2hlc3Qga2lsbCBjb3VudCBldmVyLicsCiAgfSwK</text>
+      <register name="4" type="2">
+        <text encoding="base64">PT09PT09PQogIGxvZ2dlci52ZXJib3NlKCdDYWxsaW5nIHhlcm8gYXBpJykKICBsb2dnZXIudmVyYm9zZShgICB1cmw6ICR7cmVxdWVzdFVybH1gKQogIGxvZ2dlci5kZWJ1ZyhgICBib2R5OiAke0pTT04uc3RyaW5naWZ5KHBvc3RCb2R5KX1gKQogIHJldHVybiBuZXcgUHJvbWlzZSgocmVzb2x2ZSwgcmVqZWN0KSA9PiBzZWxmLm9hLl9wZXJmb3JtU2VjdXJlUmVxdWVzdChzZWxmLmtleSwgc2VsZi5zZWNyZXQsIG1ldGhvZCwgcmVxdWVzdFVybCwgbnVsbCwgcG9zdEJvZHksIHNlbGYuY29udGVudFR5cGUsIChlcnIsIGJvZHksIHJlcykgPT4gewogICAgaWYgKGVycikgewogICAgICBsb2dnZXIudmVyYm9zZShgICBGdWxsIGVycm9yIGZyb20geGVybyAke0pTT04uc3RyaW5naWZ5KGVycil9YCkKPj4+Pj4+PiBkZXYK</text>
+      </register>
+      <register name="5" type="4">
+        <text>``</text>
       </register>
       <register name="u" type="4">
         <text>uu</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="6" type="4">
+        <text encoding="base64">ICBGdWxsIGVycm9yIGZyb20geGVybw==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Y29uc3Qgc2VlZERhdGEgPSBbCiAgewogICAgbmFtZTogJ1N0YXIgV2FycycsCiAgICB5ZWFyOiAnMTk3MycsCiAgICByZXZpZXc6IGBBIGNsYXNzaWMuYCwKICAgIHByaXZhdGVDb21tZW50czogYEFjdHVhbGx5LCBJIGRvbid0IHJlYWxseSBsaWtlIFN0YXIgV2Fyc+KApmAKICB9LAogIHsKICAgIG5hbWU6ICdEaWUgSGFyZCcsCiAgICB5ZWFyOiAnMTk4NycsCiAgICByZXZpZXc6IGBBIG11c3Qtc2VlIGlmIHlvdSBsaWtlIGFjdGlvbiBtb3ZpZXMuYCwKICAgIHByaXZhdGVDb21tZW50czogYEkgbG92ZSBCcnVjZSBXaWxsaXMgc28gbXVjaCFgCiAgfSwKICB7CiAgICBuYW1lOiAnVGVybWluYXRvcicsCiAgICB5ZWFyOiAnMTk4MycsCiAgICByZXZpZXc6IGBPbmNlIGFnYWluLCBTY2h3YXJ6ZW5lZ2dlciBzaG93cyB3aHkgaGUncyB0aGUgYm9zcy5gLAogICAgcHJpdmF0ZUNvbW1lbnRzOiBgVGVybWluYXRvciBpcyBteSBmYXZvcml0ZSBtb3ZpZSBldmVyLiBgCiAgfSwKICB7CiAgICBuYW1lOiAnSmF3cycsCiAgICB5ZWFyOiAnMTk3MScsCiAgICByZXZpZXc6ICdUaGUgb3JpZ2luYWwgYmxvY2tidXN0ZXIuJywKICAgIHByaXZhdGVDb21tZW50czogYEknbSBzY2FyZWQgb2Ygc2hhcmtz4oCmYAogIH0sCiAgewogICAgbmFtZTogJ0RpZSBIYXJkIElJJywKICAgIHllYXI6ICcxOTkxJywKICAgIHJldmlldzogYEFub3RoZXIgY2xhc3NpYy5gCiAgfSwKICB7CiAgICBuYW1lOiAnUnVzaCBIb3VyJywKICAgIHllYXI6ICcxOTkzJywKICAgIHJldmlldzogYEphY2tpZSBDaGFuIGF0IGhpcyBiZXN0LmAsCiAgfSwKICB7CiAgICBuYW1lOiAnQ2l0aXplbiBLYW5lJywKICAgIHllYXI6ICcxOTQzJywKICAgIHJldmlldzogYEEgZGlzYXBwb2ludGluZyBsYWNrIG9mIGFjdGlvbiBzZXF1ZW5jZXMuYCwKICB9LAogIHsKICAgIG5hbWU6ICdDb21tYW5kbycsCiAgICB5ZWFyOiAnMTk4MycsCiAgICByZXZpZXc6ICdBIGdvb2QgY29udGVuZGVyIGZvciBoaWdoZXN0IGtpbGwgY291bnQgZXZlci4nLAogIH0sCl07Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IE1vdmllcyBmcm9tICcuLi9tb2R1bGVzL2NvbGxlY3Rpb24uanMnOwo=</text>
+        <text encoding="base64">CkNCNkhDVFczQQo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action FindInPath</text>
+        <text>w!</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxjb21tZW50c0xpc3RRdWVyeVw+</last-search>
+      <last-search encoding="base64">XDxzeW5jUmVjb3JkUHJldmlvdXNTdGFnZVw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxjb21tZW50c0xpc3RRdWVyeVw+</last-pattern>
+      <last-pattern encoding="base64">XDxzeW5jUmVjb3JkUHJldmlvdXNTdGFnZVw+</last-pattern>
       <last-replace>Prediction</last-replace>
       <last-substitute>Question</last-substitute>
       <last-dir>1</last-dir>
@@ -1101,14 +1128,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxsb3dlcl9pbmZcPg==</entry>
-        <entry>raise notice</entry>
-        <entry>LW</entry>
-        <entry encoding="base64">XDxkZWZhdWx0Vmlld3NcPg==</entry>
-        <entry>getCurr</entry>
-        <entry encoding="base64">XDxyZXBvcnRJZHNcPg==</entry>
-        <entry encoding="base64">LS0g</entry>
-        <entry>login</entry>
         <entry encoding="base64">XDxyZW5kZXJBcHBCYXJFbGVtZW50UmlnaHRcPg==</entry>
         <entry encoding="base64">XDxBcHBCYXJcPg==</entry>
         <entry encoding="base64">XDxjdXJyZW50VGFyZ2V0XD4=</entry>
@@ -1121,28 +1140,36 @@
         <entry>Movie</entry>
         <entry>Question</entry>
         <entry encoding="base64">XDxjb21tZW50c0xpc3RRdWVyeVw+</entry>
+        <entry encoding="base64">XDxfb2Zmc2V0XD4=</entry>
+        <entry>format date</entry>
+        <entry encoding="base64">XDxyZWdpc3RyYXRpb25fbWV0aG9kXD4=</entry>
+        <entry>TODO</entry>
+        <entry>log</entry>
+        <entry>console.log</entry>
+        <entry encoding="base64">XDxiYXNlXD4=</entry>
+        <entry encoding="base64">XDxzeW5jUmVjb3JkUHJldmlvdXNTdGFnZVw+</entry>
       </history-search>
       <history-cmd>
-        <entry>73</entry>
-        <entry encoding="base64">JzwsJz5zL0lOU0VSLipcbi9zbHVnLipcblwpIFZBLipcbi8v</entry>
         <entry encoding="base64">JzwsJz5zLy0tIC8v</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gR290b0RlY2xhcmF0aW9u</entry>
         <entry>action ReformatCode</entry>
         <entry>.,.+7action GotoFile</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gR290b0ZpbGU=</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gTmV4dFNwbGl0dGVy</entry>
-        <entry>action SplitVertically</entry>
         <entry>%s/Movie/Question/g</entry>
         <entry encoding="base64">JzwsJz53IQ==</entry>
         <entry>%s/Question/Prediction/g</entry>
         <entry>action GotoDeclaration</entry>
         <entry>action RenameFile</entry>
-        <entry>action NewFile</entry>
-        <entry>action GotoFile</entry>
+        <entry>144</entry>
         <entry>action CommentByLineComment</entry>
+        <entry>action ReopenClosedTab</entry>
+        <entry>action SplitVertically</entry>
+        <entry>action NewFile</entry>
         <entry>action NextSplitter</entry>
-        <entry>w!</entry>
         <entry>action FindInPath</entry>
+        <entry>action GotoFile</entry>
+        <entry>w!</entry>
       </history-cmd>
       <history-expr />
       <history-input />
