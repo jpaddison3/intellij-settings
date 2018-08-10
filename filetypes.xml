@@ -4,7 +4,6 @@
       <removed_mapping ext="conf" approved="true" type="HOCON" />
       <mapping pattern=".ideavimrc" type="PLAIN_TEXT" />
       <mapping ext="conf" type="PLAIN_TEXT" />
-      <mapping ext="gql" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
