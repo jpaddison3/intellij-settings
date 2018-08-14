@@ -358,6 +358,11 @@
         <mark key="." line="155" column="0" />
         <mark key="^" line="162" column="39" />
       </file>
+      <file name="/Dummy.txt" timestamp="1534285699524">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/cea/parfit/silly.json" timestamp="1533682614815">
         <mark key="[" line="118" column="1" />
         <mark key="]" line="118" column="1" />
@@ -724,34 +729,34 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text encoding="base64">cG9zdGdyZXMK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB7IU1hdGNoZWRQZXJzb24gJiYgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAvLyBjb25zdCB7ZGlzYnVyc2VtZW50fSA9IG1ldGFkYXRhCg==</text>
+        <text encoding="base64">ICAgICAgICB7IU1hdGNoZWRQZXJzb24gJiYgfQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBjb24K</text>
+        <text encoding="base64">ICAvLyBjb25zdCB7ZGlzYnVyc2VtZW50fSA9IG1ldGFkYXRhCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGlmIHJvdwo=</text>
+        <text encoding="base64">ICBjb24K</text>
       </register>
       <register name="u" type="4">
         <text>uu</text>
       </register>
-      <register name="6" type="4">
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIGlmIHJvdwo=</text>
+      </register>
+      <register name="7" type="4">
         <text>parts[1]</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgY29uc3QgbWV0YWRhdGEgPSBhd2FpdCBiZW5ldml0eUV4dHJhY3RNZXRhZGF0YShwYXJ0c1sxXSkK</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBjb25zb2xlLndhcm4oJ25lZWQgdG8gY3VycnkgZnVuY3Rpb24gb3Igc29tZXRoaW5nJykgLy8gVE9ETwo=</text>
+        <text encoding="base64">ICAgICAgY29uc3QgbWV0YWRhdGEgPSBhd2FpdCBiZW5ldml0eUV4dHJhY3RNZXRhZGF0YShwYXJ0c1sxXSkK</text>
       </register>
       <register name=":" type="4">
         <text>action FindInPath</text>
