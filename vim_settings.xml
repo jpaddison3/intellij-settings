@@ -220,7 +220,7 @@
         <mark key="." line="42" column="76" />
         <mark key="^" line="42" column="76" />
       </file>
-      <file name="$USER_HOME$/cea/centreforeffectivealtruism-org/src/layouts/post.pug" timestamp="1534276552583" />
+      <file name="$USER_HOME$/cea/centreforeffectivealtruism-org/src/layouts/post.pug" timestamp="1534276838499" />
       <file name="$USER_HOME$/Documents/cea/aletheia/app/components/PaymentEntry/index.jsx" timestamp="1533335926229">
         <mark key="'" line="135" column="11" />
         <mark key="[" line="189" column="30" />
@@ -287,6 +287,7 @@
         <mark key="." line="41" column="0" />
         <mark key="^" line="28" column="44" />
       </file>
+      <file name="$USER_HOME$/cea/centreforeffectivealtruism-org/src/layouts/page.pug" timestamp="1534276767187" />
       <file name="$USER_HOME$/Documents/cea/predictive-altruism/packages/predictive-altruism/lib/components/movies/Question.jsx" timestamp="1531614638857">
         <mark key="[" line="20" column="39" />
         <mark key="]" line="20" column="39" />
@@ -749,7 +750,7 @@
         <text encoding="base64">ICBjb25zb2xlLndhcm4oJ25lZWQgdG8gY3VycnkgZnVuY3Rpb24gb3Igc29tZXRoaW5nJykgLy8gVE9ETwo=</text>
       </register>
       <register name=":" type="4">
-        <text>action NextSplitter</text>
+        <text>action FindInPath</text>
       </register>
     </registers>
     <search>
@@ -799,12 +800,12 @@
         <entry>50</entry>
         <entry>%s/payments/pledges/g</entry>
         <entry>action GotoDeclaration</entry>
-        <entry>action FindInPath</entry>
         <entry>action CommentByLineComment</entry>
         <entry>w!</entry>
-        <entry>action SplitVertically</entry>
         <entry>action GotoFile</entry>
         <entry>action NextSplitter</entry>
+        <entry>action SplitVertically</entry>
+        <entry>action FindInPath</entry>
       </history-cmd>
       <history-expr />
       <history-input />
