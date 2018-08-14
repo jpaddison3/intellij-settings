@@ -206,11 +206,6 @@
         <mark key="]" line="115" column="0" />
         <mark key="." line="115" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/cea/parfit/migrations/20171204132752_admin_permissions_up.sql" timestamp="1533344141376">
-        <mark key="'" line="32" column="22" />
-        <mark key="[" line="76" column="0" />
-        <mark key="]" line="76" column="128" />
-      </file>
       <file name="$USER_HOME$/Documents/cea/Forum/Forum/packages/lesswrong/styles/_localgroups.scss" timestamp="1532126480107">
         <mark key="'" line="300" column="0" />
         <mark key="[" line="0" column="0" />
@@ -389,6 +384,12 @@
         <mark key="]" line="75" column="19" />
         <mark key="." line="75" column="19" />
         <mark key="^" line="75" column="19" />
+      </file>
+      <file name="$USER_HOME$/cea/parfit/README.md" timestamp="1534272456968">
+        <mark key="[" line="52" column="66" />
+        <mark key="]" line="52" column="66" />
+        <mark key="^" line="52" column="66" />
+        <mark key="." line="52" column="66" />
       </file>
       <file name="$USER_HOME$/Documents/cea/Forum/recruitment/stageUpdated.js" timestamp="1532040905693">
         <mark key="'" line="54" column="20" />
@@ -747,7 +748,7 @@
         <text encoding="base64">ICBjb25zb2xlLndhcm4oJ25lZWQgdG8gY3VycnkgZnVuY3Rpb24gb3Igc29tZXRoaW5nJykgLy8gVE9ETwo=</text>
       </register>
       <register name=":" type="4">
-        <text>w!</text>
+        <text>action NextSplitter</text>
       </register>
     </registers>
     <search>
@@ -788,7 +789,6 @@
         <entry>action RenameFile</entry>
         <entry>144</entry>
         <entry>action ReopenClosedTab</entry>
-        <entry>action SplitVertically</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gR290b0ZpbGU=</entry>
         <entry>%s/lw-green/ea-blue/g</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gRmluZEluUGF0aA==</entry>
@@ -800,9 +800,10 @@
         <entry>action GotoDeclaration</entry>
         <entry>action FindInPath</entry>
         <entry>action CommentByLineComment</entry>
-        <entry>action NextSplitter</entry>
-        <entry>action GotoFile</entry>
         <entry>w!</entry>
+        <entry>action SplitVertically</entry>
+        <entry>action GotoFile</entry>
+        <entry>action NextSplitter</entry>
       </history-cmd>
       <history-expr />
       <history-input />
