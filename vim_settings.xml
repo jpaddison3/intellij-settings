@@ -381,6 +381,10 @@
         <mark key="^" line="13" column="53" />
         <mark key="." line="13" column="53" />
       </file>
+      <file name="$USER_HOME$/cea/parfit/migrations/_parfit_init.sql" timestamp="1534288792118">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="37" />
+      </file>
       <file name="$USER_HOME$/Documents/cea/Forum/recruitment/notifications.js" timestamp="1532040105818">
         <mark key="'" line="86" column="0" />
         <mark key="[" line="99" column="1" />
@@ -715,8 +719,8 @@
       <register name="/" type="4">
         <text encoding="base64">XDxNYXRjaFBlcnNvbk1vZGFsXD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgLy8gY29uY2F0IGJvZHkgb3ZlcmZsb3cgaW50byBtYWluIGNvbnRlbnQgZmllbGQKICAgICAgaWYgKG1ldGEuYm9keTIpIHsKICAgICAgICBtZXRhLmNvbnRlbnRzID0gbWV0YS5jb250ZW50cyArICdcblxuJyArIG1ldGEuYm9keTIKICAgICAgICBkZWxldGUgbWV0YS5ib2R5MgogICAgICB9Cg==</text>
+      <register name="0" type="4">
+        <text>CREATE EXTENSION IF NOT EXISTS &quot;plv8&quot;;</text>
       </register>
       <register name="p" type="4">
         <keys>
