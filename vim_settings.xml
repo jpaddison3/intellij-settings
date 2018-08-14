@@ -150,6 +150,10 @@
         <mark key="." line="31" column="6" />
         <mark key="^" line="31" column="6" />
       </file>
+      <file name="$USER_HOME$/cea/centreforeffectivealtruism-org/lib/metalsmith/plugins/process-contentful-metadata.js" timestamp="1534283744898">
+        <mark key="[" line="32" column="0" />
+        <mark key="]" line="36" column="6" />
+      </file>
       <file name="$USER_HOME$/Documents/cea/Forum/Forum/packages/lesswrong/components/posts/PostsPage.jsx" timestamp="1532115688140">
         <mark key="'" line="69" column="5" />
         <mark key="[" line="257" column="0" />
@@ -707,7 +711,7 @@
         <text encoding="base64">XDxNYXRjaFBlcnNvbk1vZGFsXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIC8vIFRPRE8gc2hvdWxkIHRoaXMgYmUgdW5kZXIgcGF5cm9sbF9naXZpbmcK</text>
+        <text encoding="base64">ICAgICAgLy8gY29uY2F0IGJvZHkgb3ZlcmZsb3cgaW50byBtYWluIGNvbnRlbnQgZmllbGQKICAgICAgaWYgKG1ldGEuYm9keTIpIHsKICAgICAgICBtZXRhLmNvbnRlbnRzID0gbWV0YS5jb250ZW50cyArICdcblxuJyArIG1ldGEuYm9keTIKICAgICAgICBkZWxldGUgbWV0YS5ib2R5MgogICAgICB9Cg==</text>
       </register>
       <register name="p" type="4">
         <keys>
@@ -750,7 +754,7 @@
         <text encoding="base64">ICBjb25zb2xlLndhcm4oJ25lZWQgdG8gY3VycnkgZnVuY3Rpb24gb3Igc29tZXRoaW5nJykgLy8gVE9ETwo=</text>
       </register>
       <register name=":" type="4">
-        <text>action FindInPath</text>
+        <text>action GotoFile</text>
       </register>
     </registers>
     <search>
@@ -802,10 +806,10 @@
         <entry>action GotoDeclaration</entry>
         <entry>action CommentByLineComment</entry>
         <entry>w!</entry>
-        <entry>action GotoFile</entry>
-        <entry>action NextSplitter</entry>
-        <entry>action SplitVertically</entry>
         <entry>action FindInPath</entry>
+        <entry>action SplitVertically</entry>
+        <entry>action NextSplitter</entry>
+        <entry>action GotoFile</entry>
       </history-cmd>
       <history-expr />
       <history-input />
