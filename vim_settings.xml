@@ -400,11 +400,12 @@
         <mark key="." line="75" column="19" />
         <mark key="^" line="75" column="19" />
       </file>
-      <file name="$USER_HOME$/cea/parfit/README.md" timestamp="1534272456968">
-        <mark key="[" line="52" column="66" />
-        <mark key="]" line="52" column="66" />
-        <mark key="^" line="52" column="66" />
-        <mark key="." line="52" column="66" />
+      <file name="$USER_HOME$/cea/parfit/README.md" timestamp="1534292773660">
+        <mark key="'" line="54" column="24" />
+        <mark key="[" line="141" column="77" />
+        <mark key="]" line="141" column="77" />
+        <mark key="^" line="141" column="77" />
+        <mark key="." line="141" column="77" />
       </file>
       <file name="$USER_HOME$/Documents/cea/Forum/recruitment/stageUpdated.js" timestamp="1532040905693">
         <mark key="'" line="54" column="20" />
@@ -444,8 +445,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="231" column="25" filename="$USER_HOME$/Documents/cea/aletheia/app/containers/Admin/AdminPayrollGiving/index.jsx" />
-      <jump line="311" column="6" filename="$USER_HOME$/Documents/cea/aletheia/app/containers/Admin/AdminPayrollGiving/index.jsx" />
       <jump line="1" column="12" filename="$USER_HOME$/Documents/cea/aletheia/app/containers/Admin/AdminPayrollGiving/index.jsx" />
       <jump line="134" column="19" filename="$USER_HOME$/Documents/cea/aletheia/app/containers/Admin/AdminPayrollGiving/index.jsx" />
       <jump line="210" column="6" filename="$USER_HOME$/Documents/cea/aletheia/app/containers/Admin/AdminPayrollGiving/index.jsx" />
@@ -544,6 +543,8 @@
       <jump line="62" column="8" filename="$USER_HOME$/Documents/cea/aletheia/app/containers/Admin/AdminPayrollGiving/Providers/benevity.js" />
       <jump line="1" column="13" filename="$USER_HOME$/Documents/cea/aletheia/app/containers/Admin/AdminPayrollGiving/Providers/benevity.js" />
       <jump line="315" column="7" filename="$USER_HOME$/Documents/cea/aletheia/app/containers/Admin/AdminPayrollGiving/index.jsx" />
+      <jump line="30" column="20" filename="$USER_HOME$/cea/parfit/README.md" />
+      <jump line="54" column="24" filename="$USER_HOME$/cea/parfit/README.md" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -717,7 +718,7 @@
         <text encoding="base64">ICA=</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxNYXRjaFBlcnNvbk1vZGFsXD4=</text>
+        <text>assumes</text>
       </register>
       <register name="0" type="4">
         <text>CREATE EXTENSION IF NOT EXISTS &quot;plv8&quot;;</text>
@@ -763,13 +764,13 @@
         <text encoding="base64">ICAgICAgY29uc3QgbWV0YWRhdGEgPSBhd2FpdCBiZW5ldml0eUV4dHJhY3RNZXRhZGF0YShwYXJ0c1sxXSkK</text>
       </register>
       <register name=":" type="4">
-        <text>action FindInPath</text>
+        <text>w!</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxNYXRjaFBlcnNvbk1vZGFsXD4=</last-search>
+      <last-search>assumes</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxNYXRjaFBlcnNvbk1vZGFsXD4=</last-pattern>
+      <last-pattern>assumes</last-pattern>
       <last-replace>pledges</last-replace>
       <last-substitute>payments</last-substitute>
       <last-dir>1</last-dir>
@@ -777,7 +778,6 @@
     </search>
     <history>
       <history-search>
-        <entry>onParseError</entry>
         <entry encoding="base64">XDxoYW5kbGVEcm9wem9uZVBhcnNlRXJyb3JcPg==</entry>
         <entry>parts</entry>
         <entry encoding="base64">XDxvblBhcnNlRXJyb3JcPg==</entry>
@@ -797,6 +797,7 @@
         <entry encoding="base64">XDxTZXRcPg==</entry>
         <entry encoding="base64">XDxNYXBcPg==</entry>
         <entry encoding="base64">XDxNYXRjaFBlcnNvbk1vZGFsXD4=</entry>
+        <entry>assumes</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz53IQ==</entry>
@@ -814,11 +815,11 @@
         <entry>%s/payments/pledges/g</entry>
         <entry>action GotoDeclaration</entry>
         <entry>action CommentByLineComment</entry>
-        <entry>w!</entry>
         <entry>action SplitVertically</entry>
         <entry>action NextSplitter</entry>
         <entry>action GotoFile</entry>
         <entry>action FindInPath</entry>
+        <entry>w!</entry>
       </history-cmd>
       <history-expr />
       <history-input />
