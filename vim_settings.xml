@@ -400,12 +400,12 @@
         <mark key="." line="75" column="19" />
         <mark key="^" line="75" column="19" />
       </file>
-      <file name="$USER_HOME$/cea/parfit/README.md" timestamp="1534292773660">
-        <mark key="'" line="54" column="24" />
-        <mark key="[" line="141" column="77" />
-        <mark key="]" line="141" column="77" />
-        <mark key="^" line="141" column="77" />
-        <mark key="." line="141" column="77" />
+      <file name="$USER_HOME$/cea/parfit/README.md" timestamp="1534298272392">
+        <mark key="'" line="53" column="0" />
+        <mark key="[" line="83" column="116" />
+        <mark key="]" line="83" column="116" />
+        <mark key="^" line="83" column="116" />
+        <mark key="." line="83" column="116" />
       </file>
       <file name="$USER_HOME$/Documents/cea/Forum/recruitment/stageUpdated.js" timestamp="1532040905693">
         <mark key="'" line="54" column="20" />
@@ -445,12 +445,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1" column="12" filename="$USER_HOME$/Documents/cea/aletheia/app/containers/Admin/AdminPayrollGiving/index.jsx" />
-      <jump line="134" column="19" filename="$USER_HOME$/Documents/cea/aletheia/app/containers/Admin/AdminPayrollGiving/index.jsx" />
-      <jump line="210" column="6" filename="$USER_HOME$/Documents/cea/aletheia/app/containers/Admin/AdminPayrollGiving/index.jsx" />
-      <jump line="232" column="23" filename="$USER_HOME$/Documents/cea/aletheia/app/containers/Admin/AdminPayrollGiving/index.jsx" />
-      <jump line="317" column="0" filename="$USER_HOME$/Documents/cea/aletheia/app/containers/Admin/AdminPayrollGiving/index.jsx" />
-      <jump line="0" column="0" filename="$USER_HOME$/Documents/cea/aletheia/app/containers/Admin/AdminPayrollGiving/index.jsx" />
       <jump line="10" column="0" filename="$USER_HOME$/Documents/cea/aletheia/app/containers/Admin/AdminPayrollGiving/index.jsx" />
       <jump line="14" column="0" filename="$USER_HOME$/Documents/cea/aletheia/app/containers/Admin/AdminPayrollGiving/index.jsx" />
       <jump line="24" column="0" filename="$USER_HOME$/Documents/cea/aletheia/app/containers/Admin/AdminPayrollGiving/index.jsx" />
@@ -545,6 +539,12 @@
       <jump line="315" column="7" filename="$USER_HOME$/Documents/cea/aletheia/app/containers/Admin/AdminPayrollGiving/index.jsx" />
       <jump line="30" column="20" filename="$USER_HOME$/cea/parfit/README.md" />
       <jump line="54" column="24" filename="$USER_HOME$/cea/parfit/README.md" />
+      <jump line="161" column="0" filename="$USER_HOME$/cea/parfit/README.md" />
+      <jump line="301" column="0" filename="$USER_HOME$/cea/parfit/README.md" />
+      <jump line="304" column="380" filename="$USER_HOME$/cea/parfit/README.md" />
+      <jump line="374" column="7" filename="$USER_HOME$/cea/parfit/README.md" />
+      <jump line="49" column="4" filename="$USER_HOME$/cea/parfit/README.md" />
+      <jump line="53" column="0" filename="$USER_HOME$/cea/parfit/README.md" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -715,13 +715,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICA=</text>
+        <text>@9.6</text>
       </register>
       <register name="/" type="4">
-        <text>assumes</text>
+        <text>postgis</text>
       </register>
       <register name="0" type="4">
-        <text>CREATE EXTENSION IF NOT EXISTS &quot;plv8&quot;;</text>
+        <text>depends_on &quot;postgresql@9.6&quot;</text>
       </register>
       <register name="p" type="4">
         <keys>
@@ -768,9 +768,9 @@
       </register>
     </registers>
     <search>
-      <last-search>assumes</last-search>
+      <last-search>postgis</last-search>
       <last-offset />
-      <last-pattern>assumes</last-pattern>
+      <last-pattern>postgis</last-pattern>
       <last-replace>pledges</last-replace>
       <last-substitute>payments</last-substitute>
       <last-dir>1</last-dir>
@@ -778,8 +778,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxoYW5kbGVEcm9wem9uZVBhcnNlRXJyb3JcPg==</entry>
-        <entry>parts</entry>
         <entry encoding="base64">XDxvblBhcnNlRXJyb3JcPg==</entry>
         <entry encoding="base64">XDxoYW5kbGVGaWxlUGFyc2VkXD4=</entry>
         <entry encoding="base64">XDxjc3ZGaWxlXD4=</entry>
@@ -798,6 +796,8 @@
         <entry encoding="base64">XDxNYXBcPg==</entry>
         <entry encoding="base64">XDxNYXRjaFBlcnNvbk1vZGFsXD4=</entry>
         <entry>assumes</entry>
+        <entry>gis</entry>
+        <entry>postgis</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz53IQ==</entry>
