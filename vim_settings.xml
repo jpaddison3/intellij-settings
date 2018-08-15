@@ -80,11 +80,11 @@
         <mark key="." line="84" column="0" />
         <mark key="^" line="84" column="21" />
       </file>
-      <file name="$USER_HOME$/Documents/dotfiles/bashrc.bash" timestamp="1534372784883">
-        <mark key="[" line="36" column="76" />
-        <mark key="]" line="37" column="0" />
-        <mark key="^" line="37" column="0" />
-        <mark key="." line="37" column="0" />
+      <file name="$USER_HOME$/Documents/dotfiles/bashrc.bash" timestamp="1534373663042">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="^" line="16" column="28" />
+        <mark key="." line="12" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/cea/predictive-altruism/packages/predictive-altruism/lib/modules/index.js" timestamp="1531616766898">
         <mark key="[" line="2" column="21" />
@@ -230,7 +230,6 @@
         <mark key="." line="42" column="76" />
         <mark key="^" line="42" column="76" />
       </file>
-      <file name="$USER_HOME$/cea/centreforeffectivealtruism-org/src/layouts/post.pug" timestamp="1534276838499" />
       <file name="$USER_HOME$/Documents/cea/aletheia/app/components/PaymentEntry/index.jsx" timestamp="1533335926229">
         <mark key="'" line="135" column="11" />
         <mark key="[" line="189" column="30" />
@@ -297,7 +296,6 @@
         <mark key="." line="41" column="0" />
         <mark key="^" line="28" column="44" />
       </file>
-      <file name="$USER_HOME$/cea/centreforeffectivealtruism-org/src/layouts/page.pug" timestamp="1534276767187" />
       <file name="$USER_HOME$/Documents/cea/predictive-altruism/packages/predictive-altruism/lib/components/movies/Question.jsx" timestamp="1531614638857">
         <mark key="[" line="20" column="39" />
         <mark key="]" line="20" column="39" />
@@ -369,7 +367,6 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/cea/parfit/package.json" timestamp="1534372665484" />
       <file name="$USER_HOME$/Documents/cea/parfit/silly.json" timestamp="1533682614815">
         <mark key="[" line="118" column="1" />
         <mark key="]" line="118" column="1" />
@@ -722,7 +719,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>@9.6</text>
+        <text encoding="base64">IC0gbmVlZHMgd29yaw==</text>
       </register>
       <register name="/" type="4">
         <text>tests</text>
@@ -741,37 +738,37 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">cG9zdGdyZXMK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text encoding="base64">IyBIaWRkZW4gYXJ0aWZhY3RvcnkgY3JlZGVudGlhbHMKaWYgWyAtZiB+Ly5jb25maWcvYXJ0aWZhY3RvcnlfZW52YXIgXTsgdGhlbiAuIH4vLmNvbmZpZy9hcnRpZmFjdG9yeV9lbnZhcjsgZmkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB7IU1hdGNoZWRQZXJzb24gJiYgfQo=</text>
+        <text encoding="base64">I0BJZ25vcmVJbnNwZWN0aW9uIEJhc2hBZGRTaGViYW5nCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAvLyBjb25zdCB7ZGlzYnVyc2VtZW50fSA9IG1ldGFkYXRhCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBjb24K</text>
+        <text encoding="base64">ZXhwb3J0IE5WTV9ESVI9IiRIT01FLy5udm0iClsgLXMgIiROVk1fRElSL252bS5zaCIgXSAmJiBcLiAiJE5WTV9ESVIvbnZtLnNoIiAgIyBUaGlzIGxvYWRzIG52bQpbIC1zICIkTlZNX0RJUi9iYXNoX2NvbXBsZXRpb24iIF0gJiYgXC4gIiROVk1fRElSL2Jhc2hfY29tcGxldGlvbiIgICMgVGhpcyBsb2FkcyBudm0gYmFzaF9jb21wbGV0aW9uCgo=</text>
       </register>
       <register name="u" type="4">
         <text>uu</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGlmIHJvdwo=</text>
-      </register>
-      <register name="7" type="4">
-        <text>parts[1]</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">IyBDVURBIEdQVQpleHBvcnQgUEFUSD0kUEFUSDovRGV2ZWxvcGVyL05WSURJQS9DVURBLTguMC9iaW4KRVhUUkFfTEQ9L0RldmVsb3Blci9OVklESUEvQ1VEQS04LjAvbGliOi9EZXZlbG9wZXIvTlZJRElBL2N1ZG5uCmV4cG9ydCBEWUxEX0xJQlJBUllfUEFUSD0kRFlMRF9MSUJSQVJZX1BBVEg6JEVYVFJBX0xECmV4cG9ydCBMRF9MSUJSQVJZX1BBVEg9JExEX0xJQlJBUllfUEFUSDokRVhUUkFfTEQK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">IyBMYXRleApleHBvcnQgUEFUSD0kUEFUSDovTGlicmFyeS9UZVgvdGV4YmluCgo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgY29uc3QgbWV0YWRhdGEgPSBhd2FpdCBiZW5ldml0eUV4dHJhY3RNZXRhZGF0YShwYXJ0c1sxXSkK</text>
+        <text encoding="base64">IyBHREFMCmV4cG9ydCBQUk9KU089L0xpYnJhcnkvRnJhbWV3b3Jrcy9QUk9KLmZyYW1ld29yay9QUk9KCmV4cG9ydCBHREFMX0RBVEE9L1VzZXJzL2pwYWRkaXNvbi9Eb2N1bWVudHMvTXJTSURfRFNESy05LjEuMC40MDQ1LWRhcndpbjEzLnVuaXZlcnNhbC5jbGFuZzUxL1Jhc3Rlcl9EU0RLLzNyZC1wYXJ0eS9zaGFyZS9nZGFsCgo=</text>
       </register>
       <register name=":" type="4">
-        <text>action GotoFile</text>
+        <text>w!</text>
       </register>
     </registers>
     <search>
@@ -824,9 +821,9 @@
         <entry>action CommentByLineComment</entry>
         <entry>action SplitVertically</entry>
         <entry>action FindInPath</entry>
-        <entry>w!</entry>
-        <entry>action NextSplitter</entry>
         <entry>action GotoFile</entry>
+        <entry>action NextSplitter</entry>
+        <entry>w!</entry>
       </history-cmd>
       <history-expr />
       <history-input />
