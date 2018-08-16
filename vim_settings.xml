@@ -120,11 +120,11 @@
         <mark key="." line="33" column="32" />
         <mark key="^" line="27" column="30" />
       </file>
-      <file name="$USER_HOME$/cea/aletheia/app/models/People/index.js" timestamp="1534381954263">
-        <mark key="'" line="59" column="18" />
-        <mark key="[" line="59" column="2" />
-        <mark key="]" line="59" column="19" />
-        <mark key="." line="59" column="2" />
+      <file name="$USER_HOME$/cea/aletheia/app/models/People/index.js" timestamp="1534385900138">
+        <mark key="'" line="114" column="0" />
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="25" column="0" />
+        <mark key="." line="25" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/cea/Forum/Forum/packages/lesswrong/components/users/UsersAccountMenu.jsx" timestamp="1531336158529">
         <mark key="'" line="44" column="22" />
@@ -158,12 +158,12 @@
         <mark key="^" line="31" column="13" />
         <mark key="." line="31" column="13" />
       </file>
-      <file name="$USER_HOME$/cea/aletheia/app/containers/Admin/index.jsx" timestamp="1534382598276">
-        <mark key="'" line="11" column="8" />
-        <mark key="[" line="51" column="8" />
-        <mark key="]" line="50" column="9" />
-        <mark key="^" line="50" column="9" />
-        <mark key="." line="51" column="9" />
+      <file name="$USER_HOME$/cea/aletheia/app/containers/Admin/index.jsx" timestamp="1534385895278">
+        <mark key="'" line="70" column="0" />
+        <mark key="[" line="101" column="0" />
+        <mark key="]" line="101" column="0" />
+        <mark key="^" line="100" column="10" />
+        <mark key="." line="101" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/cea/aletheia/app/containers/Admin/AdminPayrollGiving/Providers/index.js" timestamp="1533947240894">
         <mark key="'" line="16" column="19" />
@@ -466,10 +466,10 @@
         <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/cea/aletheia/app/models/Payments/schema.js" timestamp="1534375791592">
-        <mark key="'" line="82" column="0" />
-        <mark key="[" line="82" column="0" />
-        <mark key="]" line="82" column="0" />
-        <mark key="." line="82" column="0" />
+        <mark key="'" line="118" column="0" />
+        <mark key="[" line="118" column="0" />
+        <mark key="]" line="118" column="0" />
+        <mark key="." line="118" column="0" />
       </file>
       <file name="$USER_HOME$/cea/aletheia/app/models/Auth/mutations/checkPasswordResetToken.gql" timestamp="1534382642076">
         <mark key="[" line="0" column="45" />
@@ -516,14 +516,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="107" column="47" filename="$USER_HOME$/Documents/cea/aletheia/app/containers/Admin/AdminPayrollGiving/DropZone.jsx" />
-      <jump line="252" column="8" filename="$USER_HOME$/Documents/cea/aletheia/app/containers/Admin/AdminPayrollGiving/index.jsx" />
-      <jump line="94" column="3" filename="$USER_HOME$/Documents/cea/aletheia/app/containers/Admin/AdminPayrollGiving/DropZone.jsx" />
-      <jump line="60" column="6" filename="$USER_HOME$/Documents/cea/aletheia/app/containers/Admin/AdminPayrollGiving/DropZone.jsx" />
-      <jump line="156" column="9" filename="$USER_HOME$/Documents/cea/aletheia/app/containers/Admin/AdminPayrollGiving/index.jsx" />
-      <jump line="92" column="22" filename="$USER_HOME$/Documents/cea/aletheia/app/containers/Admin/AdminPayrollGiving/index.jsx" />
-      <jump line="93" column="11" filename="$USER_HOME$/Documents/cea/aletheia/app/containers/Admin/AdminPayrollGiving/index.jsx" />
-      <jump line="106" column="20" filename="$USER_HOME$/Documents/cea/aletheia/app/containers/Admin/AdminPayrollGiving/index.jsx" />
       <jump line="34" column="0" filename="$USER_HOME$/Documents/cea/aletheia/app/containers/Admin/AdminPayrollGiving/index.jsx" />
       <jump line="73" column="9" filename="$USER_HOME$/Documents/cea/aletheia/app/containers/Admin/AdminPayrollGiving/index.jsx" />
       <jump line="105" column="8" filename="$USER_HOME$/Documents/cea/aletheia/app/containers/Admin/AdminPayrollGiving/index.jsx" />
@@ -616,6 +608,14 @@
       <jump line="0" column="0" filename="$USER_HOME$/cea/aletheia/app/containers/StaticPage/FundsHome/index.jsx" />
       <jump line="67" column="9" filename="$USER_HOME$/cea/aletheia/app/models/Payments/index.js" />
       <jump line="49" column="16" filename="$USER_HOME$/cea/aletheia/app/models/Payments/index.js" />
+      <jump line="24" column="37" filename="$USER_HOME$/cea/aletheia/app/models/People/index.js" />
+      <jump line="114" column="0" filename="$USER_HOME$/cea/aletheia/app/models/People/index.js" />
+      <jump line="39" column="17" filename="$USER_HOME$/cea/aletheia/app/containers/Admin/index.jsx" />
+      <jump line="121" column="0" filename="$USER_HOME$/cea/aletheia/app/containers/Admin/index.jsx" />
+      <jump line="120" column="0" filename="$USER_HOME$/cea/aletheia/app/containers/Admin/index.jsx" />
+      <jump line="113" column="0" filename="$USER_HOME$/cea/aletheia/app/containers/Admin/index.jsx" />
+      <jump line="107" column="0" filename="$USER_HOME$/cea/aletheia/app/containers/Admin/index.jsx" />
+      <jump line="70" column="0" filename="$USER_HOME$/cea/aletheia/app/containers/Admin/index.jsx" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -805,34 +805,34 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIC8vIFRPRE86IFRoaXMgZGVuaWVzIGFueW9uZSB3aG8gaXMgb25seSBhIHBsZWRnZSBtYW5hZ2VyCiAgICBjb25zb2xlLmxvZygnUGxlZGdlcycsICkK</text>
+        <text encoding="base64">Pj4+Pj4+PiBkZXYK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIC8vIFRPRE86IFRoaXMgZGVuaWVzIGFueW9uZSB3aG8gaXMgb25seSBhIHBsZWRnZSBtYW5hZ2VyCiAgICByZXR1cm4gPEF1dGgK</text>
+        <text encoding="base64">PT09PT09PQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdQbGVkZ2VzJywgKQo=</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Pj4+Pj4+PiBkZXYK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">LS0gQUxURVIgVFlQRSBwYXltZW50cy5wYXltZW50X2dhdGV3YXkgQUREIFZBTFVFIElGIE5PVCBFWElTVFMgJ3BheXJvbGxfZ2l2aW5nJyA7Cg==</text>
+        <text encoding="base64">ICAgIDwvQXV0aD4pCj09PT09PT0K</text>
       </register>
       <register name="u" type="4">
         <text>uu</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">LS0gVE9ETyAtIGFkZCB0byBleGlzdGluZyBFTlVNIGFuZCBydW4gb24gc3RhZ2luZy9wcm9kdWN0aW9uCg==</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Pj4+Pj4+PiBkZXYK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
+        <text encoding="base64">PT09PT09PQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">PT09PT09PQo=</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
       </register>
       <register name=":" type="4">
         <text>w!</text>
@@ -887,9 +887,9 @@
         <entry encoding="base64">JzwsJz5zL3BheW1lbnRzL3BsZWRnZXMvZw==</entry>
         <entry encoding="base64">JzwsJz5zL1BheW1lbnRzL1BsZWRnZXMvZ2M=</entry>
         <entry>action NewFile</entry>
-        <entry>action NextSplitter</entry>
         <entry>action FindInPath</entry>
         <entry>action GotoFile</entry>
+        <entry>action NextSplitter</entry>
         <entry>w!</entry>
       </history-cmd>
       <history-expr />
