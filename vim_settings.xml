@@ -127,11 +127,11 @@
         <mark key="^" line="36" column="61" />
         <mark key="." line="36" column="58" />
       </file>
-      <file name="$USER_HOME$/cea/aletheia/app/components/utilities/PrettyDate.jsx" timestamp="1534449516220">
-        <mark key="[" line="5" column="66" />
-        <mark key="]" line="5" column="75" />
-        <mark key="." line="5" column="75" />
-        <mark key="^" line="5" column="75" />
+      <file name="$USER_HOME$/cea/aletheia/app/components/utilities/PrettyDate.jsx" timestamp="1534455740220">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+        <mark key="^" line="4" column="75" />
       </file>
       <file name="$USER_HOME$/Documents/cea/aletheia/app/models/Payments/index.js" timestamp="1533344533966">
         <mark key="[" line="8" column="4" />
@@ -291,13 +291,13 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/cea/aletheia/app/containers/AdminPerson/index.jsx" timestamp="1534449672057">
+      <file name="$USER_HOME$/cea/aletheia/app/containers/AdminPerson/index.jsx" timestamp="1534455613698">
         <mark key="a" line="89" column="11" />
-        <mark key="'" line="139" column="77" />
-        <mark key="[" line="139" column="79" />
-        <mark key="]" line="139" column="81" />
-        <mark key="^" line="139" column="81" />
-        <mark key="." line="139" column="81" />
+        <mark key="'" line="142" column="94" />
+        <mark key="[" line="142" column="78" />
+        <mark key="]" line="142" column="79" />
+        <mark key="^" line="141" column="28" />
+        <mark key="." line="142" column="79" />
       </file>
       <file name="$USER_HOME$/Documents/cea/Forum/Forum/packages/lesswrong/components/common/NavigationMenu.jsx" timestamp="1532387949418">
         <mark key="[" line="18" column="0" />
@@ -619,8 +619,8 @@
       <jump line="9" column="21" filename="$USER_HOME$/cea/aletheia/app/components/utilities/PrettyDate.jsx" />
       <jump line="193" column="41" filename="$USER_HOME$/cea/aletheia/app/containers/Dashboard/DashboardPledge/PledgeSummary.jsx" />
       <jump line="196" column="62" filename="$USER_HOME$/cea/aletheia/app/containers/Dashboard/DashboardPledge/PledgeSummary.jsx" />
-      <jump line="142" column="39" filename="$USER_HOME$/cea/aletheia/app/containers/AdminPerson/index.jsx" />
       <jump line="139" column="77" filename="$USER_HOME$/cea/aletheia/app/containers/AdminPerson/index.jsx" />
+      <jump line="142" column="94" filename="$USER_HOME$/cea/aletheia/app/containers/AdminPerson/index.jsx" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -791,7 +791,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICA=</text>
+        <text>div</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxQcmV0dHlEYXRlXD4=</text>
@@ -809,35 +809,35 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="1" type="4">
-        <text>{}</text>
+      <register name="1" type="2">
+        <text encoding="base64">Ly8gRXhwZWN0cyBhIG1vbWVudCBvYmplY3Qgb3IgJ0luZmluaXR5Jwo=</text>
       </register>
       <register name="2" type="4">
+        <text>{}</text>
+      </register>
+      <register name="3" type="4">
+        <text>PrettyDate(Pledge.endDate)</text>
+      </register>
+      <register name="4" type="4">
+        <text>{}</text>
+      </register>
+      <register name="5" type="4">
         <text>PrettyDate(Pledge.startDate)</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8UHJldHR5RGF0ZSB2YWx1ZT17UGxlZGdlLnN0YXJ0RGF0ZX0vPiAtIDxQcmV0dHlEYXRlIHZhbHVlPXtQbGVkZ2UuZW5kRGF0ZX0vPgo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICBpZiAodmFsdWUgPT09IEluZmluaXR5KSB7CiAgICByZXR1cm4gPGVtPkxpZmV0aW1lIFBsZWRnZTwvZW0+CiAgfQo=</text>
       </register>
       <register name="u" type="4">
         <text>uu</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZygncGQgdmFsdWUnLCB2YWx1ZSkKICBjb25zb2xlLmxvZygncGQgdHlwZW9mJywgdHlwZW9mIHZhbHVlKQo=</text>
+      <register name="6" type="4">
+        <text>{}</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdyZXR1cm4gaW5mJykK</text>
+      <register name="7" type="4">
+        <text>PrettyDate(Pledge.startDate)</text>
       </register>
-      <register name="8" type="4">
-        <text>''</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8UHJldHR5RGF0ZSB2YWx1ZT17UGxlZGdlLnN0YXJ0RGF0ZX0vPiAtIDxQcmV0dHlEYXRlIHZhbHVlPXtQbGVkZ2UuZW5kRGF0ZX0vPgo=</text>
       </register>
-      <register name="9" type="4">
-        <text>Infinity</text>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w!</text>
