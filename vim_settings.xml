@@ -272,6 +272,9 @@
         <mark key="[" line="9" column="0" />
         <mark key="]" line="9" column="56" />
       </file>
+      <file name="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/Layout.jsx" timestamp="1534467860662">
+        <mark key="'" line="59" column="32" />
+      </file>
       <file name="$USER_HOME$/Documents/cea/aletheia/app/components/PaymentEntry/index.jsx" timestamp="1533335926229">
         <mark key="'" line="135" column="11" />
         <mark key="[" line="189" column="30" />
@@ -438,6 +441,9 @@
         <mark key="]" line="118" column="1" />
         <mark key="." line="118" column="1" />
       </file>
+      <file name="$USER_HOME$/cea/aletheia/app/models/Payments/queries/allPledgesManagers.gql" timestamp="1534375319713">
+        <mark key="'" line="0" column="9" />
+      </file>
       <file name="$USER_HOME$/Documents/cea/Forum/Forum/packages/lesswrong/server/cors.js" timestamp="1532733805226">
         <mark key="[" line="0" column="46" />
         <mark key="]" line="0" column="46" />
@@ -519,8 +525,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="127" column="11" filename="$USER_HOME$/Documents/cea/aletheia/app/containers/Admin/AdminPayrollGiving/index.jsx" />
-      <jump line="141" column="15" filename="$USER_HOME$/Documents/cea/aletheia/app/containers/Admin/AdminPayrollGiving/index.jsx" />
       <jump line="86" column="16" filename="$USER_HOME$/Documents/cea/aletheia/app/containers/Admin/AdminPayrollGiving/DropZone.jsx" />
       <jump line="118" column="24" filename="$USER_HOME$/Documents/cea/aletheia/app/containers/Admin/AdminPayrollGiving/DropZone.jsx" />
       <jump line="81" column="9" filename="$USER_HOME$/Documents/cea/aletheia/app/containers/Admin/AdminPayrollGiving/DropZone.jsx" />
@@ -619,6 +623,8 @@
       <jump line="196" column="62" filename="$USER_HOME$/cea/aletheia/app/containers/Dashboard/DashboardPledge/PledgeSummary.jsx" />
       <jump line="139" column="77" filename="$USER_HOME$/cea/aletheia/app/containers/AdminPerson/index.jsx" />
       <jump line="142" column="94" filename="$USER_HOME$/cea/aletheia/app/containers/AdminPerson/index.jsx" />
+      <jump line="2" column="16" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/Layout.jsx" />
+      <jump line="59" column="32" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/Layout.jsx" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -792,7 +798,7 @@
         <text>div</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxQcmV0dHlEYXRlXD4=</text>
+        <text encoding="base64">XDxDb21wb25lbnRcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgIHsoUGxlZGdlLmVuZERhdGUgPT09IEluZmluaXR5KQogICAgICAgICAgICA/IDxkaXY+CiAgICAgICAgICAgICAgTGlmZXRpbWUgUGxlZGdlIChzdGFydGluZyB7cHJldHR5RGF0ZShQbGVkZ2Uuc3RhcnREYXRlKX0pCiAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICA6IDxkaXY+CiAgICAgICAgICAgICAgUGxlZGdpbmcgZnJvbSB7cHJldHR5RGF0ZShQbGVkZ2Uuc3RhcnREYXRlKX0gLSB7cHJldHR5RGF0ZShQbGVkZ2UuZW5kRGF0ZSl9Cg==</text>
@@ -838,13 +844,13 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>w!</text>
+        <text>action GotoFile</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxQcmV0dHlEYXRlXD4=</last-search>
+      <last-search encoding="base64">XDxDb21wb25lbnRcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxQcmV0dHlEYXRlXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxDb21wb25lbnRcPg==</last-pattern>
       <last-replace>Pledges</last-replace>
       <last-substitute encoding="base64">XDxkaXZcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -852,7 +858,6 @@
     </search>
     <history>
       <history-search>
-        <entry>gis</entry>
         <entry>postgis</entry>
         <entry>tests</entry>
         <entry>Payments</entry>
@@ -872,6 +877,7 @@
         <entry encoding="base64">XDxhcHBseUdpZnRBaWRQcm9jZXNzaW5nXD4=</entry>
         <entry encoding="base64">XDxwcmV0dHlEYXRlXD4=</entry>
         <entry encoding="base64">XDxQcmV0dHlEYXRlXD4=</entry>
+        <entry encoding="base64">XDxDb21wb25lbnRcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>144</entry>
@@ -888,12 +894,12 @@
         <entry>%s/Payments/Pledges/g</entry>
         <entry encoding="base64">JzwsJz5zL3BheW1lbnRzL3BsZWRnZXMvZw==</entry>
         <entry encoding="base64">JzwsJz5zL1BheW1lbnRzL1BsZWRnZXMvZ2M=</entry>
-        <entry>action NewFile</entry>
-        <entry>action SplitVertically</entry>
         <entry>action FindInPath</entry>
         <entry>action NextSplitter</entry>
-        <entry>action GotoFile</entry>
         <entry>w!</entry>
+        <entry>action NewFile</entry>
+        <entry>action SplitVertically</entry>
+        <entry>action GotoFile</entry>
       </history-cmd>
       <history-expr />
       <history-input />
