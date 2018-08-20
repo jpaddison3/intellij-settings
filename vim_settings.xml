@@ -59,7 +59,7 @@
         <mark key="[" line="21" column="12" />
         <mark key="]" line="21" column="18" />
       </file>
-      <file name="$USER_HOME$/cea/Forum/Forum/package.json" timestamp="1534527513895">
+      <file name="$USER_HOME$/cea/Forum/Forum/package.json" timestamp="1534793801940">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="17" column="0" />
         <mark key="]" line="17" column="0" />
@@ -111,6 +111,11 @@
         <mark key="]" line="31" column="13" />
         <mark key="^" line="31" column="13" />
         <mark key="." line="31" column="13" />
+      </file>
+      <file name="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/cors.js" timestamp="1534794191407">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/cea/parfit/migrations/20180502113445_giftaid_reporting_up.sql" timestamp="1533776861278">
         <mark key="[" line="77" column="0" />
@@ -204,7 +209,7 @@
         <mark key="." line="48" column="63" />
         <mark key="^" line="47" column="55" />
       </file>
-      <file name="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/editor/utils.js" timestamp="1534545848592">
+      <file name="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/editor/utils.js" timestamp="1534794472917">
         <mark key="'" line="47" column="15" />
         <mark key="[" line="59" column="52" />
         <mark key="]" line="61" column="18" />
@@ -650,37 +655,37 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Y29uc3QgYWxsb3dDb3JzSG9zdCA9IGdldFNldHRpbmcoJ2FsbG93ZWRDb3JzSG9zdCcpCgo=</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdleGVycHRUcmltTGluaycsIGV4Y2VycHRUcmltTGluaykK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBjb25zdCBleGNlcnB0ID0gUG9zdHMuY3JlYXRlRXhjZXJwdChib2R5KQo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdleGVycHRUcmltTGluaycsIGV4Y2VycHRUcmltTGluaykK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdhbG9naWxpYScsIGFsZ29saWFBcHBJZCwgYWxnb2xpYVNlYXJjaEtleSkK</text>
+        <text encoding="base64">ICBjb25zdCBleGNlcnB0ID0gUG9zdHMuY3JlYXRlRXhjZXJwdChib2R5KQo=</text>
       </register>
       <register name="u" type="4">
         <text>uu</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Y29uc29sZS5sb2coJ2dldFNldHRpbmcnLCBnZXRTZXR0aW5nKQpjb25zb2xlLmxvZygnc2V0dGluZycsIGdldFNldHRpbmcoJ0VBRm9ydW0nKSkKY29uc29sZS5sb2coJ2ZvcnVtVGhlbWUnLCBmb3J1bVRoZW1lKQo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdhbG9naWxpYScsIGFsZ29saWFBcHBJZCwgYWxnb2xpYVNlYXJjaEtleSkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Y29uc29sZS5sb2coJ3NldHRpbmcnLCBnZXRTZXR0aW5nKQo=</text>
+        <text encoding="base64">Y29uc29sZS5sb2coJ2dldFNldHRpbmcnLCBnZXRTZXR0aW5nKQpjb25zb2xlLmxvZygnc2V0dGluZycsIGdldFNldHRpbmcoJ0VBRm9ydW0nKSkKY29uc29sZS5sb2coJ2ZvcnVtVGhlbWUnLCBmb3J1bVRoZW1lKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZygnY2xhc3NlcycsIGNsYXNzZXMpCg==</text>
+        <text encoding="base64">Y29uc29sZS5sb2coJ3NldHRpbmcnLCBnZXRTZXR0aW5nKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IHsgd2l0aFN0eWxlcyB9IGZyb20gJ0BtYXRlcmlhbC11aS9jb3JlL3N0eWxlcyc7Cg==</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZygnY2xhc3NlcycsIGNsYXNzZXMpCg==</text>
       </register>
       <register name=":" type="4">
-        <text>action NextSplitter</text>
+        <text>action GotoFile</text>
       </register>
     </registers>
     <search>
@@ -732,10 +737,10 @@
         <entry>action CommentByLineComment</entry>
         <entry>72</entry>
         <entry>action FindInPath</entry>
-        <entry>action GotoFile</entry>
         <entry>action NewFile</entry>
         <entry>w!</entry>
         <entry>action NextSplitter</entry>
+        <entry>action GotoFile</entry>
       </history-cmd>
       <history-expr />
       <history-input />
