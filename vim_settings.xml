@@ -55,10 +55,6 @@
         <mark key="." line="39" column="0" />
         <mark key="^" line="7" column="18" />
       </file>
-      <file name="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/common/Header.jsx" timestamp="1534530224732">
-        <mark key="[" line="21" column="12" />
-        <mark key="]" line="21" column="18" />
-      </file>
       <file name="$USER_HOME$/cea/Forum/Forum/package.json" timestamp="1534793801940">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="17" column="0" />
@@ -150,12 +146,12 @@
         <mark key="." line="43" column="20" />
         <mark key="^" line="43" column="20" />
       </file>
-      <file name="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/posts/PostsViews.jsx" timestamp="1534888861918">
-        <mark key="'" line="109" column="36" />
-        <mark key="[" line="137" column="0" />
-        <mark key="]" line="137" column="0" />
-        <mark key="^" line="135" column="3" />
-        <mark key="." line="137" column="0" />
+      <file name="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/posts/PostsViews.jsx" timestamp="1534890588582">
+        <mark key="'" line="69" column="54" />
+        <mark key="[" line="169" column="15" />
+        <mark key="]" line="169" column="14" />
+        <mark key="^" line="169" column="14" />
+        <mark key="." line="169" column="14" />
       </file>
       <file name="$USER_HOME$/Documents/cea/Forum/Forum/packages/lesswrong/themes/forumTheme.js" timestamp="1532135174113">
         <mark key="[" line="0" column="0" />
@@ -191,8 +187,12 @@
         <mark key="]" line="31" column="6" />
         <mark key="." line="28" column="0" />
       </file>
-      <file name="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/Layout.jsx" timestamp="1534530848194">
-        <mark key="'" line="48" column="31" />
+      <file name="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/Layout.jsx" timestamp="1534890998149">
+        <mark key="'" line="20" column="6" />
+        <mark key="[" line="54" column="5" />
+        <mark key="]" line="56" column="50" />
+        <mark key="^" line="56" column="50" />
+        <mark key="." line="56" column="50" />
       </file>
       <file name="$USER_HOME$/cea/Forum/Forum/settings-prod.json" timestamp="1534533195779">
         <mark key="[" line="28" column="0" />
@@ -291,7 +291,7 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/common/Home.jsx" timestamp="1534888852028">
+      <file name="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/common/Home.jsx" timestamp="1534891054486">
         <mark key="'" line="93" column="9" />
       </file>
       <file name="$USER_HOME$/Documents/cea/parfit/silly.json" timestamp="1533682614815">
@@ -351,35 +351,28 @@
         <mark key="." line="49" column="22" />
         <mark key="^" line="49" column="22" />
       </file>
+      <file name="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/comments/recentDiscussionThread.jsx" timestamp="1534891174229">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="97" column="0" />
+        <mark key="]" line="97" column="0" />
+        <mark key="." line="97" column="0" />
+        <mark key="^" line="95" column="3" />
+      </file>
       <file name="$USER_HOME$/Documents/cea/parfit/.env" timestamp="1533607089340">
         <mark key="[" line="5" column="2" />
         <mark key="]" line="5" column="11" />
         <mark key="^" line="5" column="1" />
         <mark key="." line="5" column="2" />
       </file>
+      <file name="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/comments/recentDiscussionThreadsList.jsx" timestamp="1534891889566">
+        <mark key="'" line="7" column="2" />
+        <mark key="[" line="34" column="12" />
+        <mark key="]" line="34" column="18" />
+        <mark key="." line="34" column="18" />
+        <mark key="^" line="34" column="18" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="237" column="29" filename="$USER_HOME$/cea/aletheia/app/containers/AdminPerson/index.jsx" />
-      <jump line="10" column="64" filename="$USER_HOME$/cea/aletheia/app/containers/AdminPerson/index.jsx" />
-      <jump line="12" column="42" filename="$USER_HOME$/cea/aletheia/app/containers/AdminPerson/index.jsx" />
-      <jump line="13" column="40" filename="$USER_HOME$/cea/aletheia/app/containers/AdminPerson/index.jsx" />
-      <jump line="41" column="74" filename="$USER_HOME$/cea/aletheia/app/containers/AdminPerson/index.jsx" />
-      <jump line="42" column="6" filename="$USER_HOME$/cea/aletheia/app/containers/AdminPerson/index.jsx" />
-      <jump line="44" column="40" filename="$USER_HOME$/cea/aletheia/app/containers/AdminPerson/index.jsx" />
-      <jump line="47" column="20" filename="$USER_HOME$/cea/aletheia/app/containers/AdminPerson/index.jsx" />
-      <jump line="53" column="51" filename="$USER_HOME$/cea/aletheia/app/containers/AdminPerson/index.jsx" />
-      <jump line="54" column="31" filename="$USER_HOME$/cea/aletheia/app/containers/AdminPerson/index.jsx" />
-      <jump line="75" column="6" filename="$USER_HOME$/cea/aletheia/app/containers/AdminPerson/index.jsx" />
-      <jump line="80" column="6" filename="$USER_HOME$/cea/aletheia/app/containers/AdminPerson/index.jsx" />
-      <jump line="212" column="17" filename="$USER_HOME$/cea/aletheia/app/containers/AdminPerson/index.jsx" />
-      <jump line="88" column="13" filename="$USER_HOME$/cea/aletheia/app/containers/AdminPerson/index.jsx" />
-      <jump line="203" column="6" filename="$USER_HOME$/cea/aletheia/app/containers/AdminPerson/index.jsx" />
-      <jump line="2" column="29" filename="$USER_HOME$/cea/aletheia/app/containers/AdminPerson/index.jsx" />
-      <jump line="124" column="18" filename="$USER_HOME$/cea/aletheia/app/containers/AdminPerson/index.jsx" />
-      <jump line="89" column="45" filename="$USER_HOME$/cea/aletheia/app/containers/AdminPerson/index.jsx" />
-      <jump line="125" column="13" filename="$USER_HOME$/cea/aletheia/app/containers/AdminPerson/index.jsx" />
-      <jump line="79" column="6" filename="$USER_HOME$/cea/aletheia/app/containers/AdminPerson/index.jsx" />
-      <jump line="169" column="9" filename="$USER_HOME$/cea/aletheia/app/containers/AdminPerson/index.jsx" />
       <jump line="198" column="10" filename="$USER_HOME$/cea/aletheia/app/containers/AdminPerson/index.jsx" />
       <jump line="99" column="9" filename="$USER_HOME$/cea/aletheia/app/containers/AdminPerson/index.jsx" />
       <jump line="21" column="2" filename="$USER_HOME$/cea/aletheia/app/containers/AdminPerson/index.jsx" />
@@ -459,6 +452,27 @@
       <jump line="0" column="9" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/common/Home.jsx" />
       <jump line="93" column="9" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/common/Home.jsx" />
       <jump line="109" column="36" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/posts/PostsViews.jsx" />
+      <jump line="79" column="18" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/posts/PostsViews.jsx" />
+      <jump line="128" column="30" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/posts/PostsViews.jsx" />
+      <jump line="133" column="25" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/posts/PostsViews.jsx" />
+      <jump line="137" column="33" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/posts/PostsViews.jsx" />
+      <jump line="154" column="13" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/posts/PostsViews.jsx" />
+      <jump line="76" column="10" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/posts/PostsViews.jsx" />
+      <jump line="19" column="12" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/posts/PostsViews.jsx" />
+      <jump line="35" column="26" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/posts/PostsViews.jsx" />
+      <jump line="12" column="234" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/posts/PostsViews.jsx" />
+      <jump line="18" column="3" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/posts/PostsViews.jsx" />
+      <jump line="23" column="14" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/posts/PostsViews.jsx" />
+      <jump line="50" column="6" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/posts/PostsViews.jsx" />
+      <jump line="69" column="54" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/posts/PostsViews.jsx" />
+      <jump line="30" column="1" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/Layout.jsx" />
+      <jump line="13" column="44" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/Layout.jsx" />
+      <jump line="16" column="46" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/Layout.jsx" />
+      <jump line="97" column="58" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/Layout.jsx" />
+      <jump line="20" column="6" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/Layout.jsx" />
+      <jump line="0" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/comments/recentDiscussionThread.jsx" />
+      <jump line="34" column="95" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/comments/recentDiscussionThreadsList.jsx" />
+      <jump line="7" column="2" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/comments/recentDiscussionThreadsList.jsx" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -629,13 +643,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>+</text>
+        <text>}</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxDb21wb25lbnRzXD4=</text>
+        <text encoding="base64">XDxsb2FkTW9yZVw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdjdXJyZW50VmlldycsIGN1cnJlbnRWaWV3KSAK</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZygnY3VycmVudFVzZXInLCBjdXJyZW50VXNlcikKCiAgcmV0dXJuICgKICAgIDxkaXY+CiAgICAgIDxkaXYgY2xhc3NOYW1lPSJkaXNjdXNzaW9uLXRocmVhZC1saXN0Ij4KICAgICAgICB7bG9hZGluZyB8fCAhcmVzdWx0cyA/IDxMb2FkaW5nIC8+IDoK</text>
       </register>
       <register name="p" type="4">
         <keys>
@@ -648,43 +662,43 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIC8vIGlmIChVc2Vycy5jYW5Ebyh0aGlzLnByb3BzLmN1cnJlbnRVc2VyLCAicG9zdHMuZWRpdC5hbGwiKSkgewogICAgLy8gICBleHBhbmRlZFZpZXdzID0gZXhwYW5kZWRWaWV3cy5jb25jYXQoYWRtaW5WaWV3cyk7Cg==</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZygnb2gsIGV4Y3VzZSBtZScpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAnY29tbXVuaXR5JzogewogICAgbGFiZWw6ICdBbGwgUG9zdHMnLAogICAgZGVzY3JpcHRpb246ICJJbmNsdWRlcyBwZXJzb25hbCBhbmQgbWV0YSBibG9ncG9zdHNcbiAoYXMgd2VsbCBhcyBjdXJhdGVkIGFuZCBmcm9udHBhZ2UpLiIsCiAgICBsZWFybk1vcmVMaW5rOiAiL3Bvc3RzL3RLVGNybktuMllTZHhreEtHL2Zyb250cGFnZS1wb3N0aW5nLWFuZC1jb21tZW50aW5nLWd1aWRlbGluZXMiLAogICAgY2F0ZWdvcnlJY29uOiJwZXJzb24iLAogICAgcnNzVmlldzogImNvbW11bml0eS1yc3MiLAogICAgcnNzOnRydWUKICB9LAo=</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZygnb2gsIGV4Y3VzZSBtZScpCgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
+        <text encoding="base64">CiAgY29uc29sZS5sb2coJ29oLCBleGN1c2UgbWUnKQogIGNvbnNvbGUubG9nKCdyZXN1bHRzJywgcmVzdWx0cykKICBjb25zb2xlLmxvZygnbG9hZGluZycsIGxvYWRpbmcpCiAgY29uc29sZS5sb2coJ2xvYWRNb3JlJywgbG9hZE1vcmUpCiAgY29uc29sZS5sb2coJ25ldHdvcmtTdGF0dXMnLCBuZXR3b3JrU3RhdHVzKQogIGNvbnNvbGUubG9nKCdlZGl0TXV0YXRpb24nLCBlZGl0TXV0YXRpb24pCiAgY29uc29sZS5sb2coJ2N1cnJlbnRVc2VyJywgY3VycmVudFVzZXIpCiAgY29uc29sZS5sb2coJ3RocmVhZFZpZXcnLCB0aHJlYWRWaWV3KQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">PT09PT09PQogIGNvbnN0IGxhdCA9IGN1cnJlbnRVc2VyICYmIGN1cnJlbnRVc2VyLm1vbmdvTG9jYXRpb24gJiYgY3VycmVudFVzZXIubW9uZ29Mb2NhdGlvbi5jb29yZGluYXRlc1sxXQogIGNvbnN0IGxuZyA9IGN1cnJlbnRVc2VyICYmIGN1cnJlbnRVc2VyLm1vbmdvTG9jYXRpb24gJiYgY3VycmVudFVzZXIubW9uZ29Mb2NhdGlvbi5jb29yZGluYXRlc1swXQogIGxldCBldmVudHNMaXN0VGVybXMgPSB7CiAgICB2aWV3OiAnZXZlbnRzJywKICAgIGxpbWl0OiAzLAogIH0KICBpZiAobGF0ICYmIGxuZykgewogICAgZXZlbnRzTGlzdFRlcm1zID0gewogICAgICB2aWV3OiAnbmVhcmJ5RXZlbnRzJywKICAgICAgbGF0OiBsYXQsCiAgICAgIGxuZzogbG5nLAogICAgICBsaW1pdDogMywKICAgIH0KICB9CgogIHJldHVybiAoCiAgICA8ZGl2PgogICAgICB7ICFjdXJyZW50VXNlciA/CiAgICAgICAgPENvbXBvbmVudHMuU2VjdGlvbgogICAgICAgICAgY29udGVudFN0eWxlPXt7bWFyZ2luVG9wOiAnLTIwcHgnfX0KICAgICAgICAgIHRpdGxlPSJSZWNvbW1lbmRlZCBSZWFkaW5nIgogICAgICAgICAgdGl0bGVMaW5rPSIvbGlicmFyeSIKICAgICAgICAgIHRpdGxlQ29tcG9uZW50PSB7PENvbXBvbmVudHMuU2VjdGlvblRpdGxlTGluayB0bz0iL2xpYnJhcnkiPgogICAgICAgICAgICBTZXF1ZW5jZSBMaWJyYXJ5CiAgICAgICAgICA8L0NvbXBvbmVudHMuU2VjdGlvblRpdGxlTGluaz59CiAgICAgICAgPgogICAgICAgICAgPGRpdiBjbGFzc05hbWU9e2NsYXNzZXMucmVjb21tZW5kZWRSZWFkaW5nfT4KICAgICAgICAgICAgPENvbXBvbmVudHMuQ29sbGVjdGlvbnNDYXJkIGNvbGxlY3Rpb249e3Rlc3RDb2xsZWN0aW9uc1swXX0gYmlnPXt0cnVlfSB1cmw9eyIvcmF0aW9uYWxpdHkifS8+CiAgICAgICAgICAgIDxDb21wb25lbnRzLkNvbGxlY3Rpb25zQ2FyZCBjb2xsZWN0aW9uPXt0ZXN0Q29sbGVjdGlvbnNbMV19IGZsb2F0PXsibGVmdCJ9IHVybD17Ii9jb2RleCJ9Lz4KICAgICAgICAgICAgPENvbXBvbmVudHMuQ29sbGVjdGlvbnNDYXJkIGNvbGxlY3Rpb249e3Rlc3RDb2xsZWN0aW9uc1syXX0gZmxvYXQ9eyJyaWdodCJ9IHVybD17Ii9ocG1vciJ9Lz4KICAgICAgICAgIDwvZGl2PgogICAgICAgIDwvQ29tcG9uZW50cy5TZWN0aW9uPiA6CiAgICAgICAgPGRpdj4KICAgICAgICAgIDxDb21wb25lbnRzLlNlY3Rpb24KICAgICAgICAgICAgdGl0bGU9IlJlY29tbWVuZGVkIFNlcXVlbmNlcyIKICAgICAgICAgICAgdGl0bGVMaW5rPSIvbGlicmFyeSIKICAgICAgICAgICAgdGl0bGVDb21wb25lbnQ9IHs8Q29tcG9uZW50cy5TZWN0aW9uVGl0bGVMaW5rIHRvPSIvbGlicmFyeSI+CiAgICAgICAgICAgICAgU2VxdWVuY2UgTGlicmFyeQogICAgICAgICAgICA8L0NvbXBvbmVudHMuU2VjdGlvblRpdGxlTGluaz59CiAgICAgICAgICA+CiAgICAgICAgICAgIDxDb21wb25lbnRzLlNlcXVlbmNlc0dyaWRXcmFwcGVyCiAgICAgICAgICAgICAgdGVybXM9e3t2aWV3OiJjdXJhdGVkU2VxdWVuY2VzIiwgbGltaXQ6M319CiAgICAgICAgICAgICAgc2hvd0F1dGhvcj17dHJ1ZX0KICAgICAgICAgICAgICBzaG93TG9hZE1vcmU9e2ZhbHNlfQogICAgICAgICAgICBjbGFzc05hbWU9ImZyb250cGFnZS1zZXF1ZW5jZXMtZ3JpZC1saXN0IiAvPgogICAgICAgICAgPC9Db21wb25lbnRzLlNlY3Rpb24+CiAgICAgICAgICA8Q29tcG9uZW50cy5TZWN0aW9uIHRpdGxlPSJDdXJhdGVkIENvbnRlbnQiPgogICAgICAgICAgICA8Q29tcG9uZW50cy5Qb3N0c0xpc3QgdGVybXM9e2N1cmF0ZWRQb3N0c1Rlcm1zfSBzaG93SGVhZGVyPXtmYWxzZX0gc2hvd0xvYWRNb3JlPXtmYWxzZX0vPgogICAgICAgICAgPC9Db21wb25lbnRzLlNlY3Rpb24+CiAgICAgICAgPC9kaXY+fQo+Pj4+Pj4+IGRldmVsCg==</text>
+        <text encoding="base64">ICBsb2FkTW9yZSwKICBuZXR3b3JrU3RhdHVzLAogIGVkaXRNdXRhdGlvbiwKICBjdXJyZW50VXNlciwKICB0aHJlYWRWaWV3ID0gInJlY2VudERpc2N1c3Npb25UaHJlYWQiCn0pID0+IHsKICBjb25zdCBsb2FkaW5nTW9yZSA9IG5ldHdvcmtTdGF0dXMgPT09IDI7CiAgaWYgKCFsb2FkaW5nICYmIHJlc3VsdHMgJiYgIXJlc3VsdHMubGVuZ3RoKSB7CiAgICByZXR1cm4gbnVsbAogIH0KCiAgY29uc29sZS5sb2coJ29oLCBleGN1c2UgbWUnKQogIGNvbnNvbGUubG9nKCdvaCwgZXhjdXNlIG1lJykK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IHsgd2l0aFN0eWxlcyB9IGZyb20gJ0BtYXRlcmlhbC11aS9jb3JlL3N0eWxlcyc7Cgpjb25zdCBzdHlsZXMgPSB0aGVtZSA9PiAoewogIHJlY29tbWVuZGVkUmVhZGluZzogewogICAgbWFyZ2luVG9wOiAtMjAKICB9Cn0pCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="u" type="4">
         <text>uu</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECj09PT09PT0K</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdoaScpCgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC8vIGlmIChVc2Vycy5jYW5Ebyh0aGlzLnByb3BzLmN1cnJlbnRVc2VyLCAicG9zdHMuZWRpdC5hbGwiKSkgewogICAgLy8gICBleHBhbmRlZFZpZXdzID0gZXhwYW5kZWRWaWV3cy5jb25jYXQoYWRtaW5WaWV3cyk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Y29uc3QgdGVzdENvbGxlY3Rpb25zID0gWwogIHsKICAgIHRpdGxlOiAiUmF0aW9uYWxpdHk6IEEtWiIsCiAgICBpZDogImR1bW15SWQiLAogICAgdXNlcjoge3VzZXJOYW1lOiAiRWxpZXplcl9ZdWRrb3dza3kiLCBkaXNwbGF5TmFtZTogIkVsaWV6ZXJZdWRrb3dza3kiLCBzbHVnOiAiZWxpZXplcl95dWRrb3dza3kifSwKICAgIHN1bW1hcnk6ICdBIHNldCBvZiBlc3NheXMgYnkgRWxpZXplciBZdWRrb3dza3kgdGhhdCBzZXJ2ZSBhcyBhIGxvbmctZm9ybSBpbnRyb2R1Y3Rpb24gdG8gZm9ybWF0aXZlIGlkZWFzIGJlaGluZCBMZXNzIFdyb25nLCB0aGUgTWFjaGluZSBJbnRlbGxpZ2VuY2UgUmVzZWFyY2ggSW5zdGl0dXRlLCB0aGUgQ2VudGVyIGZvciBBcHBsaWVkIFJhdGlvbmFsaXR5LCBhbmQgc3Vic3RhbnRpYWwgcGFydHMgb2YgdGhlIGVmZmVjdGl2ZSBhbHRydWlzbSBjb21tdW5pdHkuJywKICAgIGltYWdlSWQ6ICJkVlhpWnR3X3hybXZwbS5wbmciLAogICAgY29sb3I6ICIjQjFENEI0IiwKICAgIGJpZzogdHJ1ZSwKICB9LAogIHsKICAgIHRpdGxlOiAiVGhlIENvZGV4IiwKICAgIGlkOiAiZHVtbXlJZDIiLAogICAgdXNlcjoge3VzZXJuYW1lOiAiWXZhaW4iLCBkaXNwbGF5TmFtZTogIlNjb3R0IEFsZXhhbmRlciIsIHNsdWc6ICJ5dmFpbiJ9LAogICAgc3VtbWFyeTogIlRoZSBDb2RleCBjb250YWlucyBlc3NheXMgYWJvdXQgc2NpZW5jZSwgbWVkaWNpbmUsIHBoaWxvc29waHksIHBvbGl0aWNzLCBhbmQgZnV0dXJpc20uIChUaGVyZeKAmXMgYWxzbyBvbmUgcG9zdCBhYm91dCBoYWxsdWNpbmF0b3J5IGNhY3R1cy1wZW9wbGUsIGJ1dCBpdOKAmXMgbm90IHJlcHJlc2VudGF0aXZlKSIsCiAgICBpbWFnZUlkOiAiSXRGS2duNF9ycnI1OHkucG5nIiwKICAgIGNvbG9yOiAiIzg4QUNCOCIsCiAgICBiaWc6IGZhbHNlLAogIH0sCiAgewogICAgdGl0bGU6ICJIYXJyeSBQb3R0ZXIgYW5kIHRoZSBNZXRob2RzIG9mIFJhdGlvbmFsaXR5IiwKICAgIGlkOiAiZHVtbXlJZDMiLAogICAgdXNlcjoge3VzZXJOYW1lOiAiRWxpZXplcl9ZdWRrb3dza3kiLCBkaXNwbGF5TmFtZTogIkVsaWV6ZXJZdWRrb3dza3kiLCBzbHVnOiAiZWxpZXplcl95dWRrb3dza3kifSwKICAgIHN1bW1hcnk6ICJJbiBhbiBBbHRlcm5hdGUgVW5pdmVyc2UsIFBldHVuaWEgbWFycmllZCBhIHNjaWVudGlzdC4gTm93IFJhdGlvbmFsaXN0IUhhcnJ5IGVudGVycyB0aGUgd2l6YXJkaW5nIHdvcmxkIGFybWVkIHdpdGggRW5saWdodGVubWVudCBpZGVhbHMgYW5kIHRoZSBleHBlcmltZW50YWwgc3Bpcml0LiIsCiAgICBpbWFnZUlkOiAidXU0Zko1Ul96ZWVmaW0ucG5nIiwKICAgIGNvbG9yOiAiIzc1N0FBNyIsCiAgICBiaWc6IGZhbHNlLAogIH0KXQo+Pj4+Pj4+IGRldmVsCg==</text>
+        <text encoding="base64">ICAnY29tbXVuaXR5JzogewogICAgbGFiZWw6ICdBbGwgUG9zdHMnLAogICAgZGVzY3JpcHRpb246ICJJbmNsdWRlcyBwZXJzb25hbCBhbmQgbWV0YSBibG9ncG9zdHNcbiAoYXMgd2VsbCBhcyBjdXJhdGVkIGFuZCBmcm9udHBhZ2UpLiIsCiAgICBsZWFybk1vcmVMaW5rOiAiL3Bvc3RzL3RLVGNybktuMllTZHhreEtHL2Zyb250cGFnZS1wb3N0aW5nLWFuZC1jb21tZW50aW5nLWd1aWRlbGluZXMiLAogICAgY2F0ZWdvcnlJY29uOiJwZXJzb24iLAogICAgcnNzVmlldzogImNvbW11bml0eS1yc3MiLAogICAgcnNzOnRydWUKICB9LAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Y29uc3QgYWxsb3dDb3JzSG9zdCA9IGdldFNldHRpbmcoJ2FsbG93ZWRDb3JzSG9zdCcpCgo=</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
       </register>
       <register name=":" type="4">
-        <text>action NextSplitter</text>
+        <text>w!</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxDb21wb25lbnRzXD4=</last-search>
+      <last-search encoding="base64">XDxsb2FkTW9yZVw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxDb21wb25lbnRzXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxsb2FkTW9yZVw+</last-pattern>
       <last-replace>Pledges</last-replace>
       <last-substitute encoding="base64">XDxkaXZcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -692,11 +706,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxkaXZcPg==</entry>
-        <entry encoding="base64">XDxpc1BsZWRnZXNNYW5hZ2VyXD4=</entry>
-        <entry encoding="base64">XDxSb3dcPg==</entry>
-        <entry encoding="base64">XDxGb3JtYXR0ZWREYXRlXD4=</entry>
-        <entry encoding="base64">XDxhcHBseUdpZnRBaWRQcm9jZXNzaW5nXD4=</entry>
         <entry encoding="base64">XDxwcmV0dHlEYXRlXD4=</entry>
         <entry encoding="base64">XDxQcmV0dHlEYXRlXD4=</entry>
         <entry encoding="base64">XDxDb21wb25lbnRcPg==</entry>
@@ -707,11 +716,16 @@
         <entry encoding="base64">XDxhbGdvbGlhQXBwSWRcPg==</entry>
         <entry encoding="base64">XDxleGNlcnB0V2l0aFJlYWRNb3JlXD4=</entry>
         <entry encoding="base64">XDxjcmVhdGVFeGNlcnB0XD4=</entry>
-        <entry encoding="base64">XDxzdHlsZXNcPg==</entry>
         <entry encoding="base64">XDx3aXRoU3R5bGVzXD4=</entry>
         <entry encoding="base64">XDxyZWNlbnRQb3N0c1RpdGxlXD4=</entry>
-        <entry encoding="base64">XDxkZWZhdWx0RXhwYW5kZWRWaWV3c1w+</entry>
         <entry encoding="base64">XDxDb21wb25lbnRzXD4=</entry>
+        <entry encoding="base64">XDxleHBhbmRlZFZpZXdzXD4=</entry>
+        <entry encoding="base64">XDxBbGxcPg==</entry>
+        <entry encoding="base64">XDxjb21tdW5pdHlcPg==</entry>
+        <entry encoding="base64">XDxkZWZhdWx0RXhwYW5kZWRWaWV3c1w+</entry>
+        <entry>global</entry>
+        <entry encoding="base64">XDxzdHlsZXNcPg==</entry>
+        <entry encoding="base64">XDxsb2FkTW9yZVw+</entry>
       </history-search>
       <history-cmd>
         <entry>action ReopenClosedTab</entry>
@@ -727,13 +741,13 @@
         <entry encoding="base64">JzwsJz5zL3BheW1lbnRzL3BsZWRnZXMvZw==</entry>
         <entry encoding="base64">JzwsJz5zL1BheW1lbnRzL1BsZWRnZXMvZ2M=</entry>
         <entry>action SplitVertically</entry>
-        <entry>action CommentByLineComment</entry>
         <entry>72</entry>
         <entry>action NewFile</entry>
-        <entry>w!</entry>
-        <entry>action GotoFile</entry>
         <entry>action FindInPath</entry>
+        <entry>action GotoFile</entry>
         <entry>action NextSplitter</entry>
+        <entry>action CommentByLineComment</entry>
+        <entry>w!</entry>
       </history-cmd>
       <history-expr />
       <history-input />
