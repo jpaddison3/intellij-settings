@@ -150,7 +150,8 @@
         <mark key="." line="43" column="20" />
         <mark key="^" line="43" column="20" />
       </file>
-      <file name="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/posts/PostsViews.jsx" timestamp="1534888027508">
+      <file name="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/posts/PostsViews.jsx" timestamp="1534888861918">
+        <mark key="'" line="109" column="36" />
         <mark key="[" line="137" column="0" />
         <mark key="]" line="137" column="0" />
         <mark key="^" line="135" column="3" />
@@ -290,6 +291,9 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/common/Home.jsx" timestamp="1534888852028">
+        <mark key="'" line="93" column="9" />
+      </file>
       <file name="$USER_HOME$/Documents/cea/parfit/silly.json" timestamp="1533682614815">
         <mark key="[" line="118" column="1" />
         <mark key="]" line="118" column="1" />
@@ -355,11 +359,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="51" column="8" filename="$USER_HOME$/cea/aletheia/app/containers/Admin/index.jsx" />
-      <jump line="11" column="8" filename="$USER_HOME$/cea/aletheia/app/containers/Admin/index.jsx" />
-      <jump line="224" column="2" filename="$USER_HOME$/cea/aletheia/app/containers/AdminPerson/index.jsx" />
-      <jump line="9" column="8" filename="$USER_HOME$/cea/aletheia/app/containers/AdminPerson/index.jsx" />
-      <jump line="223" column="5" filename="$USER_HOME$/cea/aletheia/app/containers/AdminPerson/index.jsx" />
       <jump line="237" column="29" filename="$USER_HOME$/cea/aletheia/app/containers/AdminPerson/index.jsx" />
       <jump line="10" column="64" filename="$USER_HOME$/cea/aletheia/app/containers/AdminPerson/index.jsx" />
       <jump line="12" column="42" filename="$USER_HOME$/cea/aletheia/app/containers/AdminPerson/index.jsx" />
@@ -455,6 +454,11 @@
       <jump line="61" column="54" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/posts/PostsViews.jsx" />
       <jump line="42" column="6" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/posts/PostsViews.jsx" />
       <jump line="113" column="47" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/posts/PostsViews.jsx" />
+      <jump line="17" column="20" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/common/Home.jsx" />
+      <jump line="144" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/common/Home.jsx" />
+      <jump line="0" column="9" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/common/Home.jsx" />
+      <jump line="93" column="9" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/common/Home.jsx" />
+      <jump line="109" column="36" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/posts/PostsViews.jsx" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -628,7 +632,7 @@
         <text>+</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxkZWZhdWx0RXhwYW5kZWRWaWV3c1w+</text>
+        <text encoding="base64">XDxDb21wb25lbnRzXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdjdXJyZW50VmlldycsIGN1cnJlbnRWaWV3KSAK</text>
@@ -674,13 +678,13 @@
         <text encoding="base64">Y29uc3QgYWxsb3dDb3JzSG9zdCA9IGdldFNldHRpbmcoJ2FsbG93ZWRDb3JzSG9zdCcpCgo=</text>
       </register>
       <register name=":" type="4">
-        <text>w!</text>
+        <text>action NextSplitter</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxkZWZhdWx0RXhwYW5kZWRWaWV3c1w+</last-search>
+      <last-search encoding="base64">XDxDb21wb25lbnRzXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxkZWZhdWx0RXhwYW5kZWRWaWV3c1w+</last-pattern>
+      <last-pattern encoding="base64">XDxDb21wb25lbnRzXD4=</last-pattern>
       <last-replace>Pledges</last-replace>
       <last-substitute encoding="base64">XDxkaXZcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -688,7 +692,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxBdXRoXD4=</entry>
         <entry encoding="base64">XDxkaXZcPg==</entry>
         <entry encoding="base64">XDxpc1BsZWRnZXNNYW5hZ2VyXD4=</entry>
         <entry encoding="base64">XDxSb3dcPg==</entry>
@@ -708,6 +711,7 @@
         <entry encoding="base64">XDx3aXRoU3R5bGVzXD4=</entry>
         <entry encoding="base64">XDxyZWNlbnRQb3N0c1RpdGxlXD4=</entry>
         <entry encoding="base64">XDxkZWZhdWx0RXhwYW5kZWRWaWV3c1w+</entry>
+        <entry encoding="base64">XDxDb21wb25lbnRzXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>action ReopenClosedTab</entry>
@@ -726,10 +730,10 @@
         <entry>action CommentByLineComment</entry>
         <entry>72</entry>
         <entry>action NewFile</entry>
-        <entry>action NextSplitter</entry>
-        <entry>action FindInPath</entry>
-        <entry>action GotoFile</entry>
         <entry>w!</entry>
+        <entry>action GotoFile</entry>
+        <entry>action FindInPath</entry>
+        <entry>action NextSplitter</entry>
       </history-cmd>
       <history-expr />
       <history-input />
