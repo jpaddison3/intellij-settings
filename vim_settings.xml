@@ -316,8 +316,8 @@
         <mark key="." line="29" column="27" />
         <mark key="^" line="29" column="27" />
       </file>
-      <file name="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/common/Home.jsx" timestamp="1534891054486">
-        <mark key="'" line="93" column="9" />
+      <file name="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/common/Home.jsx" timestamp="1534963577090">
+        <mark key="'" line="25" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/cea/parfit/silly.json" timestamp="1533682614815">
         <mark key="[" line="118" column="1" />
@@ -389,11 +389,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="127" column="19" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/editor/utils.js" />
-      <jump line="43" column="6" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/editor/utils.js" />
-      <jump line="45" column="15" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/editor/utils.js" />
-      <jump line="46" column="15" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/editor/utils.js" />
-      <jump line="47" column="15" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/editor/utils.js" />
       <jump line="53" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server.js" />
       <jump line="52" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server.js" />
       <jump line="49" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server.js" />
@@ -489,6 +484,11 @@
       <jump line="124" column="16" filename="$USER_HOME$/cea/aletheia/app/containers/Organizations/OrganizationsHome.jsx" />
       <jump line="47" column="6" filename="$USER_HOME$/cea/aletheia/app/containers/Organizations/OrganizationsHome.jsx" />
       <jump line="67" column="9" filename="$USER_HOME$/cea/aletheia/app/containers/Organizations/OrganizationsHome.jsx" />
+      <jump line="12" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/common/Home.jsx" />
+      <jump line="22" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/common/Home.jsx" />
+      <jump line="41" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/common/Home.jsx" />
+      <jump line="40" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/common/Home.jsx" />
+      <jump line="25" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/common/Home.jsx" />
     </jumps>
     <registers>
       <register name="a" type="4">
