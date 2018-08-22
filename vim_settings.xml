@@ -55,12 +55,6 @@
         <mark key="." line="39" column="0" />
         <mark key="^" line="7" column="18" />
       </file>
-      <file name="$USER_HOME$/cea/Forum/Forum/package.json" timestamp="1534793801940">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="17" column="0" />
-        <mark key="." line="17" column="0" />
-      </file>
       <file name="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/themes/stylePiping.js" timestamp="1534896564704">
         <mark key="'" line="113" column="0" />
         <mark key="[" line="5" column="0" />
@@ -171,9 +165,9 @@
         <mark key="^" line="1" column="17" />
         <mark key="." line="1" column="17" />
       </file>
-      <file name="$USER_HOME$/cea/Forum/Forum/settings.json" timestamp="1534533371640">
-        <mark key="[" line="28" column="0" />
-        <mark key="]" line="31" column="5" />
+      <file name="$USER_HOME$/cea/Forum/Forum/settings.json" timestamp="1534965119100">
+        <mark key="[" line="45" column="20" />
+        <mark key="]" line="45" column="90" />
         <mark key="^" line="31" column="5" />
         <mark key="." line="31" column="5" />
       </file>
@@ -380,6 +374,13 @@
         <mark key="^" line="5" column="1" />
         <mark key="." line="5" column="2" />
       </file>
+      <file name="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/sunshineDashboard/SunshineReportsItem.jsx" timestamp="1534965645128">
+        <mark key="'" line="102" column="0" />
+        <mark key="[" line="52" column="36" />
+        <mark key="]" line="54" column="31" />
+        <mark key="^" line="54" column="31" />
+        <mark key="." line="54" column="31" />
+      </file>
       <file name="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/comments/recentDiscussionThreadsList.jsx" timestamp="1534895540953">
         <mark key="'" line="5" column="2" />
         <mark key="[" line="31" column="12" />
@@ -389,8 +390,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="53" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server.js" />
-      <jump line="52" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server.js" />
       <jump line="49" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server.js" />
       <jump line="0" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server.js" />
       <jump line="47" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server.js" />
@@ -489,6 +488,8 @@
       <jump line="41" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/common/Home.jsx" />
       <jump line="40" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/common/Home.jsx" />
       <jump line="25" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/common/Home.jsx" />
+      <jump line="0" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/sunshineDashboard/SunshineReportsItem.jsx" />
+      <jump line="100" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/sunshineDashboard/SunshineReportsItem.jsx" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -665,7 +666,7 @@
         <text encoding="base64">XDxYZXJvQmFsYW5jZVNoZWV0c1w+</text>
       </register>
       <register name="0" type="4">
-        <text>No reports available for this date</text>
+        <text>mongodb://admin3:TMBqy6zczQCw3VAieA9@ds125001.mlab.com:25001/ibetaforum</text>
       </register>
       <register name="p" type="4">
         <keys>
@@ -708,7 +709,7 @@
         <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdyZHQyJykK</text>
       </register>
       <register name=":" type="4">
-        <text>action FindInPath</text>
+        <text>w!</text>
       </register>
     </registers>
     <search>
@@ -760,10 +761,10 @@
         <entry encoding="base64">JzwsJz53IQ==</entry>
         <entry>action CommentByLineComment</entry>
         <entry>action GotoDeclaration</entry>
-        <entry>action NextSplitter</entry>
-        <entry>w!</entry>
-        <entry>action GotoFile</entry>
         <entry>action FindInPath</entry>
+        <entry>action NextSplitter</entry>
+        <entry>action GotoFile</entry>
+        <entry>w!</entry>
       </history-cmd>
       <history-expr />
       <history-input />
