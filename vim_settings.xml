@@ -84,6 +84,12 @@
         <mark key="." line="35" column="32" />
         <mark key="^" line="35" column="32" />
       </file>
+      <file name="$USER_HOME$/cea/aletheia/app/models/People/index.js" timestamp="1534446267935">
+        <mark key="'" line="106" column="0" />
+        <mark key="[" line="25" column="1" />
+        <mark key="]" line="25" column="60" />
+        <mark key="." line="25" column="1" />
+      </file>
       <file name="$USER_HOME$/cea/aletheia/app/components/utilities/PrettyDate.jsx" timestamp="1534455740220">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
@@ -175,6 +181,12 @@
         <mark key="[" line="28" column="0" />
         <mark key="]" line="31" column="6" />
         <mark key="." line="28" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/cea/aletheia/app/routes.js" timestamp="1533838144842">
+        <mark key="'" line="26" column="15" />
+        <mark key="[" line="115" column="0" />
+        <mark key="]" line="115" column="0" />
+        <mark key="." line="115" column="0" />
       </file>
       <file name="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/themes/createThemeDefaults.js" timestamp="1534896087222" />
       <file name="$USER_HOME$/cea/Forum/Forum/settings-lw.json" timestamp="1534533191461">
@@ -324,6 +336,12 @@
         <mark key="^" line="4" column="45" />
         <mark key="." line="0" column="46" />
       </file>
+      <file name="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/common/SearchBar.jsx" timestamp="1534533399250">
+        <mark key="'" line="71" column="10" />
+        <mark key="[" line="73" column="0" />
+        <mark key="]" line="73" column="0" />
+        <mark key="." line="73" column="0" />
+      </file>
       <file name="$USER_HOME$/cea/aletheia/app/components/formatters/PrettyDate.jsx" timestamp="1534382381942">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -333,6 +351,12 @@
         <mark key="[" line="27" column="26" />
         <mark key="]" line="27" column="56" />
         <mark key="." line="27" column="26" />
+      </file>
+      <file name="$USER_HOME$/cea/aletheia/app/models/Payments/schema.js" timestamp="1534375791592">
+        <mark key="'" line="82" column="0" />
+        <mark key="[" line="82" column="0" />
+        <mark key="]" line="82" column="0" />
+        <mark key="." line="82" column="0" />
       </file>
       <file name="$USER_HOME$/cea/aletheia/app/models/Auth/mutations/checkPasswordResetToken.gql" timestamp="1534382642076">
         <mark key="[" line="0" column="45" />
@@ -374,12 +398,11 @@
         <mark key="^" line="5" column="1" />
         <mark key="." line="5" column="2" />
       </file>
-      <file name="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/sunshineDashboard/SunshineReportsItem.jsx" timestamp="1534965645128">
-        <mark key="'" line="102" column="0" />
-        <mark key="[" line="52" column="36" />
-        <mark key="]" line="54" column="31" />
-        <mark key="^" line="54" column="31" />
-        <mark key="." line="54" column="31" />
+      <file name="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/sunshineDashboard/SunshineReportsItem.jsx" timestamp="1534966409281">
+        <mark key="'" line="100" column="0" />
+        <mark key="[" line="53" column="0" />
+        <mark key="]" line="53" column="0" />
+        <mark key="." line="53" column="0" />
       </file>
       <file name="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/comments/recentDiscussionThreadsList.jsx" timestamp="1534895540953">
         <mark key="'" line="5" column="2" />
@@ -679,19 +702,19 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgImpzeCI6IHRydWUK</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdzdW5zaGluZSBzaWRlYmFyJykKICAgIGNvbnNvbGUubG9nKCdyZXBvcnQnLCByZXBvcnQpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgImpzeCI6IHRydWUK</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHJldHVybiA8ZGl2PmhlbGxvIHdvcmxkPC9kaXY+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHJldHVybiA8ZGl2PmhlbGxvIHdvcmxkPC9kaXY+Cg==</text>
       </register>
       <register name="u" type="4">
         <text>uu</text>
@@ -700,13 +723,13 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdyZHQ0JykK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdyZHQzJykK</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdyZHQ0JykK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdyZHQyJykK</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdyZHQzJykK</text>
       </register>
       <register name=":" type="4">
         <text>w!</text>
