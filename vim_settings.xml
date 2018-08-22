@@ -195,6 +195,11 @@
         <mark key="^" line="54" column="50" />
         <mark key="." line="54" column="50" />
       </file>
+      <file name="$USER_HOME$/cea/aletheia/app/containers/Organizations/OrganizationsHome.jsx" timestamp="1534904892187">
+        <mark key="'" line="67" column="9" />
+        <mark key="[" line="67" column="47" />
+        <mark key="]" line="67" column="80" />
+      </file>
       <file name="$USER_HOME$/cea/Forum/Forum/settings-prod.json" timestamp="1534533195779">
         <mark key="[" line="28" column="0" />
         <mark key="]" line="31" column="6" />
@@ -384,20 +389,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="39" column="21" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/Layout.jsx" />
-      <jump line="48" column="31" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/Layout.jsx" />
-      <jump line="71" column="10" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/common/SearchBar.jsx" />
-      <jump line="48" column="22" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/editor/utils.js" />
-      <jump line="50" column="10" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/editor/utils.js" />
-      <jump line="51" column="22" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/editor/utils.js" />
-      <jump line="63" column="24" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/editor/utils.js" />
-      <jump line="100" column="24" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/editor/utils.js" />
-      <jump line="125" column="19" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/editor/utils.js" />
-      <jump line="64" column="24" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/editor/utils.js" />
-      <jump line="101" column="24" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/editor/utils.js" />
-      <jump line="126" column="19" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/editor/utils.js" />
-      <jump line="65" column="24" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/editor/utils.js" />
-      <jump line="102" column="24" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/editor/utils.js" />
       <jump line="127" column="19" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/editor/utils.js" />
       <jump line="43" column="6" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/editor/utils.js" />
       <jump line="45" column="15" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/editor/utils.js" />
@@ -484,6 +475,20 @@
       <jump line="144" column="20" filename="$USER_HOME$/cea/parfit/services/payments/handlers/xero/index.js" />
       <jump line="0" column="0" filename="$USER_HOME$/cea/parfit/services/payments/handlers/xero/helpers.js" />
       <jump line="12" column="13" filename="$USER_HOME$/cea/parfit/services/payments/handlers/xero/helpers.js" />
+      <jump line="9" column="7" filename="$USER_HOME$/cea/aletheia/app/containers/Organizations/OrganizationsHome.jsx" />
+      <jump line="158" column="0" filename="$USER_HOME$/cea/aletheia/app/containers/Organizations/OrganizationsHome.jsx" />
+      <jump line="69" column="29" filename="$USER_HOME$/cea/aletheia/app/containers/Organizations/OrganizationsHome.jsx" />
+      <jump line="52" column="23" filename="$USER_HOME$/cea/aletheia/app/containers/Organizations/OrganizationsHome.jsx" />
+      <jump line="43" column="6" filename="$USER_HOME$/cea/aletheia/app/containers/Organizations/OrganizationsHome.jsx" />
+      <jump line="44" column="28" filename="$USER_HOME$/cea/aletheia/app/containers/Organizations/OrganizationsHome.jsx" />
+      <jump line="97" column="33" filename="$USER_HOME$/cea/aletheia/app/containers/Organizations/OrganizationsHome.jsx" />
+      <jump line="105" column="33" filename="$USER_HOME$/cea/aletheia/app/containers/Organizations/OrganizationsHome.jsx" />
+      <jump line="106" column="27" filename="$USER_HOME$/cea/aletheia/app/containers/Organizations/OrganizationsHome.jsx" />
+      <jump line="115" column="33" filename="$USER_HOME$/cea/aletheia/app/containers/Organizations/OrganizationsHome.jsx" />
+      <jump line="116" column="36" filename="$USER_HOME$/cea/aletheia/app/containers/Organizations/OrganizationsHome.jsx" />
+      <jump line="124" column="16" filename="$USER_HOME$/cea/aletheia/app/containers/Organizations/OrganizationsHome.jsx" />
+      <jump line="47" column="6" filename="$USER_HOME$/cea/aletheia/app/containers/Organizations/OrganizationsHome.jsx" />
+      <jump line="67" column="9" filename="$USER_HOME$/cea/aletheia/app/containers/Organizations/OrganizationsHome.jsx" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -657,10 +662,10 @@
         <text>N6CS3HB8EG05SOQHXIQK5IGEP5KVVE</text>
       </register>
       <register name="/" type="4">
-        <text>HMRCXer</text>
+        <text encoding="base64">XDxYZXJvQmFsYW5jZVNoZWV0c1w+</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">aW1wb3J0IGNyZWF0ZUxXVGhlbWUgZnJvbSAnLi9jcmVhdGVUaGVtZURlZmF1bHRzLmpzJzsK</text>
+      <register name="0" type="4">
+        <text>No reports available for this date</text>
       </register>
       <register name="p" type="4">
         <keys>
@@ -707,9 +712,9 @@
       </register>
     </registers>
     <search>
-      <last-search>HMRCXer</last-search>
+      <last-search encoding="base64">XDxYZXJvQmFsYW5jZVNoZWV0c1w+</last-search>
       <last-offset />
-      <last-pattern>HMRCXer</last-pattern>
+      <last-pattern encoding="base64">XDxYZXJvQmFsYW5jZVNoZWV0c1w+</last-pattern>
       <last-replace>Pledges</last-replace>
       <last-substitute encoding="base64">XDxkaXZcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -717,10 +722,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxyZWNlbnRQb3N0c1RpdGxlXD4=</entry>
-        <entry encoding="base64">XDxDb21wb25lbnRzXD4=</entry>
-        <entry encoding="base64">XDxleHBhbmRlZFZpZXdzXD4=</entry>
-        <entry encoding="base64">XDxBbGxcPg==</entry>
         <entry encoding="base64">XDxjb21tdW5pdHlcPg==</entry>
         <entry encoding="base64">XDxkZWZhdWx0RXhwYW5kZWRWaWV3c1w+</entry>
         <entry>global</entry>
@@ -737,6 +738,10 @@
         <entry encoding="base64">XDxYZXJvXD4=</entry>
         <entry>gift</entry>
         <entry>HMRCXer</entry>
+        <entry encoding="base64">XDxGdW5kT3JnYW5pemF0aW9uc1w+</entry>
+        <entry>amount</entry>
+        <entry encoding="base64">XDxYZXJvQmFsYW5jZVNoZWV0XD4=</entry>
+        <entry encoding="base64">XDxYZXJvQmFsYW5jZVNoZWV0c1w+</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5hY3Rpb24gR290b0ZpbGU=</entry>
