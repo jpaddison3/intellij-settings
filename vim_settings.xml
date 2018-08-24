@@ -22,7 +22,7 @@
         <mark key="." line="60" column="0" />
       </file>
       <file name="$USER_HOME$/cea/aletheia/app/models/People/index.js" timestamp="1534446267935">
-        <mark key="'" line="114" column="0" />
+        <mark key="'" line="106" column="0" />
       </file>
       <file name="$USER_HOME$/cea/Forum/Forum/settings.json" timestamp="1534985214988">
         <mark key="'" line="8" column="0" />
@@ -170,7 +170,7 @@
         <mark key="^" line="8" column="6" />
       </file>
       <file name="$USER_HOME$/cea/aletheia/package.json" timestamp="1535069355579">
-        <mark key="'" line="330" column="5" />
+        <mark key="'" line="326" column="5" />
       </file>
       <file name="$USER_HOME$/cea/aletheia/app/containers/Admin/CreatePerson/index.jsx" timestamp="1535069859014">
         <mark key="r" line="150" column="2" />
@@ -469,7 +469,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>console</text>
+        <text>\.endDate</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICIqLmpzIjogImxpbnQ6ZXNsaW50Igo=</text>
@@ -515,13 +515,13 @@
         <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdzdHVmZicsIG11dGF0aW9uRGF0YSkK</text>
       </register>
       <register name=":" type="4">
-        <text>action FindInPath</text>
+        <text>action NextSplitter</text>
       </register>
     </registers>
     <search>
-      <last-search>console</last-search>
+      <last-search>\.endDate</last-search>
       <last-offset />
-      <last-pattern>console</last-pattern>
+      <last-pattern>\.endDate</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -529,7 +529,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDx3b3JraW5nXD4=</entry>
         <entry>console.log</entry>
         <entry encoding="base64">XDxzaG93VmFsaWRhdGlvblRpbWVvdXRcPg==</entry>
         <entry encoding="base64">XDxzaG93VmFsaWRhdGlvbkVycm9yc1w+</entry>
@@ -549,6 +548,7 @@
         <entry encoding="base64">XDxsaW50XD4=</entry>
         <entry>lint-staged</entry>
         <entry>console</entry>
+        <entry>\.endDate</entry>
       </history-search>
       <history-cmd>
         <entry>230</entry>
@@ -567,10 +567,10 @@
         <entry>s/&quot;/'/g</entry>
         <entry>action GotoDeclaration</entry>
         <entry>action CommentByLineComment</entry>
-        <entry>action GotoFile</entry>
-        <entry>action NextSplitter</entry>
         <entry>w!</entry>
+        <entry>action GotoFile</entry>
         <entry>action FindInPath</entry>
+        <entry>action NextSplitter</entry>
       </history-cmd>
       <history-expr />
       <history-input />
