@@ -31,11 +31,6 @@
         <mark key="^" line="31" column="5" />
         <mark key="." line="21" column="0" />
       </file>
-      <file name="$USER_HOME$/cea/Forum/Forum/settings-staging.json" timestamp="1534985204740">
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="21" column="0" />
-        <mark key="." line="21" column="0" />
-      </file>
       <file name="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/lib/search/callbacks.js" timestamp="1534986578181">
         <mark key="'" line="19" column="0" />
         <mark key="[" line="15" column="2" />
@@ -43,16 +38,12 @@
         <mark key="^" line="10" column="1" />
         <mark key="." line="10" column="2" />
       </file>
-      <file name="$USER_HOME$/cea/Forum/Forum/settings-lw.json" timestamp="1534985211727">
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="21" column="0" />
-        <mark key="." line="21" column="0" />
-      </file>
       <file name="$USER_HOME$/cea/aletheia/app/containers/Organizations/OrganizationsHome.jsx" timestamp="1535051397157">
         <mark key="'" line="115" column="56" />
         <mark key="[" line="67" column="47" />
         <mark key="]" line="67" column="80" />
       </file>
+      <file name="$USER_HOME$/cea/parfit/services/payments/handlers/xero/index.js" timestamp="1535368949808" />
       <file name="$USER_HOME$/cea/aletheia/app/containers/Admin/AdminPayrollGiving/MatchPersonModal.js" timestamp="1535069877609">
         <mark key="a" line="114" column="30" />
         <mark key="'" line="27" column="19" />
@@ -143,17 +134,19 @@
       <file name="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/lib/search/utils.js" timestamp="1534978931469">
         <mark key="'" line="91" column="4" />
       </file>
+      <file name="$USER_HOME$/Documents/cea/aletheia/app/routes.js" timestamp="1533838144842">
+        <mark key="'" line="26" column="15" />
+        <mark key="[" line="115" column="0" />
+        <mark key="]" line="115" column="0" />
+        <mark key="." line="115" column="0" />
+      </file>
+      <file name="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/themes/createThemeDefaults.js" timestamp="1534896087222" />
       <file name="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/Layout.jsx" timestamp="1534890998149">
         <mark key="'" line="20" column="6" />
         <mark key="[" line="54" column="5" />
         <mark key="]" line="54" column="50" />
         <mark key="^" line="54" column="50" />
         <mark key="." line="54" column="50" />
-      </file>
-      <file name="$USER_HOME$/cea/Forum/Forum/settings-prod.json" timestamp="1534985207491">
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="21" column="0" />
-        <mark key="." line="21" column="0" />
       </file>
       <file name="$USER_HOME$/cea/aletheia/app/containers/AdminPerson/index.jsx" timestamp="1535068985782">
         <mark key="a" line="89" column="11" />
@@ -171,6 +164,29 @@
       </file>
       <file name="$USER_HOME$/cea/aletheia/package.json" timestamp="1535069355579">
         <mark key="'" line="326" column="5" />
+      </file>
+      <file name="$USER_HOME$/cea/parfit/package.json" timestamp="1535369248304">
+        <mark key="'" line="127" column="13" />
+        <mark key="[" line="35" column="5" />
+        <mark key="]" line="35" column="18" />
+      </file>
+      <file name="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/common/SearchBar.jsx" timestamp="1534533399250">
+        <mark key="'" line="71" column="10" />
+        <mark key="[" line="73" column="0" />
+        <mark key="]" line="73" column="0" />
+        <mark key="." line="73" column="0" />
+      </file>
+      <file name="$USER_HOME$/cea/parfit/.env" timestamp="1535369003279">
+        <mark key="'" line="9" column="147" />
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="39" />
+        <mark key="." line="27" column="26" />
+      </file>
+      <file name="$USER_HOME$/cea/aletheia/app/models/Payments/schema.js" timestamp="1534375791592">
+        <mark key="'" line="82" column="0" />
+        <mark key="[" line="82" column="0" />
+        <mark key="]" line="82" column="0" />
+        <mark key="." line="82" column="0" />
       </file>
       <file name="$USER_HOME$/cea/aletheia/app/containers/Admin/CreatePerson/index.jsx" timestamp="1535069859014">
         <mark key="r" line="150" column="2" />
@@ -196,10 +212,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="168" column="0" filename="$USER_HOME$/cea/aletheia/app/containers/Admin/AdminPayrollGiving/index.jsx" />
-      <jump line="55" column="0" filename="$USER_HOME$/cea/aletheia/app/containers/Admin/AdminPayrollGiving/DropZone.jsx" />
-      <jump line="56" column="0" filename="$USER_HOME$/cea/aletheia/app/containers/Admin/AdminPayrollGiving/DropZone.jsx" />
-      <jump line="57" column="0" filename="$USER_HOME$/cea/aletheia/app/containers/Admin/AdminPayrollGiving/DropZone.jsx" />
       <jump line="59" column="0" filename="$USER_HOME$/cea/aletheia/app/containers/Admin/AdminPayrollGiving/DropZone.jsx" />
       <jump line="77" column="0" filename="$USER_HOME$/cea/aletheia/app/containers/Admin/AdminPayrollGiving/DropZone.jsx" />
       <jump line="79" column="0" filename="$USER_HOME$/cea/aletheia/app/containers/Admin/AdminPayrollGiving/DropZone.jsx" />
@@ -296,6 +308,10 @@
       <jump line="119" column="0" filename="$USER_HOME$/cea/aletheia/app/containers/Admin/CreatePerson/index.jsx" />
       <jump line="120" column="0" filename="$USER_HOME$/cea/aletheia/app/containers/Admin/CreatePerson/index.jsx" />
       <jump line="154" column="0" filename="$USER_HOME$/cea/aletheia/app/containers/Admin/CreatePerson/index.jsx" />
+      <jump line="10" column="15" filename="$USER_HOME$/cea/parfit/.env" />
+      <jump line="6" column="34" filename="$USER_HOME$/cea/parfit/.env" />
+      <jump line="9" column="147" filename="$USER_HOME$/cea/parfit/.env" />
+      <jump line="127" column="13" filename="$USER_HOME$/cea/parfit/package.json" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -469,10 +485,10 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>\.endDate</text>
+        <text>make</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICIqLmpzIjogImxpbnQ6ZXNsaW50Igo=</text>
+      <register name="0" type="4">
+        <text>make-migration</text>
       </register>
       <register name="p" type="4">
         <keys>
@@ -515,13 +531,13 @@
         <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdzdHVmZicsIG11dGF0aW9uRGF0YSkK</text>
       </register>
       <register name=":" type="4">
-        <text>action NextSplitter</text>
+        <text>action GotoFile</text>
       </register>
     </registers>
     <search>
-      <last-search>\.endDate</last-search>
+      <last-search>make</last-search>
       <last-offset />
-      <last-pattern>\.endDate</last-pattern>
+      <last-pattern>make</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -529,8 +545,6 @@
     </search>
     <history>
       <history-search>
-        <entry>console.log</entry>
-        <entry encoding="base64">XDxzaG93VmFsaWRhdGlvblRpbWVvdXRcPg==</entry>
         <entry encoding="base64">XDxzaG93VmFsaWRhdGlvbkVycm9yc1w+</entry>
         <entry encoding="base64">XDxzdGFydGluZ1BlcnNvblw+</entry>
         <entry encoding="base64">XDxmaXJzdE5hbWVcPg==</entry>
@@ -549,6 +563,8 @@
         <entry>lint-staged</entry>
         <entry>console</entry>
         <entry>\.endDate</entry>
+        <entry encoding="base64">XDxwYXJmaXRcPg==</entry>
+        <entry>make</entry>
       </history-search>
       <history-cmd>
         <entry>230</entry>
@@ -568,9 +584,9 @@
         <entry>action GotoDeclaration</entry>
         <entry>action CommentByLineComment</entry>
         <entry>w!</entry>
-        <entry>action GotoFile</entry>
         <entry>action FindInPath</entry>
         <entry>action NextSplitter</entry>
+        <entry>action GotoFile</entry>
       </history-cmd>
       <history-expr />
       <history-input />
