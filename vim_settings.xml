@@ -168,6 +168,13 @@
         <mark key="." line="10" column="0" />
         <mark key="^" line="8" column="6" />
       </file>
+      <file name="$USER_HOME$/cea/aletheia/app/containers/Dashboard/DashboardPledge/index.jsx" timestamp="1535445032992">
+        <mark key="'" line="130" column="23" />
+        <mark key="[" line="148" column="0" />
+        <mark key="]" line="148" column="0" />
+        <mark key="^" line="147" column="33" />
+        <mark key="." line="148" column="0" />
+      </file>
       <file name="$USER_HOME$/cea/aletheia/package.json" timestamp="1535069355579">
         <mark key="'" line="326" column="5" />
       </file>
@@ -206,13 +213,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="59" column="0" filename="$USER_HOME$/cea/aletheia/app/containers/Admin/AdminPayrollGiving/DropZone.jsx" />
-      <jump line="77" column="0" filename="$USER_HOME$/cea/aletheia/app/containers/Admin/AdminPayrollGiving/DropZone.jsx" />
-      <jump line="79" column="0" filename="$USER_HOME$/cea/aletheia/app/containers/Admin/AdminPayrollGiving/DropZone.jsx" />
-      <jump line="111" column="20" filename="$USER_HOME$/cea/aletheia/app/containers/Admin/AdminPayrollGiving/MatchPersonModal.js" />
-      <jump line="104" column="53" filename="$USER_HOME$/cea/aletheia/app/containers/Admin/AdminPayrollGiving/MatchPersonModal.js" />
-      <jump line="97" column="20" filename="$USER_HOME$/cea/aletheia/app/containers/Admin/AdminPayrollGiving/MatchPersonModal.js" />
-      <jump line="94" column="28" filename="$USER_HOME$/cea/aletheia/app/containers/Admin/AdminPayrollGiving/MatchPersonModal.js" />
       <jump line="92" column="13" filename="$USER_HOME$/cea/aletheia/app/containers/Admin/AdminPayrollGiving/MatchPersonModal.js" />
       <jump line="89" column="23" filename="$USER_HOME$/cea/aletheia/app/containers/Admin/AdminPayrollGiving/MatchPersonModal.js" />
       <jump line="86" column="28" filename="$USER_HOME$/cea/aletheia/app/containers/Admin/AdminPayrollGiving/MatchPersonModal.js" />
@@ -306,6 +306,13 @@
       <jump line="6" column="34" filename="$USER_HOME$/cea/parfit/.env" />
       <jump line="9" column="147" filename="$USER_HOME$/cea/parfit/.env" />
       <jump line="127" column="13" filename="$USER_HOME$/cea/parfit/package.json" />
+      <jump line="0" column="0" filename="$USER_HOME$/cea/aletheia/app/containers/Dashboard/DashboardPledge/index.jsx" />
+      <jump line="14" column="42" filename="$USER_HOME$/cea/aletheia/app/containers/Dashboard/DashboardPledge/index.jsx" />
+      <jump line="124" column="19" filename="$USER_HOME$/cea/aletheia/app/containers/Dashboard/DashboardPledge/index.jsx" />
+      <jump line="126" column="13" filename="$USER_HOME$/cea/aletheia/app/containers/Dashboard/DashboardPledge/index.jsx" />
+      <jump line="128" column="13" filename="$USER_HOME$/cea/aletheia/app/containers/Dashboard/DashboardPledge/index.jsx" />
+      <jump line="129" column="14" filename="$USER_HOME$/cea/aletheia/app/containers/Dashboard/DashboardPledge/index.jsx" />
+      <jump line="130" column="23" filename="$USER_HOME$/cea/aletheia/app/containers/Dashboard/DashboardPledge/index.jsx" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -476,13 +483,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>Pledges</text>
       </register>
       <register name="/" type="4">
-        <text>make</text>
+        <text>loading</text>
       </register>
-      <register name="0" type="4">
-        <text>make-migration</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdQbGVkZ2VzTG9hZGluZycsIFBsZWRnZXNMb2FkaW5nKQo=</text>
       </register>
       <register name="p" type="4">
         <keys>
@@ -495,43 +502,43 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAvLyBUT0RPIG9uZWxpbmUK</text>
+        <text encoding="base64">ICAgICAgSW5jb21lc0xvYWRpbmcgIT09IGZhbHNlIHx8CiAgICAgIFBheW1lbnRzTG9hZGluZyAhPT0gZmFsc2UgfHwKICAgICAgUmVwb3J0ZWREb25hdGlvbnNMb2FkaW5nICE9PSBmYWxzZQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">ICAgICAgUGxlZGdlc0xvYWRpbmcgIT09IGZhbHNlIHx8Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdjcmVhdGVkIHBlcnNvbicsIFBlcnNvbikK</text>
+        <text encoding="base64">ICAvLyBUT0RPIG9uZWxpbmUK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ2dvdCBzdGFydGluZyBwZXJzb24nLCBzdGFydGluZ1BlcnNvbikK</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdyZW5kZXIgZW1haWwnLCBlbWFpbCkK</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdjcmVhdGVkIHBlcnNvbicsIFBlcnNvbikK</text>
       </register>
       <register name="u" type="4">
         <text>uu</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIC8vIGNvbnNvbGUubG9nKCd2YWxpZGF0aW9uJywgdmFsaWRhdGlvbikK</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ2dvdCBzdGFydGluZyBwZXJzb24nLCBzdGFydGluZ1BlcnNvbikK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCd2YWxpZGF0ZSwgZmllbGRzJywgZmllbGRzKQo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdyZW5kZXIgZW1haWwnLCBlbWFpbCkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdoYW5kbGVGaWVsZENoYW5nZScsIGZpZWxkTmFtZSwgZXZlbnQudGFyZ2V0LnZhbHVlKQo=</text>
+        <text encoding="base64">ICAgIC8vIGNvbnNvbGUubG9nKCd2YWxpZGF0aW9uJywgdmFsaWRhdGlvbikK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdzdHVmZicsIG11dGF0aW9uRGF0YSkK</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCd2YWxpZGF0ZSwgZmllbGRzJywgZmllbGRzKQo=</text>
       </register>
       <register name=":" type="4">
-        <text>action GotoFile</text>
+        <text>w!</text>
       </register>
     </registers>
     <search>
-      <last-search>make</last-search>
+      <last-search>loading</last-search>
       <last-offset />
-      <last-pattern>make</last-pattern>
+      <last-pattern>loading</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -539,7 +546,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxzaG93VmFsaWRhdGlvbkVycm9yc1w+</entry>
         <entry encoding="base64">XDxzdGFydGluZ1BlcnNvblw+</entry>
         <entry encoding="base64">XDxmaXJzdE5hbWVcPg==</entry>
         <entry encoding="base64">XDxzZXRTaG93VmFsaWRhdGlvbkVycm9yc1w+</entry>
@@ -559,6 +565,7 @@
         <entry>\.endDate</entry>
         <entry encoding="base64">XDxwYXJmaXRcPg==</entry>
         <entry>make</entry>
+        <entry>loading</entry>
       </history-search>
       <history-cmd>
         <entry>230</entry>
@@ -577,10 +584,10 @@
         <entry>s/&quot;/'/g</entry>
         <entry>action GotoDeclaration</entry>
         <entry>action CommentByLineComment</entry>
-        <entry>w!</entry>
         <entry>action FindInPath</entry>
         <entry>action NextSplitter</entry>
         <entry>action GotoFile</entry>
+        <entry>w!</entry>
       </history-cmd>
       <history-expr />
       <history-input />
