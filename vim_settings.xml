@@ -115,7 +115,7 @@
         <mark key="." line="29" column="0" />
         <mark key="^" line="32" column="53" />
       </file>
-      <file name="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/posts/PostsViews.jsx" timestamp="1534896591497">
+      <file name="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/posts/PostsViews.jsx" timestamp="1535472872190">
         <mark key="'" line="69" column="54" />
         <mark key="[" line="128" column="0" />
         <mark key="]" line="128" column="0" />
@@ -587,9 +587,9 @@
         <entry>s/&quot;/'/g</entry>
         <entry>action CommentByLineComment</entry>
         <entry>action GotoDeclaration</entry>
-        <entry>action GotoFile</entry>
         <entry>action NextSplitter</entry>
         <entry>w!</entry>
+        <entry>action GotoFile</entry>
         <entry>action FindInPath</entry>
       </history-cmd>
       <history-expr />
