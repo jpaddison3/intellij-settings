@@ -126,12 +126,12 @@
         <mark key="." line="29" column="0" />
         <mark key="^" line="32" column="53" />
       </file>
-      <file name="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/posts/PostsViews.jsx" timestamp="1535563097623">
+      <file name="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/posts/PostsViews.jsx" timestamp="1535563942599">
         <mark key="'" line="66" column="0" />
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="0" />
-        <mark key="^" line="18" column="10" />
-        <mark key="." line="15" column="0" />
+        <mark key="[" line="35" column="39" />
+        <mark key="]" line="35" column="50" />
+        <mark key="^" line="35" column="50" />
+        <mark key="." line="35" column="50" />
       </file>
       <file name="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/form-components/ImageUpload.jsx" timestamp="1534977285407">
         <mark key="'" line="26" column="27" />
@@ -498,7 +498,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>EAForum</text>
+        <text>LessWrong</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxpbmNsdWRlc1w+</text>
