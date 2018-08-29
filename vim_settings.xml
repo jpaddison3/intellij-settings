@@ -26,11 +26,11 @@
         <mark key="^" line="51" column="24" />
         <mark key="." line="51" column="98" />
       </file>
-      <file name="$USER_HOME$/cea/Forum/Forum/settings-staging.json" timestamp="1535553086318">
-        <mark key="[" line="51" column="13" />
-        <mark key="]" line="51" column="18" />
-        <mark key="." line="51" column="18" />
-        <mark key="^" line="51" column="18" />
+      <file name="$USER_HOME$/cea/Forum/Forum/settings-staging.json" timestamp="1535559166577">
+        <mark key="[" line="51" column="22" />
+        <mark key="]" line="51" column="40" />
+        <mark key="." line="51" column="40" />
+        <mark key="^" line="51" column="40" />
       </file>
       <file name="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/lib/search/callbacks.js" timestamp="1535539698620">
         <mark key="'" line="19" column="0" />
@@ -146,12 +146,12 @@
         <mark key="." line="29" column="0" />
         <mark key="^" line="32" column="53" />
       </file>
-      <file name="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/posts/PostsViews.jsx" timestamp="1535472872190">
+      <file name="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/posts/PostsViews.jsx" timestamp="1535558475735">
         <mark key="'" line="69" column="54" />
-        <mark key="[" line="128" column="0" />
-        <mark key="]" line="128" column="0" />
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="0" />
         <mark key="^" line="169" column="14" />
-        <mark key="." line="128" column="0" />
+        <mark key="." line="18" column="0" />
       </file>
       <file name="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/form-components/ImageUpload.jsx" timestamp="1534977285407">
         <mark key="'" line="26" column="27" />
@@ -171,11 +171,11 @@
       </file>
       <file name="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/themes/createThemeDefaults.js" timestamp="1534896087222" />
       <file name="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/Layout.jsx" timestamp="1534890998149" />
-      <file name="$USER_HOME$/cea/Forum/Forum/settings-prod.json" timestamp="1535554761566">
-        <mark key="[" line="64" column="0" />
-        <mark key="]" line="64" column="0" />
-        <mark key="." line="64" column="0" />
-        <mark key="^" line="63" column="1" />
+      <file name="$USER_HOME$/cea/Forum/Forum/settings-prod.json" timestamp="1535558872314">
+        <mark key="[" line="51" column="116" />
+        <mark key="]" line="51" column="120" />
+        <mark key="." line="51" column="120" />
+        <mark key="^" line="51" column="120" />
       </file>
       <file name="$USER_HOME$/cea/aletheia/app/containers/AdminPerson/index.jsx" timestamp="1535068985782">
         <mark key="a" line="89" column="11" />
@@ -518,10 +518,10 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>.values()</text>
+        <text>eaforum</text>
       </register>
       <register name="/" type="4">
-        <text>'</text>
+        <text>boiler</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CiAgInByaXZhdGVCZXRhTGVnYWN5V2hpdGVsaXN0IjogWwogICAgImpwYWRkaXNvbiIsCiAgICAiTWF4ZGFsdG9uIiwKICAgICJKdWxpYV9XaXNlIiwKICAgICJNYXJla0R1ZGEiLAogICAgIlNhbURlZXJlIgogIF0sCg==</text>
@@ -537,24 +537,27 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAnY29tbXVuaXR5JzogewogICAgbGFiZWw6ICdBbGwgUG9zdHMnLAogICAgZGVzY3JpcHRpb246ICJJbmNsdWRlcyBwZXJzb25hbCBhbmQgbWV0YSBibG9ncG9zdHNcbiAoYXMgd2VsbCBhcyBjdXJhdGVkIGFuZCBmcm9udHBhZ2UpLiIsCiAgICBsZWFybk1vcmVMaW5rOiAiL3Bvc3RzL3RLVGNybktuMllTZHhreEtHL2Zyb250cGFnZS1wb3N0aW5nLWFuZC1jb21tZW50aW5nLWd1aWRlbGluZXMiLAogICAgY2F0ZWdvcnlJY29uOiJwZXJzb24iLAogICAgcnNzVmlldzogImNvbW11bml0eS1yc3MiLAogICAgcnNzOnRydWUKICB9LAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZygnd2hpdGVsaXN0Jywgd2hpdGVsaXN0KQo=</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICBjb25zb2xlLmxvZygnd2hpdGVsaXN0Jywgd2hpdGVsaXN0KQo=</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIC8vIFRPRE8gZ2V0IGZyb20gc2V0dGluZ3MK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBbCiAgJ2pwYWRkaXNvbicsCiAgLy8gVE9ETyBnZXQgZnJvbSBzZXR0aW5ncwogICdNYXhkYWx0b24nLAogICdKdWxpYV9XaXNlJywKICAnTWFyZWtEdWRhJywKICAnU2FtRGVlcmUnCl0K</text>
+        <text encoding="base64">ICAgIC8vIFRPRE8gZ2V0IGZyb20gc2V0dGluZ3MK</text>
       </register>
       <register name="u" type="4">
         <text>uu</text>
       </register>
-      <register name="6" type="4">
+      <register name="6" type="2">
+        <text encoding="base64">ICBbCiAgJ2pwYWRkaXNvbicsCiAgLy8gVE9ETyBnZXQgZnJvbSBzZXR0aW5ncwogICdNYXhkYWx0b24nLAogICdKdWxpYV9XaXNlJywKICAnTWFyZWtEdWRhJywKICAnU2FtRGVlcmUnCl0K</text>
+      </register>
+      <register name="7" type="4">
         <text>[
   'jpaddison',
   // TODO get from settings
@@ -564,23 +567,20 @@
   'SamDeere'
 ]</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICJyZWFjdC10eXBla2l0IjogIl4xLjEuMyIsCg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">PT09PT09PQo+Pj4+Pj4+IGRldmVsCg==</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
       </register>
       <register name=":" type="4">
         <text>w!</text>
       </register>
     </registers>
     <search>
-      <last-search>'</last-search>
+      <last-search>boiler</last-search>
       <last-offset />
-      <last-pattern>'</last-pattern>
+      <last-pattern>boiler</last-pattern>
       <last-replace>&quot;</last-replace>
       <last-substitute>'</last-substitute>
       <last-dir>1</last-dir>
@@ -588,7 +588,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxyZWdpc3RlclBlcnNvblNoYWRvd011dGF0aW9uXD4=</entry>
         <entry encoding="base64">XDxMaW5rXD4=</entry>
         <entry encoding="base64">XDxQYWdlVGl0bGVcPg==</entry>
         <entry encoding="base64">XDxMb2FkaW5nU3Bpbm5lclw+</entry>
@@ -608,6 +607,7 @@
         <entry>console</entry>
         <entry encoding="base64">XDx0cmFuc2l0aW9uXD4=</entry>
         <entry>'</entry>
+        <entry>boiler</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5hY3Rpb24gTmV4dFNwbGl0dGVy</entry>
@@ -625,10 +625,10 @@
         <entry>s/&quot;/'/g</entry>
         <entry>action GotoDeclaration</entry>
         <entry>action CommentByLineComment</entry>
-        <entry>action GotoFile</entry>
-        <entry>action FindInPath</entry>
         <entry encoding="base64">JzwsJz5zLycvIi9n</entry>
+        <entry>action FindInPath</entry>
         <entry>action NextSplitter</entry>
+        <entry>action GotoFile</entry>
         <entry>w!</entry>
       </history-cmd>
       <history-expr />
