@@ -26,7 +26,8 @@
         <mark key="^" line="51" column="24" />
         <mark key="." line="51" column="98" />
       </file>
-      <file name="$USER_HOME$/cea/Forum/Forum/settings-staging.json" timestamp="1535559166577">
+      <file name="$USER_HOME$/cea/Forum/Forum/settings-staging.json" timestamp="1535559874383">
+        <mark key="'" line="50" column="97" />
         <mark key="[" line="51" column="22" />
         <mark key="]" line="51" column="40" />
         <mark key="." line="51" column="40" />
@@ -57,13 +58,6 @@
       </file>
       <file name="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/sequences/SequencesHome.jsx" timestamp="1534979767169">
         <mark key="'" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/themes/eaForumTheme.js" timestamp="1534896439803">
-        <mark key="'" line="31" column="2" />
-        <mark key="[" line="29" column="14" />
-        <mark key="]" line="29" column="27" />
-        <mark key="." line="29" column="27" />
-        <mark key="^" line="29" column="27" />
       </file>
       <file name="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/common/Home.jsx" timestamp="1535550270276">
         <mark key="'" line="27" column="8" />
@@ -119,25 +113,11 @@
         <mark key="." line="31" column="11" />
         <mark key="^" line="31" column="11" />
       </file>
-      <file name="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/lib/collections/users/validate_login.js" timestamp="1535554657345">
-        <mark key="'" line="32" column="21" />
-        <mark key="[" line="33" column="0" />
-        <mark key="]" line="33" column="0" />
-        <mark key="^" line="23" column="33" />
-        <mark key="." line="33" column="0" />
-      </file>
       <file name="$USER_HOME$/cea/Forum/Forum/package.json" timestamp="1535550501728">
         <mark key="'" line="133" column="11" />
         <mark key="[" line="134" column="0" />
         <mark key="]" line="134" column="0" />
         <mark key="." line="134" column="0" />
-      </file>
-      <file name="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/themes/stylePiping.js" timestamp="1534896564704">
-        <mark key="'" line="113" column="0" />
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="^" line="5" column="36" />
-        <mark key="." line="5" column="0" />
       </file>
       <file name="$USER_HOME$/cea/aletheia/app/containers/Admin/AdminPayrollGiving/Providers/index.js" timestamp="1535064083973">
         <mark key="'" line="27" column="0" />
@@ -146,12 +126,12 @@
         <mark key="." line="29" column="0" />
         <mark key="^" line="32" column="53" />
       </file>
-      <file name="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/posts/PostsViews.jsx" timestamp="1535558475735">
-        <mark key="'" line="69" column="54" />
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="18" column="0" />
-        <mark key="^" line="169" column="14" />
-        <mark key="." line="18" column="0" />
+      <file name="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/posts/PostsViews.jsx" timestamp="1535560088715">
+        <mark key="'" line="218" column="0" />
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="^" line="18" column="10" />
+        <mark key="." line="15" column="0" />
       </file>
       <file name="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/form-components/ImageUpload.jsx" timestamp="1534977285407">
         <mark key="'" line="26" column="27" />
@@ -248,15 +228,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="167" column="2" filename="$USER_HOME$/cea/aletheia/app/containers/Admin/CreatePerson/index.jsx" />
-      <jump line="34" column="25" filename="$USER_HOME$/cea/aletheia/app/containers/Admin/CreatePerson/index.jsx" />
-      <jump line="37" column="7" filename="$USER_HOME$/cea/aletheia/app/containers/Admin/CreatePerson/index.jsx" />
-      <jump line="99" column="2" filename="$USER_HOME$/cea/aletheia/app/containers/Admin/CreatePerson/index.jsx" />
-      <jump line="57" column="34" filename="$USER_HOME$/cea/aletheia/app/containers/Admin/CreatePerson/index.jsx" />
-      <jump line="112" column="11" filename="$USER_HOME$/cea/aletheia/app/containers/Admin/CreatePerson/index.jsx" />
-      <jump line="122" column="44" filename="$USER_HOME$/cea/aletheia/app/containers/Admin/CreatePerson/index.jsx" />
-      <jump line="124" column="35" filename="$USER_HOME$/cea/aletheia/app/containers/Admin/CreatePerson/index.jsx" />
-      <jump line="106" column="2" filename="$USER_HOME$/cea/aletheia/app/containers/Admin/CreatePerson/index.jsx" />
       <jump line="140" column="23" filename="$USER_HOME$/cea/aletheia/app/containers/Admin/CreatePerson/index.jsx" />
       <jump line="151" column="23" filename="$USER_HOME$/cea/aletheia/app/containers/Admin/CreatePerson/index.jsx" />
       <jump line="162" column="23" filename="$USER_HOME$/cea/aletheia/app/containers/Admin/CreatePerson/index.jsx" />
@@ -348,6 +319,15 @@
       <jump line="133" column="11" filename="$USER_HOME$/cea/Forum/Forum/package.json" />
       <jump line="66" column="5" filename="$USER_HOME$/cea/Forum/Forum/settings-dev.json" />
       <jump line="26" column="21" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/lib/collections/users/validate_login.js" />
+      <jump line="50" column="97" filename="$USER_HOME$/cea/Forum/Forum/settings-staging.json" />
+      <jump line="39" column="92" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/posts/PostsViews.jsx" />
+      <jump line="18" column="26" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/posts/PostsViews.jsx" />
+      <jump line="23" column="75" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/posts/PostsViews.jsx" />
+      <jump line="31" column="226" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/posts/PostsViews.jsx" />
+      <jump line="47" column="48" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/posts/PostsViews.jsx" />
+      <jump line="54" column="41" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/posts/PostsViews.jsx" />
+      <jump line="190" column="6" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/posts/PostsViews.jsx" />
+      <jump line="218" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/posts/PostsViews.jsx" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -409,7 +389,7 @@
         <text>.nn</text>
       </register>
       <register name="*" type="4">
-        <text>{}</text>
+        <text>&quot;&quot;</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -518,10 +498,10 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>eaforum</text>
+        <text>inlineSiteName</text>
       </register>
       <register name="/" type="4">
-        <text>boiler</text>
+        <text encoding="base64">XDx0aXRsZVw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CiAgInByaXZhdGVCZXRhTGVnYWN5V2hpdGVsaXN0IjogWwogICAgImpwYWRkaXNvbiIsCiAgICAiTWF4ZGFsdG9uIiwKICAgICJKdWxpYV9XaXNlIiwKICAgICJNYXJla0R1ZGEiLAogICAgIlNhbURlZXJlIgogIF0sCg==</text>
@@ -537,50 +517,43 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAnY29tbXVuaXR5JzogewogICAgbGFiZWw6ICdBbGwgUG9zdHMnLAogICAgZGVzY3JpcHRpb246ICJJbmNsdWRlcyBwZXJzb25hbCBhbmQgbWV0YSBibG9ncG9zdHNcbiAoYXMgd2VsbCBhcyBjdXJhdGVkIGFuZCBmcm9udHBhZ2UpLiIsCiAgICBsZWFybk1vcmVMaW5rOiAiL3Bvc3RzL3RLVGNybktuMllTZHhreEtHL2Zyb250cGFnZS1wb3N0aW5nLWFuZC1jb21tZW50aW5nLWd1aWRlbGluZXMiLAogICAgY2F0ZWdvcnlJY29uOiJwZXJzb24iLAogICAgcnNzVmlldzogImNvbW11bml0eS1yc3MiLAogICAgcnNzOnRydWUKICB9LAo=</text>
+        <text encoding="base64">ZnVuY3Rpb24gZ2V0SW5saW5lU2l0ZU5hbWUgKCkgewoKfQo=</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="4">
+        <text>&quot;&quot;</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZygnd2hpdGVsaXN0Jywgd2hpdGVsaXN0KQo=</text>
+      <register name="3" type="4">
+        <text>Daily - All posts on ${inline}, sorted by date</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="4" type="4">
+        <text>&quot;&quot;</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIC8vIFRPRE8gZ2V0IGZyb20gc2V0dGluZ3MK</text>
+      <register name="5" type="4">
+        <text>Meta - Discussion about the LessWrong site.</text>
       </register>
       <register name="u" type="4">
         <text>uu</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICBbCiAgJ2pwYWRkaXNvbicsCiAgLy8gVE9ETyBnZXQgZnJvbSBzZXR0aW5ncwogICdNYXhkYWx0b24nLAogICdKdWxpYV9XaXNlJywKICAnTWFyZWtEdWRhJywKICAnU2FtRGVlcmUnCl0K</text>
+      <register name="6" type="4">
+        <text>&quot;&quot;</text>
       </register>
       <register name="7" type="4">
-        <text>[
-  'jpaddison',
-  // TODO get from settings
-  'Maxdalton',
-  'Julia_Wise',
-  'MarekDuda',
-  'SamDeere'
-]</text>
+        <text>Includes personal and meta blogposts\n (as well as curated and frontpage).</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICJyZWFjdC10eXBla2l0IjogIl4xLjEuMyIsCg==</text>
+      <register name="8" type="4">
+        <text>&quot;&quot;</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
+      <register name="9" type="4">
+        <text>Posts meeting our frontpage guidelines:\n • interesting, insightful, useful\n • aim to explain, not to persuade\n • avoid meta discussion \n • relevant to people whether or not they \nare involved with the LessWrong community.</text>
       </register>
       <register name=":" type="4">
         <text>w!</text>
       </register>
     </registers>
     <search>
-      <last-search>boiler</last-search>
+      <last-search encoding="base64">XDx0aXRsZVw+</last-search>
       <last-offset />
-      <last-pattern>boiler</last-pattern>
+      <last-pattern encoding="base64">XDx0aXRsZVw+</last-pattern>
       <last-replace>&quot;</last-replace>
       <last-substitute>'</last-substitute>
       <last-dir>1</last-dir>
@@ -588,7 +561,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxMaW5rXD4=</entry>
         <entry encoding="base64">XDxQYWdlVGl0bGVcPg==</entry>
         <entry encoding="base64">XDxMb2FkaW5nU3Bpbm5lclw+</entry>
         <entry>rend</entry>
@@ -608,9 +580,9 @@
         <entry encoding="base64">XDx0cmFuc2l0aW9uXD4=</entry>
         <entry>'</entry>
         <entry>boiler</entry>
+        <entry encoding="base64">XDx0aXRsZVw+</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5hY3Rpb24gTmV4dFNwbGl0dGVy</entry>
         <entry>50</entry>
         <entry>%s/payments/pledges/g</entry>
         <entry>%s/Payments/Pledges/g</entry>
@@ -629,6 +601,7 @@
         <entry>action FindInPath</entry>
         <entry>action NextSplitter</entry>
         <entry>action GotoFile</entry>
+        <entry>action Refactorings.QuickListPopupAction</entry>
         <entry>w!</entry>
       </history-cmd>
       <history-expr />
