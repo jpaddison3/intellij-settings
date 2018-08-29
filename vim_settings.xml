@@ -26,10 +26,11 @@
         <mark key="^" line="51" column="24" />
         <mark key="." line="51" column="98" />
       </file>
-      <file name="$USER_HOME$/cea/Forum/Forum/settings-staging.json" timestamp="1534985204740">
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="21" column="0" />
-        <mark key="." line="21" column="0" />
+      <file name="$USER_HOME$/cea/Forum/Forum/settings-staging.json" timestamp="1535553086318">
+        <mark key="[" line="51" column="13" />
+        <mark key="]" line="51" column="18" />
+        <mark key="." line="51" column="18" />
+        <mark key="^" line="51" column="18" />
       </file>
       <file name="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/lib/search/callbacks.js" timestamp="1535539698620">
         <mark key="'" line="19" column="0" />
@@ -37,11 +38,6 @@
         <mark key="]" line="15" column="22" />
         <mark key="^" line="10" column="1" />
         <mark key="." line="10" column="2" />
-      </file>
-      <file name="$USER_HOME$/cea/Forum/Forum/settings-lw.json" timestamp="1534985211727">
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="21" column="0" />
-        <mark key="." line="21" column="0" />
       </file>
       <file name="$USER_HOME$/cea/parfit/services/payments/handlers/xero/index.js" timestamp="1535368949808" />
       <file name="$USER_HOME$/cea/aletheia/app/containers/Admin/AdminPayrollGiving/MatchPersonModal.js" timestamp="1535069877609">
@@ -160,10 +156,11 @@
       </file>
       <file name="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/themes/createThemeDefaults.js" timestamp="1534896087222" />
       <file name="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/Layout.jsx" timestamp="1534890998149" />
-      <file name="$USER_HOME$/cea/Forum/Forum/settings-prod.json" timestamp="1535476857758">
-        <mark key="[" line="50" column="30" />
-        <mark key="]" line="50" column="34" />
-        <mark key="." line="21" column="0" />
+      <file name="$USER_HOME$/cea/Forum/Forum/settings-prod.json" timestamp="1535553063670">
+        <mark key="[" line="50" column="141" />
+        <mark key="]" line="50" column="141" />
+        <mark key="." line="50" column="141" />
+        <mark key="^" line="50" column="141" />
       </file>
       <file name="$USER_HOME$/cea/aletheia/app/containers/AdminPerson/index.jsx" timestamp="1535068985782">
         <mark key="a" line="89" column="11" />
@@ -510,8 +507,8 @@
       <register name="/" type="4">
         <text encoding="base64">XDx0cmFuc2l0aW9uXD4=</text>
       </register>
-      <register name="0" type="4">
-        <text>&quot;mongodb://admin3:TMBqy6zczQCw3VAieA9@ds125001.mlab.com:25001/ibetaforum&quot;,</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgIk1PTkdPX1VSTCI6ICJtb25nb2RiOi8vYWRtaW46c0xNVThiREdYRFltR0ZQOU5mOUBkczE1Mzg1MS5tbGFiLmNvbTo1Mzg1MS9lYS1mb3J1bS1zdGFnaW5nIgo=</text>
       </register>
       <register name="p" type="4">
         <keys>
