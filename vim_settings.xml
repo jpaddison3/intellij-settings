@@ -19,12 +19,12 @@
       <file name="$USER_HOME$/cea/aletheia/app/models/People/index.js" timestamp="1534446267935">
         <mark key="'" line="106" column="0" />
       </file>
-      <file name="$USER_HOME$/cea/Forum/Forum/settings.json" timestamp="1534985214988">
+      <file name="$USER_HOME$/cea/Forum/Forum/settings.json" timestamp="1535552291358">
         <mark key="'" line="8" column="0" />
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="21" column="0" />
-        <mark key="^" line="31" column="5" />
-        <mark key="." line="21" column="0" />
+        <mark key="[" line="51" column="98" />
+        <mark key="]" line="51" column="98" />
+        <mark key="^" line="51" column="24" />
+        <mark key="." line="51" column="98" />
       </file>
       <file name="$USER_HOME$/cea/Forum/Forum/settings-staging.json" timestamp="1534985204740">
         <mark key="[" line="21" column="0" />
@@ -505,13 +505,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>Maxdalton</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx0cmFuc2l0aW9uXD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAnTWF4ZGFsdG9uJywK</text>
+      <register name="0" type="4">
+        <text>&quot;mongodb://admin3:TMBqy6zczQCw3VAieA9@ds125001.mlab.com:25001/ibetaforum&quot;,</text>
       </register>
       <register name="p" type="4">
         <keys>
