@@ -126,7 +126,7 @@
         <mark key="." line="29" column="0" />
         <mark key="^" line="32" column="53" />
       </file>
-      <file name="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/posts/PostsViews.jsx" timestamp="1535560088715">
+      <file name="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/posts/PostsViews.jsx" timestamp="1535560843000">
         <mark key="'" line="218" column="0" />
         <mark key="[" line="15" column="0" />
         <mark key="]" line="15" column="0" />
@@ -547,7 +547,7 @@
         <text>Posts meeting our frontpage guidelines:\n • interesting, insightful, useful\n • aim to explain, not to persuade\n • avoid meta discussion \n • relevant to people whether or not they \nare involved with the LessWrong community.</text>
       </register>
       <register name=":" type="4">
-        <text>w!</text>
+        <text>action FindInPath</text>
       </register>
     </registers>
     <search>
@@ -598,11 +598,11 @@
         <entry>action GotoDeclaration</entry>
         <entry>action CommentByLineComment</entry>
         <entry encoding="base64">JzwsJz5zLycvIi9n</entry>
-        <entry>action FindInPath</entry>
         <entry>action NextSplitter</entry>
-        <entry>action GotoFile</entry>
         <entry>action Refactorings.QuickListPopupAction</entry>
         <entry>w!</entry>
+        <entry>action GotoFile</entry>
+        <entry>action FindInPath</entry>
       </history-cmd>
       <history-expr />
       <history-input />
