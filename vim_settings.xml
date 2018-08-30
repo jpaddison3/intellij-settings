@@ -10,6 +10,18 @@
         <mark key="^" line="30" column="7" />
         <mark key="." line="27" column="0" />
       </file>
+      <file name="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/lib/components.js" timestamp="1534974467018">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="48" />
+      </file>
+      <file name="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/common/Header.jsx" timestamp="1534530224732">
+        <mark key="[" line="21" column="12" />
+        <mark key="]" line="21" column="18" />
+      </file>
+      <file name="$USER_HOME$/cea/parfit/services/payments/gateways/xero-new.js" timestamp="1535638914410">
+        <mark key="[" line="9" column="2" />
+        <mark key="]" line="9" column="25" />
+      </file>
       <file name="$USER_HOME$/cea/aletheia/app/containers/Admin/AdminPayrollGiving/Providers/bt.js" timestamp="1535063349041">
         <mark key="[" line="60" column="0" />
         <mark key="]" line="60" column="0" />
@@ -505,7 +517,7 @@
         <text>balance</text>
       </register>
       <register name="0" type="4">
-        <text>validRecipient</text>
+        <text>XERO_CEA_US_CONSUMER_KEY</text>
       </register>
       <register name="p" type="4">
         <keys>
@@ -548,7 +560,7 @@
         <text>Posts meeting our frontpage guidelines:\n • interesting, insightful, useful\n • aim to explain, not to persuade\n • avoid meta discussion \n • relevant to people whether or not they \nare involved with the LessWrong community.</text>
       </register>
       <register name=":" type="4">
-        <text>action GotoFile</text>
+        <text>action FindInPath</text>
       </register>
     </registers>
     <search>
@@ -602,8 +614,8 @@
         <entry>w!</entry>
         <entry>action NewFile</entry>
         <entry>action NextSplitter</entry>
-        <entry>action FindInPath</entry>
         <entry>action GotoFile</entry>
+        <entry>action FindInPath</entry>
       </history-cmd>
       <history-expr />
       <history-input />
