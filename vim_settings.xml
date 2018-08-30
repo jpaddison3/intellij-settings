@@ -112,6 +112,12 @@
         <mark key="^" line="10" column="1" />
         <mark key="." line="10" column="2" />
       </file>
+      <file name="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/scripts/configuration.js" timestamp="1535644010421">
+        <mark key="[" line="3" column="48" />
+        <mark key="]" line="3" column="52" />
+        <mark key="." line="3" column="52" />
+        <mark key="^" line="3" column="52" />
+      </file>
       <file name="$USER_HOME$/Documents/cea/Forum/Forum/packages/lesswrong/components/form-components/MultiSelectButtons.jsx" timestamp="1532126295932">
         <mark key="[" line="48" column="63" />
         <mark key="]" line="48" column="63" />
@@ -260,11 +266,11 @@
         <mark key="." line="2" column="51" />
         <mark key="^" line="2" column="51" />
       </file>
-      <file name="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/lib/collections/users/validate_login.js" timestamp="1535642325238">
-        <mark key="[" line="35" column="29" />
-        <mark key="]" line="35" column="37" />
-        <mark key="^" line="35" column="37" />
-        <mark key="." line="35" column="37" />
+      <file name="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/lib/collections/users/validate_login.js" timestamp="1535644591468">
+        <mark key="[" line="34" column="4" />
+        <mark key="]" line="34" column="14" />
+        <mark key="." line="34" column="14" />
+        <mark key="^" line="34" column="14" />
       </file>
       <file name="$USER_HOME$/cea/Forum/Forum/package.json" timestamp="1535550501728">
         <mark key="'" line="133" column="11" />
@@ -733,13 +739,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>user.username</text>
+        <text>true</text>
       </register>
       <register name="/" type="4">
         <text>balance</text>
       </register>
-      <register name="0" type="4">
-        <text>mongodb://admin:Gn9x4sMGijNYRwCwzb9@ds251361-a0.mlab.com:51361,ds251361-a1.mlab.com:51361/eaforum?replicaSet=rs-ds251361</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIHRocm93IG5ldyBNZXRlb3IuRXJyb3IoJ2xlZ2FjeS1ub3QteWV0LXJlYWR5JywgJ0xlZ2FjeSB1c2VyIGRldGVjdGVkLCBub3QgeWV0IGFsbG93ZWQnKQo=</text>
       </register>
       <register name="p" type="4">
         <keys>
@@ -752,34 +758,34 @@
         </keys>
       </register>
       <register name="1" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="2" type="2">
         <text encoding="base64">ZnVuY3Rpb24gZ2V0SW5saW5lU2l0ZU5hbWUgKCkgewoKfQo=</text>
       </register>
-      <register name="2" type="4">
-        <text>&quot;&quot;</text>
-      </register>
       <register name="3" type="4">
-        <text>Daily - All posts on ${inline}, sorted by date</text>
+        <text>&quot;&quot;</text>
       </register>
       <register name="4" type="4">
-        <text>&quot;&quot;</text>
+        <text>Daily - All posts on ${inline}, sorted by date</text>
       </register>
       <register name="5" type="4">
-        <text>Meta - Discussion about the LessWrong site.</text>
+        <text>&quot;&quot;</text>
       </register>
       <register name="u" type="4">
         <text>uu</text>
       </register>
       <register name="6" type="4">
-        <text>&quot;&quot;</text>
+        <text>Meta - Discussion about the LessWrong site.</text>
       </register>
       <register name="7" type="4">
-        <text>Includes personal and meta blogposts\n (as well as curated and frontpage).</text>
-      </register>
-      <register name="8" type="4">
         <text>&quot;&quot;</text>
       </register>
+      <register name="8" type="4">
+        <text>Includes personal and meta blogposts\n (as well as curated and frontpage).</text>
+      </register>
       <register name="9" type="4">
-        <text>Posts meeting our frontpage guidelines:\n • interesting, insightful, useful\n • aim to explain, not to persuade\n • avoid meta discussion \n • relevant to people whether or not they \nare involved with the LessWrong community.</text>
+        <text>&quot;&quot;</text>
       </register>
       <register name=":" type="4">
         <text>w!</text>
@@ -834,9 +840,9 @@
         <entry encoding="base64">JzwsJz5zLycvIi9n</entry>
         <entry>action Refactorings.QuickListPopupAction</entry>
         <entry>action NewFile</entry>
-        <entry>action FindInPath</entry>
-        <entry>action GotoFile</entry>
         <entry>action NextSplitter</entry>
+        <entry>action GotoFile</entry>
+        <entry>action FindInPath</entry>
         <entry>w!</entry>
       </history-cmd>
       <history-expr />
