@@ -45,11 +45,12 @@
         <mark key="." line="39" column="0" />
         <mark key="^" line="7" column="18" />
       </file>
-      <file name="$USER_HOME$/cea/effectivealtruism-org-static/src/templates/person.pug" timestamp="1535721272298">
-        <mark key="[" line="18" column="78" />
-        <mark key="]" line="18" column="81" />
-        <mark key="^" line="18" column="81" />
-        <mark key="." line="18" column="81" />
+      <file name="$USER_HOME$/cea/effectivealtruism-org-static/src/templates/person.pug" timestamp="1535730805816">
+        <mark key="'" line="18" column="85" />
+        <mark key="[" line="18" column="87" />
+        <mark key="]" line="18" column="89" />
+        <mark key="^" line="18" column="89" />
+        <mark key="." line="18" column="89" />
       </file>
       <file name="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/common/Header.jsx" timestamp="1534530224732">
         <mark key="[" line="21" column="12" />
@@ -450,7 +451,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="113" column="0" filename="$USER_HOME$/cea/aletheia/app/containers/Admin/CreatePerson/index.jsx" />
       <jump line="119" column="0" filename="$USER_HOME$/cea/aletheia/app/containers/Admin/CreatePerson/index.jsx" />
       <jump line="120" column="0" filename="$USER_HOME$/cea/aletheia/app/containers/Admin/CreatePerson/index.jsx" />
       <jump line="154" column="0" filename="$USER_HOME$/cea/aletheia/app/containers/Admin/CreatePerson/index.jsx" />
@@ -550,6 +550,7 @@
       <jump line="208" column="40" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/lib/components.js" />
       <jump line="0" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/lib/components.js" />
       <jump line="0" column="0" filename="$USER_HOME$/cea/Forum/Forum/settings-lw.json" />
+      <jump line="18" column="85" filename="$USER_HOME$/cea/effectivealtruism-org-static/src/templates/person.pug" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -611,7 +612,7 @@
         <text>.nn</text>
       </register>
       <register name="*" type="4">
-        <text>&quot;&quot;</text>
+        <text>()</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -720,7 +721,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>LessWrong</text>
+        <text>}</text>
       </register>
       <register name="/" type="4">
         <text>2nd pas</text>
@@ -738,38 +739,38 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIGxlYXJuTW9yZUxpbms6ICIvcG9zdHMvdEtUY3JuS24yWVNkeGt4S0cvZnJvbnRwYWdlLXBvc3RpbmctYW5kLWNvbW1lbnRpbmctZ3VpZGVsaW5lcyIsCg==</text>
+      <register name="1" type="4">
+        <text>()</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIGxlYXJuTW9yZUxpbms6ICIvcG9zdHMvdEtUY3JuS24yWVNkeGt4S0cvZnJvbnRwYWdlLXBvc3RpbmctYW5kLWNvbW1lbnRpbmctZ3VpZGVsaW5lcyIsCg==</text>
+      <register name="2" type="4">
+        <text>org</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgLy9wcmUhPSBKU09OLnN0cmluZ2lmeShvcmdhbmlzYXRpb24pCg==</text>
+        <text encoding="base64">ICAgIGxlYXJuTW9yZUxpbms6ICIvcG9zdHMvdEtUY3JuS24yWVNkeGt4S0cvZnJvbnRwYWdlLXBvc3RpbmctYW5kLWNvbW1lbnRpbmctZ3VpZGVsaW5lcyIsCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZygnQXR0ZW1wdGluZyBsb2dpbiBmb3InLCB1c2VyU3R1YikKICBjb25zb2xlLmxvZygnICB1c2VybmFtZScsIHVzZXIudXNlcm5hbWUpCiAgY29uc29sZS5sb2coJyAgd2hpdGVsaXN0Jywgd2hpdGVsaXN0KQo=</text>
+        <text encoding="base64">ICAgIGxlYXJuTW9yZUxpbms6ICIvcG9zdHMvdEtUY3JuS24yWVNkeGt4S0cvZnJvbnRwYWdlLXBvc3RpbmctYW5kLWNvbW1lbnRpbmctZ3VpZGVsaW5lcyIsCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgLy9wcmUhPSBKU09OLnN0cmluZ2lmeShvcmdhbmlzYXRpb24pCg==</text>
       </register>
       <register name="u" type="4">
         <text>uu</text>
       </register>
       <register name="6" type="2">
+        <text encoding="base64">ICBjb25zb2xlLmxvZygnQXR0ZW1wdGluZyBsb2dpbiBmb3InLCB1c2VyU3R1YikKICBjb25zb2xlLmxvZygnICB1c2VybmFtZScsIHVzZXIudXNlcm5hbWUpCiAgY29uc29sZS5sb2coJyAgd2hpdGVsaXN0Jywgd2hpdGVsaXN0KQo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">ZnVuY3Rpb24gZ2V0SW5saW5lU2l0ZU5hbWUgKCkgewoKfQo=</text>
-      </register>
-      <register name="7" type="4">
-        <text>&quot;&quot;</text>
-      </register>
-      <register name="8" type="4">
-        <text>Daily - All posts on ${inline}, sorted by date</text>
       </register>
       <register name="9" type="4">
         <text>&quot;&quot;</text>
       </register>
       <register name=":" type="4">
-        <text>action FindInPath</text>
+        <text>w!</text>
       </register>
     </registers>
     <search>
@@ -822,9 +823,9 @@
         <entry>action SplitVertically</entry>
         <entry>action NextSplitter</entry>
         <entry>action CommentByLineComment</entry>
-        <entry>w!</entry>
         <entry>action GotoFile</entry>
         <entry>action FindInPath</entry>
+        <entry>w!</entry>
       </history-cmd>
       <history-expr />
       <history-input />
