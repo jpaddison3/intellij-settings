@@ -44,11 +44,11 @@
         <mark key="." line="39" column="0" />
         <mark key="^" line="7" column="18" />
       </file>
-      <file name="$USER_HOME$/cea/effectivealtruism-org-static/src/templates/person.pug" timestamp="1535719377550">
-        <mark key="[" line="23" column="52" />
-        <mark key="]" line="23" column="74" />
-        <mark key="^" line="23" column="74" />
-        <mark key="." line="23" column="74" />
+      <file name="$USER_HOME$/cea/effectivealtruism-org-static/src/templates/person.pug" timestamp="1535721272298">
+        <mark key="[" line="18" column="78" />
+        <mark key="]" line="18" column="81" />
+        <mark key="^" line="18" column="81" />
+        <mark key="." line="18" column="81" />
       </file>
       <file name="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/common/Header.jsx" timestamp="1534530224732">
         <mark key="[" line="21" column="12" />
@@ -279,8 +279,8 @@
         <mark key="." line="36" column="0" />
         <mark key="^" line="34" column="14" />
       </file>
-      <file name="$USER_HOME$/cea/effectivealtruism-org-static/package.json" timestamp="1535714735705">
-        <mark key="'" line="0" column="0" />
+      <file name="$USER_HOME$/cea/effectivealtruism-org-static/package.json" timestamp="1535721863400">
+        <mark key="'" line="38" column="5" />
       </file>
       <file name="$USER_HOME$/cea/effectivealtruism-org-static/src/metalsmith/contentful/people.contentful" timestamp="1535712729917" />
       <file name="$USER_HOME$/cea/Forum/Forum/package.json" timestamp="1535550501728">
@@ -349,12 +349,6 @@
       <file name="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/lib/search/utils.js" timestamp="1534978931469">
         <mark key="'" line="91" column="4" />
       </file>
-      <file name="$USER_HOME$/Documents/cea/aletheia/app/routes.js" timestamp="1533838144842">
-        <mark key="'" line="26" column="15" />
-        <mark key="[" line="115" column="0" />
-        <mark key="]" line="115" column="0" />
-        <mark key="." line="115" column="0" />
-      </file>
       <file name="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/themes/createThemeDefaults.js" timestamp="1534896087222" />
       <file name="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/Layout.jsx" timestamp="1534890998149" />
       <file name="$USER_HOME$/cea/Forum/Forum/settings-prod.json" timestamp="1535642363960">
@@ -408,12 +402,6 @@
         <mark key="." line="10" column="0" />
         <mark key="^" line="8" column="6" />
       </file>
-      <file name="$USER_HOME$/cea/aletheia/app/containers/Dashboard/DashboardPledge/index.jsx" timestamp="1535451703780">
-        <mark key="'" line="130" column="23" />
-        <mark key="[" line="141" column="0" />
-        <mark key="]" line="141" column="0" />
-        <mark key="." line="141" column="0" />
-      </file>
       <file name="$USER_HOME$/cea/aletheia/package.json" timestamp="1535069355579">
         <mark key="'" line="326" column="5" />
       </file>
@@ -422,23 +410,17 @@
         <mark key="[" line="43" column="5" />
         <mark key="]" line="43" column="30" />
       </file>
-      <file name="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/common/SearchBar.jsx" timestamp="1534533399250">
-        <mark key="'" line="71" column="10" />
-        <mark key="[" line="73" column="0" />
-        <mark key="]" line="73" column="0" />
-        <mark key="." line="73" column="0" />
+      <file name="$USER_HOME$/cea/effectivealtruism-org-static/.gitignore" timestamp="1535721542430">
+        <mark key="[" line="12" column="5" />
+        <mark key="]" line="13" column="4" />
+        <mark key="^" line="13" column="4" />
+        <mark key="." line="13" column="4" />
       </file>
       <file name="$USER_HOME$/cea/parfit/.env" timestamp="1535637759232">
         <mark key="'" line="9" column="147" />
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="39" />
         <mark key="." line="27" column="26" />
-      </file>
-      <file name="$USER_HOME$/cea/aletheia/app/models/Payments/schema.js" timestamp="1534375791592">
-        <mark key="'" line="82" column="0" />
-        <mark key="[" line="82" column="0" />
-        <mark key="]" line="82" column="0" />
-        <mark key="." line="82" column="0" />
       </file>
       <file name="$USER_HOME$/cea/parfit/README.md" timestamp="1534372367560">
         <mark key="[" line="46" column="153" />
@@ -461,7 +443,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="69" column="14" filename="$USER_HOME$/cea/aletheia/app/containers/Admin/CreatePerson/index.jsx" />
       <jump line="87" column="0" filename="$USER_HOME$/cea/aletheia/app/containers/Admin/CreatePerson/index.jsx" />
       <jump line="93" column="0" filename="$USER_HOME$/cea/aletheia/app/containers/Admin/CreatePerson/index.jsx" />
       <jump line="96" column="0" filename="$USER_HOME$/cea/aletheia/app/containers/Admin/CreatePerson/index.jsx" />
@@ -561,6 +542,7 @@
       <jump line="74" column="37" filename="$USER_HOME$/cea/effectivealtruism-org-static/tasks/metalsmith.js" />
       <jump line="176" column="7" filename="$USER_HOME$/cea/effectivealtruism-org-static/tasks/metalsmith.js" />
       <jump line="177" column="8" filename="$USER_HOME$/cea/effectivealtruism-org-static/tasks/metalsmith.js" />
+      <jump line="38" column="5" filename="$USER_HOME$/cea/effectivealtruism-org-static/package.json" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -731,7 +713,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICAgIA==</text>
+        <text>any</text>
       </register>
       <register name="/" type="4">
         <text>2nd pas</text>
@@ -750,37 +732,37 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZygnQXR0ZW1wdGluZyBsb2dpbiBmb3InLCB1c2VyU3R1YikKICBjb25zb2xlLmxvZygnICB1c2VybmFtZScsIHVzZXIudXNlcm5hbWUpCiAgY29uc29sZS5sb2coJyAgd2hpdGVsaXN0Jywgd2hpdGVsaXN0KQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgLy9wcmUhPSBKU09OLnN0cmluZ2lmeShvcmdhbmlzYXRpb24pCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZygnQXR0ZW1wdGluZyBsb2dpbiBmb3InLCB1c2VyU3R1YikKICBjb25zb2xlLmxvZygnICB1c2VybmFtZScsIHVzZXIudXNlcm5hbWUpCiAgY29uc29sZS5sb2coJyAgd2hpdGVsaXN0Jywgd2hpdGVsaXN0KQo=</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">ZnVuY3Rpb24gZ2V0SW5saW5lU2l0ZU5hbWUgKCkgewoKfQo=</text>
       </register>
-      <register name="4" type="4">
-        <text>&quot;&quot;</text>
-      </register>
       <register name="5" type="4">
-        <text>Daily - All posts on ${inline}, sorted by date</text>
+        <text>&quot;&quot;</text>
       </register>
       <register name="u" type="4">
         <text>uu</text>
       </register>
       <register name="6" type="4">
-        <text>&quot;&quot;</text>
+        <text>Daily - All posts on ${inline}, sorted by date</text>
       </register>
       <register name="7" type="4">
-        <text>Meta - Discussion about the LessWrong site.</text>
-      </register>
-      <register name="8" type="4">
         <text>&quot;&quot;</text>
       </register>
+      <register name="8" type="4">
+        <text>Meta - Discussion about the LessWrong site.</text>
+      </register>
       <register name="9" type="4">
-        <text>Includes personal and meta blogposts\n (as well as curated and frontpage).</text>
+        <text>&quot;&quot;</text>
       </register>
       <register name=":" type="4">
-        <text>action FindInPath</text>
+        <text>w!</text>
       </register>
     </registers>
     <search>
@@ -827,15 +809,15 @@
         <entry encoding="base64">JzwsJz5zLyIvJy9n</entry>
         <entry>s/&quot;/'/g</entry>
         <entry>action GotoDeclaration</entry>
-        <entry>action CommentByLineComment</entry>
         <entry encoding="base64">JzwsJz5zLycvIi9n</entry>
         <entry>action Refactorings.QuickListPopupAction</entry>
         <entry>action NewFile</entry>
         <entry>action SplitVertically</entry>
         <entry>action NextSplitter</entry>
+        <entry>action FindInPath</entry>
+        <entry>action CommentByLineComment</entry>
         <entry>action GotoFile</entry>
         <entry>w!</entry>
-        <entry>action FindInPath</entry>
       </history-cmd>
       <history-expr />
       <history-input />
