@@ -22,7 +22,8 @@
         <mark key="^" line="30" column="7" />
         <mark key="." line="27" column="0" />
       </file>
-      <file name="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/lib/components.js" timestamp="1534974467018">
+      <file name="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/lib/components.js" timestamp="1535726997397">
+        <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="48" />
       </file>
@@ -443,8 +444,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="87" column="0" filename="$USER_HOME$/cea/aletheia/app/containers/Admin/CreatePerson/index.jsx" />
-      <jump line="93" column="0" filename="$USER_HOME$/cea/aletheia/app/containers/Admin/CreatePerson/index.jsx" />
       <jump line="96" column="0" filename="$USER_HOME$/cea/aletheia/app/containers/Admin/CreatePerson/index.jsx" />
       <jump line="113" column="0" filename="$USER_HOME$/cea/aletheia/app/containers/Admin/CreatePerson/index.jsx" />
       <jump line="119" column="0" filename="$USER_HOME$/cea/aletheia/app/containers/Admin/CreatePerson/index.jsx" />
@@ -543,6 +542,8 @@
       <jump line="176" column="7" filename="$USER_HOME$/cea/effectivealtruism-org-static/tasks/metalsmith.js" />
       <jump line="177" column="8" filename="$USER_HOME$/cea/effectivealtruism-org-static/tasks/metalsmith.js" />
       <jump line="38" column="5" filename="$USER_HOME$/cea/effectivealtruism-org-static/package.json" />
+      <jump line="208" column="40" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/lib/components.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/lib/components.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -762,7 +763,7 @@
         <text>&quot;&quot;</text>
       </register>
       <register name=":" type="4">
-        <text>w!</text>
+        <text>action FindInPath</text>
       </register>
     </registers>
     <search>
@@ -814,10 +815,10 @@
         <entry>action NewFile</entry>
         <entry>action SplitVertically</entry>
         <entry>action NextSplitter</entry>
-        <entry>action FindInPath</entry>
         <entry>action CommentByLineComment</entry>
-        <entry>action GotoFile</entry>
         <entry>w!</entry>
+        <entry>action GotoFile</entry>
+        <entry>action FindInPath</entry>
       </history-cmd>
       <history-expr />
       <history-input />
