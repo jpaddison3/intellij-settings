@@ -217,6 +217,12 @@
         <mark key="." line="115" column="10" />
         <mark key="^" line="115" column="10" />
       </file>
+      <file name="$USER_HOME$/cea/mandrill-mail-merge/.gitignore" timestamp="1535735614985">
+        <mark key="[" line="7" column="12" />
+        <mark key="]" line="8" column="4" />
+        <mark key="^" line="8" column="4" />
+        <mark key="." line="8" column="4" />
+      </file>
       <file name="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/sequences/SequencesGridItem.jsx" timestamp="1534977281501">
         <mark key="'" line="4" column="2" />
         <mark key="[" line="25" column="0" />
@@ -410,6 +416,9 @@
         <mark key="." line="10" column="0" />
         <mark key="^" line="8" column="6" />
       </file>
+      <file name="$USER_HOME$/cea/mandrill-mail-merge/package.json" timestamp="1535735627108">
+        <mark key="'" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/cea/aletheia/package.json" timestamp="1535069355579">
         <mark key="'" line="326" column="5" />
       </file>
@@ -451,7 +460,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="119" column="0" filename="$USER_HOME$/cea/aletheia/app/containers/Admin/CreatePerson/index.jsx" />
       <jump line="120" column="0" filename="$USER_HOME$/cea/aletheia/app/containers/Admin/CreatePerson/index.jsx" />
       <jump line="154" column="0" filename="$USER_HOME$/cea/aletheia/app/containers/Admin/CreatePerson/index.jsx" />
       <jump line="10" column="15" filename="$USER_HOME$/cea/parfit/.env" />
@@ -551,6 +559,7 @@
       <jump line="0" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/lib/components.js" />
       <jump line="0" column="0" filename="$USER_HOME$/cea/Forum/Forum/settings-lw.json" />
       <jump line="18" column="85" filename="$USER_HOME$/cea/effectivealtruism-org-static/src/templates/person.pug" />
+      <jump line="0" column="0" filename="$USER_HOME$/cea/mandrill-mail-merge/package.json" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -823,8 +832,8 @@
         <entry>action SplitVertically</entry>
         <entry>action NextSplitter</entry>
         <entry>action CommentByLineComment</entry>
-        <entry>action GotoFile</entry>
         <entry>action FindInPath</entry>
+        <entry>action GotoFile</entry>
         <entry>w!</entry>
       </history-cmd>
       <history-expr />
