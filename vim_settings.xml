@@ -788,7 +788,7 @@
         <text>Includes personal and meta blogposts\n (as well as curated and frontpage).</text>
       </register>
       <register name=":" type="4">
-        <text>action NextSplitter</text>
+        <text>action FindInPath</text>
       </register>
     </registers>
     <search>
@@ -840,10 +840,10 @@
         <entry encoding="base64">JzwsJz5zLycvIi9n</entry>
         <entry>action Refactorings.QuickListPopupAction</entry>
         <entry>action NewFile</entry>
-        <entry>action GotoFile</entry>
-        <entry>action FindInPath</entry>
         <entry>w!</entry>
         <entry>action NextSplitter</entry>
+        <entry>action GotoFile</entry>
+        <entry>action FindInPath</entry>
       </history-cmd>
       <history-expr />
       <history-input />
