@@ -119,6 +119,12 @@
         <mark key="^" line="10" column="1" />
         <mark key="." line="10" column="2" />
       </file>
+      <file name="$USER_HOME$/cea/Forum/Forum/settings-lw.json" timestamp="1535728729351">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="31" column="5" />
+        <mark key="." line="21" column="0" />
+      </file>
       <file name="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/scripts/configuration.js" timestamp="1535644010421">
         <mark key="[" line="3" column="48" />
         <mark key="]" line="3" column="52" />
@@ -352,10 +358,10 @@
       </file>
       <file name="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/themes/createThemeDefaults.js" timestamp="1534896087222" />
       <file name="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/Layout.jsx" timestamp="1534890998149" />
-      <file name="$USER_HOME$/cea/Forum/Forum/settings-prod.json" timestamp="1535642363960">
-        <mark key="[" line="50" column="20" />
-        <mark key="]" line="50" column="139" />
-        <mark key="." line="69" column="6" />
+      <file name="$USER_HOME$/cea/Forum/Forum/settings-prod.json" timestamp="1535729260183">
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="31" column="6" />
+        <mark key="." line="28" column="0" />
         <mark key="^" line="51" column="120" />
       </file>
       <file name="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/lib/collections/bans/callbacks.js" timestamp="1534546121052">
@@ -444,7 +450,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="96" column="0" filename="$USER_HOME$/cea/aletheia/app/containers/Admin/CreatePerson/index.jsx" />
       <jump line="113" column="0" filename="$USER_HOME$/cea/aletheia/app/containers/Admin/CreatePerson/index.jsx" />
       <jump line="119" column="0" filename="$USER_HOME$/cea/aletheia/app/containers/Admin/CreatePerson/index.jsx" />
       <jump line="120" column="0" filename="$USER_HOME$/cea/aletheia/app/containers/Admin/CreatePerson/index.jsx" />
@@ -544,6 +549,7 @@
       <jump line="38" column="5" filename="$USER_HOME$/cea/effectivealtruism-org-static/package.json" />
       <jump line="208" column="40" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/lib/components.js" />
       <jump line="0" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/lib/components.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/cea/Forum/Forum/settings-lw.json" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -720,7 +726,7 @@
         <text>2nd pas</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHRocm93IG5ldyBNZXRlb3IuRXJyb3IoJ2xlZ2FjeS1ub3QteWV0LXJlYWR5JywgJ0xlZ2FjeSB1c2VyIGRldGVjdGVkLCBub3QgeWV0IGFsbG93ZWQnKQo=</text>
+        <text encoding="base64">ICAgICJhbGdvbGlhIjogewogICAgICAic2VhcmNoS2V5IjogIjU3YWJlZjZiNDZiYzNhZDZiN2ZjYzI4NTI2OTc2YzNlIiwKICAgICAgImFwcElkIjogIkNSNDNKRlNEQVMiCiAgICB9LAo=</text>
       </register>
       <register name="p" type="4">
         <keys>
