@@ -44,11 +44,11 @@
         <mark key="." line="39" column="0" />
         <mark key="^" line="7" column="18" />
       </file>
-      <file name="$USER_HOME$/cea/effectivealtruism-org-static/src/templates/person.pug" timestamp="1535715459241">
-        <mark key="[" line="23" column="32" />
-        <mark key="]" line="23" column="32" />
-        <mark key="^" line="23" column="32" />
-        <mark key="." line="23" column="32" />
+      <file name="$USER_HOME$/cea/effectivealtruism-org-static/src/templates/person.pug" timestamp="1535719377550">
+        <mark key="[" line="23" column="52" />
+        <mark key="]" line="23" column="74" />
+        <mark key="^" line="23" column="74" />
+        <mark key="." line="23" column="74" />
       </file>
       <file name="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/common/Header.jsx" timestamp="1534530224732">
         <mark key="[" line="21" column="12" />
@@ -780,7 +780,7 @@
         <text>Includes personal and meta blogposts\n (as well as curated and frontpage).</text>
       </register>
       <register name=":" type="4">
-        <text>action GotoFile</text>
+        <text>action FindInPath</text>
       </register>
     </registers>
     <search>
@@ -833,9 +833,9 @@
         <entry>action NewFile</entry>
         <entry>action SplitVertically</entry>
         <entry>action NextSplitter</entry>
-        <entry>action FindInPath</entry>
-        <entry>w!</entry>
         <entry>action GotoFile</entry>
+        <entry>w!</entry>
+        <entry>action FindInPath</entry>
       </history-cmd>
       <history-expr />
       <history-input />
