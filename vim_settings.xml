@@ -419,12 +419,12 @@
       <file name="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/lib/search/utils.js" timestamp="1534978931469">
         <mark key="'" line="91" column="4" />
       </file>
-      <file name="$USER_HOME$/cea/mandrill-mail-merge/mmerge-invite/template.js" timestamp="1535739397464">
+      <file name="$USER_HOME$/cea/mandrill-mail-merge/mmerge-invite/template.js" timestamp="1535740300655">
         <mark key="'" line="4" column="14" />
-        <mark key="[" line="13" column="28" />
-        <mark key="]" line="13" column="29" />
-        <mark key="." line="13" column="29" />
-        <mark key="^" line="2" column="16" />
+        <mark key="[" line="30" column="53" />
+        <mark key="]" line="30" column="70" />
+        <mark key="." line="30" column="70" />
+        <mark key="^" line="30" column="70" />
       </file>
       <file name="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/themes/createThemeDefaults.js" timestamp="1534896087222" />
       <file name="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/Layout.jsx" timestamp="1534890998149" />
@@ -808,7 +808,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>look forward to seeing you on the Forum</text>
+        <text>now</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxQZXJzb25cPg==</text>
