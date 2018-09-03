@@ -493,9 +493,9 @@
         <mark key="." line="18" column="0" />
         <mark key="^" line="9" column="48" />
       </file>
-      <file name="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" timestamp="1535998965232">
+      <file name="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" timestamp="1536002947902">
         <mark key="[" line="17" column="13" />
-        <mark key="]" line="17" column="32" />
+        <mark key="]" line="17" column="29" />
         <mark key="." line="17" column="13" />
         <mark key="^" line="16" column="23" />
       </file>
@@ -826,7 +826,7 @@
         <text>community</text>
       </register>
       <register name="0" type="4">
-        <text>isSharedOn</text>
+        <text>KAs6mKfeJRBXts2ru</text>
       </register>
       <register name="p" type="4">
         <keys>
@@ -919,11 +919,11 @@
         <entry>action NewFile</entry>
         <entry>action SplitVertically</entry>
         <entry>action GotoDeclaration</entry>
-        <entry>action CommentByLineComment</entry>
         <entry>action Refactorings.QuickListPopupAction</entry>
         <entry>action GotoFile</entry>
         <entry>action FindInPath</entry>
         <entry>action NextSplitter</entry>
+        <entry>action CommentByLineComment</entry>
         <entry>w!</entry>
       </history-cmd>
       <history-expr />
