@@ -62,6 +62,13 @@
         <mark key="^" line="18" column="89" />
         <mark key="." line="18" column="89" />
       </file>
+      <file name="$USER_HOME$/Documents/dotfiles/bashrc.bash" timestamp="1535973351933">
+        <mark key="'" line="26" column="9" />
+        <mark key="[" line="50" column="0" />
+        <mark key="]" line="51" column="164" />
+        <mark key="^" line="50" column="0" />
+        <mark key="." line="50" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/cea/predictive-altruism/packages/predictive-altruism/lib/modules/index.js" timestamp="1531616766898">
         <mark key="[" line="2" column="21" />
         <mark key="]" line="3" column="37" />
@@ -565,7 +572,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="185" column="40" filename="$USER_HOME$/cea/aletheia/app/containers/Dashboard/DashboardPledge/PledgeSummary.jsx" />
       <jump line="183" column="19" filename="$USER_HOME$/cea/aletheia/app/containers/Dashboard/DashboardPledge/PledgeSummary.jsx" />
       <jump line="182" column="57" filename="$USER_HOME$/cea/aletheia/app/containers/Dashboard/DashboardPledge/PledgeSummary.jsx" />
       <jump line="254" column="12" filename="$USER_HOME$/cea/aletheia/app/containers/Dashboard/DashboardPledge/PledgeSummary.jsx" />
@@ -665,6 +671,7 @@
       <jump line="182" column="25" filename="$USER_HOME$/cea/parfit/migrations/20180126150914_pledge_completion_calculations_up.sql" />
       <jump line="192" column="40" filename="$USER_HOME$/cea/parfit/migrations/20180126150914_pledge_completion_calculations_up.sql" />
       <jump line="190" column="15" filename="$USER_HOME$/cea/parfit/migrations/20180126150914_pledge_completion_calculations_up.sql" />
+      <jump line="26" column="9" filename="$USER_HOME$/Documents/dotfiles/bashrc.bash" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -884,7 +891,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgLy9wcmUhPSBKU09OLnN0cmluZ2lmeShvcmdhbmlzYXRpb24pCg==</text>
       </register>
       <register name=":" type="4">
-        <text>action FindInPath</text>
+        <text>w!</text>
       </register>
     </registers>
     <search>
@@ -937,9 +944,9 @@
         <entry>action SplitVertically</entry>
         <entry>action NextSplitter</entry>
         <entry>action CommentByLineComment</entry>
-        <entry>w!</entry>
         <entry>action GotoFile</entry>
         <entry>action FindInPath</entry>
+        <entry>w!</entry>
       </history-cmd>
       <history-expr />
       <history-input />
