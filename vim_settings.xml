@@ -493,11 +493,11 @@
         <mark key="." line="18" column="0" />
         <mark key="^" line="9" column="48" />
       </file>
-      <file name="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" timestamp="1536002947902">
-        <mark key="[" line="17" column="13" />
-        <mark key="]" line="17" column="29" />
-        <mark key="." line="17" column="13" />
-        <mark key="^" line="16" column="23" />
+      <file name="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" timestamp="1536003630427">
+        <mark key="[" line="352" column="0" />
+        <mark key="]" line="352" column="110" />
+        <mark key="." line="84" column="39" />
+        <mark key="^" line="84" column="39" />
       </file>
       <file name="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/common/SearchBar.jsx" timestamp="1535983561332">
         <mark key="'" line="9" column="22" />
@@ -825,8 +825,8 @@
       <register name="/" type="4">
         <text>community</text>
       </register>
-      <register name="0" type="4">
-        <text>KAs6mKfeJRBXts2ru</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICBjb25zdCBpc1B1Ymxpc2hlZCA9IHBvc3Quc3JfaWQgPT09ICIyIiB8fCBwb3N0LnNyX2lkID09PSAiMyIgfHwgcG9zdC5zcl9pZCA9PT0gIjMzOTEiIHx8IHBvc3Quc3JfaWQgPT09ICI0IjsK</text>
       </register>
       <register name="p" type="4">
         <keys>
@@ -839,37 +839,37 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAvLyBUT0RPOiBJQkVUQSBPTkxZIE9ubHkgbG9nZ2VkLWluIHVzZXJzIGNhbiBzZWUgZm9ydW0gcG9zdHMK</text>
+        <text encoding="base64">ICAvLwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CnJlZ2lzdGVyQ29tcG9uZW50KCdNZXRhJywgTWV0YSwgd2l0aEN1cnJlbnRVc2VyKTsK</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">ICAvLyBUT0RPOiBJQkVUQSBPTkxZIE9ubHkgbG9nZ2VkLWluIHVzZXJzIGNhbiBzZWUgZm9ydW0gcG9zdHMK</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">CnJlZ2lzdGVyQ29tcG9uZW50KCdNZXRhJywgTWV0YSwgd2l0aEN1cnJlbnRVc2VyKTsK</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">VXNlcnMuZ3JvdXBzLmd1ZXN0cy5jYW5ub3QoJ2NvbW1lbnRzLnZpZXcuYXBwcm92ZWQnKQpVc2Vycy5ncm91cHMubWVtYmVycy5jYW4oJ2NvbW1lbnRzLnZpZXcuYXBwcm92ZWQnKQo=</text>
+        <text encoding="base64">ICAvLyBUT0RPOiBJQkVUQSBPTkxZIE9ubHkgbG9nZ2VkLWluIHVzZXJzIGNhbiBzZWUgZm9ydW0gcG9zdHMK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">VXNlcnMuZ3JvdXBzLmd1ZXN0cy5jYW5ub3QoJ2NvbW1lbnRzLnZpZXcnKQo=</text>
+        <text encoding="base64">VXNlcnMuZ3JvdXBzLmd1ZXN0cy5jYW5ub3QoJ2NvbW1lbnRzLnZpZXcuYXBwcm92ZWQnKQpVc2Vycy5ncm91cHMubWVtYmVycy5jYW4oJ2NvbW1lbnRzLnZpZXcuYXBwcm92ZWQnKQo=</text>
       </register>
       <register name="u" type="4">
         <text>uu</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">YWRkUm91dGUoeyBuYW1lOiAnTWV0YScsIHBhdGg6ICcvbWV0YScsIGNvbXBvbmVudE5hbWU6ICdNZXRhJ30pCg==</text>
+        <text encoding="base64">VXNlcnMuZ3JvdXBzLmd1ZXN0cy5jYW5ub3QoJ2NvbW1lbnRzLnZpZXcnKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Ly8gYWRkUm91dGUoeyBuYW1lOiAnRXZlbnRzRGFpbHknLCBwYXRoOiAnL3Bhc3RFdmVudHMnLCBjb21wb25lbnROYW1lOiAnRXZlbnRzRGFpbHknfSkK</text>
+        <text encoding="base64">YWRkUm91dGUoeyBuYW1lOiAnTWV0YScsIHBhdGg6ICcvbWV0YScsIGNvbXBvbmVudE5hbWU6ICdNZXRhJ30pCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">YWRkUm91dGUoeyBuYW1lOiAnTWVldHVwc0hvbWUnLCBwYXRoOiAnL21lZXR1cHMnLCBjb21wb25lbnROYW1lOiAnQ29tbXVuaXR5SG9tZSd9KQo=</text>
+        <text encoding="base64">Ly8gYWRkUm91dGUoeyBuYW1lOiAnRXZlbnRzRGFpbHknLCBwYXRoOiAnL3Bhc3RFdmVudHMnLCBjb21wb25lbnROYW1lOiAnRXZlbnRzRGFpbHknfSkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAnY3VyYXRlZCc6ICdDdXJhdGVkIENvbnRlbnQnLAo=</text>
+        <text encoding="base64">YWRkUm91dGUoeyBuYW1lOiAnTWVldHVwc0hvbWUnLCBwYXRoOiAnL21lZXR1cHMnLCBjb21wb25lbnROYW1lOiAnQ29tbXVuaXR5SG9tZSd9KQo=</text>
       </register>
       <register name=":" type="4">
-        <text>w!</text>
+        <text>action GotoDeclaration</text>
       </register>
     </registers>
     <search>
@@ -918,13 +918,13 @@
         <entry encoding="base64">JzwsJz5zLycvIi9n</entry>
         <entry>action NewFile</entry>
         <entry>action SplitVertically</entry>
-        <entry>action GotoDeclaration</entry>
         <entry>action Refactorings.QuickListPopupAction</entry>
         <entry>action GotoFile</entry>
         <entry>action FindInPath</entry>
         <entry>action NextSplitter</entry>
         <entry>action CommentByLineComment</entry>
         <entry>w!</entry>
+        <entry>action GotoDeclaration</entry>
       </history-cmd>
       <history-expr />
       <history-input />
