@@ -493,11 +493,12 @@
         <mark key="." line="18" column="0" />
         <mark key="^" line="9" column="48" />
       </file>
-      <file name="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" timestamp="1536003630427">
-        <mark key="[" line="352" column="0" />
-        <mark key="]" line="352" column="110" />
-        <mark key="." line="84" column="39" />
-        <mark key="^" line="84" column="39" />
+      <file name="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" timestamp="1536005927016">
+        <mark key="'" line="164" column="6" />
+        <mark key="[" line="352" column="62" />
+        <mark key="]" line="352" column="62" />
+        <mark key="." line="352" column="62" />
+        <mark key="^" line="352" column="43" />
       </file>
       <file name="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/common/SearchBar.jsx" timestamp="1535983561332">
         <mark key="'" line="9" column="22" />
@@ -550,8 +551,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="218" column="32" filename="$USER_HOME$/cea/aletheia/app/containers/Dashboard/DashboardPledge/PledgeSummary.jsx" />
-      <jump line="150" column="91" filename="$USER_HOME$/cea/aletheia/app/containers/Dashboard/DashboardPledge/PledgeSummary.jsx" />
       <jump line="5" column="28" filename="$USER_HOME$/cea/aletheia/app/containers/Dashboard/DashboardPledge/PledgeSummary.jsx" />
       <jump line="151" column="98" filename="$USER_HOME$/cea/aletheia/app/containers/Dashboard/DashboardPledge/PledgeSummary.jsx" />
       <jump line="27" column="8" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/common/Home.jsx" />
@@ -650,6 +649,8 @@
       <jump line="12" column="227" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/posts/PostsViews.jsx" />
       <jump line="0" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/lib/routes.js" />
       <jump line="3" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import.js" />
+      <jump line="80" column="8" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" />
+      <jump line="164" column="6" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -820,13 +821,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>reddit</text>
+        <text encoding="base64">IHx8IHBvc3Quc3JfaWQgPT09ICIzMzkxIiB8fCBwb3N0LnNyX2lkID09PSAiNCI=</text>
       </register>
       <register name="/" type="4">
-        <text>community</text>
+        <text encoding="base64">XDx1cHNlcnRQcm9jZXNzZWRQb3N0c1w+</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICBjb25zdCBpc1B1Ymxpc2hlZCA9IHBvc3Quc3JfaWQgPT09ICIyIiB8fCBwb3N0LnNyX2lkID09PSAiMyIgfHwgcG9zdC5zcl9pZCA9PT0gIjMzOTEiIHx8IHBvc3Quc3JfaWQgPT09ICI0IjsK</text>
+      <register name="0" type="4">
+        <text encoding="base64">cG9zdC5zcl9pZCA9PT0gIjIiIA==</text>
       </register>
       <register name="p" type="4">
         <keys>
@@ -869,13 +870,13 @@
         <text encoding="base64">YWRkUm91dGUoeyBuYW1lOiAnTWVldHVwc0hvbWUnLCBwYXRoOiAnL21lZXR1cHMnLCBjb21wb25lbnROYW1lOiAnQ29tbXVuaXR5SG9tZSd9KQo=</text>
       </register>
       <register name=":" type="4">
-        <text>action GotoDeclaration</text>
+        <text>w!</text>
       </register>
     </registers>
     <search>
-      <last-search>community</last-search>
+      <last-search encoding="base64">XDx1cHNlcnRQcm9jZXNzZWRQb3N0c1w+</last-search>
       <last-offset />
-      <last-pattern>community</last-pattern>
+      <last-pattern encoding="base64">XDx1cHNlcnRQcm9jZXNzZWRQb3N0c1w+</last-pattern>
       <last-replace>&quot;</last-replace>
       <last-substitute>'</last-substitute>
       <last-dir>1</last-dir>
@@ -883,7 +884,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDx0cmFuc2l0aW9uXD4=</entry>
         <entry>'</entry>
         <entry>boiler</entry>
         <entry encoding="base64">XDx0aXRsZVw+</entry>
@@ -903,6 +903,7 @@
         <entry encoding="base64">XDxJbnN0YW50U2VhcmNoXD4=</entry>
         <entry encoding="base64">XDxjb21tdW5pdHlcPg==</entry>
         <entry>community</entry>
+        <entry encoding="base64">XDx1cHNlcnRQcm9jZXNzZWRQb3N0c1w+</entry>
       </history-search>
       <history-cmd>
         <entry>50</entry>
@@ -923,8 +924,8 @@
         <entry>action FindInPath</entry>
         <entry>action NextSplitter</entry>
         <entry>action CommentByLineComment</entry>
-        <entry>w!</entry>
         <entry>action GotoDeclaration</entry>
+        <entry>w!</entry>
       </history-cmd>
       <history-expr />
       <history-input />
