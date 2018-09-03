@@ -487,10 +487,10 @@
       <file name="$USER_HOME$/cea/aletheia/package.json" timestamp="1535069355579">
         <mark key="'" line="326" column="5" />
       </file>
-      <file name="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/common/Meta.jsx" timestamp="1535988582609">
-        <mark key="[" line="9" column="40" />
-        <mark key="]" line="9" column="48" />
-        <mark key="." line="9" column="48" />
+      <file name="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/common/Meta.jsx" timestamp="1535997604331">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="0" />
+        <mark key="." line="18" column="0" />
         <mark key="^" line="9" column="48" />
       </file>
       <file name="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/common/SearchBar.jsx" timestamp="1535983561332">
@@ -510,6 +510,11 @@
         <mark key="[" line="21" column="17" />
         <mark key="]" line="21" column="38" />
         <mark key="." line="27" column="26" />
+      </file>
+      <file name="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/lib/collections/comments/permissions.js" timestamp="1535997653251">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
       </file>
       <file name="$USER_HOME$/cea/parfit/README.md" timestamp="1534372367560">
         <mark key="[" line="46" column="153" />
@@ -814,8 +819,8 @@
       <register name="/" type="4">
         <text>community</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">aW1wb3J0IHsgUG9zdHMgfSBmcm9tICdtZXRlb3IvZXhhbXBsZS1mb3J1bScK</text>
+      <register name="0" type="4">
+        <text>isSharedOn</text>
       </register>
       <register name="p" type="4">
         <keys>
@@ -831,34 +836,34 @@
         <text encoding="base64">ICAvLyBUT0RPOiBJQkVUQSBPTkxZIE9ubHkgbG9nZ2VkLWluIHVzZXJzIGNhbiBzZWUgZm9ydW0gcG9zdHMK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">VXNlcnMuZ3JvdXBzLmd1ZXN0cy5jYW5ub3QoJ2NvbW1lbnRzLnZpZXcuYXBwcm92ZWQnKQpVc2Vycy5ncm91cHMubWVtYmVycy5jYW4oJ2NvbW1lbnRzLnZpZXcuYXBwcm92ZWQnKQo=</text>
+        <text encoding="base64">CnJlZ2lzdGVyQ29tcG9uZW50KCdNZXRhJywgTWV0YSwgd2l0aEN1cnJlbnRVc2VyKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">VXNlcnMuZ3JvdXBzLmd1ZXN0cy5jYW5ub3QoJ2NvbW1lbnRzLnZpZXcnKQo=</text>
+        <text encoding="base64">ICAvLyBUT0RPOiBJQkVUQSBPTkxZIE9ubHkgbG9nZ2VkLWluIHVzZXJzIGNhbiBzZWUgZm9ydW0gcG9zdHMK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">YWRkUm91dGUoeyBuYW1lOiAnTWV0YScsIHBhdGg6ICcvbWV0YScsIGNvbXBvbmVudE5hbWU6ICdNZXRhJ30pCg==</text>
+        <text encoding="base64">VXNlcnMuZ3JvdXBzLmd1ZXN0cy5jYW5ub3QoJ2NvbW1lbnRzLnZpZXcuYXBwcm92ZWQnKQpVc2Vycy5ncm91cHMubWVtYmVycy5jYW4oJ2NvbW1lbnRzLnZpZXcuYXBwcm92ZWQnKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Ly8gYWRkUm91dGUoeyBuYW1lOiAnRXZlbnRzRGFpbHknLCBwYXRoOiAnL3Bhc3RFdmVudHMnLCBjb21wb25lbnROYW1lOiAnRXZlbnRzRGFpbHknfSkK</text>
+        <text encoding="base64">VXNlcnMuZ3JvdXBzLmd1ZXN0cy5jYW5ub3QoJ2NvbW1lbnRzLnZpZXcnKQo=</text>
       </register>
       <register name="u" type="4">
         <text>uu</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">YWRkUm91dGUoeyBuYW1lOiAnTWVldHVwc0hvbWUnLCBwYXRoOiAnL21lZXR1cHMnLCBjb21wb25lbnROYW1lOiAnQ29tbXVuaXR5SG9tZSd9KQo=</text>
+        <text encoding="base64">YWRkUm91dGUoeyBuYW1lOiAnTWV0YScsIHBhdGg6ICcvbWV0YScsIGNvbXBvbmVudE5hbWU6ICdNZXRhJ30pCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAnY3VyYXRlZCc6ICdDdXJhdGVkIENvbnRlbnQnLAo=</text>
+        <text encoding="base64">Ly8gYWRkUm91dGUoeyBuYW1lOiAnRXZlbnRzRGFpbHknLCBwYXRoOiAnL3Bhc3RFdmVudHMnLCBjb21wb25lbnROYW1lOiAnRXZlbnRzRGFpbHknfSkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICJhbGdvbGlhIjogewogICAgICAic2VhcmNoS2V5IjogIjU0MjYyYjJkNDBkMzQwZDk5MWRiOTIxZWE3M2Q3NzhjIiwKICAgICAgImFwcElkIjogIllJWkdPMU1ROVoiCiAgICB9LAo=</text>
+        <text encoding="base64">YWRkUm91dGUoeyBuYW1lOiAnTWVldHVwc0hvbWUnLCBwYXRoOiAnL21lZXR1cHMnLCBjb21wb25lbnROYW1lOiAnQ29tbXVuaXR5SG9tZSd9KQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAiYWxnb2xpYSI6IHsKICAgICJhZG1pbktleSI6ICJjM2M1MmY2MTIzNmZiN2VmZDI3YTkxZDU3YjQ0YjM4NSIKICB9LAo=</text>
+        <text encoding="base64">ICAnY3VyYXRlZCc6ICdDdXJhdGVkIENvbnRlbnQnLAo=</text>
       </register>
       <register name=":" type="4">
-        <text>w!</text>
+        <text>action NextSplitter</text>
       </register>
     </registers>
     <search>
@@ -909,11 +914,11 @@
         <entry>action SplitVertically</entry>
         <entry>action GotoDeclaration</entry>
         <entry>action CommentByLineComment</entry>
-        <entry>action FindInPath</entry>
         <entry>action Refactorings.QuickListPopupAction</entry>
-        <entry>action NextSplitter</entry>
         <entry>action GotoFile</entry>
+        <entry>action FindInPath</entry>
         <entry>w!</entry>
+        <entry>action NextSplitter</entry>
       </history-cmd>
       <history-expr />
       <history-input />
