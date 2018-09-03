@@ -27,11 +27,6 @@
         <mark key="^" line="30" column="7" />
         <mark key="." line="27" column="0" />
       </file>
-      <file name="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/lib/components.js" timestamp="1535726997397">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="48" />
-      </file>
       <file name="$USER_HOME$/Documents/cea/aletheia/app/models/People/queries/getPersonAllData.gql" timestamp="1533338501902">
         <mark key="[" line="48" column="34" />
         <mark key="]" line="48" column="34" />
@@ -131,18 +126,18 @@
         <mark key="^" line="1" column="17" />
         <mark key="." line="1" column="17" />
       </file>
-      <file name="$USER_HOME$/cea/Forum/Forum/settings.json" timestamp="1535736739982">
+      <file name="$USER_HOME$/cea/Forum/Forum/settings.json" timestamp="1535980915021">
         <mark key="'" line="8" column="0" />
-        <mark key="[" line="55" column="57" />
-        <mark key="]" line="55" column="78" />
+        <mark key="[" line="56" column="0" />
+        <mark key="]" line="58" column="3" />
         <mark key="^" line="51" column="24" />
         <mark key="." line="51" column="98" />
       </file>
-      <file name="$USER_HOME$/cea/Forum/Forum/settings-staging.json" timestamp="1535559874383">
+      <file name="$USER_HOME$/cea/Forum/Forum/settings-staging.json" timestamp="1535980965382">
         <mark key="'" line="50" column="97" />
-        <mark key="[" line="51" column="22" />
-        <mark key="]" line="51" column="40" />
-        <mark key="." line="51" column="40" />
+        <mark key="[" line="32" column="0" />
+        <mark key="]" line="32" column="0" />
+        <mark key="." line="32" column="0" />
         <mark key="^" line="51" column="40" />
       </file>
       <file name="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/lib/search/callbacks.js" timestamp="1535539698620">
@@ -467,11 +462,11 @@
         <mark key="." line="30" column="70" />
         <mark key="^" line="30" column="70" />
       </file>
-      <file name="$USER_HOME$/cea/Forum/Forum/settings-prod.json" timestamp="1535729260183">
-        <mark key="[" line="28" column="0" />
-        <mark key="]" line="31" column="6" />
-        <mark key="." line="28" column="0" />
-        <mark key="^" line="51" column="120" />
+      <file name="$USER_HOME$/cea/Forum/Forum/settings-prod.json" timestamp="1535980786994">
+        <mark key="[" line="57" column="17" />
+        <mark key="]" line="57" column="49" />
+        <mark key="." line="57" column="17" />
+        <mark key="^" line="63" column="1" />
       </file>
       <file name="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/lib/collections/bans/callbacks.js" timestamp="1534546121052">
         <mark key="[" line="22" column="3" />
@@ -540,11 +535,6 @@
       <file name="$USER_HOME$/cea/aletheia/package.json" timestamp="1535069355579">
         <mark key="'" line="326" column="5" />
       </file>
-      <file name="$USER_HOME$/cea/parfit/package.json" timestamp="1535637714938">
-        <mark key="'" line="31" column="29" />
-        <mark key="[" line="43" column="5" />
-        <mark key="]" line="43" column="30" />
-      </file>
       <file name="$USER_HOME$/cea/effectivealtruism-org-static/.gitignore" timestamp="1535721542430">
         <mark key="[" line="12" column="5" />
         <mark key="]" line="13" column="4" />
@@ -574,11 +564,11 @@
         <mark key="]" line="1" column="53" />
         <mark key="." line="1" column="53" />
       </file>
-      <file name="$USER_HOME$/cea/Forum/Forum/settings-dev.json" timestamp="1535736757572">
+      <file name="$USER_HOME$/cea/Forum/Forum/settings-dev.json" timestamp="1535980952421">
         <mark key="'" line="66" column="5" />
-        <mark key="[" line="48" column="57" />
-        <mark key="]" line="48" column="78" />
-        <mark key="." line="39" column="18" />
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="31" column="5" />
+        <mark key="." line="50" column="13" />
         <mark key="^" line="39" column="18" />
       </file>
       <file name="$USER_HOME$/.spacemacs" timestamp="1535833842022">
@@ -860,13 +850,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Y29uc3Qg</text>
+        <text>DISABLED</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjYWxjdWxhdGVfdXNkX25vcm1hbGl6ZWRfYW1vdW50X2Zvcl9wYXltZW50XD4=</text>
       </register>
-      <register name="0" type="4">
-        <text>willmacaskill@test.effectivealtruism.org</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICJhbGdvbGlhIjogewogICAgICAic2VhcmNoS2V5IjogIjkxNjRhZWQ2NGYxM2VkZDM2MTk5MjQwODM4MjE0NGUzIiwKICAgICAgImFwcElkIjogIjNGNDhaMzU4RFEiCiAgICB9LAo=</text>
       </register>
       <register name="p" type="4">
         <keys>
@@ -879,37 +869,37 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICJhbGdvbGlhIjogewogICAgICAic2VhcmNoS2V5IjogIjU0MjYyYjJkNDBkMzQwZDk5MWRiOTIxZWE3M2Q3NzhjIiwKICAgICAgImFwcElkIjogIllJWkdPMU1ROVoiCiAgICB9LAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAiYWxnb2xpYSI6IHsKICAgICJhZG1pbktleSI6ICJjM2M1MmY2MTIzNmZiN2VmZDI3YTkxZDU3YjQ0YjM4NSIKICB9LAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICJhbGdvbGlhIjogewogICAgICAic2VhcmNoS2V5IjogIjU0MjYyYjJkNDBkMzQwZDk5MWRiOTIxZWE3M2Q3NzhjIiwKICAgICAgImFwcElkIjogIllJWkdPMU1ROVoiCiAgICB9LAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Y29uc3QgdG8gPSAocm93KSA9PiBgJHtyb3cuZW1haWx9YAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text>()</text>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="u" type="4">
         <text>uu</text>
       </register>
-      <register name="6" type="4">
-        <text>org</text>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGxlYXJuTW9yZUxpbms6ICIvcG9zdHMvdEtUY3JuS24yWVNkeGt4S0cvZnJvbnRwYWdlLXBvc3RpbmctYW5kLWNvbW1lbnRpbmctZ3VpZGVsaW5lcyIsCg==</text>
+        <text encoding="base64">Y29uc3QgdG8gPSAocm93KSA9PiBgJHtyb3cuZW1haWx9YAo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIGxlYXJuTW9yZUxpbms6ICIvcG9zdHMvdEtUY3JuS24yWVNkeGt4S0cvZnJvbnRwYWdlLXBvc3RpbmctYW5kLWNvbW1lbnRpbmctZ3VpZGVsaW5lcyIsCg==</text>
+      <register name="8" type="4">
+        <text>()</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgLy9wcmUhPSBKU09OLnN0cmluZ2lmeShvcmdhbmlzYXRpb24pCg==</text>
+      <register name="9" type="4">
+        <text>org</text>
       </register>
       <register name=":" type="4">
-        <text>action GotoFile</text>
+        <text>w!</text>
       </register>
     </registers>
     <search>
@@ -963,8 +953,8 @@
         <entry>action NextSplitter</entry>
         <entry>action CommentByLineComment</entry>
         <entry>action FindInPath</entry>
-        <entry>w!</entry>
         <entry>action GotoFile</entry>
+        <entry>w!</entry>
       </history-cmd>
       <history-expr />
       <history-input />
