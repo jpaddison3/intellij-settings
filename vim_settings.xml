@@ -133,12 +133,12 @@
         <mark key="^" line="51" column="24" />
         <mark key="." line="51" column="98" />
       </file>
-      <file name="$USER_HOME$/cea/Forum/Forum/settings-staging.json" timestamp="1535980965382">
+      <file name="$USER_HOME$/cea/Forum/Forum/settings-staging.json" timestamp="1535984634387">
         <mark key="'" line="50" column="97" />
-        <mark key="[" line="32" column="0" />
-        <mark key="]" line="32" column="0" />
-        <mark key="." line="32" column="0" />
-        <mark key="^" line="51" column="40" />
+        <mark key="[" line="56" column="10" />
+        <mark key="]" line="56" column="12" />
+        <mark key="." line="56" column="12" />
+        <mark key="^" line="56" column="12" />
       </file>
       <file name="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/lib/search/callbacks.js" timestamp="1535539698620">
         <mark key="'" line="19" column="0" />
@@ -456,11 +456,11 @@
         <mark key="." line="30" column="70" />
         <mark key="^" line="30" column="70" />
       </file>
-      <file name="$USER_HOME$/cea/Forum/Forum/settings-prod.json" timestamp="1535980786994">
-        <mark key="[" line="57" column="17" />
-        <mark key="]" line="57" column="49" />
-        <mark key="." line="57" column="17" />
-        <mark key="^" line="63" column="1" />
+      <file name="$USER_HOME$/cea/Forum/Forum/settings-prod.json" timestamp="1535984535353">
+        <mark key="[" line="56" column="10" />
+        <mark key="]" line="56" column="13" />
+        <mark key="." line="56" column="13" />
+        <mark key="^" line="56" column="13" />
       </file>
       <file name="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/lib/collections/bans/callbacks.js" timestamp="1534546121052">
         <mark key="[" line="22" column="3" />
@@ -564,12 +564,12 @@
         <mark key="]" line="1" column="53" />
         <mark key="." line="1" column="53" />
       </file>
-      <file name="$USER_HOME$/cea/Forum/Forum/settings-dev.json" timestamp="1535982709507">
-        <mark key="'" line="49" column="3" />
-        <mark key="[" line="28" column="12" />
-        <mark key="]" line="28" column="15" />
-        <mark key="." line="28" column="15" />
-        <mark key="^" line="28" column="15" />
+      <file name="$USER_HOME$/cea/Forum/Forum/settings-dev.json" timestamp="1535984640161">
+        <mark key="'" line="33" column="38" />
+        <mark key="[" line="32" column="12" />
+        <mark key="]" line="32" column="16" />
+        <mark key="." line="32" column="16" />
+        <mark key="^" line="32" column="16" />
       </file>
       <file name="$USER_HOME$/.spacemacs" timestamp="1535833842022">
         <mark key="'" line="0" column="0" />
@@ -580,7 +580,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="153" column="32" filename="$USER_HOME$/cea/aletheia/app/containers/Dashboard/DashboardPledge/PledgeSummary.jsx" />
       <jump line="176" column="12" filename="$USER_HOME$/cea/aletheia/app/containers/Dashboard/DashboardPledge/PledgeSummary.jsx" />
       <jump line="189" column="12" filename="$USER_HOME$/cea/aletheia/app/containers/Dashboard/DashboardPledge/PledgeSummary.jsx" />
       <jump line="184" column="15" filename="$USER_HOME$/cea/aletheia/app/containers/Dashboard/DashboardPledge/PledgeSummary.jsx" />
@@ -680,6 +679,7 @@
       <jump line="137" column="10" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/common/SearchBar.jsx" />
       <jump line="4" column="2" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/common/SearchBar.jsx" />
       <jump line="9" column="22" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/common/SearchBar.jsx" />
+      <jump line="33" column="38" filename="$USER_HOME$/cea/Forum/Forum/settings-dev.json" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -899,7 +899,7 @@
         <text>org</text>
       </register>
       <register name=":" type="4">
-        <text>action FindInPath</text>
+        <text>w!</text>
       </register>
     </registers>
     <search>
@@ -953,8 +953,8 @@
         <entry>action NextSplitter</entry>
         <entry>action CommentByLineComment</entry>
         <entry>action GotoFile</entry>
-        <entry>w!</entry>
         <entry>action FindInPath</entry>
+        <entry>w!</entry>
       </history-cmd>
       <history-expr />
       <history-input />
