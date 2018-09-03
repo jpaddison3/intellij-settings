@@ -62,6 +62,14 @@
         <mark key="^" line="18" column="89" />
         <mark key="." line="18" column="89" />
       </file>
+      <file name="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/common/Header.jsx" timestamp="1534530224732">
+        <mark key="[" line="21" column="12" />
+        <mark key="]" line="21" column="18" />
+      </file>
+      <file name="$USER_HOME$/cea/parfit/services/payments/gateways/xero-new.js" timestamp="1535638914410">
+        <mark key="[" line="9" column="2" />
+        <mark key="]" line="9" column="25" />
+      </file>
       <file name="$USER_HOME$/Documents/dotfiles/bashrc.bash" timestamp="1535973351933">
         <mark key="'" line="26" column="9" />
         <mark key="[" line="50" column="0" />
@@ -299,6 +307,10 @@
         <mark key="]" line="176" column="0" />
         <mark key="^" line="5" column="33" />
         <mark key="." line="176" column="0" />
+      </file>
+      <file name="$USER_HOME$/cea/parfit/seeds/development/02-people.js" timestamp="1535979989973">
+        <mark key="[" line="4" column="11" />
+        <mark key="]" line="4" column="50" />
       </file>
       <file name="$USER_HOME$/cea/Forum/Forum/sample_settings.json" timestamp="1534980344661">
         <mark key="[" line="28" column="0" />
@@ -854,7 +866,7 @@
         <text encoding="base64">XDxjYWxjdWxhdGVfdXNkX25vcm1hbGl6ZWRfYW1vdW50X2Zvcl9wYXltZW50XD4=</text>
       </register>
       <register name="0" type="4">
-        <text>formatToField(data.Person),</text>
+        <text>willmacaskill@test.effectivealtruism.org</text>
       </register>
       <register name="p" type="4">
         <keys>
@@ -897,7 +909,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgLy9wcmUhPSBKU09OLnN0cmluZ2lmeShvcmdhbmlzYXRpb24pCg==</text>
       </register>
       <register name=":" type="4">
-        <text>w!</text>
+        <text>action GotoFile</text>
       </register>
     </registers>
     <search>
@@ -951,8 +963,8 @@
         <entry>action NextSplitter</entry>
         <entry>action CommentByLineComment</entry>
         <entry>action FindInPath</entry>
-        <entry>action GotoFile</entry>
         <entry>w!</entry>
+        <entry>action GotoFile</entry>
       </history-cmd>
       <history-expr />
       <history-input />
