@@ -156,10 +156,16 @@
         <mark key="." line="3" column="52" />
         <mark key="^" line="3" column="52" />
       </file>
+      <file name="$USER_HOME$/cea/parfit/migrations/20180126150914_pledge_completion_calculations_up.sql" timestamp="1535967942203">
+        <mark key="'" line="190" column="15" />
+      </file>
       <file name="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/themes/forumTheme.js" timestamp="1534533337998">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
+      </file>
+      <file name="$USER_HOME$/cea/parfit/migrations/20180626124538_org_reports_up.sql" timestamp="1535967756359">
+        <mark key="'" line="1" column="0" />
       </file>
       <file name="$USER_HOME$/cea/parfit/services/payments/handlers/xero/helpers.js" timestamp="1534903809725">
         <mark key="'" line="12" column="13" />
@@ -559,10 +565,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="129" column="14" filename="$USER_HOME$/cea/aletheia/app/containers/Dashboard/DashboardPledge/index.jsx" />
-      <jump line="130" column="23" filename="$USER_HOME$/cea/aletheia/app/containers/Dashboard/DashboardPledge/index.jsx" />
-      <jump line="160" column="91" filename="$USER_HOME$/cea/aletheia/app/containers/Dashboard/DashboardPledge/PledgeSummary.jsx" />
-      <jump line="181" column="29" filename="$USER_HOME$/cea/aletheia/app/containers/Dashboard/DashboardPledge/PledgeSummary.jsx" />
       <jump line="185" column="40" filename="$USER_HOME$/cea/aletheia/app/containers/Dashboard/DashboardPledge/PledgeSummary.jsx" />
       <jump line="183" column="19" filename="$USER_HOME$/cea/aletheia/app/containers/Dashboard/DashboardPledge/PledgeSummary.jsx" />
       <jump line="182" column="57" filename="$USER_HOME$/cea/aletheia/app/containers/Dashboard/DashboardPledge/PledgeSummary.jsx" />
@@ -659,6 +661,10 @@
       <jump line="424" column="1053" filename="$USER_HOME$/Documents/dotfiles/spacemacs/dotspacemacs" />
       <jump line="443" column="1046" filename="$USER_HOME$/Documents/dotfiles/spacemacs/dotspacemacs" />
       <jump line="0" column="0" filename="$USER_HOME$/.spacemacs" />
+      <jump line="1" column="0" filename="$USER_HOME$/cea/parfit/migrations/20180626124538_org_reports_up.sql" />
+      <jump line="182" column="25" filename="$USER_HOME$/cea/parfit/migrations/20180126150914_pledge_completion_calculations_up.sql" />
+      <jump line="192" column="40" filename="$USER_HOME$/cea/parfit/migrations/20180126150914_pledge_completion_calculations_up.sql" />
+      <jump line="190" column="15" filename="$USER_HOME$/cea/parfit/migrations/20180126150914_pledge_completion_calculations_up.sql" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -832,7 +838,7 @@
         <text>5</text>
       </register>
       <register name="/" type="4">
-        <text>ttps</text>
+        <text encoding="base64">XDxjYWxjdWxhdGVfdXNkX25vcm1hbGl6ZWRfYW1vdW50X2Zvcl9wYXltZW50XD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">Y29uc3Qgc3ViamVjdCA9IChyb3cpID0+IGBVc2VybmFtZSBjb25maXJtYXRpb24gZm9yIEVBIEZvcnVtIEJldGEgbGF1bmNoYAo=</text>
@@ -878,13 +884,13 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgLy9wcmUhPSBKU09OLnN0cmluZ2lmeShvcmdhbmlzYXRpb24pCg==</text>
       </register>
       <register name=":" type="4">
-        <text>w!</text>
+        <text>action FindInPath</text>
       </register>
     </registers>
     <search>
-      <last-search>ttps</last-search>
+      <last-search encoding="base64">XDxjYWxjdWxhdGVfdXNkX25vcm1hbGl6ZWRfYW1vdW50X2Zvcl9wYXltZW50XD4=</last-search>
       <last-offset />
-      <last-pattern>ttps</last-pattern>
+      <last-pattern encoding="base64">XDxjYWxjdWxhdGVfdXNkX25vcm1hbGl6ZWRfYW1vdW50X2Zvcl9wYXltZW50XD4=</last-pattern>
       <last-replace>&quot;</last-replace>
       <last-substitute>'</last-substitute>
       <last-dir>1</last-dir>
@@ -892,7 +898,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxlbmREYXRlXD4=</entry>
         <entry encoding="base64">XDxsYXN0UGxlZGdlTGlhYmlsaXR5SW5jb21lXD4=</entry>
         <entry encoding="base64">XDxoYXNMaWFiaWxpdGllc1w+</entry>
         <entry encoding="base64">XDxtb21lbnRcPg==</entry>
@@ -912,6 +917,7 @@
         <entry encoding="base64">XDxQZXJzb25cPg==</entry>
         <entry>http</entry>
         <entry>ttps</entry>
+        <entry encoding="base64">XDxjYWxjdWxhdGVfdXNkX25vcm1hbGl6ZWRfYW1vdW50X2Zvcl9wYXltZW50XD4=</entry>
       </history-search>
       <history-cmd>
         <entry>50</entry>
@@ -929,11 +935,11 @@
         <entry>action Refactorings.QuickListPopupAction</entry>
         <entry>action NewFile</entry>
         <entry>action SplitVertically</entry>
-        <entry>action FindInPath</entry>
-        <entry>action GotoFile</entry>
         <entry>action NextSplitter</entry>
         <entry>action CommentByLineComment</entry>
         <entry>w!</entry>
+        <entry>action GotoFile</entry>
+        <entry>action FindInPath</entry>
       </history-cmd>
       <history-expr />
       <history-input />
