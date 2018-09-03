@@ -487,6 +487,12 @@
         <mark key="." line="3" column="90" />
         <mark key="^" line="3" column="90" />
       </file>
+      <file name="$USER_HOME$/cea/parfit/services/emails/handlers/payments.js" timestamp="1535975624381">
+        <mark key="[" line="22" column="4" />
+        <mark key="]" line="22" column="4" />
+        <mark key="^" line="20" column="9" />
+        <mark key="." line="22" column="4" />
+      </file>
       <file name="$USER_HOME$/Documents/cea/Forum/Forum/settings-lw.json" timestamp="1532389727972">
         <mark key="[" line="28" column="0" />
         <mark key="]" line="28" column="32" />
@@ -842,13 +848,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>5</text>
+        <text encoding="base64">Y29uc3Qg</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjYWxjdWxhdGVfdXNkX25vcm1hbGl6ZWRfYW1vdW50X2Zvcl9wYXltZW50XD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">Y29uc3Qgc3ViamVjdCA9IChyb3cpID0+IGBVc2VybmFtZSBjb25maXJtYXRpb24gZm9yIEVBIEZvcnVtIEJldGEgbGF1bmNoYAo=</text>
+      <register name="0" type="4">
+        <text>formatToField(data.Person),</text>
       </register>
       <register name="p" type="4">
         <keys>
@@ -944,8 +950,8 @@
         <entry>action SplitVertically</entry>
         <entry>action NextSplitter</entry>
         <entry>action CommentByLineComment</entry>
-        <entry>action GotoFile</entry>
         <entry>action FindInPath</entry>
+        <entry>action GotoFile</entry>
         <entry>w!</entry>
       </history-cmd>
       <history-expr />
