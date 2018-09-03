@@ -493,6 +493,12 @@
         <mark key="." line="18" column="0" />
         <mark key="^" line="9" column="48" />
       </file>
+      <file name="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" timestamp="1535998965232">
+        <mark key="[" line="17" column="13" />
+        <mark key="]" line="17" column="32" />
+        <mark key="." line="17" column="13" />
+        <mark key="^" line="16" column="23" />
+      </file>
       <file name="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/common/SearchBar.jsx" timestamp="1535983561332">
         <mark key="'" line="9" column="22" />
         <mark key="[" line="73" column="0" />
@@ -814,7 +820,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>3f48z358dq</text>
+        <text>reddit</text>
       </register>
       <register name="/" type="4">
         <text>community</text>
@@ -863,7 +869,7 @@
         <text encoding="base64">ICAnY3VyYXRlZCc6ICdDdXJhdGVkIENvbnRlbnQnLAo=</text>
       </register>
       <register name=":" type="4">
-        <text>action NextSplitter</text>
+        <text>w!</text>
       </register>
     </registers>
     <search>
@@ -917,8 +923,8 @@
         <entry>action Refactorings.QuickListPopupAction</entry>
         <entry>action GotoFile</entry>
         <entry>action FindInPath</entry>
-        <entry>w!</entry>
         <entry>action NextSplitter</entry>
+        <entry>w!</entry>
       </history-cmd>
       <history-expr />
       <history-input />
