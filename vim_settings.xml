@@ -357,11 +357,11 @@
         <mark key="'" line="38" column="5" />
       </file>
       <file name="$USER_HOME$/cea/effectivealtruism-org-static/src/metalsmith/contentful/people.contentful" timestamp="1535712729917" />
-      <file name="$USER_HOME$/cea/Forum/Forum/package.json" timestamp="1536084653307">
+      <file name="$USER_HOME$/cea/Forum/Forum/package.json" timestamp="1536085692592">
         <mark key="'" line="133" column="11" />
-        <mark key="[" line="55" column="35" />
-        <mark key="]" line="55" column="35" />
-        <mark key="." line="55" column="35" />
+        <mark key="[" line="44" column="34" />
+        <mark key="]" line="44" column="34" />
+        <mark key="." line="44" column="34" />
       </file>
       <file name="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/themes/stylePiping.js" timestamp="1534896564704">
         <mark key="'" line="113" column="0" />
@@ -892,7 +892,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>^</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjcmVhdGVJbWFnZVBsdWdpblw+</text>
