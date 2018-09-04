@@ -484,12 +484,9 @@
         <mark key="." line="18" column="0" />
         <mark key="^" line="9" column="48" />
       </file>
-      <file name="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" timestamp="1536057937299">
-        <mark key="'" line="371" column="4" />
-        <mark key="[" line="170" column="8" />
-        <mark key="]" line="170" column="10" />
-        <mark key="." line="170" column="10" />
-        <mark key="^" line="170" column="10" />
+      <file name="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" timestamp="1536060663925">
+        <mark key="'" line="369" column="4" />
+        <mark key="^" line="55" column="1" />
       </file>
       <file name="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/common/SearchBar.jsx" timestamp="1535983561332">
         <mark key="'" line="9" column="22" />
@@ -812,7 +809,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>post</text>
+        <text>{y</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxkcmFmdFw+</text>
@@ -831,16 +828,16 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiAgY29uc29sZS5sb2coJ0ZpbmlzaGVkIHBvc3QgZGF0YSBpbXBvcnQnKQo=</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAvLwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAvLyBUT0RPOiBJQkVUQSBPTkxZIE9ubHkgbG9nZ2VkLWluIHVzZXJzIGNhbiBzZWUgZm9ydW0gcG9zdHMK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CnJlZ2lzdGVyQ29tcG9uZW50KCdNZXRhJywgTWV0YSwgd2l0aEN1cnJlbnRVc2VyKTsK</text>
+        <text encoding="base64">ICAvLwo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">ICAvLyBUT0RPOiBJQkVUQSBPTkxZIE9ubHkgbG9nZ2VkLWluIHVzZXJzIGNhbiBzZWUgZm9ydW0gcG9zdHMK</text>
@@ -849,16 +846,16 @@
         <text>uu</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">VXNlcnMuZ3JvdXBzLmd1ZXN0cy5jYW5ub3QoJ2NvbW1lbnRzLnZpZXcuYXBwcm92ZWQnKQpVc2Vycy5ncm91cHMubWVtYmVycy5jYW4oJ2NvbW1lbnRzLnZpZXcuYXBwcm92ZWQnKQo=</text>
+        <text encoding="base64">CnJlZ2lzdGVyQ29tcG9uZW50KCdNZXRhJywgTWV0YSwgd2l0aEN1cnJlbnRVc2VyKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">VXNlcnMuZ3JvdXBzLmd1ZXN0cy5jYW5ub3QoJ2NvbW1lbnRzLnZpZXcnKQo=</text>
+        <text encoding="base64">ICAvLyBUT0RPOiBJQkVUQSBPTkxZIE9ubHkgbG9nZ2VkLWluIHVzZXJzIGNhbiBzZWUgZm9ydW0gcG9zdHMK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">YWRkUm91dGUoeyBuYW1lOiAnTWV0YScsIHBhdGg6ICcvbWV0YScsIGNvbXBvbmVudE5hbWU6ICdNZXRhJ30pCg==</text>
+        <text encoding="base64">VXNlcnMuZ3JvdXBzLmd1ZXN0cy5jYW5ub3QoJ2NvbW1lbnRzLnZpZXcuYXBwcm92ZWQnKQpVc2Vycy5ncm91cHMubWVtYmVycy5jYW4oJ2NvbW1lbnRzLnZpZXcuYXBwcm92ZWQnKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly8gYWRkUm91dGUoeyBuYW1lOiAnRXZlbnRzRGFpbHknLCBwYXRoOiAnL3Bhc3RFdmVudHMnLCBjb21wb25lbnROYW1lOiAnRXZlbnRzRGFpbHknfSkK</text>
+        <text encoding="base64">VXNlcnMuZ3JvdXBzLmd1ZXN0cy5jYW5ub3QoJ2NvbW1lbnRzLnZpZXcnKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w!</text>
