@@ -408,11 +408,11 @@
         <mark key="." line="30" column="70" />
         <mark key="^" line="30" column="70" />
       </file>
-      <file name="$USER_HOME$/cea/Forum/Forum/settings-prod.json" timestamp="1536007981642">
-        <mark key="[" line="56" column="10" />
-        <mark key="]" line="56" column="10" />
-        <mark key="." line="56" column="10" />
-        <mark key="^" line="51" column="32" />
+      <file name="$USER_HOME$/cea/Forum/Forum/settings-prod.json" timestamp="1536065860157">
+        <mark key="[" line="102" column="18" />
+        <mark key="]" line="102" column="16" />
+        <mark key="." line="102" column="16" />
+        <mark key="^" line="102" column="16" />
       </file>
       <file name="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/lib/collections/bans/callbacks.js" timestamp="1534546121052">
         <mark key="[" line="22" column="3" />
@@ -836,34 +836,34 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CiAgY29uc29sZS5sb2coJ0ZpbmlzaGVkIHBvc3QgZGF0YSBpbXBvcnQnKQo=</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAvLwo=</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="2">
+      <register name="2" type="2">
+        <text encoding="base64">CiAgY29uc29sZS5sb2coJ0ZpbmlzaGVkIHBvc3QgZGF0YSBpbXBvcnQnKQo=</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">ICAvLwo=</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAvLyBUT0RPOiBJQkVUQSBPTkxZIE9ubHkgbG9nZ2VkLWluIHVzZXJzIGNhbiBzZWUgZm9ydW0gcG9zdHMK</text>
+        <text encoding="base64">ICAvLwo=</text>
       </register>
       <register name="u" type="4">
         <text>uu</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CnJlZ2lzdGVyQ29tcG9uZW50KCdNZXRhJywgTWV0YSwgd2l0aEN1cnJlbnRVc2VyKTsK</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">ICAvLyBUT0RPOiBJQkVUQSBPTkxZIE9ubHkgbG9nZ2VkLWluIHVzZXJzIGNhbiBzZWUgZm9ydW0gcG9zdHMK</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">CnJlZ2lzdGVyQ29tcG9uZW50KCdNZXRhJywgTWV0YSwgd2l0aEN1cnJlbnRVc2VyKTsK</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">VXNlcnMuZ3JvdXBzLmd1ZXN0cy5jYW5ub3QoJ2NvbW1lbnRzLnZpZXcuYXBwcm92ZWQnKQpVc2Vycy5ncm91cHMubWVtYmVycy5jYW4oJ2NvbW1lbnRzLnZpZXcuYXBwcm92ZWQnKQo=</text>
+        <text encoding="base64">ICAvLyBUT0RPOiBJQkVUQSBPTkxZIE9ubHkgbG9nZ2VkLWluIHVzZXJzIGNhbiBzZWUgZm9ydW0gcG9zdHMK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">VXNlcnMuZ3JvdXBzLmd1ZXN0cy5jYW5ub3QoJ2NvbW1lbnRzLnZpZXcnKQo=</text>
+        <text encoding="base64">VXNlcnMuZ3JvdXBzLmd1ZXN0cy5jYW5ub3QoJ2NvbW1lbnRzLnZpZXcuYXBwcm92ZWQnKQpVc2Vycy5ncm91cHMubWVtYmVycy5jYW4oJ2NvbW1lbnRzLnZpZXcuYXBwcm92ZWQnKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w!</text>
@@ -916,11 +916,11 @@
         <entry>action NewFile</entry>
         <entry>action SplitVertically</entry>
         <entry>action Refactorings.QuickListPopupAction</entry>
-        <entry>action NextSplitter</entry>
         <entry>action GotoDeclaration</entry>
-        <entry>action GotoFile</entry>
         <entry>action CommentByLineComment</entry>
         <entry>action FindInPath</entry>
+        <entry>action GotoFile</entry>
+        <entry>action NextSplitter</entry>
         <entry>w!</entry>
       </history-cmd>
       <history-expr />
