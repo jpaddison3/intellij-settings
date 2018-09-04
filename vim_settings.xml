@@ -163,7 +163,7 @@
         <mark key="^" line="7" column="62" />
         <mark key="." line="7" column="62" />
       </file>
-      <file name="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/scripts/configuration.js" timestamp="1536061966358">
+      <file name="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/scripts/configuration.js" timestamp="1536096132559">
         <mark key="[" line="3" column="48" />
         <mark key="]" line="3" column="52" />
         <mark key="." line="3" column="52" />
@@ -894,7 +894,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>Nah</text>
+        <text>true</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxDb2xsZWN0aW9uXD4=</text>
@@ -943,7 +943,7 @@
         <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdhYm91dCB0byBjcmVhdGUgcmljaCBidXR0b25zJykKCg==</text>
       </register>
       <register name=":" type="4">
-        <text>action GotoDeclaration</text>
+        <text>w!</text>
       </register>
     </registers>
     <search>
@@ -995,10 +995,10 @@
         <entry>action CommentByLineComment</entry>
         <entry>73</entry>
         <entry>action NextSplitter</entry>
-        <entry>action GotoFile</entry>
-        <entry>w!</entry>
         <entry>action FindInPath</entry>
         <entry>action GotoDeclaration</entry>
+        <entry>action GotoFile</entry>
+        <entry>w!</entry>
       </history-cmd>
       <history-expr />
       <history-input />
