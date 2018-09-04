@@ -135,6 +135,12 @@
         <mark key="^" line="7" column="62" />
         <mark key="." line="7" column="62" />
       </file>
+      <file name="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/scripts/configuration.js" timestamp="1536061966358">
+        <mark key="[" line="3" column="48" />
+        <mark key="]" line="3" column="52" />
+        <mark key="." line="3" column="52" />
+        <mark key="^" line="3" column="52" />
+      </file>
       <file name="$USER_HOME$/cea/parfit/migrations/20180126150914_pledge_completion_calculations_up.sql" timestamp="1535967942203">
         <mark key="'" line="190" column="15" />
       </file>
@@ -506,10 +512,12 @@
         <mark key="]" line="21" column="38" />
         <mark key="." line="27" column="26" />
       </file>
-      <file name="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/lib/collections/comments/permissions.js" timestamp="1535997653251">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
+      <file name="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/lib/collections/comments/permissions.js" timestamp="1536062097238">
+        <mark key="'" line="3" column="55" />
+        <mark key="[" line="16" column="29" />
+        <mark key="]" line="16" column="36" />
+        <mark key="." line="16" column="36" />
+        <mark key="^" line="16" column="36" />
       </file>
       <file name="$USER_HOME$/cea/parfit/README.md" timestamp="1534372367560">
         <mark key="[" line="46" column="153" />
@@ -539,8 +547,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/posts/PostsViews.jsx" />
-      <jump line="14" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/posts/PostsViews.jsx" />
       <jump line="16" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/posts/PostsViews.jsx" />
       <jump line="66" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/posts/PostsViews.jsx" />
       <jump line="31" column="29" filename="$USER_HOME$/cea/parfit/package.json" />
@@ -639,6 +645,8 @@
       <jump line="80" column="8" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" />
       <jump line="168" column="29" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" />
       <jump line="371" column="4" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" />
+      <jump line="16" column="29" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/lib/collections/comments/permissions.js" />
+      <jump line="3" column="55" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/lib/collections/comments/permissions.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -809,10 +817,10 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>{y</text>
+        <text>Posts</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxkcmFmdFw+</text>
+        <text encoding="base64">XDxQb3N0c1w+</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">cG9zdC5zcl9pZCA9PT0gIjIiIA==</text>
@@ -862,9 +870,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxkcmFmdFw+</last-search>
+      <last-search encoding="base64">XDxQb3N0c1w+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxkcmFmdFw+</last-pattern>
+      <last-pattern encoding="base64">XDxQb3N0c1w+</last-pattern>
       <last-replace>&quot;</last-replace>
       <last-substitute>'</last-substitute>
       <last-dir>1</last-dir>
@@ -872,7 +880,6 @@
     </search>
     <history>
       <history-search>
-        <entry>.pug</entry>
         <entry>doten</entry>
         <entry>shortco</entry>
         <entry>2nd pas</entry>
@@ -892,6 +899,7 @@
         <entry encoding="base64">XDxsZWdhY3lJZFRvVXNlck1hcFw+</entry>
         <entry encoding="base64">XDx1cHNlcnRQcm9jZXNzZWRQb3N0c1w+</entry>
         <entry encoding="base64">XDxkcmFmdFw+</entry>
+        <entry encoding="base64">XDxQb3N0c1w+</entry>
       </history-search>
       <history-cmd>
         <entry>50</entry>
@@ -911,8 +919,8 @@
         <entry>action NextSplitter</entry>
         <entry>action GotoDeclaration</entry>
         <entry>action GotoFile</entry>
-        <entry>action FindInPath</entry>
         <entry>action CommentByLineComment</entry>
+        <entry>action FindInPath</entry>
         <entry>w!</entry>
       </history-cmd>
       <history-expr />
