@@ -873,7 +873,7 @@
         <text encoding="base64">CiAgY29uc29sZS5sb2coJ0ZpbmlzaGVkIHBvc3QgZGF0YSBpbXBvcnQnKQo=</text>
       </register>
       <register name=":" type="4">
-        <text>action GotoFile</text>
+        <text>action FindInPath</text>
       </register>
     </registers>
     <search>
@@ -927,8 +927,8 @@
         <entry>action NextSplitter</entry>
         <entry>73</entry>
         <entry>w!</entry>
-        <entry>action FindInPath</entry>
         <entry>action GotoFile</entry>
+        <entry>action FindInPath</entry>
       </history-cmd>
       <history-expr />
       <history-input />
