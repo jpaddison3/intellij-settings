@@ -460,10 +460,10 @@
       <file name="$USER_HOME$/cea/Forum/Forum/node_modules/draft-js-resizeable-plugin/lib/index.js" timestamp="1536084318531">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/cea/Forum/Forum/settings-prod.json" timestamp="1536165746236">
-        <mark key="'" line="100" column="15" />
-        <mark key="[" line="110" column="0" />
-        <mark key="]" line="112" column="11" />
+      <file name="$USER_HOME$/cea/Forum/Forum/settings-prod.json" timestamp="1536168362601">
+        <mark key="'" line="87" column="18" />
+        <mark key="[" line="62" column="0" />
+        <mark key="]" line="62" column="30" />
         <mark key="." line="112" column="10" />
         <mark key="^" line="112" column="10" />
       </file>
@@ -608,7 +608,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="168" column="29" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" />
       <jump line="371" column="4" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" />
       <jump line="16" column="29" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/lib/collections/comments/permissions.js" />
       <jump line="3" column="55" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/lib/collections/comments/permissions.js" />
@@ -708,6 +707,7 @@
       <jump line="26" column="3" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/posts/PostsViews.jsx" />
       <jump line="31" column="14" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/posts/PostsViews.jsx" />
       <jump line="58" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/posts/PostsViews.jsx" />
+      <jump line="87" column="18" filename="$USER_HOME$/cea/Forum/Forum/settings-prod.json" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -881,10 +881,10 @@
         <text encoding="base64">ICsgJw==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxjb21tdW5pdHlcPg==</text>
+        <text>score</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICJBbGVzX0ZsaWRyIiwKICAgICJhYXJvbmdlcnRsZXIiLAogICAgIkp1c3RpcyIK</text>
+        <text encoding="base64">ICAic2NvcmVVcGRhdGVJbnRlcnZhbCI6ICIzMCIsCg==</text>
       </register>
       <register name="p" type="4">
         <keys>
@@ -931,9 +931,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxjb21tdW5pdHlcPg==</last-search>
+      <last-search>score</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxjb21tdW5pdHlcPg==</last-pattern>
+      <last-pattern>score</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -941,7 +941,6 @@
     </search>
     <history>
       <history-search>
-        <entry>compose</entry>
         <entry encoding="base64">XDxyZXNpemVhYmxlUGx1Z2luXD4=</entry>
         <entry encoding="base64">XDxhbGlnbm1lbnRQbHVnaW5cPg==</entry>
         <entry encoding="base64">XDxjb21wb3NlRGVjb3JhdG9yc1w+</entry>
@@ -961,6 +960,7 @@
         <entry encoding="base64">XDxBbGdvbGlhXD4=</entry>
         <entry>&quot;</entry>
         <entry encoding="base64">XDxjb21tdW5pdHlcPg==</entry>
+        <entry>score</entry>
       </history-search>
       <history-cmd>
         <entry>72</entry>
