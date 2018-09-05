@@ -460,10 +460,10 @@
       <file name="$USER_HOME$/cea/Forum/Forum/node_modules/draft-js-resizeable-plugin/lib/index.js" timestamp="1536084318531">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/cea/Forum/Forum/settings-prod.json" timestamp="1536164805158">
+      <file name="$USER_HOME$/cea/Forum/Forum/settings-prod.json" timestamp="1536165746236">
         <mark key="'" line="100" column="15" />
-        <mark key="[" line="111" column="18" />
-        <mark key="]" line="112" column="10" />
+        <mark key="[" line="110" column="0" />
+        <mark key="]" line="112" column="11" />
         <mark key="." line="112" column="10" />
         <mark key="^" line="112" column="10" />
       </file>
@@ -883,8 +883,8 @@
       <register name="/" type="4">
         <text encoding="base64">XDxjb21tdW5pdHlcPg==</text>
       </register>
-      <register name="0" type="4">
-        <text>sLMU8bDGXDYmGFP9Nf9</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICJBbGVzX0ZsaWRyIiwKICAgICJhYXJvbmdlcnRsZXIiLAogICAgIkp1c3RpcyIK</text>
       </register>
       <register name="p" type="4">
         <keys>
