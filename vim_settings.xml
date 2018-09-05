@@ -135,10 +135,10 @@
         <mark key="^" line="51" column="33" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/cea/Forum/Forum/settings-staging.json" timestamp="1536088099734">
+      <file name="$USER_HOME$/cea/Forum/Forum/settings-staging.json" timestamp="1536163447950">
         <mark key="'" line="56" column="12" />
-        <mark key="[" line="50" column="20" />
-        <mark key="]" line="50" column="95" />
+        <mark key="[" line="50" column="36" />
+        <mark key="]" line="50" column="54" />
         <mark key="." line="60" column="0" />
         <mark key="^" line="56" column="12" />
       </file>
@@ -428,13 +428,6 @@
         <mark key="." line="43" column="20" />
         <mark key="^" line="43" column="20" />
       </file>
-      <file name="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/posts/PostsViews.jsx" timestamp="1536153135798">
-        <mark key="'" line="58" column="0" />
-        <mark key="[" line="160" column="38" />
-        <mark key="]" line="160" column="46" />
-        <mark key="^" line="160" column="46" />
-        <mark key="." line="160" column="46" />
-      </file>
       <file name="$USER_HOME$/Documents/cea/Forum/Forum/packages/lesswrong/themes/forumTheme.js" timestamp="1532135174113">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -467,12 +460,12 @@
       <file name="$USER_HOME$/cea/Forum/Forum/node_modules/draft-js-resizeable-plugin/lib/index.js" timestamp="1536084318531">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/cea/Forum/Forum/settings-prod.json" timestamp="1536073080239">
+      <file name="$USER_HOME$/cea/Forum/Forum/settings-prod.json" timestamp="1536164029869">
         <mark key="'" line="100" column="15" />
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
-        <mark key="^" line="106" column="21" />
+        <mark key="[" line="111" column="5" />
+        <mark key="]" line="111" column="17" />
+        <mark key="." line="111" column="5" />
+        <mark key="^" line="111" column="5" />
       </file>
       <file name="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/lib/collections/bans/callbacks.js" timestamp="1534546121052">
         <mark key="[" line="22" column="3" />
@@ -577,10 +570,10 @@
       </file>
       <file name="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/lib/collections/comments/permissions.js" timestamp="1536067858957">
         <mark key="'" line="0" column="55" />
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="0" />
-        <mark key="." line="13" column="0" />
-        <mark key="^" line="15" column="12" />
+        <mark key="[" line="30" column="0" />
+        <mark key="]" line="30" column="0" />
+        <mark key="." line="30" column="0" />
+        <mark key="^" line="32" column="12" />
       </file>
       <file name="$USER_HOME$/cea/parfit/README.md" timestamp="1534372367560">
         <mark key="[" line="46" column="153" />
@@ -891,7 +884,7 @@
         <text encoding="base64">XDxjb21tdW5pdHlcPg==</text>
       </register>
       <register name="0" type="4">
-        <text>mongodb://admin:sLMU8bDGXDYmGFP9Nf9@ds153851.mlab.com:53851/ea-forum-staging</text>
+        <text>sLMU8bDGXDYmGFP9Nf9</text>
       </register>
       <register name="p" type="4">
         <keys>
@@ -934,7 +927,7 @@
         <text encoding="base64">ICAgICAgLy9lc2xpbnQtZGlzYWJsZS1uZXh0LWxpbmUgbm8tY29uc29sZQo=</text>
       </register>
       <register name=":" type="4">
-        <text>action GotoFile</text>
+        <text>w!</text>
       </register>
     </registers>
     <search>
@@ -987,9 +980,9 @@
         <entry>s/&quot;/'/g</entry>
         <entry>%s/&quot;/'/g</entry>
         <entry>action NextSplitter</entry>
-        <entry>w!</entry>
         <entry>action FindInPath</entry>
         <entry>action GotoFile</entry>
+        <entry>w!</entry>
       </history-cmd>
       <history-expr />
       <history-input />
