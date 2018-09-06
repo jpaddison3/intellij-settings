@@ -460,12 +460,12 @@
       <file name="$USER_HOME$/cea/Forum/Forum/node_modules/draft-js-resizeable-plugin/lib/index.js" timestamp="1536084318531">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/cea/Forum/Forum/settings-prod.json" timestamp="1536168362601">
+      <file name="$USER_HOME$/cea/Forum/Forum/settings-prod.json" timestamp="1536249007089">
         <mark key="'" line="87" column="18" />
-        <mark key="[" line="62" column="0" />
-        <mark key="]" line="62" column="30" />
-        <mark key="." line="112" column="10" />
-        <mark key="^" line="112" column="10" />
+        <mark key="[" line="108" column="20" />
+        <mark key="]" line="108" column="20" />
+        <mark key="." line="108" column="20" />
+        <mark key="^" line="88" column="17" />
       </file>
       <file name="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/lib/collections/bans/callbacks.js" timestamp="1534546121052">
         <mark key="[" line="22" column="3" />
@@ -496,6 +496,13 @@
         <mark key="]" line="33" column="0" />
         <mark key="." line="33" column="0" />
         <mark key="^" line="33" column="69" />
+      </file>
+      <file name="$USER_HOME$/cea/mandrill-mail-merge/mmerge-invite/template-launch.js" timestamp="1536248489720">
+        <mark key="'" line="46" column="100" />
+        <mark key="[" line="46" column="96" />
+        <mark key="]" line="46" column="96" />
+        <mark key="^" line="46" column="97" />
+        <mark key="." line="46" column="96" />
       </file>
       <file name="$USER_HOME$/Documents/cea/Forum/Forum/settings-lw.json" timestamp="1532389727972">
         <mark key="[" line="28" column="0" />
@@ -608,8 +615,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="371" column="4" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" />
-      <jump line="16" column="29" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/lib/collections/comments/permissions.js" />
       <jump line="3" column="55" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/lib/collections/comments/permissions.js" />
       <jump line="21" column="8" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/lib/collections/users/validate_login.js" />
       <jump line="20" column="9" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/lib/collections/users/validate_login.js" />
@@ -708,6 +713,8 @@
       <jump line="31" column="14" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/posts/PostsViews.jsx" />
       <jump line="58" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/posts/PostsViews.jsx" />
       <jump line="87" column="18" filename="$USER_HOME$/cea/Forum/Forum/settings-prod.json" />
+      <jump line="53" column="30" filename="$USER_HOME$/cea/mandrill-mail-merge/mmerge-invite/template-launch.js" />
+      <jump line="46" column="100" filename="$USER_HOME$/cea/mandrill-mail-merge/mmerge-invite/template-launch.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -878,7 +885,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICsgJw==</text>
+        <text>ea247</text>
       </register>
       <register name="/" type="4">
         <text>score</text>
@@ -897,37 +904,37 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdiYXRjaENvbnRhaW5lcicsIGJhdGNoQ29udGFpbmVyKQo=</text>
+        <text encoding="base64">CgoKCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGlmIChpdGVtLl9pZCAhPT0gJ1lNd0NxdUVBS3FkSmhGUk53JykgcmV0dXJuCiAgICBjb25zb2xlLmxvZygnaXRlbScsIGl0ZW0pCg==</text>
+        <text encoding="base64">CjxwPldlJ3JlIGdldHRpbmcgcmVhZHkgdG8gbGF1bmNoIHRoZSBFQSBGb3J1bSBCZXRhIG5leHQgd2Vlay4gSSdtIHZlcnkgZXhjaXRlZCBhYm91dCB0aGlzIGFuZCBhbSBsb29raW5nIGZvcndhcmQgdG8gc2VlaW5nIHlvdSB0aGVyZS48L3A+Cgo8cD4ke3VzZXJuYW1lU2VjdGlvbn08L3A+Cgo8cD4KICBUaGFua3MsIGFuZCBzZWUgeW91IHNvb24hPGJyIC8+CiAgSlAgQWRkaXNvbgo8L3A+Cg==</text>
       </register>
-      <register name="3" type="4">
-        <text>''</text>
+      <register name="3" type="2">
+        <text encoding="base64">PHA+RGVhciAke2dldEZpcnN0TmFtZShyb3cpfSw8L3A+Cg==</text>
       </register>
-      <register name="4" type="4">
-        <text>object ${JSON.stringify(content)} indexed</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdiYXRjaENvbnRhaW5lcicsIGJhdGNoQ29udGFpbmVyKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhgRXhwb3J0aW5nICR7aW5kZXhOYW1lfS4uLmApCg==</text>
+        <text encoding="base64">ICAgIGlmIChpdGVtLl9pZCAhPT0gJ1lNd0NxdUVBS3FkSmhGUk53JykgcmV0dXJuCiAgICBjb25zb2xlLmxvZygnaXRlbScsIGl0ZW0pCg==</text>
       </register>
       <register name="u" type="4">
         <text>uu</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="6" type="4">
+        <text>''</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIC8vZXNsaW50LWRpc2FibGUtbmV4dC1saW5lIG5vLWNvbnNvbGUK</text>
+      <register name="7" type="4">
+        <text>object ${JSON.stringify(content)} indexed</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgLy9lc2xpbnQtZGlzYWJsZS1uZXh0LWxpbmUgbm8tY29uc29sZQo=</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhgRXhwb3J0aW5nICR7aW5kZXhOYW1lfS4uLmApCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgLy9lc2xpbnQtZGlzYWJsZS1uZXh0LWxpbmUgbm8tY29uc29sZQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>w!</text>
+        <text>action GotoFile</text>
       </register>
     </registers>
     <search>
@@ -973,7 +980,6 @@
         <entry>73</entry>
         <entry>action GotoDeclaration</entry>
         <entry>action Refactorings.QuickListPopupAction</entry>
-        <entry>action CommentByLineComment</entry>
         <entry>%s/;//g</entry>
         <entry>%/&quot;/'/g</entry>
         <entry>$s/&quot;/'/g</entry>
@@ -981,8 +987,9 @@
         <entry>%s/&quot;/'/g</entry>
         <entry>action NextSplitter</entry>
         <entry>action FindInPath</entry>
-        <entry>action GotoFile</entry>
+        <entry>action CommentByLineComment</entry>
         <entry>w!</entry>
+        <entry>action GotoFile</entry>
       </history-cmd>
       <history-expr />
       <history-input />
