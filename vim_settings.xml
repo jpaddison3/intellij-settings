@@ -226,6 +226,13 @@
         <mark key="." line="3" column="41" />
         <mark key="^" line="3" column="41" />
       </file>
+      <file name="$USER_HOME$/Desktop/process-zap.js" timestamp="1536329798349">
+        <mark key="'" line="103" column="0" />
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="42" column="1" />
+        <mark key="." line="103" column="0" />
+        <mark key="^" line="104" column="0" />
+      </file>
       <file name="$USER_HOME$/cea/effectivealtruism-org-static/.env" timestamp="1535714635149">
         <mark key="[" line="2" column="12" />
         <mark key="]" line="2" column="19" />
@@ -493,6 +500,12 @@
         <mark key="." line="3" column="90" />
         <mark key="^" line="3" column="90" />
       </file>
+      <file name="$USER_HOME$/Desktop/zap-data.txt" timestamp="1536329594183">
+        <mark key="[" line="72" column="254" />
+        <mark key="]" line="74" column="21" />
+        <mark key="^" line="74" column="21" />
+        <mark key="." line="74" column="21" />
+      </file>
       <file name="$USER_HOME$/cea/mandrill-mail-merge/mmerge-invite/template-launch.js" timestamp="1536248489720">
         <mark key="'" line="46" column="100" />
         <mark key="[" line="46" column="96" />
@@ -622,22 +635,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="20" column="9" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/lib/collections/users/validate_login.js" />
-      <jump line="26" column="6" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/lib/collections/users/validate_login.js" />
-      <jump line="29" column="45" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/lib/collections/users/validate_login.js" />
-      <jump line="23" column="2" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/scripts/invites.js" />
-      <jump line="100" column="15" filename="$USER_HOME$/cea/Forum/Forum/settings-prod.json" />
-      <jump line="56" column="12" filename="$USER_HOME$/cea/Forum/Forum/settings-staging.json" />
-      <jump line="186" column="32" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/lib/components.js" />
-      <jump line="225" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/lib/components.js" />
-      <jump line="9" column="47" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/common/VoteButton.jsx" />
-      <jump line="40" column="4" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/common/VoteButton.jsx" />
-      <jump line="46" column="64" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/common/VoteButton.jsx" />
-      <jump line="54" column="4" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/common/VoteButton.jsx" />
-      <jump line="145" column="11" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/common/VoteButton.jsx" />
-      <jump line="153" column="12" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/common/VoteButton.jsx" />
-      <jump line="42" column="30" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/async/AsyncCommentEditor.jsx" />
-      <jump line="194" column="15" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/async/AsyncCommentEditor.jsx" />
       <jump line="223" column="46" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/async/AsyncCommentEditor.jsx" />
       <jump line="241" column="32" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/async/AsyncCommentEditor.jsx" />
       <jump line="242" column="29" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/async/AsyncCommentEditor.jsx" />
@@ -722,6 +719,22 @@
       <jump line="46" column="100" filename="$USER_HOME$/cea/mandrill-mail-merge/mmerge-invite/template-launch.js" />
       <jump line="12" column="8" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/scripts/invites.js" />
       <jump line="26" column="54" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/scripts/invites.js" />
+      <jump line="54" column="22" filename="$USER_HOME$/Desktop/process-zap.js" />
+      <jump line="108" column="0" filename="$USER_HOME$/Desktop/process-zap.js" />
+      <jump line="53" column="0" filename="$USER_HOME$/Desktop/process-zap.js" />
+      <jump line="51" column="0" filename="$USER_HOME$/Desktop/process-zap.js" />
+      <jump line="55" column="0" filename="$USER_HOME$/Desktop/process-zap.js" />
+      <jump line="34" column="24" filename="$USER_HOME$/Desktop/process-zap.js" />
+      <jump line="150" column="0" filename="$USER_HOME$/Desktop/process-zap.js" />
+      <jump line="139" column="0" filename="$USER_HOME$/Desktop/process-zap.js" />
+      <jump line="111" column="0" filename="$USER_HOME$/Desktop/process-zap.js" />
+      <jump line="105" column="0" filename="$USER_HOME$/Desktop/process-zap.js" />
+      <jump line="43" column="0" filename="$USER_HOME$/Desktop/process-zap.js" />
+      <jump line="45" column="0" filename="$USER_HOME$/Desktop/process-zap.js" />
+      <jump line="47" column="0" filename="$USER_HOME$/Desktop/process-zap.js" />
+      <jump line="6" column="15" filename="$USER_HOME$/Desktop/process-zap.js" />
+      <jump line="151" column="0" filename="$USER_HOME$/Desktop/process-zap.js" />
+      <jump line="103" column="0" filename="$USER_HOME$/Desktop/process-zap.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -892,13 +905,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>jptest5</text>
+        <text>//</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx1cmxcPg==</text>
       </register>
-      <register name="0" type="4">
-        <text>jp+test5@centreforeffectivealtruism.org</text>
+      <register name="0" type="2">
+        <text encoding="base64">Y29uc3QgcmVzcG9uc2VzUmF3ID0gYWxsUmVzcG9uc2VzCiAgLnNwbGl0KCcjIyMnKQogIC5maWx0ZXIociA9PiByKQogIC5tYXAociA9PiByLnRyaW0oKSkKY29uc3QgcmVzcG9uc2VzID0ge30KCmZvciAobGV0IHJlc3BvbnNlUmF3IG9mIHJlc3BvbnNlc1JhdykgewogIC8vIHNwbGl0IHRoZSBxdWVzdGlvbiBhbmQgYW5zd2VyIGF0IHRoZSBmaXJzdCBsaW5lYnJlYWsKICBsZXQgbWF0Y2hlcyA9IHJlc3BvbnNlUmF3Lm1hdGNoKC9eKC4qPylcbisoLiopL20pCiAgaWYgKG1hdGNoZXMpIHsKICAgIGxldCBxdWVzdGlvbiA9IG1hdGNoZXNbMV0KICAgIGxldCBhbnN3ZXIgPSAobWF0Y2hlc1syXSB8fCAnJykudHJpbSgpCiAgICAvLyBpZiB0aGUgcXVlc3Rpb24gaXMgZm9ybWF0dGVkIGFzICJCbGFoIChBY3R1YWwgUXVlc3Rpb24pIiwKICAgIC8vIHN0cmlwIG91dCAiQmxhaCIgYW5kIHVzZSAiQWN0dWFsIFF1ZXN0aW9uIiBhcyB0aGUgcXVlc3Rpb24sCiAgICAvLyB0aGVuIGFwcGVuZCB0aGUgcmVzdWx0IHRvIHRoZSBxdWVzdGlvbiBzZXQKICAgIGNvbnN0IG11bHRpcGxlQ2hvaWNlUkUgPSAvXi4qP1woKC4qPylcKSQvCiAgICBpZiAobXVsdGlwbGVDaG9pY2VSRS50ZXN0KHF1ZXN0aW9uKSkgewogICAgICBxdWVzdGlvbiA9IHF1ZXN0aW9uLnJlcGxhY2UobXVsdGlwbGVDaG9pY2VSRSwgJyQxJykKICAgICAgLy8gTmVlZCB0aGUgbXVsdGlwbGUgY2hvaWNlIHRvIGF2b2lkIGNvbGxpZGluZyB3aXRoIHRoZSBjb2FsZXNjZWQgdmVyc2lvbgogICAgICAvLyBvZiB0aGUgcXVlc3Rpb24sIGJ1dCBvbmx5IGlmIHdlJ3JlIHNhdmluZyBhbGwgcXVlc3Rpb25zIGhlcmUKICAgICAgLy8gKyAnIChNdWx0aXBsZSBDaG9pY2UpJwogICAgICByZXNwb25zZXNbcXVlc3Rpb25dID0gcmVzcG9uc2VzW3F1ZXN0aW9uXSB8fCBbXQogICAgICByZXNwb25zZXNbcXVlc3Rpb25dLnB1c2goYW5zd2VyKQogICAgfQogIH0KfQoKT2JqZWN0LmtleXMocmVzcG9uc2VzKS5mb3JFYWNoKHF1ZXN0aW9uID0+IHsKICBpZiAoQXJyYXkuaXNBcnJheShyZXNwb25zZXNbcXVlc3Rpb25dKSkgewogICAgcmVzcG9uc2VzW2Ake3F1ZXN0aW9ufSBzcGFjZXNgXSA9IHJlc3BvbnNlc1txdWVzdGlvbl0uam9pbignLCAnKQogICAgcmVzcG9uc2VzW2Ake3F1ZXN0aW9ufSBjb21tYXNgXSA9IHJlc3BvbnNlc1txdWVzdGlvbl0KICAgICAgLm1hcChyID0+IHIucmVwbGFjZSgvLC9nLCAnIOKAkyAnKS5yZXBsYWNlKC8oXHMpXHMrL2csICckMScpKQogICAgICAuam9pbignLCAnKQogICAgcmVzcG9uc2VzW2Ake3F1ZXN0aW9ufSBsaW5lYnJlYWtzYF0gPSByZXNwb25zZXNbcXVlc3Rpb25dLmpvaW4oJ1xuJykKICAgIHJlc3BvbnNlc1tgJHtxdWVzdGlvbn0gbWRgXSA9IGAtICR7cmVzcG9uc2VzW3F1ZXN0aW9uXS5qb2luKCdcbi0gJyl9YAogIH0KfSkK</text>
       </register>
       <register name="p" type="4">
         <keys>
@@ -911,34 +924,34 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IG5ld1VybCA9IHVybAogICAgY29uc29sZS5sb2coJ25ld1VybCcsIG5ld1VybCkK</text>
+        <text encoding="base64">ICAgICAgLy8gTmVlZCB0aGUgbXVsdGlwbGUgY2hvaWNlIHRvIGF2b2lkIGNvbGxpZGluZyB3aXRoIHRoZSBjb2FsZXNjZWQgdmVyc2lvbgogICAgICAvLyBvZiB0aGUgcXVlc3Rpb24K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCduZXdVcmwnLCBuZXdVcmwpCg==</text>
+        <text encoding="base64">ICAgICAgLy8gTmVlZCB0aGUgbXVsdGlwbGUgY2hvaWNlIHRvIGF2b2lkIGNvbGxpZGluZyB3aXRoIHRoZSBjb2FsZXNjZWQgdmVyc2lvbgogICAgICAvLyBvZiB0aGUgcXVlc3Rpb24K</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIHtlbWFpbDogImpwK3Rlc3Q2QGNlbnRyZWZvcmVmZmVjdGl2ZWFsdHJ1aXNtLm9yZyIsIHVzZXJuYW1lOiAianB0ZXN0NiJ9Cg==</text>
+      <register name="3" type="4">
+        <text encoding="base64">IGVsc2UgewogICAgICByZXNwb25zZXNbcXVlc3Rpb25dID0gYW5zd2VyCiAgICB9</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CgoKCg==</text>
+        <text encoding="base64">Ly8gY29uc3Qge2FsbFJlc3BvbnNlc30gPSBpbnB1dF9kYXRhCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CjxwPldlJ3JlIGdldHRpbmcgcmVhZHkgdG8gbGF1bmNoIHRoZSBFQSBGb3J1bSBCZXRhIG5leHQgd2Vlay4gSSdtIHZlcnkgZXhjaXRlZCBhYm91dCB0aGlzIGFuZCBhbSBsb29raW5nIGZvcndhcmQgdG8gc2VlaW5nIHlvdSB0aGVyZS48L3A+Cgo8cD4ke3VzZXJuYW1lU2VjdGlvbn08L3A+Cgo8cD4KICBUaGFua3MsIGFuZCBzZWUgeW91IHNvb24hPGJyIC8+CiAgSlAgQWRkaXNvbgo8L3A+Cg==</text>
+        <text encoding="base64">Y29uc3Qge2FsbFJlc3BvbnNlc30gPSBpbnB1dERhdGEKCg==</text>
       </register>
       <register name="u" type="4">
         <text>uu</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">PHA+RGVhciAke2dldEZpcnN0TmFtZShyb3cpfSw8L3A+Cg==</text>
+        <text encoding="base64">ICAgICAgLy8gVHlwZWZvcm0gc2VlbXMgdG8gaGF2ZSBzdGFydGVkIGNvYWxlc2NpbmcgbXVsdGlwbGUtY2hvaWNlIHJlc3BvbnNlcyAKICAgICAgLy8gd2hpY2ggbWVhbnMgdGhlcmUncyBzb21lIGNoYW5jZSB0aGF0IHJlc3BvbnNlc1txdWVzdGlvbl0KICAgICAgLy8gaXMgYWxyZWFkeSBzZXQgYnkgdGhlIGVsc2UgYmxvY2sgYmVsb3cuIElmIHRoYXQncyB0aGUgY2FzZSwgcmVwbGFjZQogICAgICAvLyB0aGUgU3RyaW5nIHdpdGggYSBibGFuayBhcnJheSwgYW5kIGNhcnJ5IG9uLCBvdGhlcndpc2UgdGhlcmUnbGwgYmUKICAgICAgLy8gYSBgcmVzcG9uc2VzW3F1ZXN0aW9uXS5wdXNoIGlzIG5vdCBhIGZ1bmN0aW9uYCBlcnJvcgogICAgICAvLyBUT0RPOiBtYXliZSB0aGlzIHdob2xlIGNvZGUgYmxvY2sgaXMgbm93IG9ic29sZXRlLCBidXQgbGV0J3Mgbm90CiAgICAgIC8vICAgICAgIG1lc3Mgd2l0aCB0aGluZ3MgdG9vIG11Y2ggYXQgdGhlIG1vbWVudC4uLgogICAgICBpZih0eXBlb2YgcmVzcG9uc2VzW3F1ZXN0aW9uXSA9PT0gJ3N0cmluZycpIHJlc3BvbnNlc1txdWVzdGlvbl0gPSBbXQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdiYXRjaENvbnRhaW5lcicsIGJhdGNoQ29udGFpbmVyKQo=</text>
+        <text encoding="base64">ICAgICAgLy8gVHlwZWZvcm0gc2VlbXMgdG8gaGF2ZSBzdGFydGVkIGNvYWxlc2NpbmcgbXVsdGlwbGUtY2hvaWNlIHJlc3BvbnNlcyAKICAgICAgLy8gd2hpY2ggbWVhbnMgdGhlcmUncyBzb21lIGNoYW5jZSB0aGF0IHJlc3BvbnNlc1txdWVzdGlvbl0KICAgICAgLy8gaXMgYWxyZWFkeSBzZXQgYnkgdGhlIGVsc2UgYmxvY2sgYmVsb3cuIElmIHRoYXQncyB0aGUgY2FzZSwgcmVwbGFjZQogICAgICAvLyB0aGUgU3RyaW5nIHdpdGggYSBibGFuayBhcnJheSwgYW5kIGNhcnJ5IG9uLCBvdGhlcndpc2UgdGhlcmUnbGwgYmUKICAgICAgLy8gYSBgcmVzcG9uc2VzW3F1ZXN0aW9uXS5wdXNoIGlzIG5vdCBhIGZ1bmN0aW9uYCBlcnJvcgogICAgICAvLyBUT0RPOiBtYXliZSB0aGlzIHdob2xlIGNvZGUgYmxvY2sgaXMgbm93IG9ic29sZXRlLCBidXQgbGV0J3Mgbm90CiAgICAgIC8vICAgICAgIG1lc3Mgd2l0aCB0aGluZ3MgdG9vIG11Y2ggYXQgdGhlIG1vbWVudC4uLgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGlmIChpdGVtLl9pZCAhPT0gJ1lNd0NxdUVBS3FkSmhGUk53JykgcmV0dXJuCiAgICBjb25zb2xlLmxvZygnaXRlbScsIGl0ZW0pCg==</text>
+        <text encoding="base64">ICAgICAgLy8gcXVlc3Rpb24gPSBxdWVzdGlvbi5yZXBsYWNlKG11bHRpcGxlQ2hvaWNlUkUsICckMScpCiAgICAgIC8vIFR5cGVmb3JtIHNlZW1zIHRvIGhhdmUgc3RhcnRlZCBjb2FsZXNjaW5nIG11bHRpcGxlLWNob2ljZSByZXNwb25zZXMKICAgICAgLy8gd2hpY2ggbWVhbnMgdGhlcmUncyBzb21lIGNoYW5jZSB0aGF0IHJlc3BvbnNlc1txdWVzdGlvbl0KICAgICAgLy8gaXMgYWxyZWFkeSBzZXQgYnkgdGhlIGVsc2UgYmxvY2sgYmVsb3cuIElmIHRoYXQncyB0aGUgY2FzZSwgcmVwbGFjZQogICAgICAvLyB0aGUgU3RyaW5nIHdpdGggYSBibGFuayBhcnJheSwgYW5kIGNhcnJ5IG9uLCBvdGhlcndpc2UgdGhlcmUnbGwgYmUKICAgICAgLy8gYSBgcmVzcG9uc2VzW3F1ZXN0aW9uXS5wdXNoIGlzIG5vdCBhIGZ1bmN0aW9uYCBlcnJvcgogICAgICAvLyBUT0RPOiBtYXliZSB0aGlzIHdob2xlIGNvZGUgYmxvY2sgaXMgbm93IG9ic29sZXRlLCBidXQgbGV0J3Mgbm90CiAgICAgIC8vICAgICAgIG1lc3Mgd2l0aCB0aGluZ3MgdG9vIG11Y2ggYXQgdGhlIG1vbWVudC4uLgogICAgLy8gICBpZih0eXBlb2YgcmVzcG9uc2VzW3F1ZXN0aW9uXSA9PT0gJ3N0cmluZycpIHJlc3BvbnNlc1txdWVzdGlvbl0gPSBbXQogICAgLy8gICByZXNwb25zZXNbcXVlc3Rpb25dID0gcmVzcG9uc2VzW3F1ZXN0aW9uXSB8fCBbXQogICAgLy8gICByZXNwb25zZXNbcXVlc3Rpb25dLnB1c2goYW5zd2VyKQogICAgLy8gfSBlbHNlIHsKICAgIC8vIH0K</text>
       </register>
-      <register name="9" type="4">
-        <text>''</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w!</text>
@@ -993,9 +1006,9 @@
         <entry>s/&quot;/'/g</entry>
         <entry>%s/&quot;/'/g</entry>
         <entry>action FindInPath</entry>
-        <entry>action CommentByLineComment</entry>
         <entry>action GotoFile</entry>
         <entry>action NextSplitter</entry>
+        <entry>action CommentByLineComment</entry>
         <entry>w!</entry>
       </history-cmd>
       <history-expr />
