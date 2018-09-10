@@ -111,11 +111,11 @@
         <mark key="^" line="10" column="1" />
         <mark key="." line="10" column="2" />
       </file>
-      <file name="$USER_HOME$/cea/grants-applications/.env" timestamp="1536574040485">
-        <mark key="[" line="0" column="16" />
-        <mark key="]" line="0" column="17" />
-        <mark key="^" line="1" column="16" />
-        <mark key="." line="0" column="17" />
+      <file name="$USER_HOME$/cea/grants-applications/.env" timestamp="1536589989241">
+        <mark key="[" line="1" column="17" />
+        <mark key="]" line="1" column="33" />
+        <mark key="^" line="1" column="34" />
+        <mark key="." line="1" column="34" />
       </file>
       <file name="$USER_HOME$/cea/Forum/Forum/settings-lw.json" timestamp="1536073077489">
         <mark key="'" line="0" column="0" />
@@ -414,6 +414,12 @@
         <mark key="]" line="3" column="19" />
         <mark key="." line="3" column="19" />
         <mark key="^" line="3" column="13" />
+      </file>
+      <file name="$USER_HOME$/cea/grants-applications/sendEmails.js" timestamp="1536590607026">
+        <mark key="[" line="77" column="35" />
+        <mark key="]" line="77" column="46" />
+        <mark key="." line="77" column="46" />
+        <mark key="^" line="77" column="46" />
       </file>
       <file name="$USER_HOME$/cea/grants-applications/package.json" timestamp="1536579688511">
         <mark key="[" line="16" column="31" />
@@ -799,13 +805,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>.get('id')</text>
+        <text>format()</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx1cGRhdGVFbWFpbFN0YXR1c1w+</text>
       </register>
       <register name="0" type="4">
-        <text>Record.get('id')</text>
+        <text>appZ9HveLKVYk7YlB</text>
       </register>
       <register name="p" type="4">
         <keys>
@@ -817,35 +823,35 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Ly8gVE9ETyBkb2NzdHJpbmcK</text>
+      <register name="1" type="4">
+        <text>format()</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAvLyBUT0RPCg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHJlc3VsdCkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZygnd291bGQgYmUgc2VuZGluZyBlbWFpbHMgaGVyZScsIFJlY29yZCkK</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHJlc3VsdCkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIC8vIFRPRE8gUmV2aXNpdCBlcnJvciBtZXNzYWdlCg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdlbWFpbGlkJywgUmVjb3JkLmlkKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmluZm8oYFNlbnQgZW1haWwgYW5kIHVwZGF0ZWQgcmVjb3JkIGZvcjogJHtSZWNvcmQuZ2V0KCdBcHBsaWNhdGlvbicpfWApCg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdlbWFpbGlkJywgUmVjb3JkLmlkKQo=</text>
       </register>
       <register name="u" type="4">
         <text>uu</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgfSBjYXRjaCAoZXJyKSB7CiAgICAgICAgY29uc29sZS5lcnJvcihlcnIubWVzc2FnZSkKICAgICAgfQo=</text>
+        <text encoding="base64">Ly8gVE9ETyBkb2NzdHJpbmcK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgdHJ5IHsK</text>
+        <text encoding="base64">ICAvLyBUT0RPCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmluZm8oYFNlbnQgZW1haWwgYW5kIHVwZGF0ZWQgcmVjb3JkIGZvcjogJHtSZWNvcmQuZ2V0KCdBcHBsaWNhdGlvbicpfWApCg==</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZygnd291bGQgYmUgc2VuZGluZyBlbWFpbHMgaGVyZScsIFJlY29yZCkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgdHJ5IHsK</text>
+        <text encoding="base64">ICAgIC8vIFRPRE8gUmV2aXNpdCBlcnJvciBtZXNzYWdlCg==</text>
       </register>
       <register name=":" type="4">
         <text>w!</text>
@@ -894,7 +900,6 @@
         <entry>s/&quot;/'/g</entry>
         <entry>%s/&quot;/'/g</entry>
         <entry>action FindInPath</entry>
-        <entry>action GotoFile</entry>
         <entry>action SplitVertically</entry>
         <entry>action NewFile</entry>
         <entry>action CommentByLineComment</entry>
@@ -902,6 +907,7 @@
         <entry>source ~/.ideavimrc</entry>
         <entry>action Refactorings.QuickListPopupAction</entry>
         <entry>action GotoDeclaration</entry>
+        <entry>action GotoFile</entry>
         <entry>action NextSplitter</entry>
         <entry>w!</entry>
       </history-cmd>
