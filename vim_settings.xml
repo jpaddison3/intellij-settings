@@ -20,12 +20,12 @@
         <mark key="]" line="0" column="62" />
         <mark key="." line="0" column="62" />
       </file>
-      <file name="$USER_HOME$/cea/aletheia/app/containers/Admin/AdminPayrollGiving/Providers/benevity.js" timestamp="1536679811873">
-        <mark key="'" line="55" column="31" />
-        <mark key="[" line="54" column="6" />
-        <mark key="]" line="54" column="28" />
-        <mark key="^" line="54" column="48" />
-        <mark key="." line="54" column="48" />
+      <file name="$USER_HOME$/cea/aletheia/app/containers/Admin/AdminPayrollGiving/Providers/benevity.js" timestamp="1536681921973">
+        <mark key="'" line="63" column="0" />
+        <mark key="[" line="59" column="0" />
+        <mark key="]" line="59" column="0" />
+        <mark key="^" line="59" column="64" />
+        <mark key="." line="59" column="0" />
       </file>
       <file name="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/lib/components.js" timestamp="1536077000636">
         <mark key="'" line="222" column="0" />
@@ -676,9 +676,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="16" column="58" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/scripts/algoliaExport.js" />
-      <jump line="16" column="4" filename="$USER_HOME$/cea/Forum/Forum/settings.json" />
-      <jump line="107" column="18" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/posts/PostsViews.jsx" />
       <jump line="57" column="31" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/posts/PostsViews.jsx" />
       <jump line="20" column="234" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/posts/PostsViews.jsx" />
       <jump line="26" column="3" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/posts/PostsViews.jsx" />
@@ -776,6 +773,9 @@
       <jump line="23" column="25" filename="$USER_HOME$/cea/aletheia/app/containers/Admin/AdminPayrollGiving/Providers/index.js" />
       <jump line="54" column="38" filename="$USER_HOME$/cea/aletheia/app/containers/Admin/AdminPayrollGiving/Providers/benevity.js" />
       <jump line="55" column="31" filename="$USER_HOME$/cea/aletheia/app/containers/Admin/AdminPayrollGiving/Providers/benevity.js" />
+      <jump line="59" column="10" filename="$USER_HOME$/cea/aletheia/app/containers/Admin/AdminPayrollGiving/Providers/benevity.js" />
+      <jump line="53" column="0" filename="$USER_HOME$/cea/aletheia/app/containers/Admin/AdminPayrollGiving/Providers/benevity.js" />
+      <jump line="63" column="0" filename="$USER_HOME$/cea/aletheia/app/containers/Admin/AdminPayrollGiving/Providers/benevity.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -946,7 +946,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>fileSection</text>
+        <text>in the csv in the form</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxmaWxlU2VjdGlvblw+</text>
@@ -965,37 +965,37 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHJlY3VycmVuY2U6ICdvbmUtb2ZmJywKICAgIHN0YXR1czogJ3N1Y2NlZWRlZCcsCg==</text>
+        <text encoding="base64">Ly8gU28gd2UgdGFrZSB0aGUgZmlyc3QgdmFsdWUgb2YgZWFjaCByb3cgYXMgdGhlIGtleSBvZiBhbiBvYmplY3QK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZXhwb3J0IGNvbnN0IElTT19EQVRFVElNRSA9ICdZWVlZLU1NLUREVEhIOm1tOnNzJwo=</text>
+        <text encoding="base64">ICAvLyB0aGUgbWV0YWRhdGEgaXMgb2YgdGhlIGZvcm0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIC8vIFRPRE8K</text>
+        <text encoding="base64">ICAvLyBUT0RPLVE6IEBTYW0sIGlzIHRoaXMgaG93IHlvdSdkIGphdmFzY3JpcHQ/Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbnN0IHJvdyA9IG1ldGFSb3dzLmRhdGFbaV0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdmaWxlQ29udGVudHMnLCBmaWxlQ29udGVudHMpCiAgICBjb25zb2xlLmxvZyhiZW5ldml0eSkK</text>
+        <text encoding="base64">ICAgIHJlY3VycmVuY2U6ICdvbmUtb2ZmJywKICAgIHN0YXR1czogJ3N1Y2NlZWRlZCcsCg==</text>
       </register>
       <register name="u" type="4">
         <text>uu</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Ly8gVE9ETyB7dGVzdEJlbmV2aXR5LCBiZW5ldml0eUV4dHJhY3RNZXRhZGF0YX0K</text>
+        <text encoding="base64">ZXhwb3J0IGNvbnN0IElTT19EQVRFVElNRSA9ICdZWVlZLU1NLUREVEhIOm1tOnNzJwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC8vIFRPRE8K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ci8vIC0tLS0tLS0tLS0tLS0tLS0tLQovLyAtLS0gQ1NWIFByZXBhcnNpbmcK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZXhwb3J0IGNvbnN0IHRlc3RCZW5ldml0eSA9IC9eIy0tKy9nbQoKZXhwb3J0IGNvbnN0IGJlbmV2aXR5RXh0cmFjdE1ldGFkYXRhID0gYXN5bmMgZmlsZVNlY3Rpb24gPT4gewogIGNvbnN0IG1ldGFSb3dzID0gYXdhaXQgcGFyc2UoZmlsZVNlY3Rpb24sIHtoZWFkZXI6IGZhbHNlfSkKICBjb25zdCBtZXRhZGF0YSA9IHt9CiAgLy8gVE9ETy1ROiBAU2FtLCBpcyB0aGlzIGhvdyB5b3UnZCBqYXZhc2NyaXB0PwogIGZvciAobGV0IGkgaW4gbWV0YVJvd3MuZGF0YSkgewogICAgY29uc3Qgcm93ID0gbWV0YVJvd3MuZGF0YVtpXQogICAgbWV0YWRhdGFbcm93WzBdXSA9IHJvd1sxXQogIH0KICByZXR1cm4gbWV0YWRhdGEKfQo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdmaWxlQ29udGVudHMnLCBmaWxlQ29udGVudHMpCiAgICBjb25zb2xlLmxvZyhiZW5ldml0eSkK</text>
       </register>
       <register name=":" type="4">
-        <text>action FindInPath</text>
+        <text>w!</text>
       </register>
     </registers>
     <search>
@@ -1049,8 +1049,8 @@
         <entry>action GotoFile</entry>
         <entry>action NextSplitter</entry>
         <entry>action Refactorings.QuickListPopupAction</entry>
-        <entry>w!</entry>
         <entry>action FindInPath</entry>
+        <entry>w!</entry>
       </history-cmd>
       <history-expr />
       <history-input />
