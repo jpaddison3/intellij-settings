@@ -174,12 +174,6 @@
         <mark key="[" line="67" column="47" />
         <mark key="]" line="67" column="80" />
       </file>
-      <file name="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/scripts/configuration.js" timestamp="1536096132559">
-        <mark key="[" line="2" column="48" />
-        <mark key="]" line="2" column="52" />
-        <mark key="." line="2" column="52" />
-        <mark key="^" line="2" column="52" />
-      </file>
       <file name="$USER_HOME$/cea/parfit/migrations/20180126150914_pledge_completion_calculations_up.sql" timestamp="1535967942203">
         <mark key="'" line="190" column="15" />
       </file>
@@ -661,10 +655,10 @@
       </file>
       <file name="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/lib/collections/comments/permissions.js" timestamp="1536067858957">
         <mark key="'" line="0" column="55" />
-        <mark key="[" line="30" column="0" />
-        <mark key="]" line="30" column="0" />
-        <mark key="." line="30" column="0" />
-        <mark key="^" line="32" column="12" />
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
+        <mark key="^" line="15" column="12" />
       </file>
       <file name="$USER_HOME$/cea/parfit/README.md" timestamp="1534372367560">
         <mark key="[" line="46" column="153" />
@@ -1019,7 +1013,7 @@
         <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdmaWxlQ29udGVudHMnLCBmaWxlQ29udGVudHMpCiAgICBjb25zb2xlLmxvZyhiZW5ldml0eSkK</text>
       </register>
       <register name=":" type="4">
-        <text>action Refactorings.QuickListPopupAction</text>
+        <text>action FindInPath</text>
       </register>
     </registers>
     <search>
@@ -1071,10 +1065,10 @@
         <entry>action NewFile</entry>
         <entry>action GotoDeclaration</entry>
         <entry>action NextSplitter</entry>
-        <entry>action FindInPath</entry>
         <entry>w!</entry>
-        <entry>action GotoFile</entry>
         <entry>action Refactorings.QuickListPopupAction</entry>
+        <entry>action GotoFile</entry>
+        <entry>action FindInPath</entry>
       </history-cmd>
       <history-expr />
       <history-input />
