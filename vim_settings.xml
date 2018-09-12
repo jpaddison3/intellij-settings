@@ -72,6 +72,12 @@
         <mark key="^" line="19" column="63" />
         <mark key="." line="19" column="63" />
       </file>
+      <file name="$USER_HOME$/Documents/dotfiles/bashrc.bash" timestamp="1536767069360">
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="24" column="39" />
+        <mark key="." line="24" column="20" />
+        <mark key="^" line="24" column="20" />
+      </file>
       <file name="$USER_HOME$/Documents/cea/predictive-altruism/packages/predictive-altruism/lib/modules/index.js" timestamp="1531616766898">
         <mark key="[" line="2" column="21" />
         <mark key="]" line="3" column="37" />
@@ -976,8 +982,8 @@
       <register name="/" type="4">
         <text encoding="base64">XDxhY3F1aXJlcl9kZWJpdF9mZWVfYW1vdW50XD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICBjb25zdCBmZWUgPSBwZW5jZTJwb3VuZHMoCiAgICByb3cuYWNxdWlyZXJfY2hhcmdlYmFja19mZWVfYW1vdW50LAogICAgcm93LmFjcXVpcmVyX2NyZWRpdF9mZWVfYW1vdW50LAogICAgcm93LmFjcXVpcmVyX2RlYml0X2ZlZV9hbW91bnQKICApCg==</text>
+      <register name="0" type="4">
+        <text>alias py37='. ~/.venv/py37/bin/activate'</text>
       </register>
       <register name="p" type="4">
         <keys>
