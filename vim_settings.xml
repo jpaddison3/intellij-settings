@@ -121,12 +121,12 @@
         <mark key="]" line="0" column="36" />
         <mark key="." line="0" column="36" />
       </file>
-      <file name="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/scripts/invites.js" timestamp="1536764277921">
-        <mark key="'" line="26" column="54" />
-        <mark key="[" line="5" column="38" />
-        <mark key="]" line="5" column="40" />
-        <mark key="." line="5" column="40" />
-        <mark key="^" line="5" column="40" />
+      <file name="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/scripts/invites.js" timestamp="1536765824075">
+        <mark key="'" line="30" column="54" />
+        <mark key="[" line="16" column="11" />
+        <mark key="]" line="16" column="12" />
+        <mark key="." line="16" column="12" />
+        <mark key="^" line="16" column="10" />
       </file>
       <file name="$USER_HOME$/Documents/cea/aletheia/app/components/PaymentForm/PaymentMethods/Offline.jsx" timestamp="1533585283874">
         <mark key="[" line="13" column="142" />
@@ -989,36 +989,36 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIHJldHVybiAnWW91IGFyZSBpbnZpdGVkIHRvIHBhcnRpY2lwYXRlIGluIHRoZSBFQSBGb3J1bSBQcml2YXRlIEJldGEnIAo=</text>
+      </register>
+      <register name="2" type="4">
         <text>{email: &quot;jp+test5@centreforeffectivealtruism.org&quot;, username: &quot;jptest5&quot;},
     {email: &quot;jp+test6@centreforeffectivealtruism.org&quot;, username: &quot;jptest6&quot;}</text>
       </register>
-      <register name="2" type="2">
+      <register name="3" type="2">
         <text encoding="base64">ICAgICJwbHVnaW5zIjogWwogICAgICAgICJyZWFjdCIKICAgIF0K</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">fQo=</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAvLyBUT0RPIHdoYWFhYWFhYWF0Cg==</text>
-      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAnYWNxdWlyZXJfY2hhcmdlYmFja19mZWVfYW1vdW50JywKICAgICdhY3F1aXJlcl9jcmVkaXRfZmVlX2Ftb3VudCcsCiAgICAnYWNxdWlyZXJfZGViaXRfZmVlX2Ftb3VudCcsCgo=</text>
+        <text encoding="base64">ICAvLyBUT0RPIHdoYWFhYWFhYWF0Cg==</text>
       </register>
       <register name="u" type="4">
         <text>uu</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICdhY3F1aXJlcl9kZWJpdF9mZWVfYW1vdW50JywKCg==</text>
+        <text encoding="base64">ICAnYWNxdWlyZXJfY2hhcmdlYmFja19mZWVfYW1vdW50JywKICAgICdhY3F1aXJlcl9jcmVkaXRfZmVlX2Ftb3VudCcsCiAgICAnYWNxdWlyZXJfZGViaXRfZmVlX2Ftb3VudCcsCgo=</text>
       </register>
       <register name="7" type="2">
+        <text encoding="base64">ICAgICdhY3F1aXJlcl9kZWJpdF9mZWVfYW1vdW50JywKCg==</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">ICAgIC8vIC5wbHVzKHBlbmNlMnBvdW5kcyhyb3cuYWNxdWlyZXJfZGViaXRfZmVlX2Ftb3VudCkpCg==</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text>.toNumber()</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">CiAgbmV3IEJpZ051bWJlcihyb3cuYWNxdWlyZXJfZGViaXRfZmVlX2Ftb3VudCB8fCAwKQogICAgLnBsdXMocm93LmFjcXVpcmVyX2RlYml0X2ZlZV9hbW91bnQgfHwgMCkKICAgIC5kaXZpZGVkQnkoMTAwKQogICAgLnRvTnVtYmVyKCkK</text>
       </register>
       <register name=":" type="4">
         <text>w!</text>
