@@ -1026,7 +1026,7 @@
         <text encoding="base64">ICAgIC8vIC5wbHVzKHBlbmNlMnBvdW5kcyhyb3cuYWNxdWlyZXJfZGViaXRfZmVlX2Ftb3VudCkpCg==</text>
       </register>
       <register name=":" type="4">
-        <text>w!</text>
+        <text>action GotoFile</text>
       </register>
     </registers>
     <search>
@@ -1080,8 +1080,8 @@
         <entry>action CommentByLineComment</entry>
         <entry>action FindInPath</entry>
         <entry>action NextSplitter</entry>
-        <entry>action GotoFile</entry>
         <entry>w!</entry>
+        <entry>action GotoFile</entry>
       </history-cmd>
       <history-expr />
       <history-input />
