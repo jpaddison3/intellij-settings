@@ -127,12 +127,12 @@
         <mark key="]" line="0" column="36" />
         <mark key="." line="0" column="36" />
       </file>
-      <file name="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/scripts/invites.js" timestamp="1536765824075">
-        <mark key="'" line="30" column="54" />
-        <mark key="[" line="16" column="11" />
-        <mark key="]" line="16" column="12" />
-        <mark key="." line="16" column="12" />
-        <mark key="^" line="16" column="10" />
+      <file name="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/scripts/invites.js" timestamp="1536769279516">
+        <mark key="'" line="29" column="54" />
+        <mark key="[" line="14" column="28" />
+        <mark key="]" line="14" column="32" />
+        <mark key="." line="14" column="32" />
+        <mark key="^" line="14" column="32" />
       </file>
       <file name="$USER_HOME$/Documents/cea/aletheia/app/components/PaymentForm/PaymentMethods/Offline.jsx" timestamp="1533585283874">
         <mark key="[" line="13" column="142" />
@@ -186,6 +186,12 @@
         <mark key="'" line="115" column="56" />
         <mark key="[" line="67" column="47" />
         <mark key="]" line="67" column="80" />
+      </file>
+      <file name="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/scripts/configuration.js" timestamp="1536769527022">
+        <mark key="[" line="3" column="48" />
+        <mark key="]" line="3" column="52" />
+        <mark key="." line="3" column="52" />
+        <mark key="^" line="3" column="52" />
       </file>
       <file name="$USER_HOME$/cea/parfit/migrations/20180126150914_pledge_completion_calculations_up.sql" timestamp="1535967942203">
         <mark key="'" line="190" column="15" />
@@ -328,11 +334,11 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/scripts/eafIBetaInvites.js" timestamp="1536764232485">
-        <mark key="[" line="13" column="58" />
-        <mark key="]" line="13" column="58" />
-        <mark key="." line="13" column="58" />
-        <mark key="^" line="13" column="58" />
+      <file name="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/scripts/eafIBetaInvites.js" timestamp="1536768846624">
+        <mark key="[" line="13" column="57" />
+        <mark key="]" line="13" column="59" />
+        <mark key="." line="13" column="59" />
+        <mark key="^" line="13" column="59" />
       </file>
       <file name="$USER_HOME$/cea/mandrill-mail-merge/.gitignore" timestamp="1535735614985">
         <mark key="[" line="7" column="12" />
@@ -512,11 +518,11 @@
       <file name="$USER_HOME$/cea/Forum/Forum/node_modules/draft-js-resizeable-plugin/lib/index.js" timestamp="1536084318531">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/cea/Forum/Forum/settings-prod.json" timestamp="1536249007089">
-        <mark key="'" line="87" column="18" />
-        <mark key="[" line="108" column="20" />
-        <mark key="]" line="108" column="20" />
-        <mark key="." line="108" column="20" />
+      <file name="$USER_HOME$/cea/Forum/Forum/settings-prod.json" timestamp="1536769832479">
+        <mark key="'" line="82" column="15" />
+        <mark key="[" line="94" column="5" />
+        <mark key="]" line="94" column="5" />
+        <mark key="." line="94" column="5" />
         <mark key="^" line="88" column="17" />
       </file>
       <file name="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/lib/collections/bans/callbacks.js" timestamp="1534546121052">
@@ -580,9 +586,6 @@
         <mark key="]" line="21" column="52" />
         <mark key="." line="21" column="52" />
         <mark key="^" line="21" column="52" />
-      </file>
-      <file name="$USER_HOME$/cea/parfit/services/emails/handlers/payments.js" timestamp="1536659121361">
-        <mark key="^" line="20" column="9" />
       </file>
       <file name="$USER_HOME$/Documents/cea/Forum/Forum/settings-lw.json" timestamp="1532389727972">
         <mark key="[" line="28" column="0" />
@@ -707,7 +710,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="51" column="0" filename="$USER_HOME$/Desktop/process-zap.js" />
       <jump line="55" column="0" filename="$USER_HOME$/Desktop/process-zap.js" />
       <jump line="34" column="24" filename="$USER_HOME$/Desktop/process-zap.js" />
       <jump line="150" column="0" filename="$USER_HOME$/Desktop/process-zap.js" />
@@ -807,6 +809,7 @@
       <jump line="50" column="0" filename="$USER_HOME$/cea/aletheia/app/containers/Admin/AdminPayrollGiving/Providers/bt.js" />
       <jump line="23" column="0" filename="$USER_HOME$/cea/aletheia/app/containers/Admin/AdminPayrollGiving/Providers/bt.js" />
       <jump line="25" column="61" filename="$USER_HOME$/cea/aletheia/app/containers/Admin/AdminPayrollGiving/Providers/bt.js" />
+      <jump line="82" column="15" filename="$USER_HOME$/cea/Forum/Forum/settings-prod.json" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -977,13 +980,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>Internal</text>
+        <text>Amanda_</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxhY3F1aXJlcl9kZWJpdF9mZWVfYW1vdW50XD4=</text>
+        <text>aman</text>
       </register>
-      <register name="0" type="4">
-        <text>alias py37='. ~/.venv/py37/bin/activate'</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICJBbWFuZGFfQXNrZWxsIiwK</text>
       </register>
       <register name="p" type="4">
         <keys>
@@ -996,44 +999,44 @@
         </keys>
       </register>
       <register name="1" type="2">
+        <text encoding="base64">ICAgICAgKyAnTmV3IHJlc2V0IGxpbms6XG5cbicK</text>
+      </register>
+      <register name="2" type="2">
         <text encoding="base64">ICAgIHJldHVybiAnWW91IGFyZSBpbnZpdGVkIHRvIHBhcnRpY2lwYXRlIGluIHRoZSBFQSBGb3J1bSBQcml2YXRlIEJldGEnIAo=</text>
       </register>
-      <register name="2" type="4">
+      <register name="3" type="4">
         <text>{email: &quot;jp+test5@centreforeffectivealtruism.org&quot;, username: &quot;jptest5&quot;},
     {email: &quot;jp+test6@centreforeffectivealtruism.org&quot;, username: &quot;jptest6&quot;}</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICAgICJwbHVnaW5zIjogWwogICAgICAgICJyZWFjdCIKICAgIF0K</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">fQo=</text>
-      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAvLyBUT0RPIHdoYWFhYWFhYWF0Cg==</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="u" type="4">
         <text>uu</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAnYWNxdWlyZXJfY2hhcmdlYmFja19mZWVfYW1vdW50JywKICAgICdhY3F1aXJlcl9jcmVkaXRfZmVlX2Ftb3VudCcsCiAgICAnYWNxdWlyZXJfZGViaXRfZmVlX2Ftb3VudCcsCgo=</text>
+        <text encoding="base64">ICAvLyBUT0RPIHdoYWFhYWFhYWF0Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICdhY3F1aXJlcl9kZWJpdF9mZWVfYW1vdW50JywKCg==</text>
+        <text encoding="base64">ICAnYWNxdWlyZXJfY2hhcmdlYmFja19mZWVfYW1vdW50JywKICAgICdhY3F1aXJlcl9jcmVkaXRfZmVlX2Ftb3VudCcsCiAgICAnYWNxdWlyZXJfZGViaXRfZmVlX2Ftb3VudCcsCgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIC8vIC5wbHVzKHBlbmNlMnBvdW5kcyhyb3cuYWNxdWlyZXJfZGViaXRfZmVlX2Ftb3VudCkpCg==</text>
+        <text encoding="base64">ICAgICdhY3F1aXJlcl9kZWJpdF9mZWVfYW1vdW50JywKCg==</text>
       </register>
-      <register name="9" type="4">
-        <text>.toNumber()</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIC8vIC5wbHVzKHBlbmNlMnBvdW5kcyhyb3cuYWNxdWlyZXJfZGViaXRfZmVlX2Ftb3VudCkpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w!</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxhY3F1aXJlcl9kZWJpdF9mZWVfYW1vdW50XD4=</last-search>
+      <last-search>aman</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxhY3F1aXJlcl9kZWJpdF9mZWVfYW1vdW50XD4=</last-pattern>
+      <last-pattern>aman</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -1041,7 +1044,6 @@
     </search>
     <history>
       <history-search>
-        <entry>&quot;</entry>
         <entry encoding="base64">XDxFbWFpbHNcPg==</entry>
         <entry encoding="base64">XDxjdXJyZW50U3RhZ2VcPg==</entry>
         <entry encoding="base64">XDxzdGF0dXNcPg==</entry>
@@ -1061,6 +1063,7 @@
         <entry encoding="base64">XDxjc3ZGaWxlXD4=</entry>
         <entry encoding="base64">XDxoZWFkZXJcPg==</entry>
         <entry encoding="base64">XDxhY3F1aXJlcl9kZWJpdF9mZWVfYW1vdW50XD4=</entry>
+        <entry>aman</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz53IQ==</entry>
