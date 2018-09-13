@@ -679,6 +679,13 @@
         <mark key="]" line="1" column="53" />
         <mark key="." line="1" column="53" />
       </file>
+      <file name="$USER_HOME$/cea/aletheia/app/containers/Admin/CreatePerson/index.jsx" timestamp="1536837339069">
+        <mark key="'" line="200" column="0" />
+        <mark key="[" line="188" column="24" />
+        <mark key="]" line="188" column="29" />
+        <mark key="." line="188" column="29" />
+        <mark key="^" line="188" column="29" />
+      </file>
       <file name="$USER_HOME$/cea/Forum/Forum/settings-dev.json" timestamp="1536073056042">
         <mark key="'" line="33" column="38" />
         <mark key="[" line="4" column="0" />
@@ -696,13 +703,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="55" column="0" filename="$USER_HOME$/Desktop/process-zap.js" />
-      <jump line="34" column="24" filename="$USER_HOME$/Desktop/process-zap.js" />
-      <jump line="150" column="0" filename="$USER_HOME$/Desktop/process-zap.js" />
-      <jump line="139" column="0" filename="$USER_HOME$/Desktop/process-zap.js" />
-      <jump line="111" column="0" filename="$USER_HOME$/Desktop/process-zap.js" />
-      <jump line="105" column="0" filename="$USER_HOME$/Desktop/process-zap.js" />
-      <jump line="43" column="0" filename="$USER_HOME$/Desktop/process-zap.js" />
       <jump line="45" column="0" filename="$USER_HOME$/Desktop/process-zap.js" />
       <jump line="47" column="0" filename="$USER_HOME$/Desktop/process-zap.js" />
       <jump line="6" column="15" filename="$USER_HOME$/Desktop/process-zap.js" />
@@ -796,6 +796,13 @@
       <jump line="23" column="0" filename="$USER_HOME$/cea/aletheia/app/containers/Admin/AdminPayrollGiving/Providers/bt.js" />
       <jump line="25" column="61" filename="$USER_HOME$/cea/aletheia/app/containers/Admin/AdminPayrollGiving/Providers/bt.js" />
       <jump line="82" column="15" filename="$USER_HOME$/cea/Forum/Forum/settings-prod.json" />
+      <jump line="124" column="11" filename="$USER_HOME$/cea/aletheia/app/containers/Admin/CreatePerson/index.jsx" />
+      <jump line="128" column="32" filename="$USER_HOME$/cea/aletheia/app/containers/Admin/CreatePerson/index.jsx" />
+      <jump line="136" column="23" filename="$USER_HOME$/cea/aletheia/app/containers/Admin/CreatePerson/index.jsx" />
+      <jump line="137" column="43" filename="$USER_HOME$/cea/aletheia/app/containers/Admin/CreatePerson/index.jsx" />
+      <jump line="57" column="6" filename="$USER_HOME$/cea/aletheia/app/containers/Admin/CreatePerson/index.jsx" />
+      <jump line="110" column="6" filename="$USER_HOME$/cea/aletheia/app/containers/Admin/CreatePerson/index.jsx" />
+      <jump line="201" column="0" filename="$USER_HOME$/cea/aletheia/app/containers/Admin/CreatePerson/index.jsx" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -969,7 +976,7 @@
         <text encoding="base64">IC8v</text>
       </register>
       <register name="/" type="4">
-        <text>aman</text>
+        <text encoding="base64">XDxzaG93VmFsaWRhdGlvbkVycm9yc1w+</text>
       </register>
       <register name="0" type="4">
         <text>HowieL</text>
@@ -985,44 +992,44 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAvLyBjb25zb2xlLmxvZygiVXBzZXJ0ZWQgcG9zdHM6ICIsIHBvc3RVcGRhdGVDdXJzb3IpOwo=</text>
+        <text encoding="base64">ICAgIHByZXNlbmNlOiB0cnVlLAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgKyAnTmV3IHJlc2V0IGxpbms6XG5cbicK</text>
+        <text encoding="base64">ICAvLyBjb25zb2xlLmxvZygiVXBzZXJ0ZWQgcG9zdHM6ICIsIHBvc3RVcGRhdGVDdXJzb3IpOwo=</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">ICAgICAgKyAnTmV3IHJlc2V0IGxpbms6XG5cbicK</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">ICAgIHJldHVybiAnWW91IGFyZSBpbnZpdGVkIHRvIHBhcnRpY2lwYXRlIGluIHRoZSBFQSBGb3J1bSBQcml2YXRlIEJldGEnIAo=</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text>{email: &quot;jp+test5@centreforeffectivealtruism.org&quot;, username: &quot;jptest5&quot;},
     {email: &quot;jp+test6@centreforeffectivealtruism.org&quot;, username: &quot;jptest6&quot;}</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICJwbHVnaW5zIjogWwogICAgICAgICJyZWFjdCIKICAgIF0K</text>
       </register>
       <register name="u" type="4">
         <text>uu</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICAgICJwbHVnaW5zIjogWwogICAgICAgICJyZWFjdCIKICAgIF0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAvLyBUT0RPIHdoYWFhYWFhYWF0Cg==</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAnYWNxdWlyZXJfY2hhcmdlYmFja19mZWVfYW1vdW50JywKICAgICdhY3F1aXJlcl9jcmVkaXRfZmVlX2Ftb3VudCcsCiAgICAnYWNxdWlyZXJfZGViaXRfZmVlX2Ftb3VudCcsCgo=</text>
+        <text encoding="base64">ICAvLyBUT0RPIHdoYWFhYWFhYWF0Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICdhY3F1aXJlcl9kZWJpdF9mZWVfYW1vdW50JywKCg==</text>
+        <text encoding="base64">ICAnYWNxdWlyZXJfY2hhcmdlYmFja19mZWVfYW1vdW50JywKICAgICdhY3F1aXJlcl9jcmVkaXRfZmVlX2Ftb3VudCcsCiAgICAnYWNxdWlyZXJfZGViaXRfZmVlX2Ftb3VudCcsCgo=</text>
       </register>
       <register name=":" type="4">
         <text>action GotoFile</text>
       </register>
     </registers>
     <search>
-      <last-search>aman</last-search>
+      <last-search encoding="base64">XDxzaG93VmFsaWRhdGlvbkVycm9yc1w+</last-search>
       <last-offset />
-      <last-pattern>aman</last-pattern>
+      <last-pattern encoding="base64">XDxzaG93VmFsaWRhdGlvbkVycm9yc1w+</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -1030,7 +1037,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxFbWFpbHNcPg==</entry>
         <entry encoding="base64">XDxjdXJyZW50U3RhZ2VcPg==</entry>
         <entry encoding="base64">XDxzdGF0dXNcPg==</entry>
         <entry encoding="base64">XDxzZW5kRW1haWxcPg==</entry>
@@ -1050,6 +1056,7 @@
         <entry encoding="base64">XDxoZWFkZXJcPg==</entry>
         <entry encoding="base64">XDxhY3F1aXJlcl9kZWJpdF9mZWVfYW1vdW50XD4=</entry>
         <entry>aman</entry>
+        <entry encoding="base64">XDxzaG93VmFsaWRhdGlvbkVycm9yc1w+</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5hY3Rpb24gRmluZEluUGF0aA==</entry>
@@ -1062,15 +1069,15 @@
         <entry>%s/&quot;/'/g</entry>
         <entry encoding="base64">JzwsJz5zLyIvJy9n</entry>
         <entry>action NewFile</entry>
-        <entry>action GotoDeclaration</entry>
         <entry>action Refactorings.QuickListPopupAction</entry>
         <entry>action CommentByLineComment</entry>
         <entry>action FindInPath</entry>
         <entry>.action NextSplitter</entry>
         <entry>source ~/.ideavimrc</entry>
-        <entry>action NextSplitter</entry>
-        <entry>w!</entry>
         <entry>action SplitVertically</entry>
+        <entry>action GotoDeclaration</entry>
+        <entry>w!</entry>
+        <entry>action NextSplitter</entry>
         <entry>action GotoFile</entry>
       </history-cmd>
       <history-expr />
