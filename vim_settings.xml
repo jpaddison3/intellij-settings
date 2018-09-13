@@ -20,8 +20,8 @@
         <mark key="]" line="0" column="62" />
         <mark key="." line="0" column="62" />
       </file>
-      <file name="$USER_HOME$/cea/aletheia/app/containers/Admin/AdminPayrollGiving/Providers/benevity.js" timestamp="1536684883251">
-        <mark key="'" line="63" column="0" />
+      <file name="$USER_HOME$/cea/aletheia/app/containers/Admin/AdminPayrollGiving/Providers/benevity.js" timestamp="1536846521579">
+        <mark key="'" line="66" column="0" />
         <mark key="[" line="63" column="0" />
         <mark key="]" line="63" column="0" />
         <mark key="^" line="59" column="64" />
@@ -46,6 +46,13 @@
       </file>
       <file name="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/common/VoteButton.jsx" timestamp="1536077476415">
         <mark key="'" line="153" column="12" />
+      </file>
+      <file name="$USER_HOME$/cea/parfit/db_tests/person_registration_tests.sql" timestamp="1536846814988">
+        <mark key="'" line="14" column="0" />
+        <mark key="[" line="84" column="47" />
+        <mark key="]" line="88" column="0" />
+        <mark key="^" line="88" column="0" />
+        <mark key="." line="88" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/cea/Forum/Forum/settings-ibeta.json" timestamp="1532645328831">
         <mark key="[" line="39" column="0" />
@@ -77,11 +84,6 @@
         <mark key="]" line="3" column="37" />
         <mark key="." line="3" column="37" />
         <mark key="^" line="3" column="37" />
-      </file>
-      <file name="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/themes/lesswrongTheme.js" timestamp="1534896425110">
-        <mark key="'" line="48" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="53" />
       </file>
       <file name="$USER_HOME$/Documents/cea/Forum/Forum/settings-staging.json" timestamp="1532648214179">
         <mark key="[" line="41" column="20" />
@@ -177,11 +179,6 @@
         <mark key="^" line="7" column="62" />
         <mark key="." line="7" column="62" />
       </file>
-      <file name="$USER_HOME$/cea/aletheia/app/containers/Organizations/OrganizationsHome.jsx" timestamp="1535051397157">
-        <mark key="'" line="115" column="56" />
-        <mark key="[" line="67" column="47" />
-        <mark key="]" line="67" column="80" />
-      </file>
       <file name="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/scripts/configuration.js" timestamp="1536769527022">
         <mark key="[" line="3" column="48" />
         <mark key="]" line="3" column="52" />
@@ -253,10 +250,10 @@
         <mark key="." line="3" column="41" />
         <mark key="^" line="3" column="41" />
       </file>
-      <file name="$USER_HOME$/cea/parfit/migrations/20170901171427_refactor_person_insertion_up.sql" timestamp="1536838022194">
-        <mark key="'" line="141" column="0" />
-        <mark key="[" line="180" column="23" />
-        <mark key="]" line="180" column="44" />
+      <file name="$USER_HOME$/cea/parfit/migrations/20170901171427_refactor_person_insertion_up.sql" timestamp="1536846422328">
+        <mark key="'" line="159" column="34" />
+        <mark key="[" line="98" column="0" />
+        <mark key="]" line="173" column="30" />
       </file>
       <file name="$USER_HOME$/cea/aletheia/app/containers/Admin/AdminPayrollGiving/MatchPersonModal.js" timestamp="1536833066579">
         <mark key="a" line="114" column="30" />
@@ -365,6 +362,9 @@
         <mark key="." line="32" column="0" />
         <mark key="^" line="35" column="16" />
       </file>
+      <file name="$USER_HOME$/cea/parfit/services/emails/send/index.js" timestamp="1536846465317">
+        <mark key="'" line="34" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/cea/Forum/Forum/settings-prod.json" timestamp="1533159971908">
         <mark key="[" line="41" column="20" />
         <mark key="]" line="41" column="139" />
@@ -444,11 +444,11 @@
         <mark key="." line="39" column="7" />
         <mark key="^" line="39" column="7" />
       </file>
-      <file name="$USER_HOME$/cea/aletheia/app/models/People/mutations/registerPersonShadow.gql" timestamp="1536845572993">
-        <mark key="[" line="3" column="19" />
-        <mark key="]" line="3" column="19" />
-        <mark key="^" line="3" column="19" />
-        <mark key="." line="3" column="19" />
+      <file name="$USER_HOME$/cea/aletheia/app/models/People/mutations/registerPersonShadow.gql" timestamp="1536846518335">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="6" />
+        <mark key="^" line="0" column="6" />
+        <mark key="." line="0" column="6" />
       </file>
       <file name="$USER_HOME$/Documents/cea/parfit/migrations/20180502113445_giftaid_reporting_up.sql" timestamp="1533776861278">
         <mark key="[" line="77" column="0" />
@@ -566,11 +566,12 @@
         <mark key="^" line="74" column="21" />
         <mark key="." line="74" column="21" />
       </file>
-      <file name="$USER_HOME$/cea/parfit/migrations/20180913122130_shadow_register_no_email_up.sql" timestamp="1536837808229">
-        <mark key="[" line="4" column="14" />
-        <mark key="]" line="4" column="20" />
-        <mark key="." line="4" column="20" />
-        <mark key="^" line="4" column="20" />
+      <file name="$USER_HOME$/cea/parfit/migrations/20180913122130_shadow_register_no_email_up.sql" timestamp="1536846674509">
+        <mark key="'" line="61" column="0" />
+        <mark key="[" line="75" column="31" />
+        <mark key="]" line="76" column="0" />
+        <mark key="." line="76" column="0" />
+        <mark key="^" line="76" column="0" />
       </file>
       <file name="$USER_HOME$/cea/mandrill-mail-merge/mmerge-invite/template-launch.js" timestamp="1536248489720">
         <mark key="'" line="46" column="100" />
@@ -639,11 +640,6 @@
         <mark key="." line="18" column="0" />
         <mark key="^" line="9" column="48" />
       </file>
-      <file name="$USER_HOME$/cea/parfit/package.json" timestamp="1536659623116">
-        <mark key="'" line="31" column="29" />
-        <mark key="[" line="43" column="5" />
-        <mark key="]" line="43" column="30" />
-      </file>
       <file name="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" timestamp="1536833015776">
         <mark key="[" line="185" column="0" />
         <mark key="]" line="185" column="0" />
@@ -698,34 +694,14 @@
         <mark key="." line="4" column="0" />
         <mark key="^" line="5" column="15" />
       </file>
-      <file name="$USER_HOME$/cea/parfit/migrations/20180811143113_admin_shadow_register_up.sql" timestamp="1536844835754">
+      <file name="$USER_HOME$/cea/parfit/migrations/20180811143113_admin_shadow_register_up.sql" timestamp="1536846155544">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="23" column="41" />
-        <mark key="." line="6" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="6" column="18" />
+        <mark key="." line="17" column="30" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="27" column="14" filename="$USER_HOME$/cea/grants-applications/sendEmails.js" />
-      <jump line="69" column="15" filename="$USER_HOME$/cea/grants-applications/sendEmails.js" />
-      <jump line="65" column="15" filename="$USER_HOME$/cea/grants-applications/sendEmails.js" />
-      <jump line="53" column="15" filename="$USER_HOME$/cea/grants-applications/sendEmails.js" />
-      <jump line="26" column="12" filename="$USER_HOME$/cea/grants-applications/sendEmails.js" />
-      <jump line="22" column="4" filename="$USER_HOME$/cea/parfit/services/emails/handlers/payments.js" />
-      <jump line="46" column="10" filename="$USER_HOME$/cea/parfit/services/emails/handlers/payments.js" />
-      <jump line="31" column="36" filename="$USER_HOME$/cea/parfit/services/emails/handlers/payments.js" />
-      <jump line="27" column="6" filename="$USER_HOME$/cea/parfit/services/emails/handlers/payments.js" />
-      <jump line="25" column="24" filename="$USER_HOME$/cea/parfit/services/emails/handlers/payments.js" />
-      <jump line="309" column="2" filename="$USER_HOME$/cea/parfit/migrations/20180902115251_gwwc_stats_up.sql" />
-      <jump line="56" column="8" filename="$USER_HOME$/cea/aletheia/app/containers/Admin/AdminPayrollGiving/DropZone.jsx" />
-      <jump line="27" column="0" filename="$USER_HOME$/cea/aletheia/app/containers/Admin/AdminPayrollGiving/Providers/benevity.js" />
-      <jump line="85" column="35" filename="$USER_HOME$/cea/aletheia/app/containers/Admin/AdminPayrollGiving/DropZone.jsx" />
-      <jump line="5" column="34" filename="$USER_HOME$/cea/aletheia/app/containers/Admin/AdminPayrollGiving/DropZone.jsx" />
-      <jump line="55" column="8" filename="$USER_HOME$/cea/aletheia/app/containers/Admin/AdminPayrollGiving/DropZone.jsx" />
-      <jump line="87" column="13" filename="$USER_HOME$/cea/aletheia/app/containers/Admin/AdminPayrollGiving/Providers/benevity.js" />
-      <jump line="37" column="40" filename="$USER_HOME$/cea/aletheia/app/containers/Admin/AdminPayrollGiving/DropZone.jsx" />
-      <jump line="2" column="8" filename="$USER_HOME$/cea/aletheia/app/containers/Admin/AdminPayrollGiving/DropZone.jsx" />
-      <jump line="48" column="21" filename="$USER_HOME$/cea/aletheia/app/containers/Admin/AdminPayrollGiving/DropZone.jsx" />
       <jump line="40" column="16" filename="$USER_HOME$/cea/aletheia/app/containers/Admin/AdminPayrollGiving/DropZone.jsx" />
       <jump line="39" column="39" filename="$USER_HOME$/cea/aletheia/app/containers/Admin/AdminPayrollGiving/DropZone.jsx" />
       <jump line="67" column="27" filename="$USER_HOME$/cea/aletheia/app/containers/Admin/AdminPayrollGiving/DropZone.jsx" />
@@ -778,9 +754,6 @@
       <jump line="97" column="11" filename="$USER_HOME$/cea/aletheia/app/containers/Admin/CreatePerson/index.jsx" />
       <jump line="7" column="26" filename="$USER_HOME$/cea/parfit/migrations/20180811143113_admin_shadow_register_up.sql" />
       <jump line="137" column="22" filename="$USER_HOME$/cea/parfit/migrations/20170901171427_refactor_person_insertion_up.sql" />
-      <jump line="138" column="2" filename="$USER_HOME$/cea/parfit/migrations/20170901171427_refactor_person_insertion_up.sql" />
-      <jump line="151" column="33" filename="$USER_HOME$/cea/parfit/migrations/20170901171427_refactor_person_insertion_up.sql" />
-      <jump line="152" column="21" filename="$USER_HOME$/cea/parfit/migrations/20170901171427_refactor_person_insertion_up.sql" />
       <jump line="180" column="24" filename="$USER_HOME$/cea/parfit/migrations/20170901171427_refactor_person_insertion_up.sql" />
       <jump line="141" column="0" filename="$USER_HOME$/cea/parfit/migrations/20170901171427_refactor_person_insertion_up.sql" />
       <jump line="0" column="0" filename="$USER_HOME$/cea/parfit/migrations/20170906555555_groups_init_up.sql" />
@@ -806,6 +779,29 @@
       <jump line="26" column="62" filename="$USER_HOME$/cea/parfit/migrations/20170105121554_people_schema_up.sql" />
       <jump line="29" column="72" filename="$USER_HOME$/cea/parfit/migrations/20170105121554_people_schema_up.sql" />
       <jump line="67" column="0" filename="$USER_HOME$/cea/parfit/migrations/20170105121554_people_schema_up.sql" />
+      <jump line="200" column="5" filename="$USER_HOME$/cea/parfit/migrations/20170901171427_refactor_person_insertion_up.sql" />
+      <jump line="138" column="2" filename="$USER_HOME$/cea/parfit/migrations/20170901171427_refactor_person_insertion_up.sql" />
+      <jump line="151" column="33" filename="$USER_HOME$/cea/parfit/migrations/20170901171427_refactor_person_insertion_up.sql" />
+      <jump line="152" column="21" filename="$USER_HOME$/cea/parfit/migrations/20170901171427_refactor_person_insertion_up.sql" />
+      <jump line="159" column="34" filename="$USER_HOME$/cea/parfit/migrations/20170901171427_refactor_person_insertion_up.sql" />
+      <jump line="6" column="40" filename="$USER_HOME$/cea/parfit/migrations/20180913122130_shadow_register_no_email_up.sql" />
+      <jump line="9" column="0" filename="$USER_HOME$/cea/parfit/migrations/20180913122130_shadow_register_no_email_up.sql" />
+      <jump line="34" column="0" filename="$USER_HOME$/cea/parfit/services/emails/send/index.js" />
+      <jump line="66" column="0" filename="$USER_HOME$/cea/aletheia/app/containers/Admin/AdminPayrollGiving/Providers/benevity.js" />
+      <jump line="15" column="0" filename="$USER_HOME$/cea/parfit/migrations/20180913122130_shadow_register_no_email_up.sql" />
+      <jump line="17" column="0" filename="$USER_HOME$/cea/parfit/migrations/20180913122130_shadow_register_no_email_up.sql" />
+      <jump line="23" column="0" filename="$USER_HOME$/cea/parfit/migrations/20180913122130_shadow_register_no_email_up.sql" />
+      <jump line="26" column="0" filename="$USER_HOME$/cea/parfit/migrations/20180913122130_shadow_register_no_email_up.sql" />
+      <jump line="29" column="0" filename="$USER_HOME$/cea/parfit/migrations/20180913122130_shadow_register_no_email_up.sql" />
+      <jump line="36" column="0" filename="$USER_HOME$/cea/parfit/migrations/20180913122130_shadow_register_no_email_up.sql" />
+      <jump line="59" column="0" filename="$USER_HOME$/cea/parfit/migrations/20180913122130_shadow_register_no_email_up.sql" />
+      <jump line="62" column="0" filename="$USER_HOME$/cea/parfit/migrations/20180913122130_shadow_register_no_email_up.sql" />
+      <jump line="101" column="0" filename="$USER_HOME$/cea/parfit/migrations/20180913122130_shadow_register_no_email_up.sql" />
+      <jump line="76" column="0" filename="$USER_HOME$/cea/parfit/migrations/20180913122130_shadow_register_no_email_up.sql" />
+      <jump line="65" column="0" filename="$USER_HOME$/cea/parfit/migrations/20180913122130_shadow_register_no_email_up.sql" />
+      <jump line="61" column="0" filename="$USER_HOME$/cea/parfit/migrations/20180913122130_shadow_register_no_email_up.sql" />
+      <jump line="83" column="29" filename="$USER_HOME$/cea/parfit/db_tests/person_registration_tests.sql" />
+      <jump line="14" column="0" filename="$USER_HOME$/cea/parfit/db_tests/person_registration_tests.sql" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -979,10 +975,10 @@
         <text>!</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxwZXJzb25cPg==</text>
+        <text encoding="base64">XDxlbWFpbFw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">bXV0YXRpb24gcmVnaXN0ZXIgKCRlbWFpbDogU3RyaW5nISwgJHBhc3N3b3JkOiBTdHJpbmchLCAkZmlyc3ROYW1lOiBTdHJpbmchLCAkbGFzdE5hbWU6IFN0cmluZyEpIHsKICByZWdpc3RlcihpbnB1dDogewogICAgZW1haWw6ICRlbWFpbAogICAgcGFzc3dvcmQ6ICRwYXNzd29yZAogICAgZmlyc3ROYW1lOiAkZmlyc3ROYW1lCiAgICBsYXN0TmFtZTogJGxhc3ROYW1lCiAgfSkgewogICAgand0CiAgfQp9Cg==</text>
+        <text encoding="base64">LS0gLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8KLS0gVGVzdCBwZXJzb24uZmluZF9vcl9yZWdpc3Rlcl9wZXJzb25fc2hhZG93KCkK</text>
       </register>
       <register name="p" type="4">
         <keys>
@@ -995,44 +991,44 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBlbWFpbCBjaXRleHQsCg==</text>
+        <text encoding="base64">Ly8gLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">LS0gVE9ETyBqdXN0IGNyZWF0ZQo=</text>
+        <text encoding="base64">ICBlbWFpbCBjaXRleHQsCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHByZXNlbmNlOiB0cnVlLAo=</text>
+        <text encoding="base64">LS0gVE9ETyBqdXN0IGNyZWF0ZQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAvLyBjb25zb2xlLmxvZygiVXBzZXJ0ZWQgcG9zdHM6ICIsIHBvc3RVcGRhdGVDdXJzb3IpOwo=</text>
+        <text encoding="base64">ICAgIHByZXNlbmNlOiB0cnVlLAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgKyAnTmV3IHJlc2V0IGxpbms6XG5cbicK</text>
+        <text encoding="base64">ICAvLyBjb25zb2xlLmxvZygiVXBzZXJ0ZWQgcG9zdHM6ICIsIHBvc3RVcGRhdGVDdXJzb3IpOwo=</text>
       </register>
       <register name="u" type="4">
         <text>uu</text>
       </register>
       <register name="6" type="2">
+        <text encoding="base64">ICAgICAgKyAnTmV3IHJlc2V0IGxpbms6XG5cbicK</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">ICAgIHJldHVybiAnWW91IGFyZSBpbnZpdGVkIHRvIHBhcnRpY2lwYXRlIGluIHRoZSBFQSBGb3J1bSBQcml2YXRlIEJldGEnIAo=</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text>{email: &quot;jp+test5@centreforeffectivealtruism.org&quot;, username: &quot;jptest5&quot;},
     {email: &quot;jp+test6@centreforeffectivealtruism.org&quot;, username: &quot;jptest6&quot;}</text>
       </register>
-      <register name="8" type="2">
+      <register name="9" type="2">
         <text encoding="base64">ICAgICJwbHVnaW5zIjogWwogICAgICAgICJyZWFjdCIKICAgIF0K</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">fQo=</text>
-      </register>
       <register name=":" type="4">
-        <text>action FindInPath</text>
+        <text>action NextSplitter</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxwZXJzb25cPg==</last-search>
+      <last-search encoding="base64">XDxlbWFpbFw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxwZXJzb25cPg==</last-pattern>
+      <last-pattern encoding="base64">XDxlbWFpbFw+</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -1057,9 +1053,9 @@
         <entry encoding="base64">XDxzaG93VmFsaWRhdGlvbkVycm9yc1w+</entry>
         <entry encoding="base64">XDxyZWdpc3RlclBlcnNvblNoYWRvd1w+</entry>
         <entry encoding="base64">XDxmaWVsZHNcPg==</entry>
-        <entry encoding="base64">XDxlbWFpbFw+</entry>
         <entry>register</entry>
         <entry encoding="base64">XDxwZXJzb25cPg==</entry>
+        <entry encoding="base64">XDxlbWFpbFw+</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5hY3Rpb24gRmluZEluUGF0aA==</entry>
@@ -1077,11 +1073,11 @@
         <entry>.action NextSplitter</entry>
         <entry>source ~/.ideavimrc</entry>
         <entry>action SplitVertically</entry>
+        <entry>action FindInPath</entry>
         <entry>action GotoDeclaration</entry>
+        <entry>w!</entry>
         <entry>action GotoFile</entry>
         <entry>action NextSplitter</entry>
-        <entry>w!</entry>
-        <entry>action FindInPath</entry>
       </history-cmd>
       <history-expr />
       <history-input />
