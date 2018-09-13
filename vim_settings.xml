@@ -262,12 +262,12 @@
         <mark key="[" line="135" column="0" />
         <mark key="]" line="173" column="31" />
       </file>
-      <file name="$USER_HOME$/cea/aletheia/app/containers/Admin/AdminPayrollGiving/MatchPersonModal.js" timestamp="1536833066579">
+      <file name="$USER_HOME$/cea/aletheia/app/containers/Admin/AdminPayrollGiving/MatchPersonModal.js" timestamp="1536855748068">
         <mark key="a" line="114" column="30" />
-        <mark key="'" line="27" column="19" />
-        <mark key="[" line="45" column="15" />
-        <mark key="]" line="45" column="14" />
-        <mark key="." line="45" column="14" />
+        <mark key="'" line="82" column="28" />
+        <mark key="[" line="103" column="30" />
+        <mark key="]" line="103" column="36" />
+        <mark key="." line="103" column="30" />
         <mark key="^" line="45" column="14" />
       </file>
       <file name="$USER_HOME$/Desktop/process-zap.js" timestamp="1536329798349">
@@ -446,7 +446,7 @@
         <mark key="." line="39" column="7" />
         <mark key="^" line="39" column="7" />
       </file>
-      <file name="$USER_HOME$/cea/aletheia/app/models/People/mutations/registerPersonShadow.gql" timestamp="1536853845845">
+      <file name="$USER_HOME$/cea/aletheia/app/models/People/mutations/registerPersonShadow.gql" timestamp="1536855586298">
         <mark key="'" line="23" column="0" />
         <mark key="[" line="23" column="0" />
         <mark key="]" line="23" column="0" />
@@ -524,12 +524,12 @@
         <mark key="." line="30" column="70" />
         <mark key="^" line="30" column="70" />
       </file>
-      <file name="$USER_HOME$/cea/parfit/migrations/20180913122130_shadow_register_no_email_down.sql" timestamp="1536853666818">
-        <mark key="'" line="78" column="9" />
-        <mark key="[" line="89" column="7" />
-        <mark key="]" line="89" column="17" />
+      <file name="$USER_HOME$/cea/parfit/migrations/20180913122130_shadow_register_no_email_down.sql" timestamp="1536855920871">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="103" column="2" />
+        <mark key="]" line="103" column="2" />
         <mark key="^" line="89" column="17" />
-        <mark key="." line="89" column="17" />
+        <mark key="." line="103" column="2" />
       </file>
       <file name="$USER_HOME$/cea/Forum/Forum/node_modules/draft-js-resizeable-plugin/lib/index.js" timestamp="1536084318531">
         <mark key="'" line="0" column="0" />
@@ -718,18 +718,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="25" column="61" filename="$USER_HOME$/cea/aletheia/app/containers/Admin/AdminPayrollGiving/Providers/bt.js" />
-      <jump line="82" column="15" filename="$USER_HOME$/cea/Forum/Forum/settings-prod.json" />
-      <jump line="124" column="11" filename="$USER_HOME$/cea/aletheia/app/containers/Admin/CreatePerson/index.jsx" />
-      <jump line="128" column="32" filename="$USER_HOME$/cea/aletheia/app/containers/Admin/CreatePerson/index.jsx" />
-      <jump line="136" column="23" filename="$USER_HOME$/cea/aletheia/app/containers/Admin/CreatePerson/index.jsx" />
-      <jump line="137" column="43" filename="$USER_HOME$/cea/aletheia/app/containers/Admin/CreatePerson/index.jsx" />
-      <jump line="57" column="6" filename="$USER_HOME$/cea/aletheia/app/containers/Admin/CreatePerson/index.jsx" />
-      <jump line="110" column="6" filename="$USER_HOME$/cea/aletheia/app/containers/Admin/CreatePerson/index.jsx" />
-      <jump line="201" column="0" filename="$USER_HOME$/cea/aletheia/app/containers/Admin/CreatePerson/index.jsx" />
-      <jump line="95" column="47" filename="$USER_HOME$/cea/aletheia/app/containers/Admin/CreatePerson/index.jsx" />
-      <jump line="10" column="69" filename="$USER_HOME$/cea/aletheia/app/containers/Admin/CreatePerson/index.jsx" />
-      <jump line="100" column="6" filename="$USER_HOME$/cea/aletheia/app/containers/Admin/CreatePerson/index.jsx" />
       <jump line="88" column="64" filename="$USER_HOME$/cea/aletheia/app/containers/Admin/CreatePerson/index.jsx" />
       <jump line="97" column="11" filename="$USER_HOME$/cea/aletheia/app/containers/Admin/CreatePerson/index.jsx" />
       <jump line="7" column="26" filename="$USER_HOME$/cea/parfit/migrations/20180811143113_admin_shadow_register_up.sql" />
@@ -818,6 +806,18 @@
       <jump line="102" column="17" filename="$USER_HOME$/cea/parfit/migrations/20180913122130_shadow_register_no_email_up.sql" />
       <jump line="78" column="9" filename="$USER_HOME$/cea/parfit/migrations/20180913122130_shadow_register_no_email_down.sql" />
       <jump line="15" column="0" filename="$USER_HOME$/cea/aletheia/app/models/People/mutations/registerPersonShadow.gql" />
+      <jump line="110" column="30" filename="$USER_HOME$/cea/aletheia/app/containers/Admin/AdminPayrollGiving/MatchPersonModal.js" />
+      <jump line="44" column="0" filename="$USER_HOME$/cea/aletheia/app/containers/Admin/AdminPayrollGiving/MatchPersonModal.js" />
+      <jump line="114" column="27" filename="$USER_HOME$/cea/aletheia/app/containers/Admin/AdminPayrollGiving/MatchPersonModal.js" />
+      <jump line="107" column="20" filename="$USER_HOME$/cea/aletheia/app/containers/Admin/AdminPayrollGiving/MatchPersonModal.js" />
+      <jump line="103" column="30" filename="$USER_HOME$/cea/aletheia/app/containers/Admin/AdminPayrollGiving/MatchPersonModal.js" />
+      <jump line="100" column="53" filename="$USER_HOME$/cea/aletheia/app/containers/Admin/AdminPayrollGiving/MatchPersonModal.js" />
+      <jump line="93" column="20" filename="$USER_HOME$/cea/aletheia/app/containers/Admin/AdminPayrollGiving/MatchPersonModal.js" />
+      <jump line="90" column="28" filename="$USER_HOME$/cea/aletheia/app/containers/Admin/AdminPayrollGiving/MatchPersonModal.js" />
+      <jump line="88" column="13" filename="$USER_HOME$/cea/aletheia/app/containers/Admin/AdminPayrollGiving/MatchPersonModal.js" />
+      <jump line="85" column="23" filename="$USER_HOME$/cea/aletheia/app/containers/Admin/AdminPayrollGiving/MatchPersonModal.js" />
+      <jump line="82" column="28" filename="$USER_HOME$/cea/aletheia/app/containers/Admin/AdminPayrollGiving/MatchPersonModal.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/cea/parfit/migrations/20180913122130_shadow_register_no_email_down.sql" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -879,7 +879,7 @@
         <text>.nn</text>
       </register>
       <register name="*" type="4">
-        <text>``</text>
+        <text>()</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -991,7 +991,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA=</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxmaW5kX29yX3JlZ2lzdGVyX3BlcnNvbl9zaGFkb3dcPg==</text>
+        <text encoding="base64">XDxQZXJzb25cPg==</text>
       </register>
       <register name="0" type="4">
         <text>register_person_shadow</text>
@@ -1006,32 +1006,32 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text>()</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cm11dGF0aW9uIHJlZ2lzdGVyUGVyc29uU2hhZG93ICgKICAkZW1haWw6IFN0cmluZyEsCiAgJGZpcnN0TmFtZTogU3RyaW5nISwKICAkbGFzdE5hbWU6IFN0cmluZyEKKSB7CiAgcmVnaXN0ZXJQZXJzb25TaGFkb3coaW5wdXQ6IHtlbWFpbDogJGVtYWlsLCBmaXJzdE5hbWU6ICRmaXJzdE5hbWUsIGxhc3ROYW1lOiAkbGFzdE5hbWV9KSB7CiAgICBwZXJzb24gewogICAgICBpZCwKICAgICAgZW1haWwsCiAgICAgIGZpcnN0TmFtZSwKICAgICAgbGFzdE5hbWUsCiAgICAgIGZ1bGxOYW1lCiAgICB9CiAgfQp9Cg==</text>
+      <register name="2" type="4">
+        <text>Person</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgZmluZF9vcl9yZWdpc3Rlcl9wZXJzb25fc2hhZG93LmVtYWlsLAo=</text>
+        <text encoding="base64">ZnVuY3Rpb24gYWRkRGVmYXVsdEVtYWlsIChQZXJzb24pIHsKICByZXR1cm4gUGVyc29uIC8vLnNldCgKICAvLyAgICdlbWFpbCcsCiAgLy8gICBQZXJzb24uZW1haWwgfHwgYGVtYWlsbWlzc2luZyske1BlcnNvbi5mdWxsTmFtZS5yZXBsYWNlKC8gLywgJy0nKX1AZWZmZWN0aXZlYWx0cnVpc20ub3JnYAogIC8vICkKfQoK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">LS0gVE9ETyBRIGZvciBTYW06IHdoYWFhYXQsIHdoeSBkaWQgSSBuZWVkIHRvIGFkZCB0aGlzLCBob3cgZGlkIGl0IGV2ZXIgd29yawo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">LS0gR1JBTlQgRVhFQ1VURSBPTiBGVU5DVElPTiBwZW9wbGUucmVnaXN0ZXJfcGVyc29uX3NoYWRvdyhjaXRleHQsIGNpdGV4dCwgcGVvcGxlLnJlZ2lzdHJhdGlvbl9tZXRob2QsIGNpdGV4dCwgSlNPTkIpIFRPIGd1ZXN0X3JvbGU7Cg==</text>
+        <text encoding="base64">Cm11dGF0aW9uIHJlZ2lzdGVyUGVyc29uU2hhZG93ICgKICAkZW1haWw6IFN0cmluZyEsCiAgJGZpcnN0TmFtZTogU3RyaW5nISwKICAkbGFzdE5hbWU6IFN0cmluZyEKKSB7CiAgcmVnaXN0ZXJQZXJzb25TaGFkb3coaW5wdXQ6IHtlbWFpbDogJGVtYWlsLCBmaXJzdE5hbWU6ICRmaXJzdE5hbWUsIGxhc3ROYW1lOiAkbGFzdE5hbWV9KSB7CiAgICBwZXJzb24gewogICAgICBpZCwKICAgICAgZW1haWwsCiAgICAgIGZpcnN0TmFtZSwKICAgICAgbGFzdE5hbWUsCiAgICAgIGZ1bGxOYW1lCiAgICB9CiAgfQp9Cg==</text>
       </register>
       <register name="u" type="4">
         <text>uu</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">ICAgICAgZmluZF9vcl9yZWdpc3Rlcl9wZXJzb25fc2hhZG93LmVtYWlsLAo=</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">LS0gVE9ETyBRIGZvciBTYW06IHdoYWFhYXQsIHdoeSBkaWQgSSBuZWVkIHRvIGFkZCB0aGlzLCBob3cgZGlkIGl0IGV2ZXIgd29yawo=</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">LS0gR1JBTlQgRVhFQ1VURSBPTiBGVU5DVElPTiBwZW9wbGUucmVnaXN0ZXJfcGVyc29uX3NoYWRvdyhjaXRleHQsIGNpdGV4dCwgcGVvcGxlLnJlZ2lzdHJhdGlvbl9tZXRob2QsIGNpdGV4dCwgSlNPTkIpIFRPIGd1ZXN0X3JvbGU7Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
@@ -1041,9 +1041,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxmaW5kX29yX3JlZ2lzdGVyX3BlcnNvbl9zaGFkb3dcPg==</last-search>
+      <last-search encoding="base64">XDxQZXJzb25cPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxmaW5kX29yX3JlZ2lzdGVyX3BlcnNvbl9zaGFkb3dcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxQZXJzb25cPg==</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -1051,8 +1051,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDx0ZXN0QmVuZXZpdHlcPg==</entry>
-        <entry encoding="base64">XDxyZWFkQXNUZXh0XD4=</entry>
         <entry encoding="base64">XDxiZW5ldml0eVw+</entry>
         <entry encoding="base64">XDxwcmVwYXJzZVw+</entry>
         <entry encoding="base64">XDxjc3ZEYXRhXD4=</entry>
@@ -1071,6 +1069,8 @@
         <entry encoding="base64">XDxlbWFpbFw+</entry>
         <entry encoding="base64">XDxyZWdpc3Rlcl9zaGFkb3dcPg==</entry>
         <entry encoding="base64">XDxmaW5kX29yX3JlZ2lzdGVyX3BlcnNvbl9zaGFkb3dcPg==</entry>
+        <entry encoding="base64">XDxhZGREZWZhdWx0RW1haWxcPg==</entry>
+        <entry encoding="base64">XDxQZXJzb25cPg==</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5hY3Rpb24gRmluZEluUGF0aA==</entry>
@@ -1089,8 +1089,8 @@
         <entry>action SplitVertically</entry>
         <entry>action GotoDeclaration</entry>
         <entry>action CommentByLineComment</entry>
-        <entry>action GotoFile</entry>
         <entry>action FindInPath</entry>
+        <entry>action GotoFile</entry>
         <entry>action NextSplitter</entry>
         <entry>w!</entry>
       </history-cmd>
