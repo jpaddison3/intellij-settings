@@ -47,8 +47,8 @@
       <file name="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/common/VoteButton.jsx" timestamp="1536077476415">
         <mark key="'" line="153" column="12" />
       </file>
-      <file name="$USER_HOME$/cea/parfit/db_tests/person_registration_tests.sql" timestamp="1536850368688">
-        <mark key="'" line="23" column="105" />
+      <file name="$USER_HOME$/cea/parfit/db_tests/person_registration_tests.sql" timestamp="1536853535512">
+        <mark key="'" line="74" column="33" />
         <mark key="[" line="1" column="12" />
         <mark key="]" line="1" column="13" />
         <mark key="." line="1" column="13" />
@@ -446,11 +446,18 @@
         <mark key="." line="39" column="7" />
         <mark key="^" line="39" column="7" />
       </file>
-      <file name="$USER_HOME$/cea/aletheia/app/models/People/mutations/registerPersonShadow.gql" timestamp="1536846518335">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="6" />
+      <file name="$USER_HOME$/cea/aletheia/app/models/People/mutations/registerPersonShadow.gql" timestamp="1536853845845">
+        <mark key="'" line="23" column="0" />
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="0" />
         <mark key="^" line="0" column="6" />
-        <mark key="." line="0" column="6" />
+        <mark key="." line="23" column="0" />
+      </file>
+      <file name="$USER_HOME$/cea/parfit/migrations/20180413123749_auth_registration_utils_up.sql" timestamp="1536853602188">
+        <mark key="'" line="28" column="0" />
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="61" column="30" />
+        <mark key="." line="48" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/cea/parfit/migrations/20180502113445_giftaid_reporting_up.sql" timestamp="1533776861278">
         <mark key="[" line="77" column="0" />
@@ -517,12 +524,12 @@
         <mark key="." line="30" column="70" />
         <mark key="^" line="30" column="70" />
       </file>
-      <file name="$USER_HOME$/cea/parfit/migrations/20180913122130_shadow_register_no_email_down.sql" timestamp="1536852609503">
-        <mark key="'" line="74" column="0" />
-        <mark key="[" line="70" column="14" />
-        <mark key="]" line="70" column="103" />
-        <mark key="^" line="70" column="67" />
-        <mark key="." line="70" column="67" />
+      <file name="$USER_HOME$/cea/parfit/migrations/20180913122130_shadow_register_no_email_down.sql" timestamp="1536853666818">
+        <mark key="'" line="78" column="9" />
+        <mark key="[" line="89" column="7" />
+        <mark key="]" line="89" column="17" />
+        <mark key="^" line="89" column="17" />
+        <mark key="." line="89" column="17" />
       </file>
       <file name="$USER_HOME$/cea/Forum/Forum/node_modules/draft-js-resizeable-plugin/lib/index.js" timestamp="1536084318531">
         <mark key="'" line="0" column="0" />
@@ -575,12 +582,12 @@
         <mark key="^" line="74" column="21" />
         <mark key="." line="74" column="21" />
       </file>
-      <file name="$USER_HOME$/cea/parfit/migrations/20180913122130_shadow_register_no_email_up.sql" timestamp="1536852803021">
-        <mark key="'" line="106" column="0" />
-        <mark key="[" line="75" column="97" />
-        <mark key="]" line="75" column="97" />
-        <mark key="^" line="75" column="68" />
-        <mark key="." line="75" column="97" />
+      <file name="$USER_HOME$/cea/parfit/migrations/20180913122130_shadow_register_no_email_up.sql" timestamp="1536853745410">
+        <mark key="'" line="103" column="17" />
+        <mark key="[" line="102" column="42" />
+        <mark key="]" line="102" column="63" />
+        <mark key="." line="102" column="63" />
+        <mark key="^" line="102" column="63" />
       </file>
       <file name="$USER_HOME$/cea/mandrill-mail-merge/mmerge-invite/template-launch.js" timestamp="1536248489720">
         <mark key="'" line="46" column="100" />
@@ -711,16 +718,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="4" column="36" filename="$USER_HOME$/cea/aletheia/app/containers/Admin/AdminPayrollGiving/parsingUtilities.js" />
-      <jump line="17" column="32" filename="$USER_HOME$/cea/aletheia/app/containers/Admin/AdminPayrollGiving/Providers/bt.js" />
-      <jump line="18" column="14" filename="$USER_HOME$/cea/aletheia/app/containers/Admin/AdminPayrollGiving/Providers/bt.js" />
-      <jump line="90" column="5" filename="$USER_HOME$/cea/aletheia/app/containers/Admin/AdminPayrollGiving/Providers/bt.js" />
-      <jump line="31" column="44" filename="$USER_HOME$/cea/aletheia/app/containers/Admin/AdminPayrollGiving/Providers/bt.js" />
-      <jump line="127" column="0" filename="$USER_HOME$/cea/aletheia/app/containers/Admin/AdminPayrollGiving/Providers/bt.js" />
-      <jump line="82" column="0" filename="$USER_HOME$/cea/aletheia/app/containers/Admin/AdminPayrollGiving/Providers/bt.js" />
-      <jump line="76" column="0" filename="$USER_HOME$/cea/aletheia/app/containers/Admin/AdminPayrollGiving/Providers/bt.js" />
-      <jump line="50" column="0" filename="$USER_HOME$/cea/aletheia/app/containers/Admin/AdminPayrollGiving/Providers/bt.js" />
-      <jump line="23" column="0" filename="$USER_HOME$/cea/aletheia/app/containers/Admin/AdminPayrollGiving/Providers/bt.js" />
       <jump line="25" column="61" filename="$USER_HOME$/cea/aletheia/app/containers/Admin/AdminPayrollGiving/Providers/bt.js" />
       <jump line="82" column="15" filename="$USER_HOME$/cea/Forum/Forum/settings-prod.json" />
       <jump line="124" column="11" filename="$USER_HOME$/cea/aletheia/app/containers/Admin/CreatePerson/index.jsx" />
@@ -811,6 +808,16 @@
       <jump line="197" column="0" filename="$USER_HOME$/cea/parfit/migrations/20170901171427_refactor_person_insertion_up.sql" />
       <jump line="75" column="0" filename="$USER_HOME$/cea/parfit/migrations/20180913122130_shadow_register_no_email_down.sql" />
       <jump line="106" column="0" filename="$USER_HOME$/cea/parfit/migrations/20180913122130_shadow_register_no_email_up.sql" />
+      <jump line="17" column="4" filename="$USER_HOME$/cea/parfit/migrations/20180913122130_shadow_register_no_email_down.sql" />
+      <jump line="5" column="15" filename="$USER_HOME$/cea/parfit/db_tests/person_registration_tests.sql" />
+      <jump line="63" column="33" filename="$USER_HOME$/cea/parfit/db_tests/person_registration_tests.sql" />
+      <jump line="74" column="33" filename="$USER_HOME$/cea/parfit/db_tests/person_registration_tests.sql" />
+      <jump line="93" column="0" filename="$USER_HOME$/cea/parfit/migrations/20180913122130_shadow_register_no_email_up.sql" />
+      <jump line="28" column="0" filename="$USER_HOME$/cea/parfit/migrations/20180413123749_auth_registration_utils_up.sql" />
+      <jump line="86" column="2" filename="$USER_HOME$/cea/parfit/migrations/20180913122130_shadow_register_no_email_down.sql" />
+      <jump line="102" column="17" filename="$USER_HOME$/cea/parfit/migrations/20180913122130_shadow_register_no_email_up.sql" />
+      <jump line="78" column="9" filename="$USER_HOME$/cea/parfit/migrations/20180913122130_shadow_register_no_email_down.sql" />
+      <jump line="15" column="0" filename="$USER_HOME$/cea/aletheia/app/models/People/mutations/registerPersonShadow.gql" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -981,13 +988,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Y2l0ZXh0LCA=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA=</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxyZWdpc3Rlcl9zaGFkb3dcPg==</text>
+        <text encoding="base64">XDxmaW5kX29yX3JlZ2lzdGVyX3BlcnNvbl9zaGFkb3dcPg==</text>
       </register>
       <register name="0" type="4">
-        <text>people.register_person_shadow (citext, citext, people.registration_method, citext, JSONB);</text>
+        <text>register_person_shadow</text>
       </register>
       <register name="p" type="4">
         <keys>
@@ -1000,43 +1007,43 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">LS0gUmVnaXN0ZXIgYSBuZXcgdXNlci4gSW5zZXJ0cyBhIHBlcnNvbiBhbmQgbm90aWZpZXMgb2YgdGhlIGV2ZW50LgotLSBVc2UgdGhpcyBmdW5jdGlvbiB3aGVuZXZlciBjcmVhdGluZyBuZXcgKHVuaXF1ZSkgdXNlcnMK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">RFJPUCBGVU5DVElPTiBwZW9wbGUucmVnaXN0ZXJfcGVyc29uX3NoYWRvdyAoY2l0ZXh0LCBjaXRleHQsIHBlb3BsZS5yZWdpc3RyYXRpb25fbWV0aG9kLCBjaXRleHQsIEpTT05CKTsK</text>
+        <text encoding="base64">Cm11dGF0aW9uIHJlZ2lzdGVyUGVyc29uU2hhZG93ICgKICAkZW1haWw6IFN0cmluZyEsCiAgJGZpcnN0TmFtZTogU3RyaW5nISwKICAkbGFzdE5hbWU6IFN0cmluZyEKKSB7CiAgcmVnaXN0ZXJQZXJzb25TaGFkb3coaW5wdXQ6IHtlbWFpbDogJGVtYWlsLCBmaXJzdE5hbWU6ICRmaXJzdE5hbWUsIGxhc3ROYW1lOiAkbGFzdE5hbWV9KSB7CiAgICBwZXJzb24gewogICAgICBpZCwKICAgICAgZW1haWwsCiAgICAgIGZpcnN0TmFtZSwKICAgICAgbGFzdE5hbWUsCiAgICAgIGZ1bGxOYW1lCiAgICB9CiAgfQp9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">RFJPUCBGVU5DVElPTiBwZW9wbGUucmVnaXN0ZXJfcGVyc29uKGNpdGV4dCwgVEVYVCwgY2l0ZXh0LCBjaXRleHQsIHBlb3BsZS5yZWdpc3RyYXRpb25fbWV0aG9kLCBKU09OQik7Cg==</text>
+        <text encoding="base64">ICAgICAgZmluZF9vcl9yZWdpc3Rlcl9wZXJzb25fc2hhZG93LmVtYWlsLAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">RFJPUCBGVU5DVElPTiBwZW9wbGUuY3JlYXRlX3BlcnNvbiAoY2l0ZXh0LCBjaXRleHQsIGNpdGV4dCk7Cgo=</text>
+        <text encoding="base64">LS0gVE9ETyBRIGZvciBTYW06IHdoYWFhYXQsIHdoeSBkaWQgSSBuZWVkIHRvIGFkZCB0aGlzLCBob3cgZGlkIGl0IGV2ZXIgd29yawo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">LS0gR1JBTlQgRVhFQ1VURSBPTiBGVU5DVElPTiBwZW9wbGUucmVnaXN0ZXJfcGVyc29uX3NoYWRvdyhjaXRleHQsIGNpdGV4dCwgcGVvcGxlLnJlZ2lzdHJhdGlvbl9tZXRob2QsIGNpdGV4dCwgSlNPTkIpIFRPIGd1ZXN0X3JvbGU7Cg==</text>
       </register>
       <register name="u" type="4">
         <text>uu</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">U0VMRUNUICogRlJPTSBwZW9wbGUucmVnaXN0ZXJfcGVyc29uX3NoYWRvdygnJywgJycsICdwYXlyb2xsX2dpdmluZycpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">U0VMRUNUICogRlJPTSBwZW9wbGUucmVnaXN0ZXJfcGVyc29uKAogICAgICAgICAgICAgICAgcmVnaXN0ZXJfcGVyc29uX3NoYWRvdy5lbWFpbCwKICAgICAgICAgICAgICAgIGF1dGguZ2VuZXJhdGVfcmFuZG9tX3Bhc3N3b3JkKCksIC0tIGluc2VydCBhIHJhbmRvbSBwYXNzd29yZAogICAgICAgICAgICAgICAgcmVnaXN0ZXJfcGVyc29uX3NoYWRvdy5maXJzdF9uYW1lLAogICAgICAgICAgICAgICAgcmVnaXN0ZXJfcGVyc29uX3NoYWRvdy5sYXN0X25hbWUsCiAgICAgICAgICAgICAgICByZWdpc3Rlcl9wZXJzb25fc2hhZG93LnJlZ2lzdHJhdGlvbl9tZXRob2QsCiAgICAgICAgICAgICAgICAtLSBNZXJnZSBzdXBwbGllZCBtZXRhZGF0YSB3aXRoIGEgYHNoYWRvd19yZWdpc3RyYXRpb25gIGZsYWcKICAgICAgICAgICAgICAgIENPQUxFU0NFKHJlZ2lzdGVyX3BlcnNvbl9zaGFkb3cubWV0YWRhdGEsICd7fScpIHx8IGpzb25iX2J1aWxkX29iamVjdCgnc2hhZG93X3JlZ2lzdHJhdGlvbicsIFRSVUUpCiAgICApOwokJCBMQU5HVUFHRSBTUUwgVk9MQVRJTEUgU0VDVVJJVFkgREVGSU5FUjsK</text>
+        <text encoding="base64">ICAgICAgZmluZF9vcl9yZWdpc3Rlcl9wZXJzb25fc2hhZG93LmVtYWlsLAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">LS0gQ3JlYXRlIGEgJ3NoYWRvdycgcmVnaXN0cmF0aW9uCi0tIFRoaXMgcmVnaXN0ZXJzIGEgcGVyc29uIGJ1dCBhIHBhc3N3b3JkIGlzIG5vdCByZXF1aXJlZAotLSBVc2VmdWwgZm9yIHdoZW4geW91IHdhbnQgdG8gY3JlYXRlIGEgdXNlciBhY2NvdW50Ci0tIGJ1dCBoYXZlbid0IGFza2VkIHRoZSB1c2VyIGZvciBhIHBhc3N3b3JkIGluIHRoZSBjb250ZXh0IG9mIHRoaXMgcmVnaXN0cmF0aW9uIGZsb3cKLS0gKGUuZy4gYSBuZXcgZ3JvdXAgbWVtYmVyIHNpZ251cCwgbmV3c2xldHRlciBzaWdudXAgZXRjKQotLSBFZGl0ZWQgdG8gYWRkIHNlY3VyaXR5IGRlZmluZXIKLS0gRWRpdGVkIGFnYWluIHRvIHJlbW92ZSBtYW5kYXRvcnkgZW1haWwKLS0gVE9ETyBqdXN0IGNyZWF0ZQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">JCQgTEFOR1VBR0UgJ3BscGdzcWwnIFZPTEFUSUxFOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w!</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxyZWdpc3Rlcl9zaGFkb3dcPg==</last-search>
+      <last-search encoding="base64">XDxmaW5kX29yX3JlZ2lzdGVyX3BlcnNvbl9zaGFkb3dcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxyZWdpc3Rlcl9zaGFkb3dcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxmaW5kX29yX3JlZ2lzdGVyX3BlcnNvbl9zaGFkb3dcPg==</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -1044,7 +1051,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxCZW5ldml0eVw+</entry>
         <entry encoding="base64">XDx0ZXN0QmVuZXZpdHlcPg==</entry>
         <entry encoding="base64">XDxyZWFkQXNUZXh0XD4=</entry>
         <entry encoding="base64">XDxiZW5ldml0eVw+</entry>
@@ -1064,6 +1070,7 @@
         <entry encoding="base64">XDxwZXJzb25cPg==</entry>
         <entry encoding="base64">XDxlbWFpbFw+</entry>
         <entry encoding="base64">XDxyZWdpc3Rlcl9zaGFkb3dcPg==</entry>
+        <entry encoding="base64">XDxmaW5kX29yX3JlZ2lzdGVyX3BlcnNvbl9zaGFkb3dcPg==</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5hY3Rpb24gRmluZEluUGF0aA==</entry>
@@ -1081,10 +1088,10 @@
         <entry>source ~/.ideavimrc</entry>
         <entry>action SplitVertically</entry>
         <entry>action GotoDeclaration</entry>
-        <entry>action FindInPath</entry>
-        <entry>action GotoFile</entry>
-        <entry>action NextSplitter</entry>
         <entry>action CommentByLineComment</entry>
+        <entry>action GotoFile</entry>
+        <entry>action FindInPath</entry>
+        <entry>action NextSplitter</entry>
         <entry>w!</entry>
       </history-cmd>
       <history-expr />
