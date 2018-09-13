@@ -84,11 +84,6 @@
         <mark key="." line="3" column="37" />
         <mark key="^" line="3" column="37" />
       </file>
-      <file name="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/themes/lesswrongTheme.js" timestamp="1534896425110">
-        <mark key="'" line="48" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="53" />
-      </file>
       <file name="$USER_HOME$/Documents/cea/Forum/Forum/settings-staging.json" timestamp="1532648214179">
         <mark key="[" line="41" column="20" />
         <mark key="]" line="41" column="95" />
@@ -178,11 +173,6 @@
         <mark key="^" line="7" column="62" />
         <mark key="." line="7" column="62" />
       </file>
-      <file name="$USER_HOME$/cea/aletheia/app/containers/Organizations/OrganizationsHome.jsx" timestamp="1535051397157">
-        <mark key="'" line="115" column="56" />
-        <mark key="[" line="67" column="47" />
-        <mark key="]" line="67" column="80" />
-      </file>
       <file name="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/scripts/configuration.js" timestamp="1536769527022">
         <mark key="[" line="3" column="48" />
         <mark key="]" line="3" column="52" />
@@ -203,11 +193,11 @@
         <mark key="." line="48" column="63" />
         <mark key="^" line="47" column="55" />
       </file>
-      <file name="$USER_HOME$/Documents/dotfiles/ideavimrc" timestamp="1536666282530">
-        <mark key="[" line="57" column="13" />
-        <mark key="]" line="57" column="14" />
+      <file name="$USER_HOME$/Documents/dotfiles/ideavimrc" timestamp="1536832989621">
+        <mark key="[" line="58" column="0" />
+        <mark key="]" line="58" column="0" />
         <mark key="^" line="57" column="1" />
-        <mark key="." line="57" column="14" />
+        <mark key="." line="58" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/cea/Forum/Forum/packages/lesswrong/lib/scripts/invites.js" timestamp="1531951242014">
         <mark key="[" line="28" column="38" />
@@ -254,13 +244,13 @@
         <mark key="." line="3" column="41" />
         <mark key="^" line="3" column="41" />
       </file>
-      <file name="$USER_HOME$/cea/aletheia/app/containers/Admin/AdminPayrollGiving/MatchPersonModal.js" timestamp="1536687425547">
+      <file name="$USER_HOME$/cea/aletheia/app/containers/Admin/AdminPayrollGiving/MatchPersonModal.js" timestamp="1536833066579">
         <mark key="a" line="114" column="30" />
         <mark key="'" line="27" column="19" />
         <mark key="[" line="45" column="15" />
-        <mark key="]" line="45" column="15" />
-        <mark key="." line="45" column="15" />
-        <mark key="^" line="45" column="15" />
+        <mark key="]" line="45" column="14" />
+        <mark key="." line="45" column="14" />
+        <mark key="^" line="45" column="14" />
       </file>
       <file name="$USER_HOME$/Desktop/process-zap.js" timestamp="1536329798349">
         <mark key="'" line="103" column="0" />
@@ -643,10 +633,10 @@
         <mark key="." line="18" column="0" />
         <mark key="^" line="9" column="48" />
       </file>
-      <file name="$USER_HOME$/cea/parfit/package.json" timestamp="1536659623116">
-        <mark key="'" line="31" column="29" />
-        <mark key="[" line="43" column="5" />
-        <mark key="]" line="43" column="30" />
+      <file name="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" timestamp="1536833015776">
+        <mark key="[" line="185" column="0" />
+        <mark key="]" line="185" column="0" />
+        <mark key="." line="185" column="0" />
       </file>
       <file name="$USER_HOME$/cea/effectivealtruism-org-static/.gitignore" timestamp="1535721542430">
         <mark key="[" line="12" column="5" />
@@ -976,7 +966,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>Amanda_</text>
+        <text encoding="base64">IC8v</text>
       </register>
       <register name="/" type="4">
         <text>aman</text>
@@ -995,35 +985,35 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgKyAnTmV3IHJlc2V0IGxpbms6XG5cbicK</text>
+        <text encoding="base64">ICAvLyBjb25zb2xlLmxvZygiVXBzZXJ0ZWQgcG9zdHM6ICIsIHBvc3RVcGRhdGVDdXJzb3IpOwo=</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">ICAgICAgKyAnTmV3IHJlc2V0IGxpbms6XG5cbicK</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">ICAgIHJldHVybiAnWW91IGFyZSBpbnZpdGVkIHRvIHBhcnRpY2lwYXRlIGluIHRoZSBFQSBGb3J1bSBQcml2YXRlIEJldGEnIAo=</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text>{email: &quot;jp+test5@centreforeffectivealtruism.org&quot;, username: &quot;jptest5&quot;},
     {email: &quot;jp+test6@centreforeffectivealtruism.org&quot;, username: &quot;jptest6&quot;}</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICJwbHVnaW5zIjogWwogICAgICAgICJyZWFjdCIKICAgIF0K</text>
-      </register>
       <register name="5" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICAgICJwbHVnaW5zIjogWwogICAgICAgICJyZWFjdCIKICAgIF0K</text>
       </register>
       <register name="u" type="4">
         <text>uu</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAvLyBUT0RPIHdoYWFhYWFhYWF0Cg==</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAnYWNxdWlyZXJfY2hhcmdlYmFja19mZWVfYW1vdW50JywKICAgICdhY3F1aXJlcl9jcmVkaXRfZmVlX2Ftb3VudCcsCiAgICAnYWNxdWlyZXJfZGViaXRfZmVlX2Ftb3VudCcsCgo=</text>
+        <text encoding="base64">ICAvLyBUT0RPIHdoYWFhYWFhYWF0Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICdhY3F1aXJlcl9kZWJpdF9mZWVfYW1vdW50JywKCg==</text>
+        <text encoding="base64">ICAnYWNxdWlyZXJfY2hhcmdlYmFja19mZWVfYW1vdW50JywKICAgICdhY3F1aXJlcl9jcmVkaXRfZmVlX2Ftb3VudCcsCiAgICAnYWNxdWlyZXJfZGViaXRfZmVlX2Ftb3VudCcsCgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIC8vIC5wbHVzKHBlbmNlMnBvdW5kcyhyb3cuYWNxdWlyZXJfZGViaXRfZmVlX2Ftb3VudCkpCg==</text>
+        <text encoding="base64">ICAgICdhY3F1aXJlcl9kZWJpdF9mZWVfYW1vdW50JywKCg==</text>
       </register>
       <register name=":" type="4">
         <text>action GotoFile</text>
@@ -1062,7 +1052,6 @@
         <entry>aman</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz53IQ==</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gRmluZEluUGF0aA==</entry>
         <entry encoding="base64">JzwsJz5zLycvIi9n</entry>
         <entry>73</entry>
@@ -1071,16 +1060,17 @@
         <entry>$s/&quot;/'/g</entry>
         <entry>s/&quot;/'/g</entry>
         <entry>%s/&quot;/'/g</entry>
-        <entry>action SplitVertically</entry>
         <entry encoding="base64">JzwsJz5zLyIvJy9n</entry>
-        <entry>source ~/.ideavimrc</entry>
         <entry>action NewFile</entry>
         <entry>action GotoDeclaration</entry>
         <entry>action Refactorings.QuickListPopupAction</entry>
         <entry>action CommentByLineComment</entry>
         <entry>action FindInPath</entry>
+        <entry>.action NextSplitter</entry>
+        <entry>source ~/.ideavimrc</entry>
         <entry>action NextSplitter</entry>
         <entry>w!</entry>
+        <entry>action SplitVertically</entry>
         <entry>action GotoFile</entry>
       </history-cmd>
       <history-expr />
