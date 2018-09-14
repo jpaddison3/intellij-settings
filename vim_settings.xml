@@ -200,7 +200,14 @@
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/cea/parfit/services/payments/handlers/xero/helpers.js" timestamp="1536932433640" />
+      <file name="$USER_HOME$/cea/parfit/services/payments/handlers/xero/helpers.js" timestamp="1536935801299">
+        <mark key="a" line="183" column="28" />
+        <mark key="'" line="6" column="0" />
+        <mark key="[" line="206" column="38" />
+        <mark key="]" line="206" column="40" />
+        <mark key="^" line="206" column="40" />
+        <mark key="." line="206" column="40" />
+      </file>
       <file name="$USER_HOME$/Documents/cea/Forum/Forum/packages/lesswrong/components/form-components/MultiSelectButtons.jsx" timestamp="1532126295932">
         <mark key="[" line="48" column="63" />
         <mark key="]" line="48" column="63" />
@@ -265,6 +272,13 @@
         <mark key="]" line="3" column="41" />
         <mark key="." line="3" column="41" />
         <mark key="^" line="3" column="41" />
+      </file>
+      <file name="$USER_HOME$/cea/parfit/seeds/data/payments.xero_account.sql" timestamp="1536935029680">
+        <mark key="'" line="12" column="22" />
+        <mark key="[" line="42" column="0" />
+        <mark key="]" line="47" column="43" />
+        <mark key="." line="47" column="25" />
+        <mark key="^" line="46" column="25" />
       </file>
       <file name="$USER_HOME$/cea/aletheia/app/containers/Admin/AdminPayrollGiving/MatchPersonModal.js" timestamp="1536918753858">
         <mark key="'" line="101" column="13" />
@@ -447,6 +461,12 @@
         <mark key="]" line="31" column="13" />
         <mark key="^" line="31" column="13" />
         <mark key="." line="31" column="13" />
+      </file>
+      <file name="$USER_HOME$/cea/aletheia/app/containers/Admin/AdminPayrollGiving/Providers/index.js" timestamp="1536933707891">
+        <mark key="[" line="30" column="18" />
+        <mark key="]" line="30" column="31" />
+        <mark key="." line="32" column="25" />
+        <mark key="^" line="32" column="25" />
       </file>
       <file name="$USER_HOME$/cea/aletheia/app/models/People/mutations/registerPersonShadow.gql" timestamp="1536855586298">
         <mark key="'" line="23" column="0" />
@@ -652,7 +672,7 @@
       </file>
       <file name="$USER_HOME$/cea/parfit/services/payments/queues.js" timestamp="1536930377204" />
       <file name="$USER_HOME$/cea/aletheia/package.json" timestamp="1535069355579">
-        <mark key="'" line="330" column="5" />
+        <mark key="'" line="331" column="5" />
       </file>
       <file name="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/common/Meta.jsx" timestamp="1535997604331">
         <mark key="[" line="18" column="0" />
@@ -712,9 +732,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="62" column="0" filename="$USER_HOME$/cea/parfit/migrations/20180913122130_shadow_register_no_email_up.sql" />
-      <jump line="101" column="0" filename="$USER_HOME$/cea/parfit/migrations/20180913122130_shadow_register_no_email_up.sql" />
-      <jump line="76" column="0" filename="$USER_HOME$/cea/parfit/migrations/20180913122130_shadow_register_no_email_up.sql" />
       <jump line="65" column="0" filename="$USER_HOME$/cea/parfit/migrations/20180913122130_shadow_register_no_email_up.sql" />
       <jump line="61" column="0" filename="$USER_HOME$/cea/parfit/migrations/20180913122130_shadow_register_no_email_up.sql" />
       <jump line="83" column="29" filename="$USER_HOME$/cea/parfit/db_tests/person_registration_tests.sql" />
@@ -812,6 +829,9 @@
       <jump line="38" column="10" filename="$USER_HOME$/cea/parfit/services/payments/handlers/xero/index.js" />
       <jump line="71" column="10" filename="$USER_HOME$/cea/parfit/services/payments/handlers/xero/index.js" />
       <jump line="45" column="9" filename="$USER_HOME$/cea/parfit/services/payments/handlers/xero/index.js" />
+      <jump line="12" column="22" filename="$USER_HOME$/cea/parfit/seeds/data/payments.xero_account.sql" />
+      <jump line="183" column="28" filename="$USER_HOME$/cea/parfit/services/payments/handlers/xero/helpers.js" />
+      <jump line="6" column="0" filename="$USER_HOME$/cea/parfit/services/payments/handlers/xero/helpers.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -982,13 +1002,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">UGF5bWVudC5zdGF0dXMgPT09ICd1bnBhaWQnICYmIChQYXltZW50LmdhdGV3YXkgPT09ICdvZmZsaW5lJyB8fCBQYXltZW50LmdhdGV3YXkgPT09ICdwYXlyb2xsX2dpdmluZycp</text>
+        <text>stripe</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx0ZXN0TmV3VW5wYWlkUGF5bWVudFw+</text>
+        <text encoding="base64">XDw0MDEwXD4=</text>
       </register>
-      <register name="0" type="4">
-        <text>testNewUnpaidPayment</text>
+      <register name="0" type="2">
+        <text encoding="base64">KCdjZWEtdXMnLCAncGF5cm9sbF9naXZpbmcnLCAnNDAxMCcpLAooJ2NlYS11aycsICdwYXlyb2xsX2dpdmluZycsICcxMDA3JyksCiAgKCdkZW1vJywgJ3BheXJvbGxfZ2l2aW5nJywgJzQwMCcpLAooJ2NlYS11cycsICdwYXlyb2xsX2dpdmluZ19wYXltZW50cycsICcxMDEwJyksCignY2VhLXVrJywgJ3BheXJvbGxfZ2l2aW5nX3BheW1lbnRzJywgJzEwMDAnKSwKICAoJ2RlbW8nLCAncGF5cm9sbF9naXZpbmdfcGF5bWVudHMnLCAnMDkwJykK</text>
       </register>
       <register name="p" type="4">
         <keys>
@@ -1001,43 +1021,43 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBicmVhawo=</text>
+        <text encoding="base64">KCdjZWEtdWsnLCAnb2ZmbGluZScsICcyMDAwJyksCignY2VhLXVzJywgJ29mZmxpbmUnLCAnNDAxMCcpLAogICgnZGVtbycsICdvZmZsaW5lJywgJzEzMCcpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgbG9nZ2VyLnZlcmJvc2UoKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBwYXlyb2xsR2l2aW5nOiByZXF1aXJlKCcuL3BheXJvbGxfZ2l2aW5nJykK</text>
+        <text encoding="base64">ICAgICAgICBicmVhawo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IHsKICBCdXR0b24sCiAgRm9ybSwKICBGb3JtR3JvdXAsCiAgRm9ybUNvbnRyb2wsCiAgQ29udHJvbExhYmVsLAogIEhlbHBCbG9jawp9IGZyb20gJ3JlYWN0LWJvb3RzdHJhcCcK</text>
+        <text encoding="base64">ICAgICAgbG9nZ2VyLnZlcmJvc2UoKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IHJlZ2lzdGVyUGVyc29uU2hhZG93TXV0YXRpb25HUUwgZnJvbSAnbW9kZWxzL1Blb3BsZS9tdXRhdGlvbnMvcmVnaXN0ZXJQZXJzb25TaGFkb3cuZ3FsJwo=</text>
+        <text encoding="base64">ICBwYXlyb2xsR2l2aW5nOiByZXF1aXJlKCcuL3BheXJvbGxfZ2l2aW5nJykK</text>
       </register>
       <register name="u" type="4">
         <text>uu</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IHtNYXB9IGZyb20gJ2ltbXV0YWJsZScKCmltcG9ydCB2YWxpZGF0ZSBmcm9tICdoZWxwZXJzL3ZhbGlkYXRlJwppbXBvcnQge1BlcnNvbiBhcyBQZXJzb25SZWNvcmR9IGZyb20gJ21vZGVscy9QZW9wbGUvc2NoZW1hJwoK</text>
+        <text encoding="base64">aW1wb3J0IHsKICBCdXR0b24sCiAgRm9ybSwKICBGb3JtR3JvdXAsCiAgRm9ybUNvbnRyb2wsCiAgQ29udHJvbExhYmVsLAogIEhlbHBCbG9jawp9IGZyb20gJ3JlYWN0LWJvb3RzdHJhcCcK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IHthbGxQYXltZW50c01hbmFnZXJzfSBmcm9tICdtb2RlbHMvUGF5bWVudHMnCmltcG9ydCB7YWxsUGxlZGdlc01hbmFnZXJzfSBmcm9tICdtb2RlbHMvUGxlZGdlcycKaW1wb3J0IHtnZXRQZXJzb259IGZyb20gJ21vZGVscy9QZW9wbGUnCg==</text>
+        <text encoding="base64">aW1wb3J0IHJlZ2lzdGVyUGVyc29uU2hhZG93TXV0YXRpb25HUUwgZnJvbSAnbW9kZWxzL1Blb3BsZS9tdXRhdGlvbnMvcmVnaXN0ZXJQZXJzb25TaGFkb3cuZ3FsJwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IHtMaW5rfSBmcm9tICdyZWFjdC1yb3V0ZXInCg==</text>
+        <text encoding="base64">aW1wb3J0IHtNYXB9IGZyb20gJ2ltbXV0YWJsZScKCmltcG9ydCB2YWxpZGF0ZSBmcm9tICdoZWxwZXJzL3ZhbGlkYXRlJwppbXBvcnQge1BlcnNvbiBhcyBQZXJzb25SZWNvcmR9IGZyb20gJ21vZGVscy9QZW9wbGUvc2NoZW1hJwoK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IEZvbnRBd2Vzb21lIGZyb20gJ3JlYWN0LWZvbnRhd2Vzb21lJwo=</text>
+        <text encoding="base64">aW1wb3J0IHthbGxQYXltZW50c01hbmFnZXJzfSBmcm9tICdtb2RlbHMvUGF5bWVudHMnCmltcG9ydCB7YWxsUGxlZGdlc01hbmFnZXJzfSBmcm9tICdtb2RlbHMvUGxlZGdlcycKaW1wb3J0IHtnZXRQZXJzb259IGZyb20gJ21vZGVscy9QZW9wbGUnCg==</text>
       </register>
       <register name=":" type="4">
-        <text>action NextSplitter</text>
+        <text>w!</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDx0ZXN0TmV3VW5wYWlkUGF5bWVudFw+</last-search>
+      <last-search encoding="base64">XDw0MDEwXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx0ZXN0TmV3VW5wYWlkUGF5bWVudFw+</last-pattern>
+      <last-pattern encoding="base64">XDw0MDEwXD4=</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -1045,7 +1065,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxjc3ZGaWxlXD4=</entry>
         <entry encoding="base64">XDxoZWFkZXJcPg==</entry>
         <entry encoding="base64">XDxhY3F1aXJlcl9kZWJpdF9mZWVfYW1vdW50XD4=</entry>
         <entry>aman</entry>
@@ -1065,6 +1084,7 @@
         <entry encoding="base64">XDxtYWtlSGFuZGxlclw+</entry>
         <entry encoding="base64">XDxjcmVhdGVYZXJvSW52b2ljZUZyb21QYXltZW50XD4=</entry>
         <entry encoding="base64">XDx0ZXN0TmV3VW5wYWlkUGF5bWVudFw+</entry>
+        <entry encoding="base64">XDw0MDEwXD4=</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5hY3Rpb24gRmluZEluUGF0aA==</entry>
@@ -1080,13 +1100,13 @@
         <entry>action SplitVertically</entry>
         <entry>action NewFile</entry>
         <entry>source ~/.ideavimrc</entry>
-        <entry>action GotoFile</entry>
-        <entry>action GotoDeclaration</entry>
         <entry>action Refactorings.QuickListPopupAction</entry>
         <entry>action CommentByLineComment</entry>
-        <entry>w!</entry>
-        <entry>action FindInPath</entry>
+        <entry>action GotoFile</entry>
         <entry>action NextSplitter</entry>
+        <entry>action FindInPath</entry>
+        <entry>action GotoDeclaration</entry>
+        <entry>w!</entry>
       </history-cmd>
       <history-expr />
       <history-input />
