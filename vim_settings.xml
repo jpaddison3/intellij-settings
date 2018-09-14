@@ -111,11 +111,11 @@
         <mark key="^" line="179" column="35" />
         <mark key="." line="179" column="35" />
       </file>
-      <file name="$USER_HOME$/cea/parfit/services/payments/handlers/payment.js" timestamp="1536922911477">
-        <mark key="[" line="44" column="13" />
-        <mark key="]" line="46" column="13" />
-        <mark key="^" line="46" column="13" />
-        <mark key="." line="46" column="13" />
+      <file name="$USER_HOME$/cea/parfit/services/payments/handlers/payment.js" timestamp="1536926431548">
+        <mark key="[" line="47" column="27" />
+        <mark key="]" line="48" column="12" />
+        <mark key="^" line="48" column="12" />
+        <mark key="." line="48" column="12" />
       </file>
       <file name="$USER_HOME$/cea/aletheia/app/models/Auth/mutations/resetPassword.gql" timestamp="1534382637869">
         <mark key="[" line="0" column="35" />
@@ -130,7 +130,7 @@
         <mark key="]" line="13" column="143" />
         <mark key="." line="13" column="143" />
       </file>
-      <file name="$USER_HOME$/cea/parfit/services/payments/handlers/offline.js" timestamp="1536923257332">
+      <file name="$USER_HOME$/cea/parfit/services/payments/handlers/offline.js" timestamp="1536924862908">
         <mark key="[" line="12" column="41" />
         <mark key="]" line="13" column="31" />
         <mark key="^" line="13" column="31" />
@@ -179,11 +179,12 @@
         <mark key="^" line="7" column="62" />
         <mark key="." line="7" column="62" />
       </file>
-      <file name="$USER_HOME$/cea/parfit/services/payments/handlers/stripe/helpers.js" timestamp="1536923821979">
-        <mark key="[" line="29" column="43" />
-        <mark key="]" line="29" column="43" />
-        <mark key="^" line="29" column="43" />
-        <mark key="." line="29" column="43" />
+      <file name="$USER_HOME$/cea/parfit/services/payments/handlers/stripe/helpers.js" timestamp="1536924672366">
+        <mark key="'" line="17" column="0" />
+        <mark key="[" line="27" column="21" />
+        <mark key="]" line="27" column="45" />
+        <mark key="." line="27" column="45" />
+        <mark key="^" line="27" column="45" />
       </file>
       <file name="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/scripts/configuration.js" timestamp="1536769527022">
         <mark key="[" line="3" column="48" />
@@ -320,13 +321,16 @@
         <mark key="^" line="4" column="45" />
         <mark key="." line="0" column="46" />
       </file>
-      <file name="$USER_HOME$/cea/aletheia/app/containers/Admin/AdminPayrollGiving/DropZone.jsx" timestamp="1536923304509">
-        <mark key="'" line="33" column="42" />
-      </file>
       <file name="$USER_HOME$/cea/aletheia/app/components/formatters/PrettyDate.jsx" timestamp="1534382381942">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/scripts/eafIBetaInvites.js" timestamp="1536768846624">
+        <mark key="[" line="13" column="57" />
+        <mark key="]" line="13" column="59" />
+        <mark key="." line="13" column="59" />
+        <mark key="^" line="13" column="59" />
       </file>
       <file name="$USER_HOME$/cea/mandrill-mail-merge/.gitignore" timestamp="1535735614985">
         <mark key="[" line="7" column="12" />
@@ -415,7 +419,6 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/cea/parfit/db_tests/strong_passwords_tests.sql" timestamp="1536849500537" />
       <file name="$USER_HOME$/cea/grants-applications/checkForEmails.js" timestamp="1536579267120">
         <mark key="'" line="61" column="8" />
         <mark key="[" line="58" column="24" />
@@ -435,7 +438,6 @@
         <mark key="^" line="31" column="13" />
         <mark key="." line="31" column="13" />
       </file>
-      <file name="$USER_HOME$/cea/aletheia/app/containers/Admin/AdminPayrollGiving/Providers/index.js" timestamp="1536923616141" />
       <file name="$USER_HOME$/cea/aletheia/app/models/People/mutations/registerPersonShadow.gql" timestamp="1536855586298">
         <mark key="'" line="23" column="0" />
         <mark key="[" line="23" column="0" />
@@ -645,7 +647,7 @@
         <mark key="'" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/cea/aletheia/package.json" timestamp="1535069355579">
-        <mark key="'" line="329" column="5" />
+        <mark key="'" line="330" column="5" />
       </file>
       <file name="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/common/Meta.jsx" timestamp="1535997604331">
         <mark key="[" line="18" column="0" />
@@ -709,13 +711,8 @@
         <mark key="]" line="23" column="41" />
         <mark key="." line="17" column="30" />
       </file>
-      <file name="$USER_HOME$/cea/aletheia/app/containers/Admin/AdminPayrollGiving/index.jsx" timestamp="1536923300200">
-        <mark key="'" line="91" column="22" />
-      </file>
     </filemarks>
     <jumps>
-      <jump line="351" column="6" filename="$USER_HOME$/cea/parfit/migrations/20170906555555_groups_init_up.sql" />
-      <jump line="11" column="13" filename="$USER_HOME$/cea/parfit/migrations/20170906555555_groups_init_up.sql" />
       <jump line="24" column="0" filename="$USER_HOME$/cea/parfit/migrations/20180811143113_admin_shadow_register_up.sql" />
       <jump line="23" column="0" filename="$USER_HOME$/cea/parfit/migrations/20180811143113_admin_shadow_register_up.sql" />
       <jump line="0" column="0" filename="$USER_HOME$/cea/parfit/migrations/20180811143113_admin_shadow_register_up.sql" />
@@ -814,6 +811,8 @@
       <jump line="91" column="22" filename="$USER_HOME$/cea/aletheia/app/containers/Admin/AdminPayrollGiving/index.jsx" />
       <jump line="33" column="42" filename="$USER_HOME$/cea/aletheia/app/containers/Admin/AdminPayrollGiving/DropZone.jsx" />
       <jump line="12" column="2" filename="$USER_HOME$/cea/parfit/services/payments/helpers.js" />
+      <jump line="57" column="0" filename="$USER_HOME$/cea/parfit/services/payments/handlers/stripe/helpers.js" />
+      <jump line="17" column="0" filename="$USER_HOME$/cea/parfit/services/payments/handlers/stripe/helpers.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -984,7 +983,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>return</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxnZXRQZW5kaW5nUGF5bWVudEJ5SWRcPg==</text>
@@ -1003,34 +1002,34 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBwYXlyb2xsR2l2aW5nOiByZXF1aXJlKCcuL3BheXJvbGxfZ2l2aW5nJykK</text>
+        <text encoding="base64">ICAgICAgICBicmVhawo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IHsKICBCdXR0b24sCiAgRm9ybSwKICBGb3JtR3JvdXAsCiAgRm9ybUNvbnRyb2wsCiAgQ29udHJvbExhYmVsLAogIEhlbHBCbG9jawp9IGZyb20gJ3JlYWN0LWJvb3RzdHJhcCcK</text>
+        <text encoding="base64">ICAgICAgbG9nZ2VyLnZlcmJvc2UoKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IHJlZ2lzdGVyUGVyc29uU2hhZG93TXV0YXRpb25HUUwgZnJvbSAnbW9kZWxzL1Blb3BsZS9tdXRhdGlvbnMvcmVnaXN0ZXJQZXJzb25TaGFkb3cuZ3FsJwo=</text>
+        <text encoding="base64">ICBwYXlyb2xsR2l2aW5nOiByZXF1aXJlKCcuL3BheXJvbGxfZ2l2aW5nJykK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IHtNYXB9IGZyb20gJ2ltbXV0YWJsZScKCmltcG9ydCB2YWxpZGF0ZSBmcm9tICdoZWxwZXJzL3ZhbGlkYXRlJwppbXBvcnQge1BlcnNvbiBhcyBQZXJzb25SZWNvcmR9IGZyb20gJ21vZGVscy9QZW9wbGUvc2NoZW1hJwoK</text>
+        <text encoding="base64">aW1wb3J0IHsKICBCdXR0b24sCiAgRm9ybSwKICBGb3JtR3JvdXAsCiAgRm9ybUNvbnRyb2wsCiAgQ29udHJvbExhYmVsLAogIEhlbHBCbG9jawp9IGZyb20gJ3JlYWN0LWJvb3RzdHJhcCcK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IHthbGxQYXltZW50c01hbmFnZXJzfSBmcm9tICdtb2RlbHMvUGF5bWVudHMnCmltcG9ydCB7YWxsUGxlZGdlc01hbmFnZXJzfSBmcm9tICdtb2RlbHMvUGxlZGdlcycKaW1wb3J0IHtnZXRQZXJzb259IGZyb20gJ21vZGVscy9QZW9wbGUnCg==</text>
+        <text encoding="base64">aW1wb3J0IHJlZ2lzdGVyUGVyc29uU2hhZG93TXV0YXRpb25HUUwgZnJvbSAnbW9kZWxzL1Blb3BsZS9tdXRhdGlvbnMvcmVnaXN0ZXJQZXJzb25TaGFkb3cuZ3FsJwo=</text>
       </register>
       <register name="u" type="4">
         <text>uu</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IHtMaW5rfSBmcm9tICdyZWFjdC1yb3V0ZXInCg==</text>
+        <text encoding="base64">aW1wb3J0IHtNYXB9IGZyb20gJ2ltbXV0YWJsZScKCmltcG9ydCB2YWxpZGF0ZSBmcm9tICdoZWxwZXJzL3ZhbGlkYXRlJwppbXBvcnQge1BlcnNvbiBhcyBQZXJzb25SZWNvcmR9IGZyb20gJ21vZGVscy9QZW9wbGUvc2NoZW1hJwoK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IEZvbnRBd2Vzb21lIGZyb20gJ3JlYWN0LWZvbnRhd2Vzb21lJwo=</text>
+        <text encoding="base64">aW1wb3J0IHthbGxQYXltZW50c01hbmFnZXJzfSBmcm9tICdtb2RlbHMvUGF5bWVudHMnCmltcG9ydCB7YWxsUGxlZGdlc01hbmFnZXJzfSBmcm9tICdtb2RlbHMvUGxlZGdlcycKaW1wb3J0IHtnZXRQZXJzb259IGZyb20gJ21vZGVscy9QZW9wbGUnCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly8gVUkgdG8gYWRkIGEgbmV3IFBlcnNvbiB0byB0aGUgZGIuIEN1cnJlbnQgaW50ZW5kZWQgdXNlIGNhc2UgaXMgaWYgdGhlcmUncyBhbgovLyB1bmtub3duIHBlcnNvbiBmb3VuZCBpbiBhIHBheXJvbGwgZ2l2aW5nIGltcG9ydC4gQ2FuIGJlIHJlYWNoZWQgZnJvbQovLyAvYWRtaW4vY3JlYXRlLXBlcnNvbi4KLy8gVE9ETzogdGhpcyBpcyBub3QgdmVyeSBEUlkgY29tcGFyZWQgdGhlIHJlZ2lzdGVyIHBlcnNvbiBjb21wb25lbnQKLy8gVE9ETzogY291bGQgdXNlIG1vcmUgaW1tdXRhYmxlcwo=</text>
+        <text encoding="base64">aW1wb3J0IHtMaW5rfSBmcm9tICdyZWFjdC1yb3V0ZXInCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBnZXRQZXJzb24oKSwKICBhbGxQYXltZW50c01hbmFnZXJzKCksCiAgYWxsUGxlZGdlc01hbmFnZXJzKCksCg==</text>
+        <text encoding="base64">aW1wb3J0IEZvbnRBd2Vzb21lIGZyb20gJ3JlYWN0LWZvbnRhd2Vzb21lJwo=</text>
       </register>
       <register name=":" type="4">
         <text>w!</text>
