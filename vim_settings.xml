@@ -111,11 +111,11 @@
         <mark key="^" line="179" column="35" />
         <mark key="." line="179" column="35" />
       </file>
-      <file name="$USER_HOME$/cea/parfit/services/payments/handlers/payment.js" timestamp="1536930346706">
-        <mark key="[" line="47" column="27" />
-        <mark key="]" line="48" column="12" />
-        <mark key="^" line="48" column="12" />
-        <mark key="." line="48" column="12" />
+      <file name="$USER_HOME$/cea/parfit/services/payments/handlers/payment.js" timestamp="1536936589854">
+        <mark key="[" line="47" column="21" />
+        <mark key="]" line="47" column="65" />
+        <mark key="^" line="47" column="65" />
+        <mark key="." line="47" column="65" />
       </file>
       <file name="$USER_HOME$/cea/aletheia/app/models/Auth/mutations/resetPassword.gql" timestamp="1534382637869">
         <mark key="[" line="0" column="35" />
@@ -200,13 +200,13 @@
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/cea/parfit/services/payments/handlers/xero/helpers.js" timestamp="1536935801299">
+      <file name="$USER_HOME$/cea/parfit/services/payments/handlers/xero/helpers.js" timestamp="1536938266556">
         <mark key="a" line="183" column="28" />
-        <mark key="'" line="6" column="0" />
-        <mark key="[" line="206" column="38" />
-        <mark key="]" line="206" column="40" />
-        <mark key="^" line="206" column="40" />
-        <mark key="." line="206" column="40" />
+        <mark key="'" line="211" column="66" />
+        <mark key="[" line="211" column="19" />
+        <mark key="]" line="211" column="20" />
+        <mark key="^" line="211" column="29" />
+        <mark key="." line="211" column="20" />
       </file>
       <file name="$USER_HOME$/Documents/cea/Forum/Forum/packages/lesswrong/components/form-components/MultiSelectButtons.jsx" timestamp="1532126295932">
         <mark key="[" line="48" column="63" />
@@ -244,13 +244,13 @@
         <mark key="." line="22" column="15" />
         <mark key="^" line="22" column="15" />
       </file>
-      <file name="$USER_HOME$/cea/parfit/services/payments/handlers/xero/index.js" timestamp="1536931757276">
+      <file name="$USER_HOME$/cea/parfit/services/payments/handlers/xero/index.js" timestamp="1536937260670">
         <mark key="'" line="51" column="9" />
-        <mark key="[" line="41" column="6" />
+        <mark key="[" line="43" column="59" />
         <mark key="k" line="73" column="4" />
-        <mark key="]" line="41" column="33" />
-        <mark key="^" line="41" column="33" />
-        <mark key="." line="41" column="33" />
+        <mark key="]" line="44" column="43" />
+        <mark key="^" line="44" column="43" />
+        <mark key="." line="44" column="43" />
       </file>
       <file name="$USER_HOME$/Documents/cea/predictive-altruism/packages/predictive-altruism/lib/components/movies/Question.jsx" timestamp="1531614638857">
         <mark key="[" line="20" column="39" />
@@ -732,7 +732,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="65" column="0" filename="$USER_HOME$/cea/parfit/migrations/20180913122130_shadow_register_no_email_up.sql" />
       <jump line="61" column="0" filename="$USER_HOME$/cea/parfit/migrations/20180913122130_shadow_register_no_email_up.sql" />
       <jump line="83" column="29" filename="$USER_HOME$/cea/parfit/db_tests/person_registration_tests.sql" />
       <jump line="14" column="0" filename="$USER_HOME$/cea/parfit/db_tests/person_registration_tests.sql" />
@@ -832,6 +831,7 @@
       <jump line="12" column="22" filename="$USER_HOME$/cea/parfit/seeds/data/payments.xero_account.sql" />
       <jump line="183" column="28" filename="$USER_HOME$/cea/parfit/services/payments/handlers/xero/helpers.js" />
       <jump line="6" column="0" filename="$USER_HOME$/cea/parfit/services/payments/handlers/xero/helpers.js" />
+      <jump line="211" column="66" filename="$USER_HOME$/cea/parfit/services/payments/handlers/xero/helpers.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -893,7 +893,7 @@
         <text>.nn</text>
       </register>
       <register name="*" type="4">
-        <text>()</text>
+        <text>already have contact in xero for Person Id ${}</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -1002,7 +1002,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>stripe</text>
+        <text>ve</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDw0MDEwXD4=</text>
@@ -1020,35 +1020,35 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">KCdjZWEtdWsnLCAnb2ZmbGluZScsICcyMDAwJyksCignY2VhLXVzJywgJ29mZmxpbmUnLCAnNDAxMCcpLAogICgnZGVtbycsICdvZmZsaW5lJywgJzEzMCcpCg==</text>
+      <register name="1" type="4">
+        <text>already have contact in xero for Person Id ${}</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">KCdjZWEtdWsnLCAnb2ZmbGluZScsICcyMDAwJyksCignY2VhLXVzJywgJ29mZmxpbmUnLCAnNDAxMCcpLAogICgnZGVtbycsICdvZmZsaW5lJywgJzEzMCcpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBicmVhawo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgbG9nZ2VyLnZlcmJvc2UoKQo=</text>
+        <text encoding="base64">ICAgICAgICBicmVhawo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBwYXlyb2xsR2l2aW5nOiByZXF1aXJlKCcuL3BheXJvbGxfZ2l2aW5nJykK</text>
+        <text encoding="base64">ICAgICAgbG9nZ2VyLnZlcmJvc2UoKQo=</text>
       </register>
       <register name="u" type="4">
         <text>uu</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IHsKICBCdXR0b24sCiAgRm9ybSwKICBGb3JtR3JvdXAsCiAgRm9ybUNvbnRyb2wsCiAgQ29udHJvbExhYmVsLAogIEhlbHBCbG9jawp9IGZyb20gJ3JlYWN0LWJvb3RzdHJhcCcK</text>
+        <text encoding="base64">ICBwYXlyb2xsR2l2aW5nOiByZXF1aXJlKCcuL3BheXJvbGxfZ2l2aW5nJykK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IHJlZ2lzdGVyUGVyc29uU2hhZG93TXV0YXRpb25HUUwgZnJvbSAnbW9kZWxzL1Blb3BsZS9tdXRhdGlvbnMvcmVnaXN0ZXJQZXJzb25TaGFkb3cuZ3FsJwo=</text>
+        <text encoding="base64">aW1wb3J0IHsKICBCdXR0b24sCiAgRm9ybSwKICBGb3JtR3JvdXAsCiAgRm9ybUNvbnRyb2wsCiAgQ29udHJvbExhYmVsLAogIEhlbHBCbG9jawp9IGZyb20gJ3JlYWN0LWJvb3RzdHJhcCcK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IHtNYXB9IGZyb20gJ2ltbXV0YWJsZScKCmltcG9ydCB2YWxpZGF0ZSBmcm9tICdoZWxwZXJzL3ZhbGlkYXRlJwppbXBvcnQge1BlcnNvbiBhcyBQZXJzb25SZWNvcmR9IGZyb20gJ21vZGVscy9QZW9wbGUvc2NoZW1hJwoK</text>
+        <text encoding="base64">aW1wb3J0IHJlZ2lzdGVyUGVyc29uU2hhZG93TXV0YXRpb25HUUwgZnJvbSAnbW9kZWxzL1Blb3BsZS9tdXRhdGlvbnMvcmVnaXN0ZXJQZXJzb25TaGFkb3cuZ3FsJwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IHthbGxQYXltZW50c01hbmFnZXJzfSBmcm9tICdtb2RlbHMvUGF5bWVudHMnCmltcG9ydCB7YWxsUGxlZGdlc01hbmFnZXJzfSBmcm9tICdtb2RlbHMvUGxlZGdlcycKaW1wb3J0IHtnZXRQZXJzb259IGZyb20gJ21vZGVscy9QZW9wbGUnCg==</text>
+        <text encoding="base64">aW1wb3J0IHtNYXB9IGZyb20gJ2ltbXV0YWJsZScKCmltcG9ydCB2YWxpZGF0ZSBmcm9tICdoZWxwZXJzL3ZhbGlkYXRlJwppbXBvcnQge1BlcnNvbiBhcyBQZXJzb25SZWNvcmR9IGZyb20gJ21vZGVscy9QZW9wbGUvc2NoZW1hJwoK</text>
       </register>
       <register name=":" type="4">
         <text>w!</text>
@@ -1100,12 +1100,12 @@
         <entry>action SplitVertically</entry>
         <entry>action NewFile</entry>
         <entry>source ~/.ideavimrc</entry>
-        <entry>action Refactorings.QuickListPopupAction</entry>
         <entry>action CommentByLineComment</entry>
         <entry>action GotoFile</entry>
         <entry>action NextSplitter</entry>
         <entry>action FindInPath</entry>
         <entry>action GotoDeclaration</entry>
+        <entry>action Refactorings.QuickListPopupAction</entry>
         <entry>w!</entry>
       </history-cmd>
       <history-expr />
