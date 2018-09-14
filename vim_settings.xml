@@ -374,13 +374,6 @@
         <mark key="^" line="31" column="13" />
         <mark key="." line="31" column="13" />
       </file>
-      <file name="$USER_HOME$/cea/aletheia/app/containers/Admin/AdminPayrollGiving/Providers/index.js" timestamp="1536679685628">
-        <mark key="'" line="6" column="25" />
-        <mark key="[" line="39" column="8" />
-        <mark key="]" line="39" column="7" />
-        <mark key="." line="39" column="7" />
-        <mark key="^" line="39" column="7" />
-      </file>
       <file name="$USER_HOME$/cea/aletheia/app/models/People/mutations/registerPersonShadow.gql" timestamp="1536855586298">
         <mark key="'" line="23" column="0" />
         <mark key="[" line="23" column="0" />
@@ -549,6 +542,12 @@
         <mark key="." line="11" column="5" />
         <mark key="^" line="8" column="47" />
       </file>
+      <file name="$USER_HOME$/cea/parfit/services/payments/handlers/index.js" timestamp="1536922267640">
+        <mark key="[" line="9" column="31" />
+        <mark key="]" line="10" column="43" />
+        <mark key="^" line="10" column="43" />
+        <mark key="." line="10" column="43" />
+      </file>
       <file name="$USER_HOME$/cea/aletheia/app/containers/Admin/AdminPayrollGiving/parsingUtilities.js" timestamp="1536683030276">
         <mark key="'" line="2" column="36" />
         <mark key="[" line="2" column="13" />
@@ -572,7 +571,7 @@
         <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/cea/aletheia/package.json" timestamp="1535069355579">
-        <mark key="'" line="330" column="5" />
+        <mark key="'" line="329" column="5" />
       </file>
       <file name="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/common/Meta.jsx" timestamp="1535997604331">
         <mark key="[" line="18" column="0" />
@@ -942,7 +941,7 @@
         <text encoding="base64">ICBncmFwaHFsKHJlZ2lzdGVyUGVyc29uU2hhZG93TXV0YXRpb25HUUwsIHsKICAgIHByb3BzOiAoe211dGF0ZX0pID0+ICh7CiAgICAgIHJlZ2lzdGVyUGVyc29uU2hhZG93TXV0YXRpb246IG9wdGlvbnMgPT4gbXV0YXRlKHsKICAgICAgICB2YXJpYWJsZXM6IG9wdGlvbnMKICAgICAgfSkKICAgIH0pCiAgfSkK</text>
       </register>
       <register name=":" type="4">
-        <text>w!</text>
+        <text>action GotoFile</text>
       </register>
     </registers>
     <search>
@@ -996,8 +995,8 @@
         <entry>action Refactorings.QuickListPopupAction</entry>
         <entry>action FindInPath</entry>
         <entry>action CommentByLineComment</entry>
-        <entry>action GotoFile</entry>
         <entry>w!</entry>
+        <entry>action GotoFile</entry>
       </history-cmd>
       <history-expr />
       <history-input />
