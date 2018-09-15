@@ -616,6 +616,13 @@
         <mark key="." line="18" column="0" />
         <mark key="^" line="9" column="48" />
       </file>
+      <file name="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" timestamp="1537043160952">
+        <mark key="'" line="124" column="0" />
+        <mark key="[" line="50" column="14" />
+        <mark key="]" line="50" column="26" />
+        <mark key="." line="50" column="26" />
+        <mark key="^" line="50" column="26" />
+      </file>
       <file name="$USER_HOME$/cea/effectivealtruism-org-static/.gitignore" timestamp="1535721542430">
         <mark key="[" line="12" column="5" />
         <mark key="]" line="13" column="4" />
@@ -653,32 +660,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="61" column="0" filename="$USER_HOME$/cea/parfit/migrations/20180913122130_shadow_register_no_email_up.sql" />
-      <jump line="83" column="29" filename="$USER_HOME$/cea/parfit/db_tests/person_registration_tests.sql" />
-      <jump line="14" column="0" filename="$USER_HOME$/cea/parfit/db_tests/person_registration_tests.sql" />
-      <jump line="4" column="38" filename="$USER_HOME$/cea/parfit/db_tests/person_registration_tests.sql" />
-      <jump line="91" column="0" filename="$USER_HOME$/cea/parfit/db_tests/person_registration_tests.sql" />
-      <jump line="10" column="2" filename="$USER_HOME$/cea/parfit/db_tests/person_registration_tests.sql" />
-      <jump line="9" column="2" filename="$USER_HOME$/cea/parfit/db_tests/person_registration_tests.sql" />
-      <jump line="18" column="2" filename="$USER_HOME$/cea/parfit/db_tests/person_registration_tests.sql" />
-      <jump line="23" column="105" filename="$USER_HOME$/cea/parfit/db_tests/person_registration_tests.sql" />
-      <jump line="12" column="4" filename="$USER_HOME$/cea/parfit/migrations/20180913122130_shadow_register_no_email_up.sql" />
-      <jump line="6" column="19" filename="$USER_HOME$/cea/parfit/migrations/20180913122130_shadow_register_no_email_up.sql" />
-      <jump line="18" column="0" filename="$USER_HOME$/cea/parfit/migrations/20180913122130_shadow_register_no_email_up.sql" />
-      <jump line="24" column="0" filename="$USER_HOME$/cea/parfit/migrations/20180913122130_shadow_register_no_email_up.sql" />
-      <jump line="31" column="0" filename="$USER_HOME$/cea/parfit/migrations/20180913122130_shadow_register_no_email_up.sql" />
-      <jump line="41" column="17" filename="$USER_HOME$/cea/parfit/migrations/20180913122130_shadow_register_no_email_up.sql" />
-      <jump line="29" column="4" filename="$USER_HOME$/cea/parfit/migrations/20180913122130_shadow_register_no_email_up.sql" />
-      <jump line="52" column="13" filename="$USER_HOME$/cea/parfit/migrations/20180913122130_shadow_register_no_email_up.sql" />
-      <jump line="150" column="0" filename="$USER_HOME$/cea/parfit/migrations/20170901171427_refactor_person_insertion_up.sql" />
-      <jump line="85" column="18" filename="$USER_HOME$/cea/parfit/migrations/20180913122130_shadow_register_no_email_up.sql" />
-      <jump line="179" column="23" filename="$USER_HOME$/cea/parfit/migrations/20170105122000_authentication_up.sql" />
-      <jump line="105" column="0" filename="$USER_HOME$/cea/parfit/migrations/20180913122130_shadow_register_no_email_down.sql" />
-      <jump line="136" column="47" filename="$USER_HOME$/cea/parfit/migrations/20170901171427_refactor_person_insertion_up.sql" />
-      <jump line="43" column="0" filename="$USER_HOME$/cea/parfit/migrations/20180913122130_shadow_register_no_email_down.sql" />
-      <jump line="140" column="0" filename="$USER_HOME$/cea/parfit/migrations/20170901171427_refactor_person_insertion_up.sql" />
-      <jump line="157" column="0" filename="$USER_HOME$/cea/parfit/migrations/20170901171427_refactor_person_insertion_up.sql" />
-      <jump line="160" column="0" filename="$USER_HOME$/cea/parfit/migrations/20170901171427_refactor_person_insertion_up.sql" />
       <jump line="163" column="0" filename="$USER_HOME$/cea/parfit/migrations/20170901171427_refactor_person_insertion_up.sql" />
       <jump line="174" column="0" filename="$USER_HOME$/cea/parfit/migrations/20170901171427_refactor_person_insertion_up.sql" />
       <jump line="197" column="0" filename="$USER_HOME$/cea/parfit/migrations/20170901171427_refactor_person_insertion_up.sql" />
@@ -753,6 +734,32 @@
       <jump line="183" column="28" filename="$USER_HOME$/cea/parfit/services/payments/handlers/xero/helpers.js" />
       <jump line="6" column="0" filename="$USER_HOME$/cea/parfit/services/payments/handlers/xero/helpers.js" />
       <jump line="211" column="66" filename="$USER_HOME$/cea/parfit/services/payments/handlers/xero/helpers.js" />
+      <jump line="55" column="3" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" />
+      <jump line="397" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" />
+      <jump line="396" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" />
+      <jump line="372" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" />
+      <jump line="347" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" />
+      <jump line="333" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" />
+      <jump line="323" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" />
+      <jump line="261" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" />
+      <jump line="233" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" />
+      <jump line="209" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" />
+      <jump line="187" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" />
+      <jump line="161" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" />
+      <jump line="152" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" />
+      <jump line="133" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" />
+      <jump line="125" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" />
+      <jump line="121" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" />
+      <jump line="83" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" />
+      <jump line="87" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" />
+      <jump line="90" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" />
+      <jump line="106" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" />
+      <jump line="108" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" />
+      <jump line="110" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" />
+      <jump line="113" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" />
+      <jump line="115" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" />
+      <jump line="118" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" />
+      <jump line="123" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -928,8 +935,8 @@
       <register name="/" type="4">
         <text encoding="base64">XDw0MDEwXD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgbG9nZ2VyLndhcm4oYEFscmVhZHkgaGFkIGNvbnRhY3QgaW4geGVybyBmb3IgUGVyc29uIElkICR7UGVyc29uLmlkfWApCiAgICAgIFhlcm9Db250YWN0ID0gYXdhaXQgeGVyby5jb250YWN0cy5nZXQoewogICAgICAgIHdoZXJlOiBgTmFtZT09IiR7UGVyc29uLmZ1bGxfbmFtZX0iYAogICAgICB9KS50aGVuKENvbnRhY3RzID0+IENvbnRhY3RzWzBdKQogICAgfSBlbHNlIHsKICAgICAgdGhyb3cgZXJyCiAgICB9Cg==</text>
+      <register name="0" type="4">
+        <text>reddit_data_account',</text>
       </register>
       <register name="p" type="4">
         <keys>
@@ -1022,11 +1029,11 @@
         <entry>action NewFile</entry>
         <entry>source ~/.ideavimrc</entry>
         <entry>action CommentByLineComment</entry>
-        <entry>action NextSplitter</entry>
         <entry>action FindInPath</entry>
         <entry>action GotoDeclaration</entry>
         <entry>action Refactorings.QuickListPopupAction</entry>
         <entry>action GotoFile</entry>
+        <entry>action NextSplitter</entry>
         <entry>w!</entry>
       </history-cmd>
       <history-expr />
