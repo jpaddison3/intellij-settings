@@ -111,6 +111,12 @@
         <mark key="^" line="13" column="31" />
         <mark key="." line="13" column="31" />
       </file>
+      <file name="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/lib/collections/posts/custom_fields.js" timestamp="1537045267563">
+        <mark key="[" line="414" column="28" />
+        <mark key="]" line="414" column="29" />
+        <mark key="^" line="412" column="28" />
+        <mark key="." line="414" column="29" />
+      </file>
       <file name="$USER_HOME$/cea/parfit/migrations/20180902115251_gwwc_stats_up.sql" timestamp="1536661521862">
         <mark key="'" line="309" column="2" />
       </file>
@@ -309,6 +315,9 @@
         <mark key="^" line="4" column="45" />
         <mark key="." line="0" column="46" />
       </file>
+      <file name="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/comments/CommentsViews.jsx" timestamp="1537045118307">
+        <mark key="'" line="15" column="15" />
+      </file>
       <file name="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/scripts/eafIBetaInvites.js" timestamp="1536768846624">
         <mark key="[" line="13" column="57" />
         <mark key="]" line="13" column="59" />
@@ -375,6 +384,13 @@
         <mark key="]" line="23" column="65" />
         <mark key="^" line="23" column="65" />
         <mark key="." line="23" column="65" />
+      </file>
+      <file name="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/comments/CommentsNode.jsx" timestamp="1537045659561">
+        <mark key="'" line="89" column="6" />
+        <mark key="[" line="86" column="16" />
+        <mark key="]" line="86" column="21" />
+        <mark key="^" line="86" column="21" />
+        <mark key="." line="86" column="21" />
       </file>
       <file name="$USER_HOME$/Documents/cea/Forum/Forum/packages/lesswrong/lib/scripts/configuration.js" timestamp="1531511486887">
         <mark key="[" line="2" column="48" />
@@ -459,6 +475,15 @@
         <mark key="." line="43" column="20" />
         <mark key="^" line="43" column="20" />
       </file>
+      <file name="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/comments/RecentComments.jsx" timestamp="1537045751184">
+        <mark key="'" line="16" column="14" />
+      </file>
+      <file name="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/lib/collections/comments/custom_fields.js" timestamp="1537045237684">
+        <mark key="[" line="26" column="27" />
+        <mark key="]" line="26" column="28" />
+        <mark key="^" line="26" column="28" />
+        <mark key="." line="26" column="28" />
+      </file>
       <file name="$USER_HOME$/Documents/cea/Forum/Forum/packages/lesswrong/themes/forumTheme.js" timestamp="1532135174113">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -505,7 +530,7 @@
       <file name="$USER_HOME$/cea/Forum/Forum/node_modules/draft-js-resizeable-plugin/lib/index.js" timestamp="1536084318531">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/cea/Forum/Forum/settings-prod.json" timestamp="1536770809294">
+      <file name="$USER_HOME$/cea/Forum/Forum/settings-prod.json" timestamp="1537045551465">
         <mark key="'" line="82" column="15" />
         <mark key="[" line="74" column="5" />
         <mark key="]" line="74" column="10" />
@@ -660,13 +685,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="163" column="0" filename="$USER_HOME$/cea/parfit/migrations/20170901171427_refactor_person_insertion_up.sql" />
-      <jump line="174" column="0" filename="$USER_HOME$/cea/parfit/migrations/20170901171427_refactor_person_insertion_up.sql" />
-      <jump line="197" column="0" filename="$USER_HOME$/cea/parfit/migrations/20170901171427_refactor_person_insertion_up.sql" />
-      <jump line="75" column="0" filename="$USER_HOME$/cea/parfit/migrations/20180913122130_shadow_register_no_email_down.sql" />
-      <jump line="106" column="0" filename="$USER_HOME$/cea/parfit/migrations/20180913122130_shadow_register_no_email_up.sql" />
-      <jump line="17" column="4" filename="$USER_HOME$/cea/parfit/migrations/20180913122130_shadow_register_no_email_down.sql" />
-      <jump line="5" column="15" filename="$USER_HOME$/cea/parfit/db_tests/person_registration_tests.sql" />
       <jump line="63" column="33" filename="$USER_HOME$/cea/parfit/db_tests/person_registration_tests.sql" />
       <jump line="74" column="33" filename="$USER_HOME$/cea/parfit/db_tests/person_registration_tests.sql" />
       <jump line="93" column="0" filename="$USER_HOME$/cea/parfit/migrations/20180913122130_shadow_register_no_email_up.sql" />
@@ -760,6 +778,13 @@
       <jump line="115" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" />
       <jump line="118" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" />
       <jump line="123" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" />
+      <jump line="73" column="6" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/comments/CommentsViews.jsx" />
+      <jump line="57" column="37" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/comments/CommentsViews.jsx" />
+      <jump line="15" column="15" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/comments/CommentsViews.jsx" />
+      <jump line="80" column="6" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/comments/CommentsNode.jsx" />
+      <jump line="86" column="16" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/comments/CommentsNode.jsx" />
+      <jump line="89" column="6" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/comments/CommentsNode.jsx" />
+      <jump line="16" column="14" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/comments/RecentComments.jsx" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -933,10 +958,10 @@
         <text>ve</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDw0MDEwXD4=</text>
+        <text encoding="base64">XDxjbGFzc2VzXD4=</text>
       </register>
-      <register name="0" type="4">
-        <text>reddit_data_account',</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKCdoZXJlIDMnKQo=</text>
       </register>
       <register name="p" type="4">
         <keys>
@@ -979,13 +1004,13 @@
         <text encoding="base64">aW1wb3J0IHtNYXB9IGZyb20gJ2ltbXV0YWJsZScKCmltcG9ydCB2YWxpZGF0ZSBmcm9tICdoZWxwZXJzL3ZhbGlkYXRlJwppbXBvcnQge1BlcnNvbiBhcyBQZXJzb25SZWNvcmR9IGZyb20gJ21vZGVscy9QZW9wbGUvc2NoZW1hJwoK</text>
       </register>
       <register name=":" type="4">
-        <text>w!</text>
+        <text>action GotoFile</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDw0MDEwXD4=</last-search>
+      <last-search encoding="base64">XDxjbGFzc2VzXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDw0MDEwXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxjbGFzc2VzXD4=</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -993,8 +1018,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxoZWFkZXJcPg==</entry>
-        <entry encoding="base64">XDxhY3F1aXJlcl9kZWJpdF9mZWVfYW1vdW50XD4=</entry>
         <entry>aman</entry>
         <entry encoding="base64">XDxzaG93VmFsaWRhdGlvbkVycm9yc1w+</entry>
         <entry encoding="base64">XDxyZWdpc3RlclBlcnNvblNoYWRvd1w+</entry>
@@ -1013,6 +1036,8 @@
         <entry encoding="base64">XDxjcmVhdGVYZXJvSW52b2ljZUZyb21QYXltZW50XD4=</entry>
         <entry encoding="base64">XDx0ZXN0TmV3VW5wYWlkUGF5bWVudFw+</entry>
         <entry encoding="base64">XDw0MDEwXD4=</entry>
+        <entry>deleted</entry>
+        <entry encoding="base64">XDxjbGFzc2VzXD4=</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5hY3Rpb24gRmluZEluUGF0aA==</entry>
@@ -1029,12 +1054,12 @@
         <entry>action NewFile</entry>
         <entry>source ~/.ideavimrc</entry>
         <entry>action CommentByLineComment</entry>
-        <entry>action FindInPath</entry>
-        <entry>action GotoDeclaration</entry>
         <entry>action Refactorings.QuickListPopupAction</entry>
-        <entry>action GotoFile</entry>
         <entry>action NextSplitter</entry>
+        <entry>action FindInPath</entry>
         <entry>w!</entry>
+        <entry>action GotoDeclaration</entry>
+        <entry>action GotoFile</entry>
       </history-cmd>
       <history-expr />
       <history-input />
