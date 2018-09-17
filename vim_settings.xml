@@ -386,7 +386,7 @@
         <mark key="." line="23" column="65" />
       </file>
       <file name="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/comments/CommentsNode.jsx" timestamp="1537045659561">
-        <mark key="'" line="89" column="6" />
+        <mark key="'" line="88" column="6" />
         <mark key="[" line="86" column="16" />
         <mark key="]" line="86" column="21" />
         <mark key="^" line="86" column="21" />
@@ -530,12 +530,12 @@
       <file name="$USER_HOME$/cea/Forum/Forum/node_modules/draft-js-resizeable-plugin/lib/index.js" timestamp="1536084318531">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/cea/Forum/Forum/settings-prod.json" timestamp="1537045551465">
+      <file name="$USER_HOME$/cea/Forum/Forum/settings-prod.json" timestamp="1537171849895">
         <mark key="'" line="82" column="15" />
-        <mark key="[" line="74" column="5" />
-        <mark key="]" line="74" column="10" />
-        <mark key="." line="94" column="5" />
-        <mark key="^" line="88" column="17" />
+        <mark key="[" line="89" column="5" />
+        <mark key="]" line="89" column="12" />
+        <mark key="." line="89" column="12" />
+        <mark key="^" line="89" column="12" />
       </file>
       <file name="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/lib/collections/bans/callbacks.js" timestamp="1534546121052">
         <mark key="[" line="22" column="3" />
@@ -955,7 +955,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>ve</text>
+        <text>Benito</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjbGFzc2VzXD4=</text>
@@ -1004,7 +1004,7 @@
         <text encoding="base64">aW1wb3J0IHtNYXB9IGZyb20gJ2ltbXV0YWJsZScKCmltcG9ydCB2YWxpZGF0ZSBmcm9tICdoZWxwZXJzL3ZhbGlkYXRlJwppbXBvcnQge1BlcnNvbiBhcyBQZXJzb25SZWNvcmR9IGZyb20gJ21vZGVscy9QZW9wbGUvc2NoZW1hJwoK</text>
       </register>
       <register name=":" type="4">
-        <text>action GotoFile</text>
+        <text>w!</text>
       </register>
     </registers>
     <search>
@@ -1055,11 +1055,11 @@
         <entry>source ~/.ideavimrc</entry>
         <entry>action CommentByLineComment</entry>
         <entry>action Refactorings.QuickListPopupAction</entry>
-        <entry>action NextSplitter</entry>
         <entry>action FindInPath</entry>
-        <entry>w!</entry>
         <entry>action GotoDeclaration</entry>
         <entry>action GotoFile</entry>
+        <entry>action NextSplitter</entry>
+        <entry>w!</entry>
       </history-cmd>
       <history-expr />
       <history-input />
