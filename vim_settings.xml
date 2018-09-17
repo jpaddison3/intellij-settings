@@ -68,6 +68,11 @@
         <mark key="." line="3" column="37" />
         <mark key="^" line="3" column="37" />
       </file>
+      <file name="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/themes/lesswrongTheme.js" timestamp="1534896425110">
+        <mark key="'" line="48" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="53" />
+      </file>
       <file name="$USER_HOME$/Documents/cea/Forum/Forum/settings-staging.json" timestamp="1532648214179">
         <mark key="[" line="41" column="20" />
         <mark key="]" line="41" column="95" />
@@ -159,6 +164,11 @@
         <mark key="]" line="7" column="62" />
         <mark key="^" line="7" column="62" />
         <mark key="." line="7" column="62" />
+      </file>
+      <file name="$USER_HOME$/cea/aletheia/app/containers/Organizations/OrganizationsHome.jsx" timestamp="1535051397157">
+        <mark key="'" line="115" column="56" />
+        <mark key="[" line="67" column="47" />
+        <mark key="]" line="67" column="80" />
       </file>
       <file name="$USER_HOME$/cea/parfit/services/payments/handlers/stripe/helpers.js" timestamp="1536924672366">
         <mark key="'" line="17" column="0" />
@@ -408,6 +418,11 @@
       <file name="$USER_HOME$/cea/effectivealtruism-org-static/package.json" timestamp="1535721863400">
         <mark key="'" line="38" column="5" />
       </file>
+      <file name="$USER_HOME$/cea/Forum/Forum/package.json" timestamp="1537184871619">
+        <mark key="'" line="32" column="15" />
+        <mark key="[" line="66" column="5" />
+        <mark key="]" line="66" column="10" />
+      </file>
       <file name="$USER_HOME$/cea/parfit/db_tests/strong_passwords_tests.sql" timestamp="1536849500537" />
       <file name="$USER_HOME$/cea/grants-applications/checkForEmails.js" timestamp="1536579267120">
         <mark key="'" line="61" column="8" />
@@ -645,6 +660,11 @@
         <mark key="." line="18" column="0" />
         <mark key="^" line="9" column="48" />
       </file>
+      <file name="$USER_HOME$/cea/parfit/package.json" timestamp="1536659623116">
+        <mark key="'" line="31" column="29" />
+        <mark key="[" line="43" column="5" />
+        <mark key="]" line="43" column="30" />
+      </file>
       <file name="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" timestamp="1537043160952">
         <mark key="'" line="124" column="0" />
         <mark key="[" line="50" column="14" />
@@ -671,6 +691,9 @@
         <mark key="^" line="46" column="153" />
         <mark key="." line="46" column="153" />
       </file>
+      <file name="$USER_HOME$/cea/Forum/Forum/package-lock.json" timestamp="1537184722410">
+        <mark key="'" line="10035" column="22" />
+      </file>
       <file name="$USER_HOME$/Documents/cea/aletheia/app/models/Payments/queries/getPayments.gql" timestamp="1533336152317">
         <mark key="[" line="24" column="15" />
         <mark key="]" line="24" column="19" />
@@ -689,8 +712,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="63" column="33" filename="$USER_HOME$/cea/parfit/db_tests/person_registration_tests.sql" />
-      <jump line="74" column="33" filename="$USER_HOME$/cea/parfit/db_tests/person_registration_tests.sql" />
       <jump line="93" column="0" filename="$USER_HOME$/cea/parfit/migrations/20180913122130_shadow_register_no_email_up.sql" />
       <jump line="28" column="0" filename="$USER_HOME$/cea/parfit/migrations/20180413123749_auth_registration_utils_up.sql" />
       <jump line="86" column="2" filename="$USER_HOME$/cea/parfit/migrations/20180913122130_shadow_register_no_email_down.sql" />
@@ -789,6 +810,8 @@
       <jump line="86" column="16" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/comments/CommentsNode.jsx" />
       <jump line="89" column="6" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/comments/CommentsNode.jsx" />
       <jump line="16" column="14" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/comments/RecentComments.jsx" />
+      <jump line="10035" column="22" filename="$USER_HOME$/cea/Forum/Forum/package-lock.json" />
+      <jump line="32" column="15" filename="$USER_HOME$/cea/Forum/Forum/package.json" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -962,10 +985,10 @@
         <text>Benito</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxjbGFzc2VzXD4=</text>
+        <text>forms</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKCdoZXJlIDMnKQo=</text>
+      <register name="0" type="4">
+        <text>formsy</text>
       </register>
       <register name="p" type="4">
         <keys>
@@ -1008,13 +1031,13 @@
         <text encoding="base64">aW1wb3J0IHtNYXB9IGZyb20gJ2ltbXV0YWJsZScKCmltcG9ydCB2YWxpZGF0ZSBmcm9tICdoZWxwZXJzL3ZhbGlkYXRlJwppbXBvcnQge1BlcnNvbiBhcyBQZXJzb25SZWNvcmR9IGZyb20gJ21vZGVscy9QZW9wbGUvc2NoZW1hJwoK</text>
       </register>
       <register name=":" type="4">
-        <text>w!</text>
+        <text>action FindInPath</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxjbGFzc2VzXD4=</last-search>
+      <last-search>forms</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxjbGFzc2VzXD4=</last-pattern>
+      <last-pattern>forms</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -1022,8 +1045,6 @@
     </search>
     <history>
       <history-search>
-        <entry>aman</entry>
-        <entry encoding="base64">XDxzaG93VmFsaWRhdGlvbkVycm9yc1w+</entry>
         <entry encoding="base64">XDxyZWdpc3RlclBlcnNvblNoYWRvd1w+</entry>
         <entry encoding="base64">XDxmaWVsZHNcPg==</entry>
         <entry>register</entry>
@@ -1042,6 +1063,8 @@
         <entry encoding="base64">XDw0MDEwXD4=</entry>
         <entry>deleted</entry>
         <entry encoding="base64">XDxjbGFzc2VzXD4=</entry>
+        <entry>formsy</entry>
+        <entry>forms</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5hY3Rpb24gRmluZEluUGF0aA==</entry>
@@ -1059,11 +1082,11 @@
         <entry>source ~/.ideavimrc</entry>
         <entry>action CommentByLineComment</entry>
         <entry>action Refactorings.QuickListPopupAction</entry>
-        <entry>action FindInPath</entry>
         <entry>action GotoDeclaration</entry>
-        <entry>action GotoFile</entry>
-        <entry>action NextSplitter</entry>
         <entry>w!</entry>
+        <entry>action NextSplitter</entry>
+        <entry>action GotoFile</entry>
+        <entry>action FindInPath</entry>
       </history-cmd>
       <history-expr />
       <history-input />
