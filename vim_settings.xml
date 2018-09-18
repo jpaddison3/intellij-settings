@@ -71,6 +71,9 @@
         <mark key="." line="60" column="0" />
         <mark key="^" line="56" column="12" />
       </file>
+      <file name="$USER_HOME$/cea/parfit/migrations/20180413162955_gwwc_import_up.sql" timestamp="1537284728629">
+        <mark key="'" line="51" column="39" />
+      </file>
       <file name="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/lib/search/callbacks.js" timestamp="1535539698620">
         <mark key="'" line="19" column="0" />
         <mark key="[" line="15" column="2" />
@@ -252,8 +255,8 @@
         <mark key="^" line="0" column="6" />
         <mark key="." line="23" column="0" />
       </file>
-      <file name="$USER_HOME$/cea/parfit/migrations/20180413123749_auth_registration_utils_up.sql" timestamp="1537283985992">
-        <mark key="'" line="47" column="22" />
+      <file name="$USER_HOME$/cea/parfit/migrations/20180413123749_auth_registration_utils_up.sql" timestamp="1537285255232">
+        <mark key="'" line="61" column="0" />
         <mark key="[" line="28" column="23" />
         <mark key="]" line="28" column="52" />
         <mark key="." line="48" column="0" />
@@ -417,16 +420,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="14" column="0" filename="$USER_HOME$/cea/aletheia/app/containers/Admin/CreatePerson/CreatePersonForm.jsx" />
-      <jump line="107" column="11" filename="$USER_HOME$/cea/aletheia/app/containers/Admin/AdminPayrollGiving/MatchPersonModal.js" />
-      <jump line="101" column="13" filename="$USER_HOME$/cea/aletheia/app/containers/Admin/AdminPayrollGiving/MatchPersonModal.js" />
-      <jump line="91" column="22" filename="$USER_HOME$/cea/aletheia/app/containers/Admin/AdminPayrollGiving/index.jsx" />
-      <jump line="33" column="42" filename="$USER_HOME$/cea/aletheia/app/containers/Admin/AdminPayrollGiving/DropZone.jsx" />
-      <jump line="12" column="2" filename="$USER_HOME$/cea/parfit/services/payments/helpers.js" />
-      <jump line="14" column="2" filename="$USER_HOME$/cea/parfit/services/payments/helpers.js" />
-      <jump line="33" column="29" filename="$USER_HOME$/cea/parfit/services/payments/handlers/xero/index.js" />
-      <jump line="61" column="29" filename="$USER_HOME$/cea/parfit/services/payments/handlers/xero/index.js" />
-      <jump line="101" column="35" filename="$USER_HOME$/cea/parfit/services/payments/handlers/xero/index.js" />
       <jump line="62" column="31" filename="$USER_HOME$/cea/parfit/services/payments/handlers/xero/index.js" />
       <jump line="67" column="4" filename="$USER_HOME$/cea/parfit/services/payments/handlers/xero/index.js" />
       <jump line="43" column="9" filename="$USER_HOME$/cea/parfit/services/payments/handlers/xero/index.js" />
@@ -517,6 +510,16 @@
       <jump line="40" column="34" filename="$USER_HOME$/cea/parfit/migrations/20180913122130_shadow_register_no_email_up.sql" />
       <jump line="54" column="17" filename="$USER_HOME$/cea/parfit/migrations/20180913122130_shadow_register_no_email_up.sql" />
       <jump line="62" column="56" filename="$USER_HOME$/cea/parfit/migrations/20180913122130_shadow_register_no_email_up.sql" />
+      <jump line="0" column="0" filename="$USER_HOME$/cea/parfit/migrations/20180413162955_gwwc_import_up.sql" />
+      <jump line="1" column="0" filename="$USER_HOME$/cea/parfit/migrations/20180413162955_gwwc_import_up.sql" />
+      <jump line="20" column="0" filename="$USER_HOME$/cea/parfit/migrations/20180413162955_gwwc_import_up.sql" />
+      <jump line="24" column="22" filename="$USER_HOME$/cea/parfit/migrations/20180413162955_gwwc_import_up.sql" />
+      <jump line="51" column="39" filename="$USER_HOME$/cea/parfit/migrations/20180413162955_gwwc_import_up.sql" />
+      <jump line="16" column="0" filename="$USER_HOME$/cea/parfit/migrations/20180413123749_auth_registration_utils_up.sql" />
+      <jump line="21" column="0" filename="$USER_HOME$/cea/parfit/migrations/20180413123749_auth_registration_utils_up.sql" />
+      <jump line="27" column="0" filename="$USER_HOME$/cea/parfit/migrations/20180413123749_auth_registration_utils_up.sql" />
+      <jump line="55" column="0" filename="$USER_HOME$/cea/parfit/migrations/20180413123749_auth_registration_utils_up.sql" />
+      <jump line="61" column="0" filename="$USER_HOME$/cea/parfit/migrations/20180413123749_auth_registration_utils_up.sql" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -690,7 +693,7 @@
         <text encoding="base64">ID0gTlVMTA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxyZWdpc3Rlcl9wZXJzb25cPg==</text>
+        <text>find_or</text>
       </register>
       <register name="0" type="4">
         <text>find_or_register_person_shadow</text>
@@ -740,9 +743,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxyZWdpc3Rlcl9wZXJzb25cPg==</last-search>
+      <last-search>find_or</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxyZWdpc3Rlcl9wZXJzb25cPg==</last-pattern>
+      <last-pattern>find_or</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -750,8 +753,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxnZXRQZW5kaW5nUGF5bWVudEJ5SWRcPg==</entry>
-        <entry encoding="base64">XDx1cGRhdGVQYXltZW50U3RhdHVzXD4=</entry>
         <entry encoding="base64">XDxtYWtlSGFuZGxlclw+</entry>
         <entry encoding="base64">XDxjcmVhdGVYZXJvSW52b2ljZUZyb21QYXltZW50XD4=</entry>
         <entry encoding="base64">XDx0ZXN0TmV3VW5wYWlkUGF5bWVudFw+</entry>
@@ -770,6 +771,8 @@
         <entry encoding="base64">XDxwZW5kaW5nXD4=</entry>
         <entry encoding="base64">XDxyZWdpc3Rlcl9wZXJzb25fc2hhZG93XD4=</entry>
         <entry encoding="base64">XDxyZWdpc3Rlcl9wZXJzb25cPg==</entry>
+        <entry>create</entry>
+        <entry>find_or</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5hY3Rpb24gRmluZEluUGF0aA==</entry>
@@ -788,9 +791,9 @@
         <entry>action CommentByLineComment</entry>
         <entry>action Refactorings.QuickListPopupAction</entry>
         <entry>action GotoDeclaration</entry>
+        <entry>w!</entry>
         <entry>action NextSplitter</entry>
         <entry>action GotoFile</entry>
-        <entry>w!</entry>
         <entry>action FindInPath</entry>
       </history-cmd>
       <history-expr />
