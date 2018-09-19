@@ -556,11 +556,13 @@
         <mark key="." line="43" column="20" />
         <mark key="^" line="43" column="20" />
       </file>
-      <file name="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/posts/PostsViews.jsx" timestamp="1537363091880">
-        <mark key="[" line="13" column="43" />
-        <mark key="]" line="13" column="53" />
-        <mark key="." line="13" column="53" />
-        <mark key="^" line="13" column="53" />
+      <file name="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/posts/PostsViews.jsx" timestamp="1537372482687">
+        <mark key="a" line="111" column="72" />
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="111" column="73" />
+        <mark key="]" line="111" column="88" />
+        <mark key="." line="111" column="88" />
+        <mark key="^" line="111" column="88" />
       </file>
       <file name="$USER_HOME$/Documents/cea/Forum/Forum/packages/lesswrong/themes/forumTheme.js" timestamp="1532135174113">
         <mark key="[" line="0" column="0" />
@@ -636,6 +638,14 @@
       </file>
       <file name="$USER_HOME$/cea/parfit/services/payments/helpers.js" timestamp="1536930302599">
         <mark key="'" line="14" column="2" />
+      </file>
+      <file name="$USER_HOME$/cea/aletheia/app/containers/AdminPerson/index.jsx" timestamp="1535068985782">
+        <mark key="a" line="89" column="11" />
+        <mark key="'" line="87" column="11" />
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="26" column="43" />
+        <mark key="^" line="29" column="57" />
+        <mark key="." line="29" column="55" />
       </file>
       <file name="$USER_HOME$/Documents/cea/Forum/Forum/packages/lesswrong/components/common/NavigationMenu.jsx" timestamp="1532387949418">
         <mark key="[" line="18" column="0" />
@@ -840,8 +850,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="17" column="0" filename="$USER_HOME$/cea/parfit/services/payments/handlers/stripe/helpers.js" />
-      <jump line="57" column="0" filename="$USER_HOME$/cea/parfit/services/payments/handlers/stripe/helpers.js" />
       <jump line="23" column="10" filename="$USER_HOME$/cea/parfit/services/payments/handlers/stripe/helpers.js" />
       <jump line="25" column="30" filename="$USER_HOME$/cea/parfit/services/payments/handlers/stripe/helpers.js" />
       <jump line="129" column="27" filename="$USER_HOME$/cea/parfit/services/payments/handlers/stripe/helpers.js" />
@@ -940,6 +948,8 @@
       <jump line="0" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/sunshineDashboard/SunshineReportsItem.jsx" />
       <jump line="142" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/sunshineDashboard/SunshineReportsItem.jsx" />
       <jump line="108" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/sunshineDashboard/SunshineReportsItem.jsx" />
+      <jump line="111" column="72" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/posts/PostsViews.jsx" />
+      <jump line="0" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/posts/PostsViews.jsx" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1110,7 +1120,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>Forum</text>
+        <text>viewDataDict</text>
       </register>
       <register name="/" type="4">
         <text>fontDo</text>
@@ -1129,34 +1139,34 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGFmVGhlbWUgZnJvbSAnLi4vdGhlbWVzL2FsaWdubWVudEZvcnVtVGhlbWUnCg==</text>
+        <text encoding="base64">PT09PT09PQogICAgICAgICAgICAgICAgPExpbmsgdG89Ii9tZXRhIj5NZXRhPC9MaW5rPiB7IHRoaXMucmVuZGVyTWVudShwb3N0Vmlld1NlY3Rpb25zWyJtZXRhIl0pfQo+Pj4+Pj4+IGRldmVsCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gIkFjdGl2YXRlIHlvdXIgRUEgRm9ydW0gQWNjb3VudCI7Cg==</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBkZXZlbAo=</text>
+        <text encoding="base64">aW1wb3J0IGFmVGhlbWUgZnJvbSAnLi4vdGhlbWVzL2FsaWdubWVudEZvcnVtVGhlbWUnCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">PT09PT09PQo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gIkFjdGl2YXRlIHlvdXIgRUEgRm9ydW0gQWNjb3VudCI7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">PDw8PDw8PCAK</text>
+        <text encoding="base64">Pj4+Pj4+PiBkZXZlbAo=</text>
       </register>
       <register name="u" type="4">
         <text>uu</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">PDw8PDw8PCAKICAgICAgICByZXR1cm4gIkFjdGl2YXRlIHlvdXIgRUEgRm9ydW0gQWNjb3VudCI7Cg==</text>
+        <text encoding="base64">PT09PT09PQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">PDw8PDw8PCAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
+        <text encoding="base64">PDw8PDw8PCAKICAgICAgICByZXR1cm4gIkFjdGl2YXRlIHlvdXIgRUEgRm9ydW0gQWNjb3VudCI7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">PT09PT09PQphZGRSb3V0ZSh7IG5hbWU6ICdDb21tdW5pdHknLCBwYXRoOiAnL21ldGEnLCBjb21wb25lbnROYW1lOiAnTWV0YScsIHRpdGxlOiAiQ29tbXVuaXR5In0pCmFkZFJvdXRlKHsgbmFtZTogJ0V2ZW50c0RhaWx5JywgcGF0aDogJy9wYXN0RXZlbnRzJywgY29tcG9uZW50TmFtZTogJ0V2ZW50c0RhaWx5JywgdGl0bGU6ICJQYXN0IEV2ZW50cyBieSBEYXkifSkKYWRkUm91dGUoeyBuYW1lOiAnQ29tbXVuaXR5SG9tZScsIHBhdGg6ICcvY29tbXVuaXR5JywgY29tcG9uZW50TmFtZTogJ0NvbW11bml0eUhvbWUnLCB0aXRsZTogIkNvbW11bml0eSJ9KQphZGRSb3V0ZSh7IG5hbWU6ICdNZWV0dXBzSG9tZScsIHBhdGg6ICcvbWVldHVwcycsIGNvbXBvbmVudE5hbWU6ICdDb21tdW5pdHlIb21lJywgdGl0bGU6ICJDb21tdW5pdHkifSkKPj4+Pj4+PiBkZXZlbAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w!</text>
@@ -1212,8 +1222,8 @@
         <entry>action GotoDeclaration</entry>
         <entry>action CommentByLineComment</entry>
         <entry>action NextSplitter</entry>
-        <entry>action FindInPath</entry>
         <entry>action GotoFile</entry>
+        <entry>action FindInPath</entry>
         <entry>w!</entry>
       </history-cmd>
       <history-expr />
