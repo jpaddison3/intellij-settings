@@ -586,12 +586,12 @@
       <file name="$USER_HOME$/cea/Forum/Forum/node_modules/draft-js-resizeable-plugin/lib/index.js" timestamp="1536084318531">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/cea/Forum/Forum/settings-prod.json" timestamp="1537886248711">
-        <mark key="'" line="82" column="15" />
-        <mark key="[" line="115" column="12" />
-        <mark key="]" line="115" column="13" />
-        <mark key="." line="115" column="13" />
-        <mark key="^" line="130" column="3" />
+      <file name="$USER_HOME$/cea/Forum/Forum/settings-prod.json" timestamp="1537887377504">
+        <mark key="'" line="106" column="19" />
+        <mark key="[" line="121" column="17" />
+        <mark key="]" line="121" column="17" />
+        <mark key="." line="121" column="17" />
+        <mark key="^" line="121" column="17" />
       </file>
       <file name="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/lib/collections/bans/callbacks.js" timestamp="1534546121052">
         <mark key="[" line="22" column="3" />
@@ -785,7 +785,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="72" column="3" filename="$USER_HOME$/cea/parfit/migrations/20170105124000_payments_up.sql" />
       <jump line="47" column="22" filename="$USER_HOME$/cea/parfit/migrations/20180413123749_auth_registration_utils_up.sql" />
       <jump line="89" column="23" filename="$USER_HOME$/cea/parfit/migrations/20180913122130_shadow_register_no_email_up.sql" />
       <jump line="3" column="62" filename="$USER_HOME$/cea/parfit/migrations/20180913122130_shadow_register_no_email_up.sql" />
@@ -885,6 +884,7 @@
       <jump line="12" column="76" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/scripts/invites.js" />
       <jump line="19" column="2" filename="$USER_HOME$/cea/mandrill-mail-merge/mmerge-invite/template-launch.js" />
       <jump line="21" column="65" filename="$USER_HOME$/cea/mandrill-mail-merge/mmerge-invite/template-launch.js" />
+      <jump line="106" column="19" filename="$USER_HOME$/cea/Forum/Forum/settings-prod.json" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1058,7 +1058,7 @@
         <text encoding="base64">IEJlaG1hbg==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx1c2VybmFtZVNlY3Rpb25cPg==</text>
+        <text>Jan</text>
       </register>
       <register name="0" type="4">
         <text>marcin.kowrygo@gmail.com</text>
@@ -1108,9 +1108,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDx1c2VybmFtZVNlY3Rpb25cPg==</last-search>
+      <last-search>Jan</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx1c2VybmFtZVNlY3Rpb25cPg==</last-pattern>
+      <last-pattern>Jan</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -1118,7 +1118,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxjbGFzc2VzXD4=</entry>
         <entry>formsy</entry>
         <entry>forms</entry>
         <entry encoding="base64">XDxyb3dzXD4=</entry>
@@ -1138,6 +1137,7 @@
         <entry encoding="base64">IGE=</entry>
         <entry encoding="base64">IGEg</entry>
         <entry encoding="base64">XDx1c2VybmFtZVNlY3Rpb25cPg==</entry>
+        <entry>Jan</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5hY3Rpb24gRmluZEluUGF0aA==</entry>
