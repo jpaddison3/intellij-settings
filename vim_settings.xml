@@ -1104,7 +1104,7 @@
         <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
       </register>
       <register name=":" type="4">
-        <text>w!</text>
+        <text>action ReopenClosedTab</text>
       </register>
     </registers>
     <search>
@@ -1140,7 +1140,6 @@
         <entry>Jan</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5hY3Rpb24gRmluZEluUGF0aA==</entry>
         <entry encoding="base64">JzwsJz5zLycvIi9n</entry>
         <entry>73</entry>
         <entry>%s/;//g</entry>
@@ -1160,6 +1159,7 @@
         <entry>action NextSplitter</entry>
         <entry>action GotoFile</entry>
         <entry>w!</entry>
+        <entry>action ReopenClosedTab</entry>
       </history-cmd>
       <history-expr />
       <history-input />
