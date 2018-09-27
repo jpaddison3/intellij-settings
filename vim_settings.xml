@@ -586,11 +586,11 @@
       <file name="$USER_HOME$/cea/Forum/Forum/node_modules/draft-js-resizeable-plugin/lib/index.js" timestamp="1536084318531">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/cea/Forum/Forum/settings-prod.json" timestamp="1537887377504">
-        <mark key="'" line="106" column="19" />
-        <mark key="[" line="121" column="17" />
-        <mark key="]" line="121" column="17" />
-        <mark key="." line="121" column="17" />
+      <file name="$USER_HOME$/cea/Forum/Forum/settings-prod.json" timestamp="1538044133867">
+        <mark key="'" line="121" column="17" />
+        <mark key="[" line="126" column="14" />
+        <mark key="]" line="126" column="14" />
+        <mark key="." line="126" column="14" />
         <mark key="^" line="121" column="17" />
       </file>
       <file name="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/lib/collections/bans/callbacks.js" timestamp="1534546121052">
@@ -785,7 +785,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="47" column="22" filename="$USER_HOME$/cea/parfit/migrations/20180413123749_auth_registration_utils_up.sql" />
       <jump line="89" column="23" filename="$USER_HOME$/cea/parfit/migrations/20180913122130_shadow_register_no_email_up.sql" />
       <jump line="3" column="62" filename="$USER_HOME$/cea/parfit/migrations/20180913122130_shadow_register_no_email_up.sql" />
       <jump line="40" column="34" filename="$USER_HOME$/cea/parfit/migrations/20180913122130_shadow_register_no_email_up.sql" />
@@ -885,6 +884,7 @@
       <jump line="19" column="2" filename="$USER_HOME$/cea/mandrill-mail-merge/mmerge-invite/template-launch.js" />
       <jump line="21" column="65" filename="$USER_HOME$/cea/mandrill-mail-merge/mmerge-invite/template-launch.js" />
       <jump line="106" column="19" filename="$USER_HOME$/cea/Forum/Forum/settings-prod.json" />
+      <jump line="121" column="17" filename="$USER_HOME$/cea/Forum/Forum/settings-prod.json" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1055,10 +1055,10 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IEJlaG1hbg==</text>
+        <text>RistoUuk</text>
       </register>
       <register name="/" type="4">
-        <text>Jan</text>
+        <text>Rist</text>
       </register>
       <register name="0" type="4">
         <text>marcin.kowrygo@gmail.com</text>
@@ -1104,13 +1104,13 @@
         <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
       </register>
       <register name=":" type="4">
-        <text>action ReopenClosedTab</text>
+        <text>w!</text>
       </register>
     </registers>
     <search>
-      <last-search>Jan</last-search>
+      <last-search>Rist</last-search>
       <last-offset />
-      <last-pattern>Jan</last-pattern>
+      <last-pattern>Rist</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -1118,7 +1118,6 @@
     </search>
     <history>
       <history-search>
-        <entry>formsy</entry>
         <entry>forms</entry>
         <entry encoding="base64">XDxyb3dzXD4=</entry>
         <entry encoding="base64">XDx0ZXN0TmV3Vm9pZGVkUGF5bWVudFw+</entry>
@@ -1138,6 +1137,7 @@
         <entry encoding="base64">IGEg</entry>
         <entry encoding="base64">XDx1c2VybmFtZVNlY3Rpb25cPg==</entry>
         <entry>Jan</entry>
+        <entry>Rist</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLycvIi9n</entry>
@@ -1156,10 +1156,10 @@
         <entry>action GotoDeclaration</entry>
         <entry>action CommentByLineComment</entry>
         <entry>action FindInPath</entry>
-        <entry>action NextSplitter</entry>
         <entry>action GotoFile</entry>
-        <entry>w!</entry>
         <entry>action ReopenClosedTab</entry>
+        <entry>action NextSplitter</entry>
+        <entry>w!</entry>
       </history-cmd>
       <history-expr />
       <history-input />
