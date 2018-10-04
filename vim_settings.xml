@@ -361,11 +361,11 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/scripts/eafIBetaInvites.js" timestamp="1537884873199">
-        <mark key="[" line="14" column="70" />
-        <mark key="]" line="14" column="68" />
-        <mark key="." line="14" column="68" />
-        <mark key="^" line="14" column="68" />
+      <file name="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/scripts/eafIBetaInvites.js" timestamp="1538662169741">
+        <mark key="[" line="14" column="27" />
+        <mark key="]" line="14" column="26" />
+        <mark key="." line="14" column="26" />
+        <mark key="^" line="14" column="26" />
       </file>
       <file name="$USER_HOME$/cea/mandrill-mail-merge/.gitignore" timestamp="1535735614985">
         <mark key="[" line="7" column="12" />
@@ -1059,7 +1059,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>RistoUuk</text>
+        <text>Janique Behman</text>
       </register>
       <register name="/" type="4">
         <text>Rist</text>
@@ -1108,7 +1108,7 @@
         <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
       </register>
       <register name=":" type="4">
-        <text>action GotoFile</text>
+        <text>w!</text>
       </register>
     </registers>
     <search>
@@ -1161,9 +1161,9 @@
         <entry>action CommentByLineComment</entry>
         <entry>action FindInPath</entry>
         <entry>action ReopenClosedTab</entry>
+        <entry>action GotoFile</entry>
         <entry>action NextSplitter</entry>
         <entry>w!</entry>
-        <entry>action GotoFile</entry>
       </history-cmd>
       <history-expr />
       <history-input />
