@@ -116,13 +116,6 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/cea/parfit/migrations/20170105122000_authentication_up.sql" timestamp="1537286931880">
-        <mark key="'" line="179" column="23" />
-        <mark key="[" line="132" column="0" />
-        <mark key="]" line="132" column="31" />
-        <mark key="^" line="179" column="35" />
-        <mark key="." line="179" column="35" />
-      </file>
       <file name="$USER_HOME$/cea/parfit/services/payments/handlers/payment.js" timestamp="1537282748634">
         <mark key="[" line="43" column="0" />
         <mark key="]" line="43" column="0" />
@@ -235,11 +228,12 @@
         <mark key="." line="48" column="63" />
         <mark key="^" line="47" column="55" />
       </file>
-      <file name="$USER_HOME$/Documents/dotfiles/ideavimrc" timestamp="1536918530464">
-        <mark key="[" line="58" column="0" />
-        <mark key="]" line="58" column="1" />
-        <mark key="^" line="58" column="1" />
-        <mark key="." line="58" column="1" />
+      <file name="$USER_HOME$/Documents/dotfiles/ideavimrc" timestamp="1539124257594">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="57" column="0" />
+        <mark key="]" line="57" column="1" />
+        <mark key="^" line="57" column="1" />
+        <mark key="." line="57" column="1" />
       </file>
       <file name="$USER_HOME$/Documents/cea/Forum/Forum/packages/lesswrong/lib/scripts/invites.js" timestamp="1531951242014">
         <mark key="[" line="28" column="38" />
@@ -293,6 +287,9 @@
         <mark key="]" line="41" column="0" />
         <mark key="." line="41" column="0" />
         <mark key="^" line="43" column="33" />
+      </file>
+      <file name="$USER_HOME$/cea/parfit/migrations/20170901171427_refactor_person_insertion_up.sql" timestamp="1539123940153">
+        <mark key="'" line="91" column="19" />
       </file>
       <file name="$USER_HOME$/cea/aletheia/app/containers/Admin/AdminPayrollGiving/MatchPersonModal.js" timestamp="1536918753858">
         <mark key="'" line="101" column="13" />
@@ -377,13 +374,6 @@
         <mark key="[" line="0" column="45" />
         <mark key="]" line="0" column="46" />
         <mark key="." line="0" column="46" />
-      </file>
-      <file name="$USER_HOME$/cea/aletheia/app/containers/Dashboard/DashboardPledge/PledgeSummary.jsx" timestamp="1535451668682">
-        <mark key="'" line="151" column="98" />
-        <mark key="[" line="176" column="0" />
-        <mark key="]" line="176" column="0" />
-        <mark key="^" line="5" column="33" />
-        <mark key="." line="176" column="0" />
       </file>
       <file name="$USER_HOME$/cea/Forum/Forum/sample_settings.json" timestamp="1534980344661">
         <mark key="[" line="28" column="0" />
@@ -578,11 +568,11 @@
         <mark key="." line="70" column="17" />
         <mark key="^" line="70" column="17" />
       </file>
-      <file name="$USER_HOME$/cea/parfit/migrations/20180815173018_pledge_manager_down.sql" timestamp="1537287210503">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="2" />
-        <mark key="^" line="0" column="2" />
-        <mark key="." line="0" column="2" />
+      <file name="$USER_HOME$/cea/parfit/migrations/20180815173018_pledge_manager_down.sql" timestamp="1539123626244">
+        <mark key="[" line="0" column="4" />
+        <mark key="]" line="0" column="6" />
+        <mark key="^" line="0" column="6" />
+        <mark key="." line="0" column="6" />
       </file>
       <file name="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/Layout.jsx" timestamp="1537358257787">
         <mark key="'" line="0" column="0" />
@@ -717,7 +707,7 @@
         <mark key="'" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/cea/aletheia/package.json" timestamp="1535069355579">
-        <mark key="'" line="331" column="5" />
+        <mark key="'" line="326" column="5" />
       </file>
       <file name="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/common/Meta.jsx" timestamp="1535997604331">
         <mark key="[" line="18" column="0" />
@@ -789,13 +779,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="89" column="23" filename="$USER_HOME$/cea/parfit/migrations/20180913122130_shadow_register_no_email_up.sql" />
-      <jump line="3" column="62" filename="$USER_HOME$/cea/parfit/migrations/20180913122130_shadow_register_no_email_up.sql" />
-      <jump line="40" column="34" filename="$USER_HOME$/cea/parfit/migrations/20180913122130_shadow_register_no_email_up.sql" />
-      <jump line="62" column="56" filename="$USER_HOME$/cea/parfit/migrations/20180913122130_shadow_register_no_email_up.sql" />
-      <jump line="0" column="0" filename="$USER_HOME$/cea/parfit/migrations/20180413162955_gwwc_import_up.sql" />
-      <jump line="1" column="0" filename="$USER_HOME$/cea/parfit/migrations/20180413162955_gwwc_import_up.sql" />
-      <jump line="20" column="0" filename="$USER_HOME$/cea/parfit/migrations/20180413162955_gwwc_import_up.sql" />
       <jump line="24" column="22" filename="$USER_HOME$/cea/parfit/migrations/20180413162955_gwwc_import_up.sql" />
       <jump line="51" column="39" filename="$USER_HOME$/cea/parfit/migrations/20180413162955_gwwc_import_up.sql" />
       <jump line="16" column="0" filename="$USER_HOME$/cea/parfit/migrations/20180413123749_auth_registration_utils_up.sql" />
@@ -889,6 +872,13 @@
       <jump line="21" column="65" filename="$USER_HOME$/cea/mandrill-mail-merge/mmerge-invite/template-launch.js" />
       <jump line="106" column="19" filename="$USER_HOME$/cea/Forum/Forum/settings-prod.json" />
       <jump line="121" column="17" filename="$USER_HOME$/cea/Forum/Forum/settings-prod.json" />
+      <jump line="93" column="3" filename="$USER_HOME$/cea/parfit/migrations/20170901171427_refactor_person_insertion_up.sql" />
+      <jump line="142" column="29" filename="$USER_HOME$/cea/parfit/migrations/20170901171427_refactor_person_insertion_up.sql" />
+      <jump line="167" column="5" filename="$USER_HOME$/cea/parfit/migrations/20170901171427_refactor_person_insertion_up.sql" />
+      <jump line="184" column="29" filename="$USER_HOME$/cea/parfit/migrations/20170901171427_refactor_person_insertion_up.sql" />
+      <jump line="192" column="27" filename="$USER_HOME$/cea/parfit/migrations/20170901171427_refactor_person_insertion_up.sql" />
+      <jump line="91" column="19" filename="$USER_HOME$/cea/parfit/migrations/20170901171427_refactor_person_insertion_up.sql" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/dotfiles/ideavimrc" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1059,10 +1049,10 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>Rist</text>
+        <text encoding="base64">XDxyZWdpc3RyYXRpb25fbWV0aG9kXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHtlbWFpbDogImRhdmlzLmtpbmdzbGV5QGNlbnRyZWZvcmVmZmVjdGl2ZWFsdHJ1aXNtLm9yZyIsIHVzZXJuYW1lOiAiRGF2aXMgS2luZ3NsZXkifSwKICAgIHtlbWFpbDogImJlbi53ZXN0QGNlbnRyZWZvcmVmZmVjdGl2ZWFsdHJ1aXNtLm9yZyIsIHVzZXJuYW1lOiAiQmVuIFdlc3QifSwKICAgIHtlbWFpbDogImFhcm9uLmdlcnRsZXJAY2VudHJlZm9yZWZmZWN0aXZlYWx0cnVpc20ub3JnIiwgdXNlcm5hbWU6ICJBYXJvbiBHZXJ0bGVyIn0sCiAgICB7ZW1haWw6ICJqb3NoLmF4Zm9yZEBjZW50cmVmb3JlZmZlY3RpdmVhbHRydWlzbS5vcmciLCB1c2VybmFtZTogIkpvc2ggQXhmb3JkIn0K</text>
@@ -1108,13 +1098,13 @@
         <text encoding="base64">ICBjb25zdCB1c2VybmFtZVNlY3Rpb24gPSByb3cudXNlcm5hbWUgPwogICAgWwogICAgICBgVGhlIHVzZXJuYW1lIHdlIGhhdmUgZm9yIHlvdSBpcyAke3Jvdy51c2VybmFtZX0uIElmIHRoYXQncyBub3QgY29ycmVjdCBsZXRgLAogICAgICBgdXMga25vdyBhc2FwIHNvIHdlIGNhbiBjaGFuZ2UgaXQuIElmIHlvdSB3b3VsZCBsaWtlIHRvIGNoYW5nZSBpdCwgYWxzbyBmZWVsYCwKICAgICAgYGZyZWUgdG8gdGVsbCB1cyBub3cuYAogICAgXS5qb2luKCcgJykgOgogICAgWwogICAgICBgV2UncmUgbWlzc2luZyBhIHVzZXJuYW1lIGZvciB5b3UuIElmIHlvdSBkbyBoYXZlIGEgdXNlcm5hbWUgb24gdGhlYCwKICAgICAgYGN1cnJlbnQgZm9ydW0sIHBsZWFzZSBsZXQgdXMga25vdyBhc2FwIHNvIHdlIGNhbiBnZXQgeW91IG9udG8gdGhlIGxpc3QuYCwKICAgICAgYElmIHlvdSBkb24ndCBoYXZlIG9uZSwgY2FuIHlvdSBwbGVhc2UgdGVsbCB1cyBvbmUgeW91IHdvdWxkIGxpa2U/IEFsc28gY29uZmlybSB0aGlzIGlzYCwKICAgICAgYHRoZSBlbWFpbCB5b3UnZCBsaWtlIHRvIHJlZ2lzdGVyIHVuZGVyLmAKICAgIF0uam9pbignICcpCg==</text>
       </register>
       <register name=":" type="4">
-        <text>w!</text>
+        <text>action NextSplitter</text>
       </register>
     </registers>
     <search>
-      <last-search>Rist</last-search>
+      <last-search encoding="base64">XDxyZWdpc3RyYXRpb25fbWV0aG9kXD4=</last-search>
       <last-offset />
-      <last-pattern>Rist</last-pattern>
+      <last-pattern encoding="base64">XDxyZWdpc3RyYXRpb25fbWV0aG9kXD4=</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -1122,8 +1112,6 @@
     </search>
     <history>
       <history-search>
-        <entry>forms</entry>
-        <entry encoding="base64">XDxyb3dzXD4=</entry>
         <entry encoding="base64">XDx0ZXN0TmV3Vm9pZGVkUGF5bWVudFw+</entry>
         <entry encoding="base64">XDxDcmVhdGVQYXltZW50TXV0YXRpb25cPg==</entry>
         <entry encoding="base64">XDxyZXF1ZXN0Q3JlYXRlUGF5bWVudFw+</entry>
@@ -1142,6 +1130,8 @@
         <entry encoding="base64">XDx1c2VybmFtZVNlY3Rpb25cPg==</entry>
         <entry>Jan</entry>
         <entry>Rist</entry>
+        <entry encoding="base64">XDxpbXBvcnRcPg==</entry>
+        <entry encoding="base64">XDxyZWdpc3RyYXRpb25fbWV0aG9kXD4=</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLycvIi9n</entry>
@@ -1153,17 +1143,17 @@
         <entry>%s/&quot;/'/g</entry>
         <entry encoding="base64">JzwsJz5zLyIvJy9n</entry>
         <entry>.action NextSplitter</entry>
-        <entry>action SplitVertically</entry>
         <entry>action NewFile</entry>
-        <entry>source ~/.ideavimrc</entry>
         <entry>action Refactorings.QuickListPopupAction</entry>
         <entry>action GotoDeclaration</entry>
         <entry>action CommentByLineComment</entry>
-        <entry>action FindInPath</entry>
-        <entry>action ReopenClosedTab</entry>
         <entry>action GotoFile</entry>
-        <entry>action NextSplitter</entry>
+        <entry>action ReopenClosedTab</entry>
+        <entry>action FindInPath</entry>
+        <entry>action SplitVertically</entry>
         <entry>w!</entry>
+        <entry>source ~/.ideavimrc</entry>
+        <entry>action NextSplitter</entry>
       </history-cmd>
       <history-expr />
       <history-input />
