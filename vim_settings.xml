@@ -388,6 +388,9 @@
         <mark key="." line="29" column="19" />
         <mark key="^" line="29" column="19" />
       </file>
+      <file name="$USER_HOME$/cea/Forum/Forum/.meteor/versions" timestamp="1539199388311">
+        <mark key="'" line="13" column="0" />
+      </file>
       <file name="$USER_HOME$/cea/Forum/Forum/sample_settings.json" timestamp="1534980344661">
         <mark key="[" line="28" column="0" />
         <mark key="]" line="31" column="5" />
@@ -767,8 +770,8 @@
         <mark key="^" line="46" column="153" />
         <mark key="." line="46" column="153" />
       </file>
-      <file name="$USER_HOME$/cea/Forum/Forum/package-lock.json" timestamp="1537184722410">
-        <mark key="'" line="10035" column="22" />
+      <file name="$USER_HOME$/cea/Forum/Forum/package-lock.json" timestamp="1539199304034">
+        <mark key="'" line="4187" column="24" />
       </file>
       <file name="$USER_HOME$/Documents/cea/aletheia/app/models/Payments/queries/getPayments.gql" timestamp="1533336152317">
         <mark key="[" line="24" column="15" />
@@ -793,8 +796,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="111" column="72" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/posts/PostsViews.jsx" />
-      <jump line="0" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/posts/PostsViews.jsx" />
       <jump line="34" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/editor/make_editable_callbacks.js" />
       <jump line="150" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/editor/make_editable_callbacks.js" />
       <jump line="10" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/editor/make_editable_callbacks.js" />
@@ -893,6 +894,8 @@
       <jump line="61" column="3" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/lib/collections/comments/permissions.js" />
       <jump line="0" column="9" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/lib/collections/comments/permissions.js" />
       <jump line="4" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/lib/collections/comments/permissions.js" />
+      <jump line="4187" column="24" filename="$USER_HOME$/cea/Forum/Forum/package-lock.json" />
+      <jump line="13" column="0" filename="$USER_HOME$/cea/Forum/Forum/.meteor/versions" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1066,7 +1069,7 @@
         <text>u</text>
       </register>
       <register name="/" type="4">
-        <text>Logo</text>
+        <text encoding="base64">XDxib2lsZXJwbGF0ZVw+</text>
       </register>
       <register name="0" type="4">
         <text>payments:xerobalancesheets</text>
@@ -1112,13 +1115,13 @@
         <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
       </register>
       <register name=":" type="4">
-        <text>w!</text>
+        <text>action FindInPath</text>
       </register>
     </registers>
     <search>
-      <last-search>Logo</last-search>
+      <last-search encoding="base64">XDxib2lsZXJwbGF0ZVw+</last-search>
       <last-offset />
-      <last-pattern>Logo</last-pattern>
+      <last-pattern encoding="base64">XDxib2lsZXJwbGF0ZVw+</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -1126,8 +1129,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxjcmVhdGVTdHJpcGVQYXltZW50XD4=</entry>
-        <entry encoding="base64">XDxQYXltZW50XD4=</entry>
         <entry>pending</entry>
         <entry encoding="base64">XDxwZW5kaW5nXD4=</entry>
         <entry encoding="base64">XDxyZWdpc3Rlcl9wZXJzb25fc2hhZG93XD4=</entry>
@@ -1146,6 +1147,8 @@
         <entry>Ben</entry>
         <entry encoding="base64">XDxDb21tZW50c1w+</entry>
         <entry>Logo</entry>
+        <entry>boilerplate</entry>
+        <entry encoding="base64">XDxib2lsZXJwbGF0ZVw+</entry>
       </history-search>
       <history-cmd>
         <entry>73</entry>
@@ -1165,9 +1168,9 @@
         <entry>source ~/.ideavimrc</entry>
         <entry>action RenameFile</entry>
         <entry>action NextSplitter</entry>
+        <entry>w!</entry>
         <entry>action GotoFile</entry>
         <entry>action FindInPath</entry>
-        <entry>w!</entry>
       </history-cmd>
       <history-expr />
       <history-input />
