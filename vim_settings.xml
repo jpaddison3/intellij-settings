@@ -715,6 +715,10 @@
         <mark key="." line="18" column="0" />
         <mark key="^" line="9" column="48" />
       </file>
+      <file name="$USER_HOME$/cea/parfit/package.json" timestamp="1539129866747">
+        <mark key="[" line="43" column="5" />
+        <mark key="]" line="43" column="30" />
+      </file>
       <file name="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" timestamp="1537043160952">
         <mark key="'" line="124" column="0" />
         <mark key="[" line="50" column="14" />
@@ -1054,8 +1058,8 @@
       <register name="/" type="4">
         <text encoding="base64">XDxyZWdpc3RyYXRpb25fbWV0aG9kXD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIHtlbWFpbDogImRhdmlzLmtpbmdzbGV5QGNlbnRyZWZvcmVmZmVjdGl2ZWFsdHJ1aXNtLm9yZyIsIHVzZXJuYW1lOiAiRGF2aXMgS2luZ3NsZXkifSwKICAgIHtlbWFpbDogImJlbi53ZXN0QGNlbnRyZWZvcmVmZmVjdGl2ZWFsdHJ1aXNtLm9yZyIsIHVzZXJuYW1lOiAiQmVuIFdlc3QifSwKICAgIHtlbWFpbDogImFhcm9uLmdlcnRsZXJAY2VudHJlZm9yZWZmZWN0aXZlYWx0cnVpc20ub3JnIiwgdXNlcm5hbWU6ICJBYXJvbiBHZXJ0bGVyIn0sCiAgICB7ZW1haWw6ICJqb3NoLmF4Zm9yZEBjZW50cmVmb3JlZmZlY3RpdmVhbHRydWlzbS5vcmciLCB1c2VybmFtZTogIkpvc2ggQXhmb3JkIn0K</text>
+      <register name="0" type="4">
+        <text>payments:xerobalancesheets</text>
       </register>
       <register name="p" type="4">
         <keys>
@@ -1147,12 +1151,12 @@
         <entry>action Refactorings.QuickListPopupAction</entry>
         <entry>action GotoDeclaration</entry>
         <entry>action CommentByLineComment</entry>
-        <entry>action GotoFile</entry>
         <entry>action ReopenClosedTab</entry>
         <entry>action FindInPath</entry>
         <entry>action SplitVertically</entry>
         <entry>w!</entry>
         <entry>source ~/.ideavimrc</entry>
+        <entry>action GotoFile</entry>
         <entry>action NextSplitter</entry>
       </history-cmd>
       <history-expr />
