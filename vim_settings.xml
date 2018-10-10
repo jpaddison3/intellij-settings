@@ -79,10 +79,10 @@
         <mark key="^" line="137" column="37" />
         <mark key="." line="126" column="37" />
       </file>
-      <file name="$USER_HOME$/Documents/dotfiles/bashrc.bash" timestamp="1536767069360">
-        <mark key="[" line="24" column="0" />
-        <mark key="]" line="24" column="39" />
-        <mark key="." line="24" column="20" />
+      <file name="$USER_HOME$/Documents/dotfiles/bashrc.bash" timestamp="1539204972009">
+        <mark key="[" line="36" column="0" />
+        <mark key="]" line="36" column="44" />
+        <mark key="." line="36" column="45" />
         <mark key="^" line="24" column="20" />
       </file>
       <file name="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/lib/sections.js" timestamp="1537363040065">
@@ -224,10 +224,6 @@
         <mark key="]" line="2" column="45" />
         <mark key="." line="2" column="45" />
       </file>
-      <file name="$USER_HOME$/cea/parfit/migrations/20180626124538_org_reports_up.sql" timestamp="1538656044588">
-        <mark key="[" line="11" column="12" />
-        <mark key="]" line="11" column="57" />
-      </file>
       <file name="$USER_HOME$/Documents/cea/Forum/Forum/packages/lesswrong/components/form-components/MultiSelectButtons.jsx" timestamp="1532126295932">
         <mark key="[" line="48" column="63" />
         <mark key="]" line="48" column="63" />
@@ -344,10 +340,7 @@
         <mark key="'" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/common/Home.jsx" timestamp="1539197686249">
-        <mark key="'" line="46" column="0" />
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
+        <mark key="'" line="143" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/cea/parfit/silly.json" timestamp="1533682614815">
         <mark key="[" line="118" column="1" />
@@ -732,10 +725,6 @@
         <mark key="." line="18" column="0" />
         <mark key="^" line="9" column="48" />
       </file>
-      <file name="$USER_HOME$/cea/parfit/package.json" timestamp="1539129866747">
-        <mark key="[" line="43" column="5" />
-        <mark key="]" line="43" column="30" />
-      </file>
       <file name="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" timestamp="1537043160952">
         <mark key="'" line="124" column="0" />
         <mark key="[" line="50" column="14" />
@@ -760,9 +749,6 @@
         <mark key="[" line="19" column="0" />
         <mark key="]" line="19" column="0" />
         <mark key="." line="19" column="0" />
-      </file>
-      <file name="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/lib/collections/comments/permissions.js" timestamp="1539197735644">
-        <mark key="'" line="4" column="0" />
       </file>
       <file name="$USER_HOME$/cea/parfit/README.md" timestamp="1534372367560">
         <mark key="[" line="46" column="153" />
@@ -1066,13 +1052,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>u</text>
+        <text>:../Vulcan-Starter/packages</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxib2lsZXJwbGF0ZVw+</text>
       </register>
       <register name="0" type="4">
-        <text>payments:xerobalancesheets</text>
+        <text>export METEOR_PACKAGE_DIRS=../Vulcan/packages</text>
       </register>
       <register name="p" type="4">
         <keys>
@@ -1115,7 +1101,7 @@
         <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
       </register>
       <register name=":" type="4">
-        <text>action FindInPath</text>
+        <text>w!</text>
       </register>
     </registers>
     <search>
@@ -1167,10 +1153,10 @@
         <entry>action SplitVertically</entry>
         <entry>source ~/.ideavimrc</entry>
         <entry>action RenameFile</entry>
-        <entry>action NextSplitter</entry>
-        <entry>w!</entry>
         <entry>action GotoFile</entry>
         <entry>action FindInPath</entry>
+        <entry>action NextSplitter</entry>
+        <entry>w!</entry>
       </history-cmd>
       <history-expr />
       <history-input />
