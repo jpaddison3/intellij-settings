@@ -201,6 +201,11 @@
         <mark key="^" line="10" column="1" />
         <mark key="." line="10" column="2" />
       </file>
+      <file name="$USER_HOME$/cea/parfit/services/emails/templates/layouts/pledges/pledgeCreated.pug" timestamp="1539301480711">
+        <mark key="[" line="49" column="0" />
+        <mark key="]" line="49" column="0" />
+        <mark key="." line="49" column="0" />
+      </file>
       <file name="$USER_HOME$/cea/grants-applications/.env" timestamp="1536589989241">
         <mark key="[" line="1" column="17" />
         <mark key="]" line="1" column="33" />
@@ -1117,37 +1122,37 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGxpIE1lZXQgbGlrZS1taW5kZWQgcGVvcGxlIGJ5IGpvaW5pbmcgYSBsb2NhbCAjW2EoaHJlZj0naHR0cHM6Ly9hcHAuZWZmZWN0aXZlYWx0cnVpc20ub3JnL2dyb3VwcycpIGVmZmVjdGl2ZSBhbHRydWlzbV0gZ3JvdXAgbmVhciB5b3UuCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGxpIE1lZXQgbGlrZS1taW5kZWQgcGVvcGxlIGJ5IGpvaW5pbmcgYSBsb2NhbCAjW2EoaHJlZj0naHR0cHM6Ly9hcHAuZWZmZWN0aXZlYWx0cnVpc20ub3JnL2dyb3VwcycpIGVmZmVjdGl2ZSBhbHRydWlzbV0gZ3JvdXAgbmVhciB5b3UuCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ClVzZXJzLmdyb3Vwcy5ndWVzdHMuY2FuKGd1ZXN0c0FjdGlvbnMpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IHsgUG9zdHMgfSBmcm9tICcuL2NvbGxlY3Rpb24nCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECi5zZXF1ZW5jZXMtbmF2aWdhdGlvbi10b3AtbGVmdCwgLnNlcXVlbmNlcy1uYXZpZ2F0aW9uLXRvcC1yaWdodCB7CiAgLm1hdGVyaWFsLWljb25zIHsKICAgIGNvbG9yOiByZ2JhKDAsMCwwLDAuNSkgIWltcG9ydGFudDsKICB9CiAgJjpkaXNhYmxlZCB7CiAgICAubWF0ZXJpYWwtaWNvbnMgewogICAgICBjb2xvcjogcmdiYSgwLDAsMCwwLjIpICFpbXBvcnRhbnQ7CiAgICB9CiAgfQp9CgoucG9zdHMtcGFnZS1jb250ZW50LWJvZHktbGluay1wb3N0IHsKICBmb250LXNpemU6IDE2cHg7Cn0KCi5wb3N0cy1wYWdlLWNvbnRlbnQtaGVhZGVyLXRpdGxlLWRyYWZ0IHsKICB0ZXh0LXRyYW5zZm9ybTogdXBwZXJjYXNlOwogIGNvbG9yOiAjMEM4NjlCOwp9Cj09PT09PT0KPj4+Pj4+PiBtYXN0ZXIK</text>
+        <text encoding="base64">ClVzZXJzLmdyb3Vwcy5ndWVzdHMuY2FuKGd1ZXN0c0FjdGlvbnMpOwo=</text>
       </register>
       <register name="u" type="4">
         <text>uu</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECi5wb3N0LW5ldy1idXR0b257CiAgYXsKICAgIGNvbG9yOiAkZWEtYmx1ZSAhaW1wb3J0YW50OwogIH0KfQoKPT09PT09PQo+Pj4+Pj4+IG1hc3Rlcgo=</text>
+        <text encoding="base64">aW1wb3J0IHsgUG9zdHMgfSBmcm9tICcuL2NvbGxlY3Rpb24nCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Y29uc3QgZ3Vlc3RzQWN0aW9ucyA9IFsKICAnY29tbWVudHMudmlldycKXTsK</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECi5zZXF1ZW5jZXMtbmF2aWdhdGlvbi10b3AtbGVmdCwgLnNlcXVlbmNlcy1uYXZpZ2F0aW9uLXRvcC1yaWdodCB7CiAgLm1hdGVyaWFsLWljb25zIHsKICAgIGNvbG9yOiByZ2JhKDAsMCwwLDAuNSkgIWltcG9ydGFudDsKICB9CiAgJjpkaXNhYmxlZCB7CiAgICAubWF0ZXJpYWwtaWNvbnMgewogICAgICBjb2xvcjogcmdiYSgwLDAsMCwwLjIpICFpbXBvcnRhbnQ7CiAgICB9CiAgfQp9CgoucG9zdHMtcGFnZS1jb250ZW50LWJvZHktbGluay1wb3N0IHsKICBmb250LXNpemU6IDE2cHg7Cn0KCi5wb3N0cy1wYWdlLWNvbnRlbnQtaGVhZGVyLXRpdGxlLWRyYWZ0IHsKICB0ZXh0LXRyYW5zZm9ybTogdXBwZXJjYXNlOwogIGNvbG9yOiAjMEM4NjlCOwp9Cj09PT09PT0KPj4+Pj4+PiBtYXN0ZXIK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBtYXN0ZXIK</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECi5wb3N0LW5ldy1idXR0b257CiAgYXsKICAgIGNvbG9yOiAkZWEtYmx1ZSAhaW1wb3J0YW50OwogIH0KfQoKPT09PT09PQo+Pj4+Pj4+IG1hc3Rlcgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">PT09PT09PQo=</text>
+        <text encoding="base64">Y29uc3QgZ3Vlc3RzQWN0aW9ucyA9IFsKICAnY29tbWVudHMudmlldycKXTsK</text>
       </register>
       <register name=":" type="4">
-        <text>action FindInPath</text>
+        <text>w!</text>
       </register>
     </registers>
     <search>
@@ -1199,10 +1204,10 @@
         <entry>action SplitVertically</entry>
         <entry>source ~/.ideavimrc</entry>
         <entry>action RenameFile</entry>
-        <entry>w!</entry>
         <entry>action NextSplitter</entry>
-        <entry>action GotoFile</entry>
         <entry>action FindInPath</entry>
+        <entry>action GotoFile</entry>
+        <entry>w!</entry>
       </history-cmd>
       <history-expr />
       <history-input />
