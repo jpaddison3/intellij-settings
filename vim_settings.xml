@@ -1147,7 +1147,7 @@
         <text encoding="base64">PT09PT09PQo=</text>
       </register>
       <register name=":" type="4">
-        <text>action GotoFile</text>
+        <text>action FindInPath</text>
       </register>
     </registers>
     <search>
@@ -1200,9 +1200,9 @@
         <entry>source ~/.ideavimrc</entry>
         <entry>action RenameFile</entry>
         <entry>w!</entry>
-        <entry>action FindInPath</entry>
         <entry>action NextSplitter</entry>
         <entry>action GotoFile</entry>
+        <entry>action FindInPath</entry>
       </history-cmd>
       <history-expr />
       <history-input />
