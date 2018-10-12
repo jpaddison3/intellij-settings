@@ -770,8 +770,12 @@
         <mark key="[" line="43" column="5" />
         <mark key="]" line="43" column="30" />
       </file>
-      <file name="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" timestamp="1537043160952">
-        <mark key="'" line="34" column="0" />
+      <file name="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" timestamp="1539308053727">
+        <mark key="'" line="51" column="8" />
+        <mark key="[" line="18" column="13" />
+        <mark key="]" line="18" column="35" />
+        <mark key="^" line="18" column="35" />
+        <mark key="." line="85" column="4" />
       </file>
       <file name="$USER_HOME$/cea/effectivealtruism-org-static/.gitignore" timestamp="1535721542430">
         <mark key="[" line="12" column="5" />
@@ -829,8 +833,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="104" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/styles/main.scss" />
-      <jump line="131" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/styles/main.scss" />
       <jump line="140" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/styles/main.scss" />
       <jump line="94" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/styles/main.scss" />
       <jump line="92" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/styles/main.scss" />
@@ -929,6 +931,8 @@
       <jump line="34" column="12" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/sunshineDashboard/SunshineSidebar.jsx" />
       <jump line="37" column="44" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/sunshineDashboard/SunshineSidebar.jsx" />
       <jump line="48" column="12" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/sunshineDashboard/SunshineSidebar.jsx" />
+      <jump line="124" column="7" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" />
+      <jump line="51" column="8" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1102,7 +1106,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxzaG93U2lkZWJhclw+</text>
+        <text encoding="base64">XDx1cHNlcnRQcm9jZXNzZWRVc2Vyc1w+</text>
       </register>
       <register name="0" type="4">
         <text>sLMU8bDGXDYmGFP9Nf9</text>
@@ -1148,13 +1152,13 @@
         <text encoding="base64">Y29uc3QgZ3Vlc3RzQWN0aW9ucyA9IFsKICAnY29tbWVudHMudmlldycKXTsK</text>
       </register>
       <register name=":" type="4">
-        <text>action GotoFile</text>
+        <text>w!</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxzaG93U2lkZWJhclw+</last-search>
+      <last-search encoding="base64">XDx1cHNlcnRQcm9jZXNzZWRVc2Vyc1w+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxzaG93U2lkZWJhclw+</last-pattern>
+      <last-pattern encoding="base64">XDx1cHNlcnRQcm9jZXNzZWRVc2Vyc1w+</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -1162,7 +1166,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxyZWdpc3RyYXRpb25fbWV0aG9kXD4=</entry>
         <entry>Ben</entry>
         <entry encoding="base64">XDxDb21tZW50c1w+</entry>
         <entry>boilerplate</entry>
@@ -1182,6 +1185,7 @@
         <entry encoding="base64">XDxjcmVhdGVNdWlUaGVtZVw+</entry>
         <entry encoding="base64">XDxkZWZhdWx0VGhlbWVcPg==</entry>
         <entry encoding="base64">XDxzaG93U2lkZWJhclw+</entry>
+        <entry encoding="base64">XDx1cHNlcnRQcm9jZXNzZWRVc2Vyc1w+</entry>
       </history-search>
       <history-cmd>
         <entry>73</entry>
@@ -1201,9 +1205,9 @@
         <entry>source ~/.ideavimrc</entry>
         <entry>action RenameFile</entry>
         <entry>action FindInPath</entry>
-        <entry>w!</entry>
         <entry>action NextSplitter</entry>
         <entry>action GotoFile</entry>
+        <entry>w!</entry>
       </history-cmd>
       <history-expr />
       <history-input />
