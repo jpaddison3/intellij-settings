@@ -770,8 +770,8 @@
         <mark key="[" line="43" column="5" />
         <mark key="]" line="43" column="30" />
       </file>
-      <file name="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" timestamp="1539374420085">
-        <mark key="'" line="236" column="6" />
+      <file name="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" timestamp="1539379343077">
+        <mark key="'" line="237" column="0" />
         <mark key="[" line="44" column="31" />
         <mark key="]" line="45" column="38" />
         <mark key="." line="45" column="38" />
@@ -831,13 +831,14 @@
         <mark key="." line="4" column="0" />
         <mark key="^" line="5" column="15" />
       </file>
+      <file name="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/silly.js" timestamp="1539380131391">
+        <mark key="[" line="12" column="48" />
+        <mark key="]" line="12" column="79" />
+        <mark key="^" line="12" column="79" />
+        <mark key="." line="12" column="79" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="70" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/styles/main.scss" />
-      <jump line="64" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/styles/main.scss" />
-      <jump line="62" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/styles/main.scss" />
-      <jump line="59" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/styles/main.scss" />
-      <jump line="55" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/styles/main.scss" />
       <jump line="53" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/styles/main.scss" />
       <jump line="51" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/styles/main.scss" />
       <jump line="47" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/styles/main.scss" />
@@ -927,12 +928,17 @@
       <jump line="48" column="12" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/sunshineDashboard/SunshineSidebar.jsx" />
       <jump line="124" column="7" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" />
       <jump line="51" column="8" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" />
-      <jump line="235" column="6" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" />
-      <jump line="189" column="6" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" />
       <jump line="45" column="54" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" />
       <jump line="335" column="6" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" />
-      <jump line="237" column="15" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" />
       <jump line="236" column="6" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" />
+      <jump line="246" column="110" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" />
+      <jump line="163" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" />
+      <jump line="189" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" />
+      <jump line="325" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" />
+      <jump line="211" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" />
+      <jump line="235" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" />
+      <jump line="263" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" />
+      <jump line="237" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1103,13 +1109,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>doc.</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxpbnNlcnRVc2VyXD4=</text>
       </register>
-      <register name="0" type="4">
-        <text>sLMU8bDGXDYmGFP9Nf9</text>
+      <register name="0" type="2">
+        <text encoding="base64">dmFyIHVwZGF0ZWRVc2VycyA9IGFnZ1VzZXJzLmZvckVhY2goZnVuY3Rpb24oZG9jKSB7CiAgcHJpbnRqc29uKGRvYykKICBidWxrLmZpbmQoeydfaWQnOiBkb2MuX2lkfSkudXBkYXRlT25lKHsKICAgICIkc2V0IjogewogICAgICAiZGlzcGxheU5hbWUiOiBkb2MubmV3RGlzcGxheW5hbWUsCiAgICAgICJzbHVnIjogZG9jLm5ld0Rpc3BsYXluYW1lLAogICAgfQogIH0pOwogIGNvdW50Kys7CiAgaWYoY291bnQgJSAyMDAgPT09IDApIHsKICAgIC8vIHVwZGF0ZSBwZXIgMjAwIG9wZXJhdGlvbnMgYW5kIHJlLWluaXQKICAgIGJ1bGsuZXhlY3V0ZSgpOwogICAgYnVsayA9IGRiLnVzZXJzLmluaXRpYWxpemVPcmRlcmVkQnVsa09wKCk7CiAgfQp9KQo=</text>
       </register>
       <register name="p" type="4">
         <keys>
@@ -1196,7 +1202,6 @@
         <entry>%s/&quot;/'/g</entry>
         <entry encoding="base64">JzwsJz5zLyIvJy9n</entry>
         <entry>.action NextSplitter</entry>
-        <entry>action NewFile</entry>
         <entry>action Refactorings.QuickListPopupAction</entry>
         <entry>action ReopenClosedTab</entry>
         <entry>action SplitVertically</entry>
@@ -1206,6 +1211,7 @@
         <entry>action NextSplitter</entry>
         <entry>action GotoFile</entry>
         <entry>action GotoDeclaration</entry>
+        <entry>action NewFile</entry>
         <entry>action CommentByLineComment</entry>
         <entry>w!</entry>
       </history-cmd>
