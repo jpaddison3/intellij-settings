@@ -184,7 +184,7 @@
         <mark key="^" line="51" column="33" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/cea/Forum/Forum/settings-staging.json" timestamp="1536163447950">
+      <file name="$USER_HOME$/cea/Forum/Forum/settings-staging.json" timestamp="1539303801538">
         <mark key="'" line="56" column="12" />
         <mark key="[" line="50" column="36" />
         <mark key="]" line="50" column="54" />
@@ -771,11 +771,7 @@
         <mark key="]" line="43" column="30" />
       </file>
       <file name="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" timestamp="1537043160952">
-        <mark key="'" line="124" column="0" />
-        <mark key="[" line="50" column="14" />
-        <mark key="]" line="50" column="26" />
-        <mark key="." line="50" column="26" />
-        <mark key="^" line="50" column="26" />
+        <mark key="'" line="34" column="0" />
       </file>
       <file name="$USER_HOME$/cea/effectivealtruism-org-static/.gitignore" timestamp="1535721542430">
         <mark key="[" line="12" column="5" />
@@ -1108,8 +1104,8 @@
       <register name="/" type="4">
         <text encoding="base64">XDxzaG93U2lkZWJhclw+</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">Ly8gVE9ETyB3aHkgaXMgU2FuU2VyaWZTdGFjayBkaWZmZXJlbnQgZnJvbSB0aXRsZVN0YWNrPwo=</text>
+      <register name="0" type="4">
+        <text>sLMU8bDGXDYmGFP9Nf9</text>
       </register>
       <register name="p" type="4">
         <keys>
@@ -1204,9 +1200,9 @@
         <entry>action SplitVertically</entry>
         <entry>source ~/.ideavimrc</entry>
         <entry>action RenameFile</entry>
-        <entry>action NextSplitter</entry>
         <entry>action FindInPath</entry>
         <entry>w!</entry>
+        <entry>action NextSplitter</entry>
         <entry>action GotoFile</entry>
       </history-cmd>
       <history-expr />
