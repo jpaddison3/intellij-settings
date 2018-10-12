@@ -287,6 +287,7 @@
         <mark key="^" line="20" column="39" />
         <mark key="." line="20" column="39" />
       </file>
+      <file name="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/lib/collections/users/custom_fields.js" timestamp="1539384589821" />
       <file name="$USER_HOME$/cea/parfit/migrations/20170105124000_payments_up.sql" timestamp="1537282422361">
         <mark key="'" line="72" column="3" />
         <mark key="[" line="66" column="11" />
@@ -643,6 +644,7 @@
       <file name="$USER_HOME$/cea/parfit/services/payments/helpers.js" timestamp="1536930302599">
         <mark key="'" line="14" column="2" />
       </file>
+      <file name="$USER_HOME$/.npm/_logs/2018-10-10T18_46_57_472Z-debug.log" timestamp="1539197357005" />
       <file name="$USER_HOME$/Documents/cea/Forum/Forum/packages/lesswrong/components/common/NavigationMenu.jsx" timestamp="1532387949418">
         <mark key="[" line="18" column="0" />
         <mark key="]" line="18" column="0" />
@@ -770,12 +772,12 @@
         <mark key="[" line="43" column="5" />
         <mark key="]" line="43" column="30" />
       </file>
-      <file name="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" timestamp="1539379343077">
-        <mark key="'" line="237" column="0" />
-        <mark key="[" line="44" column="31" />
-        <mark key="]" line="45" column="38" />
-        <mark key="." line="45" column="38" />
-        <mark key="^" line="45" column="38" />
+      <file name="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" timestamp="1539384440110">
+        <mark key="'" line="201" column="58" />
+        <mark key="[" line="45" column="36" />
+        <mark key="]" line="45" column="36" />
+        <mark key="." line="45" column="36" />
+        <mark key="^" line="45" column="36" />
       </file>
       <file name="$USER_HOME$/cea/effectivealtruism-org-static/.gitignore" timestamp="1535721542430">
         <mark key="[" line="12" column="5" />
@@ -839,7 +841,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="53" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/styles/main.scss" />
       <jump line="51" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/styles/main.scss" />
       <jump line="47" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/styles/main.scss" />
       <jump line="39" column="4" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/styles/main.scss" />
@@ -938,7 +939,8 @@
       <jump line="211" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" />
       <jump line="235" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" />
       <jump line="263" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" />
-      <jump line="237" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" />
+      <jump line="237" column="6" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" />
+      <jump line="201" column="58" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1109,13 +1111,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>doc.</text>
+        <text>22</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxpbnNlcnRVc2VyXD4=</text>
+        <text>22</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">dmFyIHVwZGF0ZWRVc2VycyA9IGFnZ1VzZXJzLmZvckVhY2goZnVuY3Rpb24oZG9jKSB7CiAgcHJpbnRqc29uKGRvYykKICBidWxrLmZpbmQoeydfaWQnOiBkb2MuX2lkfSkudXBkYXRlT25lKHsKICAgICIkc2V0IjogewogICAgICAiZGlzcGxheU5hbWUiOiBkb2MubmV3RGlzcGxheW5hbWUsCiAgICAgICJzbHVnIjogZG9jLm5ld0Rpc3BsYXluYW1lLAogICAgfQogIH0pOwogIGNvdW50Kys7CiAgaWYoY291bnQgJSAyMDAgPT09IDApIHsKICAgIC8vIHVwZGF0ZSBwZXIgMjAwIG9wZXJhdGlvbnMgYW5kIHJlLWluaXQKICAgIGJ1bGsuZXhlY3V0ZSgpOwogICAgYnVsayA9IGRiLnVzZXJzLmluaXRpYWxpemVPcmRlcmVkQnVsa09wKCk7CiAgfQp9KQo=</text>
+        <text encoding="base64">ICAvLyBjb25zb2xlLmxvZygiaW5zZXJ0VXNlciIsIHVzZXIpOwo=</text>
       </register>
       <register name="p" type="4">
         <keys>
@@ -1158,13 +1160,13 @@
         <text encoding="base64">PDw8PDw8PCBIRUFECi5wb3N0LW5ldy1idXR0b257CiAgYXsKICAgIGNvbG9yOiAkZWEtYmx1ZSAhaW1wb3J0YW50OwogIH0KfQoKPT09PT09PQo+Pj4+Pj4+IG1hc3Rlcgo=</text>
       </register>
       <register name=":" type="4">
-        <text>w!</text>
+        <text>action GotoFile</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxpbnNlcnRVc2VyXD4=</last-search>
+      <last-search>22</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxpbnNlcnRVc2VyXD4=</last-pattern>
+      <last-pattern>22</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute encoding="base64">XDxpbnNlcnRVc2VyXD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -1172,7 +1174,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxib2lsZXJwbGF0ZVw+</entry>
         <entry encoding="base64">Pj4+</entry>
         <entry encoding="base64">PDw8</entry>
         <entry encoding="base64">PA==</entry>
@@ -1192,6 +1193,7 @@
         <entry encoding="base64">XDx1cHNlcnRQcm9jZXNzZWRVc2Vyc1w+</entry>
         <entry encoding="base64">XDxsZWdhY3lVc2VyVG9OZXdVc2VyXD4=</entry>
         <entry encoding="base64">XDxpbnNlcnRVc2VyXD4=</entry>
+        <entry>22</entry>
       </history-search>
       <history-cmd>
         <entry>73</entry>
@@ -1209,11 +1211,11 @@
         <entry>action RenameFile</entry>
         <entry>action FindInPath</entry>
         <entry>action NextSplitter</entry>
-        <entry>action GotoFile</entry>
         <entry>action GotoDeclaration</entry>
         <entry>action NewFile</entry>
         <entry>action CommentByLineComment</entry>
         <entry>w!</entry>
+        <entry>action GotoFile</entry>
       </history-cmd>
       <history-expr />
       <history-input />
