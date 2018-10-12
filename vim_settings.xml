@@ -625,6 +625,11 @@
       <file name="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/Layout.jsx" timestamp="1537358257787">
         <mark key="'" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/lib/modules/callbacks.js" timestamp="1539385811154">
+        <mark key="'" line="236" column="8" />
+        <mark key="[" line="232" column="0" />
+        <mark key="]" line="232" column="34" />
+      </file>
       <file name="$USER_HOME$/cea/Forum/Forum/node_modules/draft-js-resizeable-plugin/lib/index.js" timestamp="1536084318531">
         <mark key="'" line="0" column="0" />
       </file>
@@ -772,12 +777,12 @@
         <mark key="[" line="43" column="5" />
         <mark key="]" line="43" column="30" />
       </file>
-      <file name="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" timestamp="1539384440110">
+      <file name="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" timestamp="1539386922917">
         <mark key="'" line="201" column="58" />
-        <mark key="[" line="45" column="36" />
-        <mark key="]" line="45" column="36" />
-        <mark key="." line="45" column="36" />
-        <mark key="^" line="45" column="36" />
+        <mark key="[" line="49" column="40" />
+        <mark key="]" line="49" column="42" />
+        <mark key="." line="49" column="42" />
+        <mark key="^" line="49" column="42" />
       </file>
       <file name="$USER_HOME$/cea/effectivealtruism-org-static/.gitignore" timestamp="1535721542430">
         <mark key="[" line="12" column="5" />
@@ -833,15 +838,14 @@
         <mark key="." line="4" column="0" />
         <mark key="^" line="5" column="15" />
       </file>
-      <file name="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/silly.js" timestamp="1539380131391">
-        <mark key="[" line="12" column="48" />
-        <mark key="]" line="12" column="79" />
-        <mark key="^" line="12" column="79" />
-        <mark key="." line="12" column="79" />
+      <file name="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/silly.js" timestamp="1539386375479">
+        <mark key="[" line="23" column="47" />
+        <mark key="]" line="23" column="61" />
+        <mark key="." line="23" column="61" />
+        <mark key="^" line="23" column="61" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="51" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/styles/main.scss" />
       <jump line="47" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/styles/main.scss" />
       <jump line="39" column="4" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/styles/main.scss" />
       <jump line="166" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/styles/main.scss" />
@@ -941,6 +945,7 @@
       <jump line="263" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" />
       <jump line="237" column="6" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" />
       <jump line="201" column="58" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" />
+      <jump line="236" column="8" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/lib/modules/callbacks.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1111,13 +1116,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>22</text>
+        <text>50</text>
       </register>
       <register name="/" type="4">
-        <text>22</text>
+        <text encoding="base64">XDxwcmltYXJ5QWRkcmVzc1w+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAvLyBjb25zb2xlLmxvZygiaW5zZXJ0VXNlciIsIHVzZXIpOwo=</text>
+        <text encoding="base64">dmFyIHVwZGF0ZWRVc2VycyA9IGFnZ1VzZXJzLmZvckVhY2goZnVuY3Rpb24oZG9jKSB7CiAgcHJpbnRqc29uKGRvYykKICBuZXdEaXNwbGF5bmFtZSA9IGRvYy5uZXdEaXNwbGF5bmFtZS5yZXBsYWNlKC9fZHVwbGljYXRlLiovLCAnJykKICAvLyBUSGUgdGhpbmcgaXMsIHdlIG5lZWQgdG8gZmlndXJlIG91dCBpZiB0aGUgdXNlcm5hbWUgY2FuIGJlIHJlcGxhY2VkIGFzIHdlbGwKICBidWxrLmZpbmQoeydfaWQnOiBkb2MuX2lkfSkudXBkYXRlT25lKHsKICAgICIkc2V0IjogewogICAgICAiZGlzcGxheU5hbWUiOiBuZXdEaXNwbGF5bmFtZSwKICAgICAgInVzZXJuYW1lIjogbmV3RGlzcGxheW5hbWUsCiAgICAgICJzbHVnIjogbmV3RGlzcGxheW5hbWUsCiAgICB9CiAgfSk7CiAgY291bnQrKzsKICBpZihjb3VudCAlIDIwMCA9PT0gMCkgewogICAgLy8gdXBkYXRlIHBlciAyMDAgb3BlcmF0aW9ucyBhbmQgcmUtaW5pdAogICAgYnVsay5leGVjdXRlKCk7CiAgICBidWxrID0gZGIudXNlcnMuaW5pdGlhbGl6ZU9yZGVyZWRCdWxrT3AoKTsKICB9Cn0pCi8vIENsZWFuIHVwIHF1ZXVlcwppZihjb3VudCA+IDApIGJ1bGsuZXhlY3V0ZSgpOwo=</text>
       </register>
       <register name="p" type="4">
         <keys>
@@ -1130,43 +1135,43 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBjb25zdCBlbWFpbERlZHVwZWQK</text>
+        <text encoding="base64">ICB0cnkgewo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGxpIE1lZXQgbGlrZS1taW5kZWQgcGVvcGxlIGJ5IGpvaW5pbmcgYSBsb2NhbCAjW2EoaHJlZj0naHR0cHM6Ly9hcHAuZWZmZWN0aXZlYWx0cnVpc20ub3JnL2dyb3VwcycpIGVmZmVjdGl2ZSBhbHRydWlzbV0gZ3JvdXAgbmVhciB5b3UuCg==</text>
+        <text encoding="base64">ICB9IGNhdGNoIChlcnIpIHsKICAgIGNvbnNvbGUubG9nKCdub3QgZm9yIHRoaXMgb25lJywgZXJyKQogIH0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGxpIE1lZXQgbGlrZS1taW5kZWQgcGVvcGxlIGJ5IGpvaW5pbmcgYSBsb2NhbCAjW2EoaHJlZj0naHR0cHM6Ly9hcHAuZWZmZWN0aXZlYWx0cnVpc20ub3JnL2dyb3VwcycpIGVmZmVjdGl2ZSBhbHRydWlzbV0gZ3JvdXAgbmVhciB5b3UuCg==</text>
+        <text encoding="base64">ICAgIHRyeSB7CiAgICAgIAogICAgfQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAvLyBpZiAobmV3RGlzcGxheW5hbWUK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBjb25zdCBlbWFpbERlZHVwZWQK</text>
       </register>
       <register name="u" type="4">
         <text>uu</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ClVzZXJzLmdyb3Vwcy5ndWVzdHMuY2FuKGd1ZXN0c0FjdGlvbnMpOwo=</text>
+        <text encoding="base64">ICAgIGxpIE1lZXQgbGlrZS1taW5kZWQgcGVvcGxlIGJ5IGpvaW5pbmcgYSBsb2NhbCAjW2EoaHJlZj0naHR0cHM6Ly9hcHAuZWZmZWN0aXZlYWx0cnVpc20ub3JnL2dyb3VwcycpIGVmZmVjdGl2ZSBhbHRydWlzbV0gZ3JvdXAgbmVhciB5b3UuCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IHsgUG9zdHMgfSBmcm9tICcuL2NvbGxlY3Rpb24nCg==</text>
+        <text encoding="base64">ICAgIGxpIE1lZXQgbGlrZS1taW5kZWQgcGVvcGxlIGJ5IGpvaW5pbmcgYSBsb2NhbCAjW2EoaHJlZj0naHR0cHM6Ly9hcHAuZWZmZWN0aXZlYWx0cnVpc20ub3JnL2dyb3VwcycpIGVmZmVjdGl2ZSBhbHRydWlzbV0gZ3JvdXAgbmVhciB5b3UuCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECi5zZXF1ZW5jZXMtbmF2aWdhdGlvbi10b3AtbGVmdCwgLnNlcXVlbmNlcy1uYXZpZ2F0aW9uLXRvcC1yaWdodCB7CiAgLm1hdGVyaWFsLWljb25zIHsKICAgIGNvbG9yOiByZ2JhKDAsMCwwLDAuNSkgIWltcG9ydGFudDsKICB9CiAgJjpkaXNhYmxlZCB7CiAgICAubWF0ZXJpYWwtaWNvbnMgewogICAgICBjb2xvcjogcmdiYSgwLDAsMCwwLjIpICFpbXBvcnRhbnQ7CiAgICB9CiAgfQp9CgoucG9zdHMtcGFnZS1jb250ZW50LWJvZHktbGluay1wb3N0IHsKICBmb250LXNpemU6IDE2cHg7Cn0KCi5wb3N0cy1wYWdlLWNvbnRlbnQtaGVhZGVyLXRpdGxlLWRyYWZ0IHsKICB0ZXh0LXRyYW5zZm9ybTogdXBwZXJjYXNlOwogIGNvbG9yOiAjMEM4NjlCOwp9Cj09PT09PT0KPj4+Pj4+PiBtYXN0ZXIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECi5wb3N0LW5ldy1idXR0b257CiAgYXsKICAgIGNvbG9yOiAkZWEtYmx1ZSAhaW1wb3J0YW50OwogIH0KfQoKPT09PT09PQo+Pj4+Pj4+IG1hc3Rlcgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action GotoFile</text>
+        <text>w!</text>
       </register>
     </registers>
     <search>
-      <last-search>22</last-search>
+      <last-search encoding="base64">XDxwcmltYXJ5QWRkcmVzc1w+</last-search>
       <last-offset />
-      <last-pattern>22</last-pattern>
+      <last-pattern encoding="base64">XDxwcmltYXJ5QWRkcmVzc1w+</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute encoding="base64">XDxpbnNlcnRVc2VyXD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -1174,7 +1179,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">Pj4+</entry>
         <entry encoding="base64">PDw8</entry>
         <entry encoding="base64">PA==</entry>
         <entry encoding="base64">Pg==</entry>
@@ -1194,6 +1198,7 @@
         <entry encoding="base64">XDxsZWdhY3lVc2VyVG9OZXdVc2VyXD4=</entry>
         <entry encoding="base64">XDxpbnNlcnRVc2VyXD4=</entry>
         <entry>22</entry>
+        <entry encoding="base64">XDxwcmltYXJ5QWRkcmVzc1w+</entry>
       </history-search>
       <history-cmd>
         <entry>73</entry>
@@ -1209,13 +1214,13 @@
         <entry>action SplitVertically</entry>
         <entry>source ~/.ideavimrc</entry>
         <entry>action RenameFile</entry>
-        <entry>action FindInPath</entry>
-        <entry>action NextSplitter</entry>
         <entry>action GotoDeclaration</entry>
         <entry>action NewFile</entry>
+        <entry>action GotoFile</entry>
+        <entry>action NextSplitter</entry>
+        <entry>action FindInPath</entry>
         <entry>action CommentByLineComment</entry>
         <entry>w!</entry>
-        <entry>action GotoFile</entry>
       </history-cmd>
       <history-expr />
       <history-input />
