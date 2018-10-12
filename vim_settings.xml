@@ -1152,7 +1152,7 @@
         <text encoding="base64">Y29uc3QgZ3Vlc3RzQWN0aW9ucyA9IFsKICAnY29tbWVudHMudmlldycKXTsK</text>
       </register>
       <register name=":" type="4">
-        <text>w!</text>
+        <text>action GotoFile</text>
       </register>
     </registers>
     <search>
@@ -1206,8 +1206,8 @@
         <entry>action RenameFile</entry>
         <entry>action NextSplitter</entry>
         <entry>action FindInPath</entry>
-        <entry>action GotoFile</entry>
         <entry>w!</entry>
+        <entry>action GotoFile</entry>
       </history-cmd>
       <history-expr />
       <history-input />
