@@ -770,8 +770,8 @@
         <mark key="[" line="43" column="5" />
         <mark key="]" line="43" column="30" />
       </file>
-      <file name="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" timestamp="1539372549520">
-        <mark key="'" line="336" column="6" />
+      <file name="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" timestamp="1539374420085">
+        <mark key="'" line="236" column="6" />
         <mark key="[" line="44" column="31" />
         <mark key="]" line="45" column="38" />
         <mark key="." line="45" column="38" />
@@ -833,7 +833,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="72" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/styles/main.scss" />
       <jump line="70" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/styles/main.scss" />
       <jump line="64" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/styles/main.scss" />
       <jump line="62" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/styles/main.scss" />
@@ -929,10 +928,11 @@
       <jump line="124" column="7" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" />
       <jump line="51" column="8" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" />
       <jump line="235" column="6" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" />
-      <jump line="236" column="18" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" />
       <jump line="189" column="6" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" />
       <jump line="45" column="54" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" />
       <jump line="335" column="6" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" />
+      <jump line="237" column="15" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" />
+      <jump line="236" column="6" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1106,7 +1106,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxsZWdhY3lVc2VyVG9OZXdVc2VyXD4=</text>
+        <text encoding="base64">XDxpbnNlcnRVc2VyXD4=</text>
       </register>
       <register name="0" type="4">
         <text>sLMU8bDGXDYmGFP9Nf9</text>
@@ -1156,9 +1156,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxsZWdhY3lVc2VyVG9OZXdVc2VyXD4=</last-search>
+      <last-search encoding="base64">XDxpbnNlcnRVc2VyXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxsZWdhY3lVc2VyVG9OZXdVc2VyXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxpbnNlcnRVc2VyXD4=</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute encoding="base64">XDxpbnNlcnRVc2VyXD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -1183,9 +1183,9 @@
         <entry encoding="base64">XDxkZWZhdWx0VGhlbWVcPg==</entry>
         <entry encoding="base64">XDxzaG93U2lkZWJhclw+</entry>
         <entry encoding="base64">XDx1c2VyXD4=</entry>
-        <entry encoding="base64">XDxpbnNlcnRVc2VyXD4=</entry>
         <entry encoding="base64">XDx1cHNlcnRQcm9jZXNzZWRVc2Vyc1w+</entry>
         <entry encoding="base64">XDxsZWdhY3lVc2VyVG9OZXdVc2VyXD4=</entry>
+        <entry encoding="base64">XDxpbnNlcnRVc2VyXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>73</entry>
@@ -1198,8 +1198,6 @@
         <entry>.action NextSplitter</entry>
         <entry>action NewFile</entry>
         <entry>action Refactorings.QuickListPopupAction</entry>
-        <entry>action GotoDeclaration</entry>
-        <entry>action CommentByLineComment</entry>
         <entry>action ReopenClosedTab</entry>
         <entry>action SplitVertically</entry>
         <entry>source ~/.ideavimrc</entry>
@@ -1207,6 +1205,8 @@
         <entry>action FindInPath</entry>
         <entry>action NextSplitter</entry>
         <entry>action GotoFile</entry>
+        <entry>action GotoDeclaration</entry>
+        <entry>action CommentByLineComment</entry>
         <entry>w!</entry>
       </history-cmd>
       <history-expr />
