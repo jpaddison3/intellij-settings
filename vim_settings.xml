@@ -838,11 +838,11 @@
         <mark key="." line="4" column="0" />
         <mark key="^" line="5" column="15" />
       </file>
-      <file name="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/silly.js" timestamp="1539386375479">
-        <mark key="[" line="23" column="47" />
-        <mark key="]" line="23" column="61" />
-        <mark key="." line="23" column="61" />
-        <mark key="^" line="23" column="61" />
+      <file name="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/silly.js" timestamp="1539391640264">
+        <mark key="[" line="3" column="12" />
+        <mark key="]" line="3" column="19" />
+        <mark key="^" line="3" column="19" />
+        <mark key="." line="3" column="19" />
       </file>
     </filemarks>
     <jumps>
@@ -1116,13 +1116,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>50</text>
+        <text>displayName</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwcmltYXJ5QWRkcmVzc1w+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">dmFyIHVwZGF0ZWRVc2VycyA9IGFnZ1VzZXJzLmZvckVhY2goZnVuY3Rpb24oZG9jKSB7CiAgcHJpbnRqc29uKGRvYykKICBuZXdEaXNwbGF5bmFtZSA9IGRvYy5uZXdEaXNwbGF5bmFtZS5yZXBsYWNlKC9fZHVwbGljYXRlLiovLCAnJykKICAvLyBUSGUgdGhpbmcgaXMsIHdlIG5lZWQgdG8gZmlndXJlIG91dCBpZiB0aGUgdXNlcm5hbWUgY2FuIGJlIHJlcGxhY2VkIGFzIHdlbGwKICBidWxrLmZpbmQoeydfaWQnOiBkb2MuX2lkfSkudXBkYXRlT25lKHsKICAgICIkc2V0IjogewogICAgICAiZGlzcGxheU5hbWUiOiBuZXdEaXNwbGF5bmFtZSwKICAgICAgInVzZXJuYW1lIjogbmV3RGlzcGxheW5hbWUsCiAgICAgICJzbHVnIjogbmV3RGlzcGxheW5hbWUsCiAgICB9CiAgfSk7CiAgY291bnQrKzsKICBpZihjb3VudCAlIDIwMCA9PT0gMCkgewogICAgLy8gdXBkYXRlIHBlciAyMDAgb3BlcmF0aW9ucyBhbmQgcmUtaW5pdAogICAgYnVsay5leGVjdXRlKCk7CiAgICBidWxrID0gZGIudXNlcnMuaW5pdGlhbGl6ZU9yZGVyZWRCdWxrT3AoKTsKICB9Cn0pCi8vIENsZWFuIHVwIHF1ZXVlcwppZihjb3VudCA+IDApIGJ1bGsuZXhlY3V0ZSgpOwo=</text>
+        <text encoding="base64">aWYoY291bnQgPiAwKSBidWxrLmV4ZWN1dGUoKTsK</text>
       </register>
       <register name="p" type="4">
         <keys>
@@ -1135,37 +1135,37 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICB0cnkgewo=</text>
+        <text encoding="base64">ICAvLyBUSGUgdGhpbmcgaXMsIHdlIG5lZWQgdG8gZmlndXJlIG91dCBpZiB0aGUgdXNlcm5hbWUgY2FuIGJlIHJlcGxhY2VkIGFzIHdlbGwK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICB9IGNhdGNoIChlcnIpIHsKICAgIGNvbnNvbGUubG9nKCdub3QgZm9yIHRoaXMgb25lJywgZXJyKQogIH0K</text>
+        <text encoding="base64">ICAvLyBUSGUgdGhpbmcgaXMsIHdlIG5lZWQgdG8gZmlndXJlIG91dCBpZiB0aGUgdXNlcm5hbWUgY2FuIGJlIHJlcGxhY2VkIGFzIHdlbGwKICBidWxrLmZpbmQoeydfaWQnOiBkb2MuX2lkfSkudXBkYXRlT25lKHsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHRyeSB7CiAgICAgIAogICAgfQo=</text>
+        <text encoding="base64">ICB0cnkgewo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAvLyBpZiAobmV3RGlzcGxheW5hbWUK</text>
+        <text encoding="base64">ICB9IGNhdGNoIChlcnIpIHsKICAgIGNvbnNvbGUubG9nKCdub3QgZm9yIHRoaXMgb25lJywgZXJyKQogIH0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBjb25zdCBlbWFpbERlZHVwZWQK</text>
+        <text encoding="base64">ICAgIHRyeSB7CiAgICAgIAogICAgfQo=</text>
       </register>
       <register name="u" type="4">
         <text>uu</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGxpIE1lZXQgbGlrZS1taW5kZWQgcGVvcGxlIGJ5IGpvaW5pbmcgYSBsb2NhbCAjW2EoaHJlZj0naHR0cHM6Ly9hcHAuZWZmZWN0aXZlYWx0cnVpc20ub3JnL2dyb3VwcycpIGVmZmVjdGl2ZSBhbHRydWlzbV0gZ3JvdXAgbmVhciB5b3UuCg==</text>
+        <text encoding="base64">ICAvLyBpZiAobmV3RGlzcGxheW5hbWUK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGxpIE1lZXQgbGlrZS1taW5kZWQgcGVvcGxlIGJ5IGpvaW5pbmcgYSBsb2NhbCAjW2EoaHJlZj0naHR0cHM6Ly9hcHAuZWZmZWN0aXZlYWx0cnVpc20ub3JnL2dyb3VwcycpIGVmZmVjdGl2ZSBhbHRydWlzbV0gZ3JvdXAgbmVhciB5b3UuCg==</text>
+        <text encoding="base64">ICBjb25zdCBlbWFpbERlZHVwZWQK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGxpIE1lZXQgbGlrZS1taW5kZWQgcGVvcGxlIGJ5IGpvaW5pbmcgYSBsb2NhbCAjW2EoaHJlZj0naHR0cHM6Ly9hcHAuZWZmZWN0aXZlYWx0cnVpc20ub3JnL2dyb3VwcycpIGVmZmVjdGl2ZSBhbHRydWlzbV0gZ3JvdXAgbmVhciB5b3UuCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGxpIE1lZXQgbGlrZS1taW5kZWQgcGVvcGxlIGJ5IGpvaW5pbmcgYSBsb2NhbCAjW2EoaHJlZj0naHR0cHM6Ly9hcHAuZWZmZWN0aXZlYWx0cnVpc20ub3JnL2dyb3VwcycpIGVmZmVjdGl2ZSBhbHRydWlzbV0gZ3JvdXAgbmVhciB5b3UuCg==</text>
       </register>
       <register name=":" type="4">
-        <text>action GotoFile</text>
+        <text>w!</text>
       </register>
     </registers>
     <search>
@@ -1219,8 +1219,8 @@
         <entry>action NextSplitter</entry>
         <entry>action FindInPath</entry>
         <entry>action CommentByLineComment</entry>
-        <entry>w!</entry>
         <entry>action GotoFile</entry>
+        <entry>w!</entry>
       </history-cmd>
       <history-expr />
       <history-input />
