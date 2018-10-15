@@ -114,6 +114,12 @@
         <mark key="^" line="48" column="21" />
         <mark key="." line="43" column="0" />
       </file>
+      <file name="$USER_HOME$/cea/parfit/migrations/20181015154025_gwwc_survey_report_up.sql" timestamp="1539643404096">
+        <mark key="[" line="0" column="18" />
+        <mark key="]" line="0" column="20" />
+        <mark key="^" line="0" column="20" />
+        <mark key="." line="0" column="20" />
+      </file>
       <file name="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/scripts/invites.js" timestamp="1539196391134">
         <mark key="'" line="14" column="0" />
         <mark key="[" line="20" column="39" />
@@ -199,10 +205,6 @@
       </file>
       <file name="$USER_HOME$/cea/parfit/migrations/20180126150914_pledge_completion_calculations_up.sql" timestamp="1535967942203">
         <mark key="'" line="190" column="15" />
-      </file>
-      <file name="$USER_HOME$/cea/parfit/migrations/20180626124538_org_reports_up.sql" timestamp="1538656044588">
-        <mark key="[" line="11" column="12" />
-        <mark key="]" line="11" column="57" />
       </file>
       <file name="$USER_HOME$/Documents/cea/Forum/Forum/packages/lesswrong/components/form-components/MultiSelectButtons.jsx" timestamp="1532126295932">
         <mark key="[" line="48" column="63" />
@@ -636,6 +638,12 @@
         <mark key="^" line="38" column="33" />
         <mark key="." line="38" column="33" />
       </file>
+      <file name="$USER_HOME$/cea/parfit/migrations/20181015154025_gwwc_survey_report_down.sql" timestamp="1539643898808">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="1" />
+        <mark key="^" line="0" column="1" />
+        <mark key="." line="0" column="1" />
+      </file>
       <file name="$USER_HOME$/Documents/cea/Forum/Forum/settings-lw.json" timestamp="1532389727972">
         <mark key="[" line="28" column="0" />
         <mark key="]" line="28" column="32" />
@@ -647,10 +655,6 @@
         <mark key="]" line="106" column="13" />
         <mark key="." line="106" column="13" />
         <mark key="^" line="106" column="13" />
-      </file>
-      <file name="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/lib/collections/posts/permissions.js" timestamp="1539205817720">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="36" />
       </file>
       <file name="$USER_HOME$/cea/parfit/.eslintrc.json" timestamp="1536759419285">
         <mark key="[" line="11" column="5" />
@@ -1030,7 +1034,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>Charity Grantmaking</text>
+        <text>D</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwcmltYXJ5QWRkcmVzc1w+</text>
@@ -1049,34 +1053,34 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">KCdjZWEtdXMnLCAnODAwMDAtaG91cnMnLCAnUHJvamVjdCcsICcxMjAgODAsMDAwIEhvdXJzJyksCignY2VhLXVzJywgJzgwMDAwLWhvdXJzJywgJ1Jlc3RyaWN0aW9uJywgJzgwLDAwMCBIb3VycycpLAooJ2NlYS11aycsICc4MDAwMC1ob3VycycsICdQcm9qZWN0JywgJzgwLDAwMCBIb3VycycpLAooJ2NlYS11aycsICc4MDAwMC1ob3VycycsICdSZXN0cmljdGlvbicsICc4MCwwMDAgSG91cnMgKDgwSyknKSwKICAoJ2RlbW8nLCAnODAwMDAtaG91cnMnLCAnUmVnaW9uJywgJ05vcnRoJyksCg==</text>
+        <text encoding="base64">Q1JFQVRFIFRZUEUgcmVwb3J0cy5naXZpbmdfd2hhdF93ZV9jYW5fc3VydmV5X3JlcG9ydCBBUyAoCiAgZmlyc3RfbmFtZSBjaXRleHQsCiAgbGFzdF9uYW1lIGNpdGV4dCwKICBiaXJ0aF9kYXRlIERBVEUsCiAgZW1haWwgY2l0ZXh0LAogIHBlcmlvZCBkYXRlcmFuZ2UsCiAgcGxlZGdlX3BlcmNlbnRhZ2UgTlVNRVJJQywKICBwbGVkZ2VfdHlwZSBwbGVkZ2VzLnBsZWRnZV90eXBlLAogIGNvdW50ZXJmYWN0dWFsX2RvbmF0aW9uX3BlcmNlbnRhZ2UgSU5URUdFUiwKICB3aGVyZV9wbGFubmluZ190b19naXZlIFRFWFRbXSwKICB3aGVyZV9wbGFubmluZ190b19naXZlX25vdGVzIFRFWFQsCiAgcmVmZXJyZXIgVEVYVFtdLAogIHJlZmVycmVyX25vdGVzIFRFWFQsCiAgZ3d3Y19kb25hdGlvbl9pbmZsdWVuY2UgVEVYVCwKICBvdGhlcl9jb21tZW50cyBURVhULAogIGNyZWF0ZWRfYXQgVElNRVNUQU1QCik7Cgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">KCkKKCkK</text>
+        <text encoding="base64">ICBXSEVSRSBwbGVkZ2UuY3JlYXRlZF9hdCBCRVRXRUVOIHN0YXJ0X2RhdGUgQU5EIGVuZF9kYXRlCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBleGl0IDEK</text>
+        <text encoding="base64">KCdjZWEtdXMnLCAnODAwMDAtaG91cnMnLCAnUHJvamVjdCcsICcxMjAgODAsMDAwIEhvdXJzJyksCignY2VhLXVzJywgJzgwMDAwLWhvdXJzJywgJ1Jlc3RyaWN0aW9uJywgJzgwLDAwMCBIb3VycycpLAooJ2NlYS11aycsICc4MDAwMC1ob3VycycsICdQcm9qZWN0JywgJzgwLDAwMCBIb3VycycpLAooJ2NlYS11aycsICc4MDAwMC1ob3VycycsICdSZXN0cmljdGlvbicsICc4MCwwMDAgSG91cnMgKDgwSyknKSwKICAoJ2RlbW8nLCAnODAwMDAtaG91cnMnLCAnUmVnaW9uJywgJ05vcnRoJyksCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">IyBUT0RPIGRvY3N0cmluZz8K</text>
+        <text encoding="base64">KCkKKCkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBleGl0IDEK</text>
       </register>
       <register name="u" type="4">
         <text>uu</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IyBUT0RPIGRvY3N0cmluZz8K</text>
       </register>
       <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="9" type="2">
         <text encoding="base64">ICBlY2hvICJDb21wcmVzc2luZyAiICRJTlBVVF9PRFMK</text>
-      </register>
-      <register name="8" type="4">
-        <text>&quot;&quot;</text>
-      </register>
-      <register name="9" type="4">
-        <text>zip -0 -X $INPUT_ODS-2 mimetype</text>
       </register>
       <register name=":" type="4">
         <text>w!</text>
