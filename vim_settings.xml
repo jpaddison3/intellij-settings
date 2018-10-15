@@ -646,6 +646,12 @@
         <mark key="^" line="23" column="44" />
         <mark key="." line="23" column="44" />
       </file>
+      <file name="$USER_HOME$/cea/parfit/notes/compress-ods.bash" timestamp="1539627712261">
+        <mark key="[" line="2" column="2" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+        <mark key="^" line="2" column="0" />
+      </file>
       <file name="$USER_HOME$/cea/parfit/services/payments/helpers.js" timestamp="1536930302599">
         <mark key="'" line="14" column="2" />
       </file>
@@ -1135,31 +1141,31 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAvLyBUSGUgdGhpbmcgaXMsIHdlIG5lZWQgdG8gZmlndXJlIG91dCBpZiB0aGUgdXNlcm5hbWUgY2FuIGJlIHJlcGxhY2VkIGFzIHdlbGwK</text>
+        <text encoding="base64">ZWNobyAiaGVsbG8gd29ybGQiCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAvLyBUSGUgdGhpbmcgaXMsIHdlIG5lZWQgdG8gZmlndXJlIG91dCBpZiB0aGUgdXNlcm5hbWUgY2FuIGJlIHJlcGxhY2VkIGFzIHdlbGwKICBidWxrLmZpbmQoeydfaWQnOiBkb2MuX2lkfSkudXBkYXRlT25lKHsK</text>
+        <text encoding="base64">ICAvLyBUSGUgdGhpbmcgaXMsIHdlIG5lZWQgdG8gZmlndXJlIG91dCBpZiB0aGUgdXNlcm5hbWUgY2FuIGJlIHJlcGxhY2VkIGFzIHdlbGwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICB0cnkgewo=</text>
+        <text encoding="base64">ICAvLyBUSGUgdGhpbmcgaXMsIHdlIG5lZWQgdG8gZmlndXJlIG91dCBpZiB0aGUgdXNlcm5hbWUgY2FuIGJlIHJlcGxhY2VkIGFzIHdlbGwKICBidWxrLmZpbmQoeydfaWQnOiBkb2MuX2lkfSkudXBkYXRlT25lKHsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICB9IGNhdGNoIChlcnIpIHsKICAgIGNvbnNvbGUubG9nKCdub3QgZm9yIHRoaXMgb25lJywgZXJyKQogIH0K</text>
+        <text encoding="base64">ICB0cnkgewo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHRyeSB7CiAgICAgIAogICAgfQo=</text>
+        <text encoding="base64">ICB9IGNhdGNoIChlcnIpIHsKICAgIGNvbnNvbGUubG9nKCdub3QgZm9yIHRoaXMgb25lJywgZXJyKQogIH0K</text>
       </register>
       <register name="u" type="4">
         <text>uu</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAvLyBpZiAobmV3RGlzcGxheW5hbWUK</text>
+        <text encoding="base64">ICAgIHRyeSB7CiAgICAgIAogICAgfQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBjb25zdCBlbWFpbERlZHVwZWQK</text>
+        <text encoding="base64">ICAvLyBpZiAobmV3RGlzcGxheW5hbWUK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGxpIE1lZXQgbGlrZS1taW5kZWQgcGVvcGxlIGJ5IGpvaW5pbmcgYSBsb2NhbCAjW2EoaHJlZj0naHR0cHM6Ly9hcHAuZWZmZWN0aXZlYWx0cnVpc20ub3JnL2dyb3VwcycpIGVmZmVjdGl2ZSBhbHRydWlzbV0gZ3JvdXAgbmVhciB5b3UuCg==</text>
+        <text encoding="base64">ICBjb25zdCBlbWFpbERlZHVwZWQK</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">ICAgIGxpIE1lZXQgbGlrZS1taW5kZWQgcGVvcGxlIGJ5IGpvaW5pbmcgYSBsb2NhbCAjW2EoaHJlZj0naHR0cHM6Ly9hcHAuZWZmZWN0aXZlYWx0cnVpc20ub3JnL2dyb3VwcycpIGVmZmVjdGl2ZSBhbHRydWlzbV0gZ3JvdXAgbmVhciB5b3UuCg==</text>
