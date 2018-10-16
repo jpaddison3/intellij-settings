@@ -155,10 +155,10 @@
         <mark key="^" line="51" column="33" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/cea/Forum/Forum/settings-staging.json" timestamp="1539303801538">
+      <file name="$USER_HOME$/cea/Forum/Forum/settings-staging.json" timestamp="1539717522642">
         <mark key="'" line="56" column="12" />
-        <mark key="[" line="50" column="36" />
-        <mark key="]" line="50" column="54" />
+        <mark key="[" line="50" column="20" />
+        <mark key="]" line="50" column="95" />
         <mark key="." line="60" column="0" />
         <mark key="^" line="56" column="12" />
       </file>
@@ -249,7 +249,6 @@
         <mark key="^" line="20" column="39" />
         <mark key="." line="20" column="39" />
       </file>
-      <file name="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/lib/collections/users/custom_fields.js" timestamp="1539384589821" />
       <file name="$USER_HOME$/cea/parfit/migrations/20170105124000_payments_up.sql" timestamp="1537282422361">
         <mark key="'" line="72" column="3" />
         <mark key="[" line="66" column="11" />
@@ -583,7 +582,6 @@
       <file name="$USER_HOME$/cea/parfit/services/payments/helpers.js" timestamp="1536930302599">
         <mark key="'" line="14" column="2" />
       </file>
-      <file name="$USER_HOME$/.npm/_logs/2018-10-10T18_46_57_472Z-debug.log" timestamp="1539197357005" />
       <file name="$USER_HOME$/cea/parfit/services/payments/handlers/stripe/index.js" timestamp="1537282767292">
         <mark key="'" line="65" column="47" />
         <mark key="[" line="40" column="0" />
@@ -1039,8 +1037,8 @@
       <register name="/" type="4">
         <text encoding="base64">XDxwcmltYXJ5QWRkcmVzc1w+</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICBTRUxFQ1QKICAgIHBlcnNvbi5maXJzdF9uYW1lLAogICAgcGVyc29uLmxhc3RfbmFtZSwKICAgIHBlcnNvbi5lbWFpbCwKICAgIHBsZWRnZS5wbGVkZ2VfcGVyY2VudGFnZSwKICAgIHBsZWRnZS5wZXJpb2QsCiAgICBwbGVkZ2UuY3JlYXRlZF9hdCwKICAgIGFkZHJlc3MuaG91c2VfbnVtYmVyLAogICAgYWRkcmVzcy5hZGRyZXNzX2xpbmVfMSwKICAgIGFkZHJlc3MuYWRkcmVzc19saW5lXzIsCiAgICBhZGRyZXNzLmNpdHksCiAgICBhZGRyZXNzLnJlZ2lvbiwKICAgIGFkZHJlc3MucG9zdGFsX2NvZGUsCiAgICBhZGRyZXNzLmNvdW50cnlfY29kZQogIEZST00gcGxlZGdlcy5wbGVkZ2UKICBKT0lOIHBlb3BsZS5wZXJzb24gT04gcGxlZGdlLnBlcnNvbl9pZCA9IHBlcnNvbi5pZAogIEpPSU4gcGVvcGxlLmFkZHJlc3MgT04gYWRkcmVzcy5wZXJzb25faWQgPSBwbGVkZ2UucGVyc29uX2lkCiAgSk9JTiBzZXR0aW5ncy5jb250YWN0X3ByZWZlcmVuY2UgT04gYWRkcmVzcy5pZCA9IGNvbnRhY3RfcHJlZmVyZW5jZS5jdXJyZW50X2FkZHJlc3NfaWQKICBPUkRFUiBCWSBwbGVkZ2UuY3JlYXRlZF9hdAo=</text>
+      <register name="0" type="4">
+        <text>mongodb://admin:sLMU8bDGXDYmGFP9Nf9@ds153851.mlab.com:53851/ea-forum-staging</text>
       </register>
       <register name="p" type="4">
         <keys>
