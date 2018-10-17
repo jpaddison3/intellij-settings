@@ -15,12 +15,6 @@
         <mark key="." line="16" column="45" />
         <mark key="^" line="16" column="45" />
       </file>
-      <file name="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/themes/eaTheme.js" timestamp="1539216779746">
-        <mark key="'" line="149" column="9" />
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="21" column="0" />
-        <mark key="." line="21" column="0" />
-      </file>
       <file name="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/lib/components.js" timestamp="1539206293824">
         <mark key="'" line="33" column="29" />
         <mark key="[" line="50" column="29" />
@@ -346,11 +340,11 @@
       <file name="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/sequences/SequencesHome.jsx" timestamp="1534979767169">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/common/Home.jsx" timestamp="1539725010957">
-        <mark key="'" line="43" column="0" />
-        <mark key="[" line="25" column="0" />
-        <mark key="]" line="25" column="0" />
-        <mark key="." line="25" column="0" />
+      <file name="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/common/Home.jsx" timestamp="1539819471687">
+        <mark key="'" line="7" column="8" />
+        <mark key="[" line="7" column="128" />
+        <mark key="]" line="7" column="128" />
+        <mark key="." line="7" column="128" />
       </file>
       <file name="$USER_HOME$/Documents/cea/Forum/Forum/packages/lesswrong/server/cors.js" timestamp="1532733805226">
         <mark key="[" line="0" column="46" />
@@ -494,11 +488,10 @@
         <mark key="." line="31" column="13" />
       </file>
       <file name="$USER_HOME$/cea/Forum/Forum/node_modules/react-intercom/lib/index.js" timestamp="1539818090914">
-        <mark key="'" line="46" column="20" />
-        <mark key="[" line="75" column="30" />
-        <mark key="]" line="76" column="46" />
-        <mark key="." line="76" column="46" />
-        <mark key="^" line="76" column="46" />
+        <mark key="[" line="71" column="30" />
+        <mark key="]" line="71" column="46" />
+        <mark key="." line="71" column="46" />
+        <mark key="^" line="71" column="46" />
       </file>
       <file name="$USER_HOME$/cea/aletheia/app/containers/Admin/AdminPayrollGiving/Providers/index.js" timestamp="1536933707891">
         <mark key="[" line="30" column="18" />
@@ -603,12 +596,10 @@
         <mark key="^" line="0" column="6" />
         <mark key="." line="0" column="6" />
       </file>
-      <file name="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/Layout.jsx" timestamp="1539813817492">
-        <mark key="'" line="50" column="19" />
-        <mark key="[" line="46" column="33" />
-        <mark key="]" line="47" column="45" />
-        <mark key="^" line="47" column="45" />
-        <mark key="." line="47" column="45" />
+      <file name="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/Layout.jsx" timestamp="1539819629470">
+        <mark key="[" line="57" column="0" />
+        <mark key="]" line="57" column="0" />
+        <mark key="." line="57" column="0" />
       </file>
       <file name="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/lib/modules/callbacks.js" timestamp="1539385811154">
         <mark key="'" line="236" column="8" />
@@ -825,11 +816,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="2" column="4" filename="$USER_HOME$/cea/Forum/dump/loop-region.bash" />
-      <jump line="1" column="4" filename="$USER_HOME$/cea/Forum/dump/loop-region.bash" />
-      <jump line="19" column="28" filename="$USER_HOME$/cea/Forum/dump/loop-region.bash" />
-      <jump line="20" column="26" filename="$USER_HOME$/cea/Forum/dump/loop-region.bash" />
-      <jump line="48" column="16" filename="$USER_HOME$/.aws/config" />
       <jump line="65" column="6" filename="$USER_HOME$/cea/parfit/services/payments/workers/xero-balance-sheets.js" />
       <jump line="86" column="0" filename="$USER_HOME$/cea/parfit/services/payments/workers/xero-balance-sheets.js" />
       <jump line="116" column="0" filename="$USER_HOME$/cea/parfit/services/payments/workers/xero-balance-sheets.js" />
@@ -925,6 +911,11 @@
       <jump line="88" column="0" filename="$USER_HOME$/cea/Forum/Forum/node_modules/react-intercom/lib/index.js" />
       <jump line="82" column="0" filename="$USER_HOME$/cea/Forum/Forum/node_modules/react-intercom/lib/index.js" />
       <jump line="44" column="20" filename="$USER_HOME$/cea/Forum/Forum/node_modules/react-intercom/lib/index.js" />
+      <jump line="7" column="8" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/common/Home.jsx" />
+      <jump line="79" column="82" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/Layout.jsx" />
+      <jump line="46" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/Layout.jsx" />
+      <jump line="47" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/Layout.jsx" />
+      <jump line="57" column="6" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/Layout.jsx" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1095,10 +1086,10 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>hi 1</text>
+        <text encoding="base64">IDogImN1cmF0ZWQi</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxpbnRlcmNvbUFwcElkXD4=</text>
+        <text>console.log</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICBjb25zb2xlLmxvZygnaGkgMScpCg==</text>
@@ -1114,43 +1105,43 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ25vIHVzZXIsIHVzZSBpbnRlcmNvbSBhbnl3YXknKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBjb25zdCBkZWxldGVkVHJhbnNhY3Rpb24gPSBiYW5rVHJhbnNhY3Rpb24K</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ2hhcyB1c2VyIHdpdGggaW50ZXJjb20gZW5hYmxlZCcpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ25vb29vb28nKQo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdzaG93SW50ZXJjb20oKScpCiAgICBjb25zb2xlLmxvZygnaW50ZXJjb21BcHBJZCcsIGludGVyY29tQXBwSWQpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgLy8gaG91c3RvbiB3ZSBnb3QgYSBwcm9ibGVtCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdmb3VuZCB0cmFuc2FjdGlvbiB0b3RhbCcsIHRvdGFsKQo=</text>
+        <text encoding="base64">ICBjb25zdCBkZWxldGVkVHJhbnNhY3Rpb24gPSBiYW5rVHJhbnNhY3Rpb24K</text>
       </register>
       <register name="u" type="4">
         <text>uu</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZygnJykK</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ25vb29vb28nKQo=</text>
       </register>
-      <register name="7" type="4">
-        <text>new BigNumber(bankTransaction.Total)</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgLy8gaG91c3RvbiB3ZSBnb3QgYSBwcm9ibGVtCg==</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">bmV3IEJpZ051bWJlcihiYW5rVHJhbnNhY3Rpb24uVG90YWwpID09PSApCiAgfQogIC8vIHNlbGVjdCBiYW5rIHRyYW5zYWN0aW9uIHdoZXJlIHJlZmVyZW5jZSA9IHBheW1lbnQuZ2F0ZXdheWlkCiAgLy8gaWYgZm91bmQ6IGNoZWNrIHZhbHVlCiAgLy8gaWYgdmFsdWUgPSBwYXltZW50LmZlZSArLSAyIGNlbnRzOiBjb250aW51ZQogIC8vIGJsYXN0IGl0IChUT0RPIGhvdyB0byBkbykKICAvLyByZWNyZWF0ZSBmZWUgdHJhbnNhY3Rpb24KfQo=</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdmb3VuZCB0cmFuc2FjdGlvbiB0b3RhbCcsIHRvdGFsKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAvLyBxdWljayB2YWxpZGF0aW9uCg==</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZygnJykK</text>
       </register>
       <register name=":" type="4">
-        <text>action FindInPath</text>
+        <text>action NextSplitter</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxpbnRlcmNvbUFwcElkXD4=</last-search>
+      <last-search>console.log</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxpbnRlcmNvbUFwcElkXD4=</last-pattern>
+      <last-pattern>console.log</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute encoding="base64">XDxpbnNlcnRVc2VyXD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -1158,8 +1149,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxjcmVhdGVMV1RoZW1lXD4=</entry>
-        <entry encoding="base64">XDxjcmVhdGVNdWlUaGVtZVw+</entry>
         <entry encoding="base64">XDxkZWZhdWx0VGhlbWVcPg==</entry>
         <entry encoding="base64">XDxzaG93U2lkZWJhclw+</entry>
         <entry encoding="base64">XDx1c2VyXD4=</entry>
@@ -1178,6 +1167,8 @@
         <entry>fee</entry>
         <entry encoding="base64">XDxjcmVhdGVYZXJvRmVlVHJhbnNhY3Rpb25cPg==</entry>
         <entry encoding="base64">XDxpbnRlcmNvbUFwcElkXD4=</entry>
+        <entry encoding="base64">XDxjdXJyZW50Vmlld1w+</entry>
+        <entry>console.log</entry>
       </history-search>
       <history-cmd>
         <entry>%/&quot;/'/g</entry>
@@ -1197,9 +1188,9 @@
         <entry>action CommentByLineComment</entry>
         <entry>action GotoFile</entry>
         <entry>action GotoDeclaration</entry>
-        <entry>action NextSplitter</entry>
-        <entry>w!</entry>
         <entry>action FindInPath</entry>
+        <entry>w!</entry>
+        <entry>action NextSplitter</entry>
       </history-cmd>
       <history-expr />
       <history-input />
