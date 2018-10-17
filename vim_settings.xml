@@ -595,8 +595,12 @@
         <mark key="^" line="0" column="6" />
         <mark key="." line="0" column="6" />
       </file>
-      <file name="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/Layout.jsx" timestamp="1537358257787">
-        <mark key="'" line="0" column="0" />
+      <file name="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/Layout.jsx" timestamp="1539813817492">
+        <mark key="'" line="50" column="19" />
+        <mark key="[" line="46" column="33" />
+        <mark key="]" line="47" column="45" />
+        <mark key="^" line="47" column="45" />
+        <mark key="." line="47" column="45" />
       </file>
       <file name="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/lib/modules/callbacks.js" timestamp="1539385811154">
         <mark key="'" line="236" column="8" />
@@ -813,9 +817,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="189" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" />
-      <jump line="325" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" />
-      <jump line="211" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" />
       <jump line="235" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" />
       <jump line="263" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" />
       <jump line="237" column="6" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" />
@@ -913,6 +914,9 @@
       <jump line="43" column="20" filename="$USER_HOME$/cea/parfit/services/payments/handlers/xero/index.js" />
       <jump line="71" column="57" filename="$USER_HOME$/cea/parfit/services/payments/handlers/xero/index.js" />
       <jump line="74" column="10" filename="$USER_HOME$/cea/parfit/services/payments/handlers/xero/index.js" />
+      <jump line="59" column="29" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/Layout.jsx" />
+      <jump line="17" column="34" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/Layout.jsx" />
+      <jump line="50" column="19" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/Layout.jsx" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1083,13 +1087,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>confirmation</text>
+        <text>has user with intercom enabled</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxjcmVhdGVYZXJvRmVlVHJhbnNhY3Rpb25cPg==</text>
+        <text encoding="base64">XDxpbnRlcmNvbUFwcElkXD4=</text>
       </register>
-      <register name="0" type="4">
-        <text>createXeroFeeTransaction</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ2hhcyB1c2VyIHdpdGggaW50ZXJjb20gZW5hYmxlZCcpCg==</text>
       </register>
       <register name="p" type="4">
         <keys>
@@ -1136,9 +1140,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxjcmVhdGVYZXJvRmVlVHJhbnNhY3Rpb25cPg==</last-search>
+      <last-search encoding="base64">XDxpbnRlcmNvbUFwcElkXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxjcmVhdGVYZXJvRmVlVHJhbnNhY3Rpb25cPg==</last-pattern>
+      <last-pattern encoding="base64">XDxpbnRlcmNvbUFwcElkXD4=</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute encoding="base64">XDxpbnNlcnRVc2VyXD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -1146,7 +1150,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDx0aXRsZVN0YWNrXD4=</entry>
         <entry encoding="base64">XDxjcmVhdGVMV1RoZW1lXD4=</entry>
         <entry encoding="base64">XDxjcmVhdGVNdWlUaGVtZVw+</entry>
         <entry encoding="base64">XDxkZWZhdWx0VGhlbWVcPg==</entry>
@@ -1166,6 +1169,7 @@
         <entry encoding="base64">XDxCaWdOdW1iZXJcPg==</entry>
         <entry>fee</entry>
         <entry encoding="base64">XDxjcmVhdGVYZXJvRmVlVHJhbnNhY3Rpb25cPg==</entry>
+        <entry encoding="base64">XDxpbnRlcmNvbUFwcElkXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>%/&quot;/'/g</entry>
@@ -1180,13 +1184,13 @@
         <entry>action RenameFile</entry>
         <entry>action NewFile</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gTmV4dFNwbGl0dGVy</entry>
-        <entry>action GotoDeclaration</entry>
         <entry encoding="base64">JzwsJz53IQ==</entry>
         <entry>action Refactorings.QuickListPopupAction</entry>
+        <entry>action GotoDeclaration</entry>
         <entry>action CommentByLineComment</entry>
         <entry>action NextSplitter</entry>
-        <entry>w!</entry>
         <entry>action GotoFile</entry>
+        <entry>w!</entry>
         <entry>action FindInPath</entry>
       </history-cmd>
       <history-expr />
