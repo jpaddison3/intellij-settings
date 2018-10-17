@@ -493,12 +493,12 @@
         <mark key="^" line="31" column="13" />
         <mark key="." line="31" column="13" />
       </file>
-      <file name="$USER_HOME$/cea/Forum/Forum/node_modules/react-intercom/lib/index.js" timestamp="1539815635650">
+      <file name="$USER_HOME$/cea/Forum/Forum/node_modules/react-intercom/lib/index.js" timestamp="1539818090914">
         <mark key="'" line="46" column="20" />
-        <mark key="[" line="2" column="13" />
-        <mark key="]" line="2" column="112" />
-        <mark key="." line="2" column="112" />
-        <mark key="^" line="2" column="112" />
+        <mark key="[" line="75" column="30" />
+        <mark key="]" line="76" column="46" />
+        <mark key="." line="76" column="46" />
+        <mark key="^" line="76" column="46" />
       </file>
       <file name="$USER_HOME$/cea/aletheia/app/containers/Admin/AdminPayrollGiving/Providers/index.js" timestamp="1536933707891">
         <mark key="[" line="30" column="18" />
@@ -1144,7 +1144,7 @@
         <text encoding="base64">ICAvLyBxdWljayB2YWxpZGF0aW9uCg==</text>
       </register>
       <register name=":" type="4">
-        <text>action NextSplitter</text>
+        <text>action FindInPath</text>
       </register>
     </registers>
     <search>
@@ -1197,9 +1197,9 @@
         <entry>action CommentByLineComment</entry>
         <entry>action GotoFile</entry>
         <entry>action GotoDeclaration</entry>
+        <entry>action NextSplitter</entry>
         <entry>w!</entry>
         <entry>action FindInPath</entry>
-        <entry>action NextSplitter</entry>
       </history-cmd>
       <history-expr />
       <history-input />
