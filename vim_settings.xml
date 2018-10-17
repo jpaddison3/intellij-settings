@@ -1149,10 +1149,10 @@
         <entry>action GotoDeclaration</entry>
         <entry>action NewFile</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gTmV4dFNwbGl0dGVy</entry>
-        <entry>action GotoFile</entry>
         <entry>action CommentByLineComment</entry>
         <entry>action NextSplitter</entry>
         <entry>w!</entry>
+        <entry>action GotoFile</entry>
         <entry>action FindInPath</entry>
       </history-cmd>
       <history-expr />
