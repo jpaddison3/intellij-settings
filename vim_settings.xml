@@ -108,7 +108,6 @@
         <mark key="." line="0" column="17" />
         <mark key="^" line="0" column="16" />
       </file>
-      <file name="$USER_HOME$/cea/aletheia/app/containers/LoginRegister/LoginRegisterForm/modes/Register.jsx" timestamp="1539815027314" />
       <file name="$USER_HOME$/cea/parfit/services/payments/handlers/payment.js" timestamp="1537282748634">
         <mark key="[" line="43" column="0" />
         <mark key="]" line="43" column="0" />
@@ -261,6 +260,7 @@
         <mark key="[" line="177" column="15" />
         <mark key="]" line="177" column="38" />
       </file>
+      <file name="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/common/ErrorBoundary.jsx" timestamp="1539815596803" />
       <file name="$USER_HOME$/Documents/cea/predictive-altruism/packages/predictive-altruism/lib/components/movies/Question.jsx" timestamp="1531614638857">
         <mark key="[" line="20" column="39" />
         <mark key="]" line="20" column="39" />
@@ -492,6 +492,13 @@
         <mark key="]" line="31" column="13" />
         <mark key="^" line="31" column="13" />
         <mark key="." line="31" column="13" />
+      </file>
+      <file name="$USER_HOME$/cea/Forum/Forum/node_modules/react-intercom/lib/index.js" timestamp="1539815635650">
+        <mark key="'" line="46" column="20" />
+        <mark key="[" line="2" column="13" />
+        <mark key="]" line="2" column="112" />
+        <mark key="." line="2" column="112" />
+        <mark key="^" line="2" column="112" />
       </file>
       <file name="$USER_HOME$/cea/aletheia/app/containers/Admin/AdminPayrollGiving/Providers/index.js" timestamp="1536933707891">
         <mark key="[" line="30" column="18" />
@@ -818,41 +825,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="235" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" />
-      <jump line="263" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" />
-      <jump line="237" column="6" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" />
-      <jump line="236" column="8" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/lib/modules/callbacks.js" />
-      <jump line="13" column="37" filename="$USER_HOME$/cea/parfit/notes/compress-ods.bash" />
-      <jump line="0" column="0" filename="$USER_HOME$/cea/parfit/seeds/data/payments.xero_tracking.sql" />
-      <jump line="49" column="33" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" />
-      <jump line="64" column="35" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" />
-      <jump line="65" column="5" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" />
-      <jump line="93" column="35" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" />
-      <jump line="94" column="5" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" />
-      <jump line="116" column="35" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" />
-      <jump line="117" column="5" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" />
-      <jump line="121" column="35" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" />
-      <jump line="122" column="5" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" />
-      <jump line="127" column="35" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" />
-      <jump line="128" column="5" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" />
-      <jump line="143" column="32" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" />
-      <jump line="144" column="2" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" />
-      <jump line="154" column="32" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" />
-      <jump line="155" column="2" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" />
-      <jump line="190" column="5" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" />
-      <jump line="197" column="32" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" />
-      <jump line="198" column="2" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" />
-      <jump line="200" column="32" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" />
-      <jump line="201" column="2" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" />
-      <jump line="208" column="38" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" />
-      <jump line="30" column="32" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" />
-      <jump line="31" column="2" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" />
-      <jump line="16" column="12" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/lib/collections/comments/permissions.js" />
-      <jump line="26" column="45" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/posts/PostsItemMeta.jsx" />
-      <jump line="23" column="33" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/posts/PostsItemMeta.jsx" />
-      <jump line="7" column="86" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/posts/PostsItemMeta.jsx" />
-      <jump line="3" column="6" filename="$USER_HOME$/cea/Forum/dump/loop-region.bash" />
       <jump line="2" column="4" filename="$USER_HOME$/cea/Forum/dump/loop-region.bash" />
       <jump line="1" column="4" filename="$USER_HOME$/cea/Forum/dump/loop-region.bash" />
       <jump line="19" column="28" filename="$USER_HOME$/cea/Forum/dump/loop-region.bash" />
@@ -918,6 +890,41 @@
       <jump line="59" column="29" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/Layout.jsx" />
       <jump line="17" column="34" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/Layout.jsx" />
       <jump line="50" column="19" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/Layout.jsx" />
+      <jump line="9" column="96" filename="$USER_HOME$/cea/Forum/Forum/node_modules/react-intercom/lib/index.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/cea/Forum/Forum/node_modules/react-intercom/lib/index.js" />
+      <jump line="1" column="0" filename="$USER_HOME$/cea/Forum/Forum/node_modules/react-intercom/lib/index.js" />
+      <jump line="6" column="0" filename="$USER_HOME$/cea/Forum/Forum/node_modules/react-intercom/lib/index.js" />
+      <jump line="8" column="0" filename="$USER_HOME$/cea/Forum/Forum/node_modules/react-intercom/lib/index.js" />
+      <jump line="10" column="0" filename="$USER_HOME$/cea/Forum/Forum/node_modules/react-intercom/lib/index.js" />
+      <jump line="12" column="0" filename="$USER_HOME$/cea/Forum/Forum/node_modules/react-intercom/lib/index.js" />
+      <jump line="14" column="0" filename="$USER_HOME$/cea/Forum/Forum/node_modules/react-intercom/lib/index.js" />
+      <jump line="16" column="0" filename="$USER_HOME$/cea/Forum/Forum/node_modules/react-intercom/lib/index.js" />
+      <jump line="18" column="0" filename="$USER_HOME$/cea/Forum/Forum/node_modules/react-intercom/lib/index.js" />
+      <jump line="20" column="0" filename="$USER_HOME$/cea/Forum/Forum/node_modules/react-intercom/lib/index.js" />
+      <jump line="22" column="0" filename="$USER_HOME$/cea/Forum/Forum/node_modules/react-intercom/lib/index.js" />
+      <jump line="24" column="0" filename="$USER_HOME$/cea/Forum/Forum/node_modules/react-intercom/lib/index.js" />
+      <jump line="26" column="0" filename="$USER_HOME$/cea/Forum/Forum/node_modules/react-intercom/lib/index.js" />
+      <jump line="28" column="0" filename="$USER_HOME$/cea/Forum/Forum/node_modules/react-intercom/lib/index.js" />
+      <jump line="30" column="0" filename="$USER_HOME$/cea/Forum/Forum/node_modules/react-intercom/lib/index.js" />
+      <jump line="35" column="0" filename="$USER_HOME$/cea/Forum/Forum/node_modules/react-intercom/lib/index.js" />
+      <jump line="42" column="0" filename="$USER_HOME$/cea/Forum/Forum/node_modules/react-intercom/lib/index.js" />
+      <jump line="126" column="0" filename="$USER_HOME$/cea/Forum/Forum/node_modules/react-intercom/lib/index.js" />
+      <jump line="120" column="0" filename="$USER_HOME$/cea/Forum/Forum/node_modules/react-intercom/lib/index.js" />
+      <jump line="117" column="0" filename="$USER_HOME$/cea/Forum/Forum/node_modules/react-intercom/lib/index.js" />
+      <jump line="108" column="0" filename="$USER_HOME$/cea/Forum/Forum/node_modules/react-intercom/lib/index.js" />
+      <jump line="106" column="0" filename="$USER_HOME$/cea/Forum/Forum/node_modules/react-intercom/lib/index.js" />
+      <jump line="92" column="0" filename="$USER_HOME$/cea/Forum/Forum/node_modules/react-intercom/lib/index.js" />
+      <jump line="45" column="0" filename="$USER_HOME$/cea/Forum/Forum/node_modules/react-intercom/lib/index.js" />
+      <jump line="48" column="0" filename="$USER_HOME$/cea/Forum/Forum/node_modules/react-intercom/lib/index.js" />
+      <jump line="50" column="0" filename="$USER_HOME$/cea/Forum/Forum/node_modules/react-intercom/lib/index.js" />
+      <jump line="53" column="0" filename="$USER_HOME$/cea/Forum/Forum/node_modules/react-intercom/lib/index.js" />
+      <jump line="57" column="0" filename="$USER_HOME$/cea/Forum/Forum/node_modules/react-intercom/lib/index.js" />
+      <jump line="74" column="0" filename="$USER_HOME$/cea/Forum/Forum/node_modules/react-intercom/lib/index.js" />
+      <jump line="76" column="0" filename="$USER_HOME$/cea/Forum/Forum/node_modules/react-intercom/lib/index.js" />
+      <jump line="90" column="0" filename="$USER_HOME$/cea/Forum/Forum/node_modules/react-intercom/lib/index.js" />
+      <jump line="88" column="0" filename="$USER_HOME$/cea/Forum/Forum/node_modules/react-intercom/lib/index.js" />
+      <jump line="82" column="0" filename="$USER_HOME$/cea/Forum/Forum/node_modules/react-intercom/lib/index.js" />
+      <jump line="44" column="20" filename="$USER_HOME$/cea/Forum/Forum/node_modules/react-intercom/lib/index.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1088,13 +1095,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>has user with intercom enabled</text>
+        <text>hi 1</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxpbnRlcmNvbUFwcElkXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ2hhcyB1c2VyIHdpdGggaW50ZXJjb20gZW5hYmxlZCcpCg==</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZygnaGkgMScpCg==</text>
       </register>
       <register name="p" type="4">
         <keys>
@@ -1107,37 +1114,37 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBjb25zdCBkZWxldGVkVHJhbnNhY3Rpb24gPSBiYW5rVHJhbnNhY3Rpb24K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ25vb29vb28nKQo=</text>
+        <text encoding="base64">ICBjb25zdCBkZWxldGVkVHJhbnNhY3Rpb24gPSBiYW5rVHJhbnNhY3Rpb24K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgLy8gaG91c3RvbiB3ZSBnb3QgYSBwcm9ibGVtCg==</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ25vb29vb28nKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdmb3VuZCB0cmFuc2FjdGlvbiB0b3RhbCcsIHRvdGFsKQo=</text>
+        <text encoding="base64">ICAgICAgLy8gaG91c3RvbiB3ZSBnb3QgYSBwcm9ibGVtCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZygnJykK</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdmb3VuZCB0cmFuc2FjdGlvbiB0b3RhbCcsIHRvdGFsKQo=</text>
       </register>
       <register name="u" type="4">
         <text>uu</text>
       </register>
-      <register name="6" type="4">
-        <text>new BigNumber(bankTransaction.Total)</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICBjb25zb2xlLmxvZygnJykK</text>
       </register>
       <register name="7" type="4">
+        <text>new BigNumber(bankTransaction.Total)</text>
+      </register>
+      <register name="8" type="4">
         <text encoding="base64">bmV3IEJpZ051bWJlcihiYW5rVHJhbnNhY3Rpb24uVG90YWwpID09PSApCiAgfQogIC8vIHNlbGVjdCBiYW5rIHRyYW5zYWN0aW9uIHdoZXJlIHJlZmVyZW5jZSA9IHBheW1lbnQuZ2F0ZXdheWlkCiAgLy8gaWYgZm91bmQ6IGNoZWNrIHZhbHVlCiAgLy8gaWYgdmFsdWUgPSBwYXltZW50LmZlZSArLSAyIGNlbnRzOiBjb250aW51ZQogIC8vIGJsYXN0IGl0IChUT0RPIGhvdyB0byBkbykKICAvLyByZWNyZWF0ZSBmZWUgdHJhbnNhY3Rpb24KfQo=</text>
       </register>
-      <register name="8" type="2">
+      <register name="9" type="2">
         <text encoding="base64">ICAvLyBxdWljayB2YWxpZGF0aW9uCg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUuZXJyb3IoJycpCg==</text>
-      </register>
       <register name=":" type="4">
-        <text>action FindInPath</text>
+        <text>action NextSplitter</text>
       </register>
     </registers>
     <search>
@@ -1187,12 +1194,12 @@
         <entry encoding="base64">JzwsJz5hY3Rpb24gTmV4dFNwbGl0dGVy</entry>
         <entry encoding="base64">JzwsJz53IQ==</entry>
         <entry>action Refactorings.QuickListPopupAction</entry>
-        <entry>action GotoDeclaration</entry>
         <entry>action CommentByLineComment</entry>
-        <entry>action NextSplitter</entry>
         <entry>action GotoFile</entry>
+        <entry>action GotoDeclaration</entry>
         <entry>w!</entry>
         <entry>action FindInPath</entry>
+        <entry>action NextSplitter</entry>
       </history-cmd>
       <history-expr />
       <history-input />
