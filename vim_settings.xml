@@ -211,6 +211,13 @@
       <file name="$USER_HOME$/cea/parfit/migrations/20180126150914_pledge_completion_calculations_up.sql" timestamp="1535967942203">
         <mark key="'" line="190" column="15" />
       </file>
+      <file name="$USER_HOME$/cea/parfit/services/payments/handlers/xero/helpers.js" timestamp="1539801830777">
+        <mark key="'" line="61" column="10" />
+        <mark key="[" line="15" column="14" />
+        <mark key="]" line="15" column="21" />
+        <mark key="^" line="15" column="21" />
+        <mark key="." line="15" column="21" />
+      </file>
       <file name="$USER_HOME$/Documents/cea/Forum/Forum/packages/lesswrong/components/form-components/MultiSelectButtons.jsx" timestamp="1532126295932">
         <mark key="[" line="48" column="63" />
         <mark key="]" line="48" column="63" />
@@ -247,6 +254,11 @@
         <mark key="]" line="22" column="15" />
         <mark key="." line="22" column="15" />
         <mark key="^" line="22" column="15" />
+      </file>
+      <file name="$USER_HOME$/cea/parfit/services/payments/handlers/xero/index.js" timestamp="1539801865839">
+        <mark key="'" line="74" column="10" />
+        <mark key="[" line="177" column="15" />
+        <mark key="]" line="177" column="38" />
       </file>
       <file name="$USER_HOME$/Documents/cea/predictive-altruism/packages/predictive-altruism/lib/components/movies/Question.jsx" timestamp="1531614638857">
         <mark key="[" line="20" column="39" />
@@ -299,6 +311,13 @@
         <mark key="]" line="2" column="19" />
         <mark key="^" line="2" column="19" />
         <mark key="." line="2" column="19" />
+      </file>
+      <file name="$USER_HOME$/cea/parfit/services/payments/workers/xero-balance-sheets.js" timestamp="1539800296162">
+        <mark key="'" line="34" column="0" />
+        <mark key="[" line="40" column="0" />
+        <mark key="]" line="40" column="41" />
+        <mark key="." line="154" column="43" />
+        <mark key="^" line="154" column="43" />
       </file>
       <file name="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/scripts/algoliaExport.js" timestamp="1537800049959">
         <mark key="'" line="40" column="0" />
@@ -375,6 +394,13 @@
       </file>
       <file name="$USER_HOME$/cea/parfit/services/emails/send/index.js" timestamp="1536846465317">
         <mark key="'" line="34" column="0" />
+      </file>
+      <file name="$USER_HOME$/cea/parfit/services/payments/workers/xero-fee-fix.js" timestamp="1539802194180">
+        <mark key="'" line="42" column="28" />
+        <mark key="[" line="41" column="31" />
+        <mark key="]" line="41" column="40" />
+        <mark key="." line="41" column="40" />
+        <mark key="^" line="41" column="40" />
       </file>
       <file name="$USER_HOME$/Documents/cea/Forum/Forum/settings-prod.json" timestamp="1533159971908">
         <mark key="[" line="41" column="20" />
@@ -572,6 +598,11 @@
       <file name="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/Layout.jsx" timestamp="1537358257787">
         <mark key="'" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/lib/modules/callbacks.js" timestamp="1539385811154">
+        <mark key="'" line="236" column="8" />
+        <mark key="[" line="232" column="0" />
+        <mark key="]" line="232" column="34" />
+      </file>
       <file name="$USER_HOME$/cea/Forum/Forum/node_modules/draft-js-resizeable-plugin/lib/index.js" timestamp="1536084318531">
         <mark key="'" line="0" column="0" />
       </file>
@@ -718,10 +749,6 @@
         <mark key="." line="18" column="0" />
         <mark key="^" line="9" column="48" />
       </file>
-      <file name="$USER_HOME$/cea/parfit/package.json" timestamp="1539630429136">
-        <mark key="[" line="43" column="5" />
-        <mark key="]" line="43" column="30" />
-      </file>
       <file name="$USER_HOME$/cea/effectivealtruism-org-static/.gitignore" timestamp="1535721542430">
         <mark key="[" line="12" column="5" />
         <mark key="]" line="13" column="4" />
@@ -739,6 +766,13 @@
         <mark key="]" line="30" column="3" />
         <mark key="^" line="30" column="3" />
         <mark key="." line="30" column="3" />
+      </file>
+      <file name="$USER_HOME$/cea/parfit/.env" timestamp="1539798024299">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="27" column="56" />
+        <mark key="]" line="27" column="56" />
+        <mark key="." line="27" column="56" />
+        <mark key="^" line="26" column="52" />
       </file>
       <file name="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/lib/collections/comments/permissions.js" timestamp="1539724688521">
         <mark key="[" line="7" column="2" />
@@ -779,63 +813,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="15" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/lib/routes.js" />
-      <jump line="18" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/lib/routes.js" />
-      <jump line="19" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/lib/routes.js" />
-      <jump line="20" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/lib/routes.js" />
-      <jump line="21" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/lib/routes.js" />
-      <jump line="22" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/lib/routes.js" />
-      <jump line="23" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/lib/routes.js" />
-      <jump line="25" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/lib/routes.js" />
-      <jump line="28" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/lib/routes.js" />
-      <jump line="29" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/lib/routes.js" />
-      <jump line="30" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/lib/routes.js" />
-      <jump line="31" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/lib/routes.js" />
-      <jump line="33" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/lib/routes.js" />
-      <jump line="34" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/lib/routes.js" />
-      <jump line="36" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/lib/routes.js" />
-      <jump line="37" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/lib/routes.js" />
-      <jump line="39" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/lib/routes.js" />
-      <jump line="40" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/lib/routes.js" />
-      <jump line="41" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/lib/routes.js" />
-      <jump line="44" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/lib/routes.js" />
-      <jump line="45" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/lib/routes.js" />
-      <jump line="46" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/lib/routes.js" />
-      <jump line="48" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/lib/routes.js" />
-      <jump line="49" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/lib/routes.js" />
-      <jump line="50" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/lib/routes.js" />
-      <jump line="51" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/lib/routes.js" />
-      <jump line="53" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/lib/routes.js" />
-      <jump line="54" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/lib/routes.js" />
-      <jump line="56" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/lib/routes.js" />
-      <jump line="59" column="4" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/lib/routes.js" />
-      <jump line="28" column="16" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/common/GuestWelcomeScreen.jsx" />
-      <jump line="1" column="9" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/common/GuestWelcomeScreen.jsx" />
-      <jump line="66" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/common/GuestWelcomeScreen.jsx" />
-      <jump line="68" column="40" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/common/GuestWelcomeScreen.jsx" />
-      <jump line="27" column="6" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/common/GuestWelcomeScreen.jsx" />
-      <jump line="33" column="29" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/lib/components.js" />
-      <jump line="83" column="18" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/themes/eaTheme.js" />
-      <jump line="5" column="6" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/themes/eaTheme.js" />
-      <jump line="22" column="28" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/themes/eaTheme.js" />
-      <jump line="0" column="7" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/themes/eaTheme.js" />
-      <jump line="57" column="14" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/themes/eaTheme.js" />
-      <jump line="3" column="9" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/themes/eaTheme.js" />
-      <jump line="55" column="6" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/themes/eaTheme.js" />
-      <jump line="140" column="9" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/themes/eaTheme.js" />
-      <jump line="144" column="9" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/themes/eaTheme.js" />
-      <jump line="150" column="9" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/themes/eaTheme.js" />
-      <jump line="53" column="12" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/sunshineDashboard/SunshineSidebar.jsx" />
-      <jump line="34" column="12" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/sunshineDashboard/SunshineSidebar.jsx" />
-      <jump line="37" column="44" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/sunshineDashboard/SunshineSidebar.jsx" />
-      <jump line="48" column="12" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/sunshineDashboard/SunshineSidebar.jsx" />
-      <jump line="124" column="7" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" />
-      <jump line="51" column="8" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" />
-      <jump line="45" column="54" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" />
-      <jump line="335" column="6" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" />
-      <jump line="236" column="6" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" />
-      <jump line="246" column="110" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" />
-      <jump line="163" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" />
       <jump line="189" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" />
       <jump line="325" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" />
       <jump line="211" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" />
@@ -879,6 +856,63 @@
       <jump line="19" column="28" filename="$USER_HOME$/cea/Forum/dump/loop-region.bash" />
       <jump line="20" column="26" filename="$USER_HOME$/cea/Forum/dump/loop-region.bash" />
       <jump line="48" column="16" filename="$USER_HOME$/.aws/config" />
+      <jump line="65" column="6" filename="$USER_HOME$/cea/parfit/services/payments/workers/xero-balance-sheets.js" />
+      <jump line="86" column="0" filename="$USER_HOME$/cea/parfit/services/payments/workers/xero-balance-sheets.js" />
+      <jump line="116" column="0" filename="$USER_HOME$/cea/parfit/services/payments/workers/xero-balance-sheets.js" />
+      <jump line="97" column="0" filename="$USER_HOME$/cea/parfit/services/payments/workers/xero-balance-sheets.js" />
+      <jump line="92" column="0" filename="$USER_HOME$/cea/parfit/services/payments/workers/xero-balance-sheets.js" />
+      <jump line="87" column="0" filename="$USER_HOME$/cea/parfit/services/payments/workers/xero-balance-sheets.js" />
+      <jump line="224" column="0" filename="$USER_HOME$/cea/parfit/services/payments/workers/xero-balance-sheets.js" />
+      <jump line="99" column="26" filename="$USER_HOME$/cea/parfit/services/payments/workers/xero-balance-sheets.js" />
+      <jump line="102" column="57" filename="$USER_HOME$/cea/parfit/services/payments/workers/xero-balance-sheets.js" />
+      <jump line="104" column="38" filename="$USER_HOME$/cea/parfit/services/payments/workers/xero-balance-sheets.js" />
+      <jump line="88" column="19" filename="$USER_HOME$/cea/parfit/services/payments/workers/xero-balance-sheets.js" />
+      <jump line="5" column="0" filename="$USER_HOME$/cea/parfit/services/payments/workers/xero-balance-sheets.js" />
+      <jump line="36" column="0" filename="$USER_HOME$/cea/parfit/services/payments/workers/xero-balance-sheets.js" />
+      <jump line="44" column="0" filename="$USER_HOME$/cea/parfit/services/payments/workers/xero-balance-sheets.js" />
+      <jump line="49" column="0" filename="$USER_HOME$/cea/parfit/services/payments/workers/xero-balance-sheets.js" />
+      <jump line="193" column="19" filename="$USER_HOME$/cea/parfit/services/payments/workers/xero-balance-sheets.js" />
+      <jump line="192" column="32" filename="$USER_HOME$/cea/parfit/services/payments/workers/xero-balance-sheets.js" />
+      <jump line="191" column="19" filename="$USER_HOME$/cea/parfit/services/payments/workers/xero-balance-sheets.js" />
+      <jump line="178" column="106" filename="$USER_HOME$/cea/parfit/services/payments/workers/xero-balance-sheets.js" />
+      <jump line="172" column="44" filename="$USER_HOME$/cea/parfit/services/payments/workers/xero-balance-sheets.js" />
+      <jump line="165" column="36" filename="$USER_HOME$/cea/parfit/services/payments/workers/xero-balance-sheets.js" />
+      <jump line="162" column="14" filename="$USER_HOME$/cea/parfit/services/payments/workers/xero-balance-sheets.js" />
+      <jump line="146" column="56" filename="$USER_HOME$/cea/parfit/services/payments/workers/xero-balance-sheets.js" />
+      <jump line="11" column="23" filename="$USER_HOME$/cea/parfit/services/payments/workers/xero-fee-fix.js" />
+      <jump line="103" column="24" filename="$USER_HOME$/cea/parfit/services/payments/workers/xero-balance-sheets.js" />
+      <jump line="158" column="80" filename="$USER_HOME$/cea/parfit/services/payments/workers/xero-balance-sheets.js" />
+      <jump line="37" column="6" filename="$USER_HOME$/cea/parfit/services/payments/workers/xero-balance-sheets.js" />
+      <jump line="19" column="68" filename="$USER_HOME$/cea/parfit/services/payments/workers/xero-fee-fix.js" />
+      <jump line="22" column="27" filename="$USER_HOME$/cea/parfit/services/payments/workers/xero-fee-fix.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/cea/parfit/.env" />
+      <jump line="27" column="21" filename="$USER_HOME$/cea/parfit/services/payments/workers/xero-fee-fix.js" />
+      <jump line="26" column="58" filename="$USER_HOME$/cea/parfit/services/payments/workers/xero-fee-fix.js" />
+      <jump line="154" column="42" filename="$USER_HOME$/cea/parfit/services/payments/workers/xero-balance-sheets.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/cea/parfit/services/payments/workers/xero-balance-sheets.js" />
+      <jump line="1" column="0" filename="$USER_HOME$/cea/parfit/services/payments/workers/xero-balance-sheets.js" />
+      <jump line="4" column="0" filename="$USER_HOME$/cea/parfit/services/payments/workers/xero-balance-sheets.js" />
+      <jump line="6" column="0" filename="$USER_HOME$/cea/parfit/services/payments/workers/xero-balance-sheets.js" />
+      <jump line="12" column="0" filename="$USER_HOME$/cea/parfit/services/payments/workers/xero-balance-sheets.js" />
+      <jump line="14" column="0" filename="$USER_HOME$/cea/parfit/services/payments/workers/xero-balance-sheets.js" />
+      <jump line="17" column="0" filename="$USER_HOME$/cea/parfit/services/payments/workers/xero-balance-sheets.js" />
+      <jump line="19" column="0" filename="$USER_HOME$/cea/parfit/services/payments/workers/xero-balance-sheets.js" />
+      <jump line="21" column="0" filename="$USER_HOME$/cea/parfit/services/payments/workers/xero-balance-sheets.js" />
+      <jump line="23" column="0" filename="$USER_HOME$/cea/parfit/services/payments/workers/xero-balance-sheets.js" />
+      <jump line="28" column="0" filename="$USER_HOME$/cea/parfit/services/payments/workers/xero-balance-sheets.js" />
+      <jump line="30" column="0" filename="$USER_HOME$/cea/parfit/services/payments/workers/xero-balance-sheets.js" />
+      <jump line="32" column="0" filename="$USER_HOME$/cea/parfit/services/payments/workers/xero-balance-sheets.js" />
+      <jump line="34" column="0" filename="$USER_HOME$/cea/parfit/services/payments/workers/xero-balance-sheets.js" />
+      <jump line="33" column="40" filename="$USER_HOME$/cea/parfit/services/payments/workers/xero-fee-fix.js" />
+      <jump line="4" column="27" filename="$USER_HOME$/cea/parfit/services/payments/workers/xero-fee-fix.js" />
+      <jump line="34" column="3" filename="$USER_HOME$/cea/parfit/services/payments/workers/xero-fee-fix.js" />
+      <jump line="41" column="28" filename="$USER_HOME$/cea/parfit/services/payments/workers/xero-fee-fix.js" />
+      <jump line="206" column="0" filename="$USER_HOME$/cea/parfit/services/payments/handlers/xero/helpers.js" />
+      <jump line="62" column="19" filename="$USER_HOME$/cea/parfit/services/payments/handlers/xero/helpers.js" />
+      <jump line="61" column="10" filename="$USER_HOME$/cea/parfit/services/payments/handlers/xero/helpers.js" />
+      <jump line="43" column="20" filename="$USER_HOME$/cea/parfit/services/payments/handlers/xero/index.js" />
+      <jump line="71" column="57" filename="$USER_HOME$/cea/parfit/services/payments/handlers/xero/index.js" />
+      <jump line="74" column="10" filename="$USER_HOME$/cea/parfit/services/payments/handlers/xero/index.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1049,13 +1083,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">cHJvZmlsZSA=</text>
+        <text>confirmation</text>
       </register>
       <register name="/" type="4">
-        <text>score</text>
+        <text encoding="base64">XDxjcmVhdGVYZXJvRmVlVHJhbnNhY3Rpb25cPg==</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">YXdzX2FjY2Vzc19rZXlfaWQgPSBBS0lBSVRDVFRPTTU2WkFQNFNRQQphd3Nfc2VjcmV0X2FjY2Vzc19rZXkgPSByRnRoVGlGQm1mWFdhc2o5bHNrR2hsbFRLdnhUOUQ2a0prdmwzeHd1Cg==</text>
+      <register name="0" type="4">
+        <text>createXeroFeeTransaction</text>
       </register>
       <register name="p" type="4">
         <keys>
@@ -1068,43 +1102,43 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAicHJpdmF0ZUJldGFMZWdhY3lXaGl0ZWxpc3QiOiBbCiAgICAianBhZGRpc29uIiwKICAgICJNYXhkYWx0b24iLAogICAgIkp1bGlhX1dpc2UiLAogICAgIk1hcmVrRHVkYSIsCiAgICAiU2FtRGVlcmUiLAogICAgIkFsbGlzb25TbWl0aCIsCiAgICAiSG93aWVMIiwKICAgICJBamV5YSIsCiAgICAiUGV0ZXJfSHVyZm9yZCIsCiAgICAiSGVsZW5Ub25lciIsCiAgICAiUm9iQmVuc2luZ2VyIiwKICAgICJIb2xkZW5LYXJub2Zza3kiLAogICAgIkdyZWdvcnlfTGV3aXMiLAogICAgImV1a2FyeW90ZSIsCiAgICAiV2lsbGlhbV9NYWNBc2tpbGwiLAogICAgIkphbWVzU25vd2RlbiIsCiAgICAiSmFjeV9SZWVzZSIsCiAgICAiTWFyY3VzX0FfRGF2aXMiLAogICAgIk1pY2hlbGxlX0h1dGNoaW5zb24iLAogICAgIkhlbnJ5X1N0YW5sZXkiLAogICAgIkpvbmFzIFZvbGxtZXIiLAogICAgIkJlbiBQYWNlIiwKICAgICJSb2JlcnRfV2libGluIiwKICAgICJCZW5qYW1pbl9Ub2RkIiwKICAgICJOaWNrX0JlY2tzdGVhZCIsCiAgICAiQW1hbmRhX0Fza2VsbCIsCiAgICAiQXNrZWxsIiwKICAgICJtYWxvIiwKICAgICJIYWxzdGVhZCIsCiAgICAiRGVuaXNlX01lbGNoaW4iLAogICAgInJvc2llY2FtcGJlbGwiLAogICAgIkhhYnJ5a2EiLAogICAgIlJhZW1vbiIsCiAgICAiTWljaGFlbERpY2tlbnMiLAogICAgIkVsaXphYmV0aCIsCiAgICAiZXJpa2FhbG9uc28iLAogICAgIkV2YSIsCiAgICAiUGFibG9TdGFmZm9yaW5pIiwKICAgICJKb2VfQ2FybHNtaXRoIiwKICAgICJTdGVmYW5fU2NodWJlcnQiLAogICAgIkpvZXkiLAogICAgImthdGhlcmluZXNhdm9pZSIsCiAgICAiQUdCIiwKICAgICJBbGVzX0ZsaWRyIiwKICAgICJhYXJvbmdlcnRsZXIiLAogICAgIkp1c3RpcyIsCiAgICAiRGF2aWROYXNoIiwKICAgICJCcnlvbnlNQyIsCiAgICAiZUZpc2giLAogICAgIkVyaWNIZXJib3NvIiwKICAgICJIYXlkZW5XIiwKICAgICJKZWZmX0thdWZtYW4iLAogICAgIkphbl9LdWx2ZWl0IiwKICAgICJKYW4gS3VsdmVpdCIsCiAgICAiam9zdWUiLAogICAgImF0bGFzIiwKICAgICJMYXVyZW5NY0ciLAogICAgIk1pY2hhbF9Ucnplc2ltaWVjaCIsCiAgICAiUmlzdG9fVXVrIiwKICAgICJrb25yYWQiLAogICAgIlRheW1vbiIsCiAgICAiamFtZXNfYXVuZyIsCiAgICAiTWF0ZWpWcnphbGEiLAogICAgIk1hcmNpbl9LIiwKICAgICJub3JhIiwKICAgICJKYW5pcXVlIgogIF0sCgo=</text>
+        <text encoding="base64">ICBjb25zdCBkZWxldGVkVHJhbnNhY3Rpb24gPSBiYW5rVHJhbnNhY3Rpb24K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ25vb29vb28nKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cltwcm9maWxlIHVzd2VzdDJdCnJlZ2lvbiA9IHVzLXdlc3QtMgoKW3Byb2ZpbGUgdXN3ZXN0MV0KcmVnaW9uID0gdXMtd2VzdC0xCgpbcHJvZmlsZSB1c2Vhc3QyXQpyZWdpb24gPSB1cy1lYXN0LTIKCltwcm9maWxlIHVzZWFzdDFdCnJlZ2lvbiA9IHVzLWVhc3QtMQoKW3Byb2ZpbGUgYXBzb3V0aDFdCnJlZ2lvbiA9IGFwLXNvdXRoLTEKCltwcm9maWxlIGFwbm9ydGhlYXN0Ml0KcmVnaW9uID0gYXAtbm9ydGhlYXN0LTIKCltwcm9maWxlIGFwc291dGhlYXN0MV0KcmVnaW9uID0gYXAtc291dGhlYXN0LTEKCltwcm9maWxlIGFwc291dGhlYXN0Ml0KcmVnaW9uID0gYXAtc291dGhlYXN0LTIKCltwcm9maWxlIGFwbm9ydGhlYXN0MV0KcmVnaW9uID0gYXAtbm9ydGhlYXN0LTEKCltwcm9maWxlIGNhY2VudHJhbDFdCnJlZ2lvbiA9IGNhLWNlbnRyYWwtMQoKW3Byb2ZpbGUgY25ub3J0aDFdCnJlZ2lvbiA9IGNuLW5vcnRoLTEKCltwcm9maWxlIGV1Y2VudHJhbDFdCnJlZ2lvbiA9IGV1LWNlbnRyYWwtMQoKW3Byb2ZpbGUgZXV3ZXN0MV0KcmVnaW9uID0gZXUtd2VzdC0xCgpbcHJvZmlsZSBldXdlc3QyXQpyZWdpb24gPSBldS13ZXN0LTIKCltwcm9maWxlIGV1d2VzdDNdCnJlZ2lvbiA9IGV1LXdlc3QtMwoKW3Byb2ZpbGUgc2FlYXN0MV0KcmVnaW9uID0gc2EtZWFzdC0xCg==</text>
+        <text encoding="base64">ICAgICAgLy8gaG91c3RvbiB3ZSBnb3QgYSBwcm9ibGVtCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdmb3VuZCB0cmFuc2FjdGlvbiB0b3RhbCcsIHRvdGFsKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Clt1c3dlc3QyXQphd3NfYWNjZXNzX2tleV9pZCA9IEFLSUFJVENUVE9NNTZaQVA0U1FBCmF3c19zZWNyZXRfYWNjZXNzX2tleSA9IHJGdGhUaUZCbWZYV2Fzajlsc2tHaGxsVEt2eFQ5RDZrSmt2bDN4d3UKClt1c3dlc3QxXQphd3NfYWNjZXNzX2tleV9pZCA9IEFLSUFJVENUVE9NNTZaQVA0U1FBCmF3c19zZWNyZXRfYWNjZXNzX2tleSA9IHJGdGhUaUZCbWZYV2Fzajlsc2tHaGxsVEt2eFQ5RDZrSmt2bDN4d3UKClt1c2Vhc3QyXQphd3NfYWNjZXNzX2tleV9pZCA9IEFLSUFJVENUVE9NNTZaQVA0U1FBCmF3c19zZWNyZXRfYWNjZXNzX2tleSA9IHJGdGhUaUZCbWZYV2Fzajlsc2tHaGxsVEt2eFQ5RDZrSmt2bDN4d3UKClt1c2Vhc3QxXQphd3NfYWNjZXNzX2tleV9pZCA9IEFLSUFJVENUVE9NNTZaQVA0U1FBCmF3c19zZWNyZXRfYWNjZXNzX2tleSA9IHJGdGhUaUZCbWZYV2Fzajlsc2tHaGxsVEt2eFQ5RDZrSmt2bDN4d3UKClthcHNvdXRoMV0KYXdzX2FjY2Vzc19rZXlfaWQgPSBBS0lBSVRDVFRPTTU2WkFQNFNRQQphd3Nfc2VjcmV0X2FjY2Vzc19rZXkgPSByRnRoVGlGQm1mWFdhc2o5bHNrR2hsbFRLdnhUOUQ2a0prdmwzeHd1CgpbYXBub3J0aGVhc3QyXQphd3NfYWNjZXNzX2tleV9pZCA9IEFLSUFJVENUVE9NNTZaQVA0U1FBCmF3c19zZWNyZXRfYWNjZXNzX2tleSA9IHJGdGhUaUZCbWZYV2Fzajlsc2tHaGxsVEt2eFQ5RDZrSmt2bDN4d3UKClthcHNvdXRoZWFzdDFdCmF3c19hY2Nlc3Nfa2V5X2lkID0gQUtJQUlUQ1RUT001NlpBUDRTUUEKYXdzX3NlY3JldF9hY2Nlc3Nfa2V5ID0gckZ0aFRpRkJtZlhXYXNqOWxza0dobGxUS3Z4VDlENmtKa3ZsM3h3dQoKW2Fwc291dGhlYXN0Ml0KYXdzX2FjY2Vzc19rZXlfaWQgPSBBS0lBSVRDVFRPTTU2WkFQNFNRQQphd3Nfc2VjcmV0X2FjY2Vzc19rZXkgPSByRnRoVGlGQm1mWFdhc2o5bHNrR2hsbFRLdnhUOUQ2a0prdmwzeHd1CgpbYXBub3J0aGVhc3QxXQphd3NfYWNjZXNzX2tleV9pZCA9IEFLSUFJVENUVE9NNTZaQVA0U1FBCmF3c19zZWNyZXRfYWNjZXNzX2tleSA9IHJGdGhUaUZCbWZYV2Fzajlsc2tHaGxsVEt2eFQ5RDZrSmt2bDN4d3UKCltjYWNlbnRyYWwxXQphd3NfYWNjZXNzX2tleV9pZCA9IEFLSUFJVENUVE9NNTZaQVA0U1FBCmF3c19zZWNyZXRfYWNjZXNzX2tleSA9IHJGdGhUaUZCbWZYV2Fzajlsc2tHaGxsVEt2eFQ5RDZrSmt2bDN4d3UKCltjbm5vcnRoMV0KYXdzX2FjY2Vzc19rZXlfaWQgPSBBS0lBSVRDVFRPTTU2WkFQNFNRQQphd3Nfc2VjcmV0X2FjY2Vzc19rZXkgPSByRnRoVGlGQm1mWFdhc2o5bHNrR2hsbFRLdnhUOUQ2a0prdmwzeHd1CgpbZXVjZW50cmFsMV0KYXdzX2FjY2Vzc19rZXlfaWQgPSBBS0lBSVRDVFRPTTU2WkFQNFNRQQphd3Nfc2VjcmV0X2FjY2Vzc19rZXkgPSByRnRoVGlGQm1mWFdhc2o5bHNrR2hsbFRLdnhUOUQ2a0prdmwzeHd1CgpbZXV3ZXN0MV0KYXdzX2FjY2Vzc19rZXlfaWQgPSBBS0lBSVRDVFRPTTU2WkFQNFNRQQphd3Nfc2VjcmV0X2FjY2Vzc19rZXkgPSByRnRoVGlGQm1mWFdhc2o5bHNrR2hsbFRLdnhUOUQ2a0prdmwzeHd1CgpbZXV3ZXN0Ml0KYXdzX2FjY2Vzc19rZXlfaWQgPSBBS0lBSVRDVFRPTTU2WkFQNFNRQQphd3Nfc2VjcmV0X2FjY2Vzc19rZXkgPSByRnRoVGlGQm1mWFdhc2o5bHNrR2hsbFRLdnhUOUQ2a0prdmwzeHd1CgpbZXV3ZXN0M10KYXdzX2FjY2Vzc19rZXlfaWQgPSBBS0lBSVRDVFRPTTU2WkFQNFNRQQphd3Nfc2VjcmV0X2FjY2Vzc19rZXkgPSByRnRoVGlGQm1mWFdhc2o5bHNrR2hsbFRLdnhUOUQ2a0prdmwzeHd1Cgpbc2FlYXN0MV0KYXdzX2FjY2Vzc19rZXlfaWQgPSBBS0lBSVRDVFRPTTU2WkFQNFNRQQphd3Nfc2VjcmV0X2FjY2Vzc19rZXkgPSByRnRoVGlGQm1mWFdhc2o5bHNrR2hsbFRLdnhUOUQ2a0prdmwzeHd1Cg==</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZygnJykK</text>
       </register>
       <register name="u" type="4">
         <text>uu</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="6" type="4">
+        <text>new BigNumber(bankTransaction.Total)</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">W3VzLXdlc3QtMl0KcmVnaW9uID0gdXMtd2VzdC0yCgpbdXMtd2VzdC0xXQpyZWdpb24gPSB1cy13ZXN0LTEKClt1cy1lYXN0LTJdCnJlZ2lvbiA9IHVzLWVhc3QtMgoKW3VzLWVhc3QtMV0KcmVnaW9uID0gdXMtZWFzdC0xCgpbYXAtc291dGgtMV0KcmVnaW9uID0gYXAtc291dGgtMQoKW2FwLW5vcnRoZWFzdC0yXQpyZWdpb24gPSBhcC1ub3J0aGVhc3QtMgoKW2FwLXNvdXRoZWFzdC0xXQpyZWdpb24gPSBhcC1zb3V0aGVhc3QtMQoKW2FwLXNvdXRoZWFzdC0yXQpyZWdpb24gPSBhcC1zb3V0aGVhc3QtMgoKW2FwLW5vcnRoZWFzdC0xXQpyZWdpb24gPSBhcC1ub3J0aGVhc3QtMQoKW2NhLWNlbnRyYWwtMV0KcmVnaW9uID0gY2EtY2VudHJhbC0xCgpbY24tbm9ydGgtMV0KcmVnaW9uID0gY24tbm9ydGgtMQoKW2V1LWNlbnRyYWwtMV0KcmVnaW9uID0gZXUtY2VudHJhbC0xCgpbZXUtd2VzdC0xXQpyZWdpb24gPSBldS13ZXN0LTEKCltldS13ZXN0LTJdCnJlZ2lvbiA9IGV1LXdlc3QtMgoKW2V1LXdlc3QtM10KcmVnaW9uID0gZXUtd2VzdC0zCgpbc2EtZWFzdC0xXQpyZWdpb24gPSBzYS1lYXN0LTEK</text>
+      <register name="7" type="4">
+        <text encoding="base64">bmV3IEJpZ051bWJlcihiYW5rVHJhbnNhY3Rpb24uVG90YWwpID09PSApCiAgfQogIC8vIHNlbGVjdCBiYW5rIHRyYW5zYWN0aW9uIHdoZXJlIHJlZmVyZW5jZSA9IHBheW1lbnQuZ2F0ZXdheWlkCiAgLy8gaWYgZm91bmQ6IGNoZWNrIHZhbHVlCiAgLy8gaWYgdmFsdWUgPSBwYXltZW50LmZlZSArLSAyIGNlbnRzOiBjb250aW51ZQogIC8vIGJsYXN0IGl0IChUT0RPIGhvdyB0byBkbykKICAvLyByZWNyZWF0ZSBmZWUgdHJhbnNhY3Rpb24KfQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAvLyBxdWljayB2YWxpZGF0aW9uCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAndXMtd2VzdC0yJwogICd1cy13ZXN0LTEnCiAgJ3VzLWVhc3QtMicKICAndXMtZWFzdC0xJwogICdhcC1zb3V0aC0xJwogICdhcC1ub3J0aGVhc3QtMicKICAnYXAtc291dGhlYXN0LTEnCiAgJ2FwLXNvdXRoZWFzdC0yJwogICdhcC1ub3J0aGVhc3QtMScKICAnY2EtY2VudHJhbC0xJwogICdjbi1ub3J0aC0xJwogICdldS1jZW50cmFsLTEnCiAgJ2V1LXdlc3QtMScKICAnZXUtd2VzdC0yJwogICdldS13ZXN0LTMnCiAgJ3NhLWVhc3QtMScK</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUuZXJyb3IoJycpCg==</text>
       </register>
       <register name=":" type="4">
-        <text>action GotoFile</text>
+        <text>w!</text>
       </register>
     </registers>
     <search>
-      <last-search>score</last-search>
+      <last-search encoding="base64">XDxjcmVhdGVYZXJvRmVlVHJhbnNhY3Rpb25cPg==</last-search>
       <last-offset />
-      <last-pattern>score</last-pattern>
+      <last-pattern encoding="base64">XDxjcmVhdGVYZXJvRmVlVHJhbnNhY3Rpb25cPg==</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute encoding="base64">XDxpbnNlcnRVc2VyXD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -1112,13 +1146,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">Pg==</entry>
-        <entry encoding="base64">XDxTaXRlTG9nb1w+</entry>
-        <entry encoding="base64">XDxhZGRSb3V0ZVw+</entry>
-        <entry encoding="base64">XDxDb21wb25lbnRzXD4=</entry>
-        <entry encoding="base64">XDxkaXNwbGF5TmFtZVw+</entry>
-        <entry encoding="base64">XDxHdWVzdFdlbGNvbWVTY3JlZW5cPg==</entry>
-        <entry>Logo</entry>
         <entry encoding="base64">XDx0aXRsZVN0YWNrXD4=</entry>
         <entry encoding="base64">XDxjcmVhdGVMV1RoZW1lXD4=</entry>
         <entry encoding="base64">XDxjcmVhdGVNdWlUaGVtZVw+</entry>
@@ -1132,28 +1159,35 @@
         <entry encoding="base64">XDxwcmltYXJ5QWRkcmVzc1w+</entry>
         <entry>console</entry>
         <entry>score</entry>
+        <entry>recipie</entry>
+        <entry encoding="base64">XDxnZXRQYXltZW50UmVjaXBpZW50XD4=</entry>
+        <entry>recipient</entry>
+        <entry>knex</entry>
+        <entry encoding="base64">XDxCaWdOdW1iZXJcPg==</entry>
+        <entry>fee</entry>
+        <entry encoding="base64">XDxjcmVhdGVYZXJvRmVlVHJhbnNhY3Rpb25cPg==</entry>
       </history-search>
       <history-cmd>
-        <entry>%s/;//g</entry>
         <entry>%/&quot;/'/g</entry>
         <entry>$s/&quot;/'/g</entry>
         <entry>s/&quot;/'/g</entry>
         <entry>%s/&quot;/'/g</entry>
         <entry encoding="base64">JzwsJz5zLyIvJy9n</entry>
         <entry>.action NextSplitter</entry>
-        <entry>action Refactorings.QuickListPopupAction</entry>
         <entry>action ReopenClosedTab</entry>
         <entry>action SplitVertically</entry>
         <entry>source ~/.ideavimrc</entry>
         <entry>action RenameFile</entry>
-        <entry>action GotoDeclaration</entry>
         <entry>action NewFile</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gTmV4dFNwbGl0dGVy</entry>
+        <entry>action FindInPath</entry>
+        <entry>action GotoDeclaration</entry>
+        <entry encoding="base64">JzwsJz53IQ==</entry>
+        <entry>action Refactorings.QuickListPopupAction</entry>
         <entry>action CommentByLineComment</entry>
         <entry>action NextSplitter</entry>
-        <entry>w!</entry>
-        <entry>action FindInPath</entry>
         <entry>action GotoFile</entry>
+        <entry>w!</entry>
       </history-cmd>
       <history-expr />
       <history-input />
