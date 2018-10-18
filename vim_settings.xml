@@ -392,12 +392,12 @@
       <file name="$USER_HOME$/cea/parfit/services/emails/send/index.js" timestamp="1536846465317">
         <mark key="'" line="34" column="0" />
       </file>
-      <file name="$USER_HOME$/cea/parfit/services/payments/workers/xero-fee-fix.js" timestamp="1539824399430">
+      <file name="$USER_HOME$/cea/parfit/services/payments/workers/xero-fee-fix.js" timestamp="1539825315025">
         <mark key="'" line="49" column="10" />
-        <mark key="[" line="95" column="17" />
-        <mark key="]" line="95" column="15" />
-        <mark key="." line="95" column="15" />
-        <mark key="^" line="95" column="15" />
+        <mark key="[" line="99" column="0" />
+        <mark key="]" line="99" column="0" />
+        <mark key="." line="99" column="0" />
+        <mark key="^" line="96" column="84" />
       </file>
       <file name="$USER_HOME$/Documents/cea/Forum/Forum/settings-prod.json" timestamp="1533159971908">
         <mark key="[" line="41" column="20" />
@@ -1102,19 +1102,19 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAvLyBhd2FpdCB4ZXJvLmJhbmtUcmFuc2FjdGlvbnMudXBkYXRlKHtCYW5rVHJhbnNhY3Rpb25JRCwgU3RhdHVzOiAnQVVUSE9SSVNFRCd9KQo=</text>
+        <text encoding="base64">ICAvLyBUT0RPIGNoZWNrIHRoYXQgaXQgZGVsdGVkCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGF3YWl0IGNyZWF0ZUZlZVRyYW5zYWN0aW9uKCkK</text>
+        <text encoding="base64">ICAvLyBhd2FpdCB4ZXJvLmJhbmtUcmFuc2FjdGlvbnMudXBkYXRlKHtCYW5rVHJhbnNhY3Rpb25JRCwgU3RhdHVzOiAnQVVUSE9SSVNFRCd9KQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGF3YWl0IGNyZWF0ZUZlZVRyYW5zYWN0aW9uKCkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">YXN5bmMgZnVuY3Rpb24gY3JlCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text>`Incorrect fee amount reconciled for payment ${Payment.reference}`</text>
+      <register name="5" type="2">
+        <text encoding="base64">YXN5bmMgZnVuY3Rpb24gY3JlCg==</text>
       </register>
       <register name="u" type="4">
         <text>uu</text>
@@ -1123,13 +1123,13 @@
         <text>`Incorrect fee amount reconciled for payment ${Payment.reference}`</text>
       </register>
       <register name="7" type="4">
+        <text>`Incorrect fee amount reconciled for payment ${Payment.reference}`</text>
+      </register>
+      <register name="8" type="4">
         <text>Incorrect fee amount reconciled for payment ${}</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIC8vIFRPRE8gY2hlY2sgaWYgcmVjb25jaWxlZCwgY29udGludWUK</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ25vIHVzZXIsIHVzZSBpbnRlcmNvbSBhbnl3YXknKQo=</text>
+        <text encoding="base64">ICAgIC8vIFRPRE8gY2hlY2sgaWYgcmVjb25jaWxlZCwgY29udGludWUK</text>
       </register>
       <register name=":" type="4">
         <text>w!</text>
