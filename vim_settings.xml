@@ -342,11 +342,12 @@
       <file name="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/sequences/SequencesHome.jsx" timestamp="1534979767169">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/common/Home.jsx" timestamp="1539819471687">
+      <file name="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/common/Home.jsx" timestamp="1539991962168">
         <mark key="'" line="7" column="8" />
-        <mark key="[" line="7" column="128" />
-        <mark key="]" line="7" column="128" />
-        <mark key="." line="7" column="128" />
+        <mark key="[" line="32" column="83" />
+        <mark key="]" line="33" column="7" />
+        <mark key="." line="33" column="7" />
+        <mark key="^" line="33" column="7" />
       </file>
       <file name="$USER_HOME$/Documents/cea/Forum/Forum/packages/lesswrong/server/cors.js" timestamp="1532733805226">
         <mark key="[" line="0" column="46" />
@@ -1099,8 +1100,8 @@
       <register name="/" type="4">
         <text>console</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAnZm9yZXRob3VnaHQtZm91bmRhdGlvbicsICdGb3JldGhvdWdodCBGb3VuZGF0aW9uJywKICAnbm9uLXByb2ZpdCcsIHRydWUsIDUwLCBmYWxzZSwKICBOVUxMCg==</text>
+      <register name="0" type="4">
+        <text>subscribeLinks</text>
       </register>
       <register name="p" type="4">
         <keys>
@@ -1143,7 +1144,7 @@
         <text encoding="base64">ICAgIC8vIFRPRE8gY2hlY2sgaWYgcmVjb25jaWxlZCwgY29udGludWUK</text>
       </register>
       <register name=":" type="4">
-        <text>action NextSplitter</text>
+        <text>w!</text>
       </register>
     </registers>
     <search>
@@ -1193,12 +1194,12 @@
         <entry encoding="base64">JzwsJz5hY3Rpb24gTmV4dFNwbGl0dGVy</entry>
         <entry encoding="base64">JzwsJz53IQ==</entry>
         <entry>action Refactorings.QuickListPopupAction</entry>
+        <entry>action NextSplitter</entry>
+        <entry>action GotoFile</entry>
         <entry>action GotoDeclaration</entry>
         <entry>action FindInPath</entry>
         <entry>action CommentByLineComment</entry>
         <entry>w!</entry>
-        <entry>action GotoFile</entry>
-        <entry>action NextSplitter</entry>
       </history-cmd>
       <history-expr />
       <history-input />
