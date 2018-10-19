@@ -750,8 +750,8 @@
         <mark key="." line="18" column="0" />
         <mark key="^" line="9" column="48" />
       </file>
-      <file name="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" timestamp="1539976174627">
-        <mark key="'" line="259" column="38" />
+      <file name="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" timestamp="1539983392518">
+        <mark key="'" line="80" column="0" />
         <mark key="[" line="128" column="24" />
         <mark key="]" line="128" column="24" />
         <mark key="." line="128" column="24" />
@@ -824,7 +824,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="88" column="0" filename="$USER_HOME$/cea/Forum/Forum/node_modules/react-intercom/lib/index.js" />
       <jump line="82" column="0" filename="$USER_HOME$/cea/Forum/Forum/node_modules/react-intercom/lib/index.js" />
       <jump line="44" column="20" filename="$USER_HOME$/cea/Forum/Forum/node_modules/react-intercom/lib/index.js" />
       <jump line="7" column="8" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/common/Home.jsx" />
@@ -867,11 +866,6 @@
       <jump line="53" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" />
       <jump line="56" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" />
       <jump line="59" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" />
-      <jump line="63" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" />
-      <jump line="66" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" />
-      <jump line="80" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" />
-      <jump line="83" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" />
-      <jump line="88" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" />
       <jump line="130" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" />
       <jump line="138" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" />
       <jump line="157" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" />
@@ -924,6 +918,12 @@
       <jump line="249" column="6" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" />
       <jump line="250" column="6" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" />
       <jump line="259" column="38" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" />
+      <jump line="77" column="19" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" />
+      <jump line="88" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" />
+      <jump line="83" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" />
+      <jump line="63" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" />
+      <jump line="66" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" />
+      <jump line="80" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1143,7 +1143,7 @@
         <text encoding="base64">ICAgIC8vIFRPRE8gY2hlY2sgaWYgcmVjb25jaWxlZCwgY29udGludWUK</text>
       </register>
       <register name=":" type="4">
-        <text>w!</text>
+        <text>action NextSplitter</text>
       </register>
     </registers>
     <search>
@@ -1194,11 +1194,11 @@
         <entry encoding="base64">JzwsJz53IQ==</entry>
         <entry>action Refactorings.QuickListPopupAction</entry>
         <entry>action GotoDeclaration</entry>
-        <entry>action NextSplitter</entry>
         <entry>action FindInPath</entry>
-        <entry>action GotoFile</entry>
         <entry>action CommentByLineComment</entry>
         <entry>w!</entry>
+        <entry>action GotoFile</entry>
+        <entry>action NextSplitter</entry>
       </history-cmd>
       <history-expr />
       <history-input />
