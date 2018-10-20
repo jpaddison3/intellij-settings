@@ -342,12 +342,12 @@
       <file name="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/sequences/SequencesHome.jsx" timestamp="1534979767169">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/common/Home.jsx" timestamp="1539991962168">
+      <file name="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/common/Home.jsx" timestamp="1539992879091">
         <mark key="'" line="7" column="8" />
-        <mark key="[" line="32" column="83" />
-        <mark key="]" line="33" column="7" />
-        <mark key="." line="33" column="7" />
-        <mark key="^" line="33" column="7" />
+        <mark key="[" line="32" column="0" />
+        <mark key="]" line="32" column="0" />
+        <mark key="." line="32" column="0" />
+        <mark key="^" line="32" column="25" />
       </file>
       <file name="$USER_HOME$/Documents/cea/Forum/Forum/packages/lesswrong/server/cors.js" timestamp="1532733805226">
         <mark key="[" line="0" column="46" />
@@ -660,14 +660,21 @@
         <mark key="." line="3" column="90" />
         <mark key="^" line="3" column="90" />
       </file>
-      <file name="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/lib/routes.js" timestamp="1539206080237">
-        <mark key="'" line="59" column="4" />
+      <file name="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/lib/routes.js" timestamp="1539993007360">
+        <mark key="'" line="16" column="0" />
+        <mark key="[" line="56" column="81" />
+        <mark key="]" line="56" column="98" />
+        <mark key="." line="56" column="81" />
+        <mark key="^" line="56" column="80" />
       </file>
       <file name="$USER_HOME$/Desktop/zap-data.txt" timestamp="1536331632426">
         <mark key="[" line="62" column="0" />
         <mark key="]" line="62" column="74" />
         <mark key="^" line="74" column="21" />
         <mark key="." line="74" column="21" />
+      </file>
+      <file name="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/legacy-redirects/routes.js" timestamp="1539992916075">
+        <mark key="'" line="89" column="17" />
       </file>
       <file name="$USER_HOME$/cea/parfit/migrations/20180913122130_shadow_register_no_email_up.sql" timestamp="1537287019776">
         <mark key="'" line="74" column="0" />
@@ -751,12 +758,6 @@
         <mark key="." line="18" column="0" />
         <mark key="^" line="9" column="48" />
       </file>
-      <file name="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" timestamp="1539983392518">
-        <mark key="'" line="80" column="0" />
-        <mark key="[" line="128" column="24" />
-        <mark key="]" line="128" column="24" />
-        <mark key="." line="128" column="24" />
-      </file>
       <file name="$USER_HOME$/cea/effectivealtruism-org-static/.gitignore" timestamp="1535721542430">
         <mark key="[" line="12" column="5" />
         <mark key="]" line="13" column="4" />
@@ -825,8 +826,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="82" column="0" filename="$USER_HOME$/cea/Forum/Forum/node_modules/react-intercom/lib/index.js" />
-      <jump line="44" column="20" filename="$USER_HOME$/cea/Forum/Forum/node_modules/react-intercom/lib/index.js" />
       <jump line="7" column="8" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/common/Home.jsx" />
       <jump line="79" column="82" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/Layout.jsx" />
       <jump line="46" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/Layout.jsx" />
@@ -925,6 +924,8 @@
       <jump line="63" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" />
       <jump line="66" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" />
       <jump line="80" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" />
+      <jump line="89" column="17" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/legacy-redirects/routes.js" />
+      <jump line="16" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/lib/routes.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1095,10 +1096,10 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Y29tbWVudCA=</text>
+        <text>ANDbEKqbdDuBCQAnM</text>
       </register>
       <register name="/" type="4">
-        <text>console</text>
+        <text>about</text>
       </register>
       <register name="0" type="4">
         <text>subscribeLinks</text>
@@ -1114,43 +1115,43 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAvLyBUT0RPIGNoZWNrIHRoYXQgaXQgZGVsdGVkCg==</text>
+        <text encoding="base64">ICAgICAgICAvLyBzdWJzY3JpYmVMaW5rcz17PENvbXBvbmVudHMuU3Vic2NyaWJlV2lkZ2V0IHZpZXc9e3JlY2VudFBvc3RzVGVybXMudmlld30gLz59Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAvLyBhd2FpdCB4ZXJvLmJhbmtUcmFuc2FjdGlvbnMudXBkYXRlKHtCYW5rVHJhbnNhY3Rpb25JRCwgU3RhdHVzOiAnQVVUSE9SSVNFRCd9KQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGF3YWl0IGNyZWF0ZUZlZVRyYW5zYWN0aW9uKCkK</text>
+        <text encoding="base64">ICAvLyBUT0RPIGNoZWNrIHRoYXQgaXQgZGVsdGVkCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAvLyBhd2FpdCB4ZXJvLmJhbmtUcmFuc2FjdGlvbnMudXBkYXRlKHtCYW5rVHJhbnNhY3Rpb25JRCwgU3RhdHVzOiAnQVVUSE9SSVNFRCd9KQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">YXN5bmMgZnVuY3Rpb24gY3JlCg==</text>
+        <text encoding="base64">ICAgIGF3YWl0IGNyZWF0ZUZlZVRyYW5zYWN0aW9uKCkK</text>
       </register>
       <register name="u" type="4">
         <text>uu</text>
       </register>
-      <register name="6" type="4">
-        <text>`Incorrect fee amount reconciled for payment ${Payment.reference}`</text>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text>`Incorrect fee amount reconciled for payment ${Payment.reference}`</text>
+      <register name="7" type="2">
+        <text encoding="base64">YXN5bmMgZnVuY3Rpb24gY3JlCg==</text>
       </register>
       <register name="8" type="4">
-        <text>Incorrect fee amount reconciled for payment ${}</text>
+        <text>`Incorrect fee amount reconciled for payment ${Payment.reference}`</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIC8vIFRPRE8gY2hlY2sgaWYgcmVjb25jaWxlZCwgY29udGludWUK</text>
+      <register name="9" type="4">
+        <text>`Incorrect fee amount reconciled for payment ${Payment.reference}`</text>
       </register>
       <register name=":" type="4">
         <text>w!</text>
       </register>
     </registers>
     <search>
-      <last-search>console</last-search>
+      <last-search>about</last-search>
       <last-offset />
-      <last-pattern>console</last-pattern>
+      <last-pattern>about</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute encoding="base64">XDxpbnNlcnRVc2VyXD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -1158,7 +1159,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDx1c2VyXD4=</entry>
         <entry encoding="base64">XDx1cHNlcnRQcm9jZXNzZWRVc2Vyc1w+</entry>
         <entry encoding="base64">XDxsZWdhY3lVc2VyVG9OZXdVc2VyXD4=</entry>
         <entry encoding="base64">XDxpbnNlcnRVc2VyXD4=</entry>
@@ -1178,6 +1178,7 @@
         <entry encoding="base64">XDxkZWxldGVUcmFuc2FjdGlvblw+</entry>
         <entry>fore</entry>
         <entry>console</entry>
+        <entry>about</entry>
       </history-search>
       <history-cmd>
         <entry>%/&quot;/'/g</entry>
@@ -1194,11 +1195,11 @@
         <entry encoding="base64">JzwsJz5hY3Rpb24gTmV4dFNwbGl0dGVy</entry>
         <entry encoding="base64">JzwsJz53IQ==</entry>
         <entry>action Refactorings.QuickListPopupAction</entry>
+        <entry>action GotoDeclaration</entry>
+        <entry>action CommentByLineComment</entry>
+        <entry>action FindInPath</entry>
         <entry>action NextSplitter</entry>
         <entry>action GotoFile</entry>
-        <entry>action GotoDeclaration</entry>
-        <entry>action FindInPath</entry>
-        <entry>action CommentByLineComment</entry>
         <entry>w!</entry>
       </history-cmd>
       <history-expr />
