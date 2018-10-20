@@ -1145,7 +1145,7 @@
         <text>`Incorrect fee amount reconciled for payment ${Payment.reference}`</text>
       </register>
       <register name=":" type="4">
-        <text>w!</text>
+        <text>action FindInPath</text>
       </register>
     </registers>
     <search>
@@ -1197,10 +1197,10 @@
         <entry>action Refactorings.QuickListPopupAction</entry>
         <entry>action GotoDeclaration</entry>
         <entry>action CommentByLineComment</entry>
-        <entry>action FindInPath</entry>
         <entry>action NextSplitter</entry>
         <entry>action GotoFile</entry>
         <entry>w!</entry>
+        <entry>action FindInPath</entry>
       </history-cmd>
       <history-expr />
       <history-input />
