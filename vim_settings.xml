@@ -256,7 +256,6 @@
         <mark key="^" line="12" column="29" />
         <mark key="." line="12" column="29" />
       </file>
-      <file name="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/common/ErrorBoundary.jsx" timestamp="1539815596803" />
       <file name="$USER_HOME$/Documents/cea/predictive-altruism/packages/predictive-altruism/lib/components/movies/Question.jsx" timestamp="1531614638857">
         <mark key="[" line="20" column="39" />
         <mark key="]" line="20" column="39" />
@@ -394,12 +393,12 @@
       <file name="$USER_HOME$/cea/parfit/services/emails/send/index.js" timestamp="1536846465317">
         <mark key="'" line="34" column="0" />
       </file>
-      <file name="$USER_HOME$/cea/parfit/services/payments/workers/xero-fee-fix.js" timestamp="1540238395642">
-        <mark key="'" line="30" column="0" />
-        <mark key="[" line="145" column="0" />
-        <mark key="]" line="145" column="0" />
-        <mark key="." line="145" column="0" />
-        <mark key="^" line="1" column="0" />
+      <file name="$USER_HOME$/cea/parfit/services/payments/workers/xero-fee-fix.js" timestamp="1540247061320">
+        <mark key="'" line="58" column="4" />
+        <mark key="[" line="126" column="38" />
+        <mark key="]" line="126" column="38" />
+        <mark key="." line="126" column="38" />
+        <mark key="^" line="126" column="38" />
       </file>
       <file name="$USER_HOME$/Documents/cea/Forum/Forum/settings-prod.json" timestamp="1533159971908">
         <mark key="[" line="41" column="20" />
@@ -845,22 +844,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="81" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" />
-      <jump line="89" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" />
-      <jump line="131" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" />
-      <jump line="139" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" />
-      <jump line="158" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" />
-      <jump line="167" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" />
-      <jump line="193" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" />
-      <jump line="215" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" />
-      <jump line="239" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" />
-      <jump line="269" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" />
-      <jump line="331" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" />
-      <jump line="341" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" />
-      <jump line="355" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" />
-      <jump line="405" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" />
-      <jump line="404" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" />
-      <jump line="380" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" />
       <jump line="356" column="6" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" />
       <jump line="168" column="6" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" />
       <jump line="357" column="54" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" />
@@ -906,7 +889,6 @@
       <jump line="54" column="53" filename="$USER_HOME$/cea/parfit/services/payments/workers/xero-fee-fix.js" />
       <jump line="73" column="0" filename="$USER_HOME$/cea/parfit/services/payments/workers/xero-fee-fix.js" />
       <jump line="108" column="50" filename="$USER_HOME$/cea/parfit/services/payments/workers/xero-fee-fix.js" />
-      <jump line="58" column="10" filename="$USER_HOME$/cea/parfit/services/payments/workers/xero-fee-fix.js" />
       <jump line="214" column="18" filename="$USER_HOME$/cea/parfit/services/payments/workers/xero-fee-fix.js" />
       <jump line="90" column="62" filename="$USER_HOME$/cea/parfit/services/payments/workers/xero-fee-fix.js" />
       <jump line="38" column="34" filename="$USER_HOME$/cea/parfit/services/payments/workers/xero-fee-fix.js" />
@@ -945,6 +927,23 @@
       <jump line="87" column="2" filename="$USER_HOME$/cea/parfit/services/payments/workers/xero-fee-fix.js" />
       <jump line="135" column="0" filename="$USER_HOME$/cea/parfit/services/payments/workers/xero-fee-fix.js" />
       <jump line="30" column="0" filename="$USER_HOME$/cea/parfit/services/payments/workers/xero-fee-fix.js" />
+      <jump line="29" column="0" filename="$USER_HOME$/cea/parfit/services/payments/workers/xero-fee-fix.js" />
+      <jump line="91" column="0" filename="$USER_HOME$/cea/parfit/services/payments/workers/xero-fee-fix.js" />
+      <jump line="147" column="0" filename="$USER_HOME$/cea/parfit/services/payments/workers/xero-fee-fix.js" />
+      <jump line="25" column="0" filename="$USER_HOME$/cea/parfit/services/payments/workers/xero-fee-fix.js" />
+      <jump line="101" column="33" filename="$USER_HOME$/cea/parfit/services/payments/workers/xero-fee-fix.js" />
+      <jump line="139" column="0" filename="$USER_HOME$/cea/parfit/services/payments/workers/xero-fee-fix.js" />
+      <jump line="61" column="74" filename="$USER_HOME$/cea/parfit/services/payments/workers/xero-fee-fix.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/cea/parfit/services/payments/workers/xero-fee-fix.js" />
+      <jump line="1" column="0" filename="$USER_HOME$/cea/parfit/services/payments/workers/xero-fee-fix.js" />
+      <jump line="4" column="0" filename="$USER_HOME$/cea/parfit/services/payments/workers/xero-fee-fix.js" />
+      <jump line="10" column="0" filename="$USER_HOME$/cea/parfit/services/payments/workers/xero-fee-fix.js" />
+      <jump line="12" column="0" filename="$USER_HOME$/cea/parfit/services/payments/workers/xero-fee-fix.js" />
+      <jump line="14" column="0" filename="$USER_HOME$/cea/parfit/services/payments/workers/xero-fee-fix.js" />
+      <jump line="19" column="0" filename="$USER_HOME$/cea/parfit/services/payments/workers/xero-fee-fix.js" />
+      <jump line="26" column="0" filename="$USER_HOME$/cea/parfit/services/payments/workers/xero-fee-fix.js" />
+      <jump line="23" column="0" filename="$USER_HOME$/cea/parfit/services/payments/workers/xero-fee-fix.js" />
+      <jump line="58" column="4" filename="$USER_HOME$/cea/parfit/services/payments/workers/xero-fee-fix.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1115,7 +1114,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>TODO;')</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxTVEFSVF9EQVRFXD4=</text>
@@ -1134,34 +1133,34 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAvLyAudXNhZ2UoJ3BheW1lbnRzOnhlcm9iYWxhbmNlc2hlZXRzIFtvcHRpb25zXSBUT0RPOycpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Y29uc3QgWGVybyA9IHJlcXVpcmUoJy4uL2dhdGV3YXlzL3hlcm8tbmV3JykuY2xpZW50cwpjb25zdCBrbmV4ID0gcmVxdWlyZSgnLi4vLi4vLi4vZGInKQo=</text>
+        <text encoding="base64">Ly8gY3VzdG9tIGhlbHAKcHJvZ3JhbS5vbignLS1oZWxwJywgZnVuY3Rpb24gKCkgewogIGNvbnNvbGUubG9nKChgCiAgYCkpCiAgcHJvZ3JhbS51c2FnZSgpCn0pCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Ly8gCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Y29uc3QgU1RBUlRfREFURSA9ICcyMDE4LTEwLTIyJwpjb25zdCBFTkRfREFURSA9ICcyMDE4LTEwLTMwJwo=</text>
+        <text encoding="base64">ICBSZW1vdmUgYWxsIGZlZSB0cmFuc2FjdGlvbnMgaW4geGVybyB0aGF0IGhhdmUgdGhlIGFtb3VudCBlcXVhbCB0byB0aGUgZnVsbAogIHBheW1lbnQgYW1vdW50LCBhbmQgYWRkIGNvcnJlY3Qgb25lcy4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGNvbnN0Cg==</text>
+        <text encoding="base64">Ly8gVE9ETzsgcmVuYW1lCg==</text>
       </register>
       <register name="u" type="4">
         <text>uu</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">c2V0VGltZW91dChydW4ocHJvZ3JhbSksIDEwMCkK</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdzdGFydERhdGUnLCBzdGFydERhdGUpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAub3B0aW9uKCctdCwgLS1tb250aC10byA8ZGF0ZT4nLCAnVE9ETzsnKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBSdW4gd2l0aCBubyBvcHRpb25zIHRvIGdldCB0aGUgY3VycmVudCBtb250aCdzIGJhbGFuY2Ugc2hlZXQuCgogIERhdGVzIHNob3VsZCBiZSBzdXBwbGllZCBhcyBZWVlZLU1NCg==</text>
+        <text encoding="base64">Y29uc3QgWGVybyA9IHJlcXVpcmUoJy4uL2dhdGV3YXlzL3hlcm8tbmV3JykuY2xpZW50cwpjb25zdCBrbmV4ID0gcmVxdWlyZSgnLi4vLi4vLi4vZGInKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Y29uc29sZS5sb2coTE9HX0xFVkVMX0NPTlNPTEUpCg==</text>
+        <text encoding="base64">Ly8gCg==</text>
       </register>
       <register name=":" type="4">
         <text>w!</text>
@@ -1214,11 +1213,11 @@
         <entry encoding="base64">JzwsJz5hY3Rpb24gTmV4dFNwbGl0dGVy</entry>
         <entry encoding="base64">JzwsJz53IQ==</entry>
         <entry>action FindInPath</entry>
-        <entry>action CommentByLineComment</entry>
         <entry>action Refactorings.QuickListPopupAction</entry>
         <entry>action GotoFile</entry>
         <entry>action GotoDeclaration</entry>
         <entry>action NextSplitter</entry>
+        <entry>action CommentByLineComment</entry>
         <entry>w!</entry>
       </history-cmd>
       <history-expr />
