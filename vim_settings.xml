@@ -309,10 +309,11 @@
         <mark key="^" line="2" column="19" />
         <mark key="." line="2" column="19" />
       </file>
-      <file name="$USER_HOME$/cea/parfit/services/payments/workers/xero-balance-sheets.js" timestamp="1539800296162">
-        <mark key="'" line="34" column="0" />
-        <mark key="[" line="40" column="0" />
-        <mark key="]" line="40" column="41" />
+      <file name="$USER_HOME$/cea/parfit/services/payments/workers/xero-balance-sheets.js" timestamp="1540238360175">
+        <mark key="a" line="228" column="19" />
+        <mark key="'" line="93" column="15" />
+        <mark key="[" line="42" column="0" />
+        <mark key="]" line="42" column="36" />
         <mark key="." line="154" column="43" />
         <mark key="^" line="154" column="43" />
       </file>
@@ -393,11 +394,11 @@
       <file name="$USER_HOME$/cea/parfit/services/emails/send/index.js" timestamp="1536846465317">
         <mark key="'" line="34" column="0" />
       </file>
-      <file name="$USER_HOME$/cea/parfit/services/payments/workers/xero-fee-fix.js" timestamp="1540235514221">
-        <mark key="'" line="76" column="0" />
-        <mark key="[" line="2" column="51" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
+      <file name="$USER_HOME$/cea/parfit/services/payments/workers/xero-fee-fix.js" timestamp="1540238395642">
+        <mark key="'" line="30" column="0" />
+        <mark key="[" line="145" column="0" />
+        <mark key="]" line="145" column="0" />
+        <mark key="." line="145" column="0" />
         <mark key="^" line="1" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/cea/Forum/Forum/settings-prod.json" timestamp="1533159971908">
@@ -540,6 +541,13 @@
         <mark key="]" line="43" column="20" />
         <mark key="." line="43" column="20" />
         <mark key="^" line="43" column="20" />
+      </file>
+      <file name="$USER_HOME$/cea/parfit/logger/index.js" timestamp="1540237596280">
+        <mark key="'" line="27" column="15" />
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+        <mark key="^" line="3" column="86" />
       </file>
       <file name="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/lib/collections/comments/custom_fields.js" timestamp="1537045237684">
         <mark key="[" line="26" column="27" />
@@ -837,45 +845,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="382" column="16" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" />
-      <jump line="383" column="32" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" />
-      <jump line="30" column="32" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" />
-      <jump line="31" column="2" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" />
-      <jump line="45" column="2" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" />
-      <jump line="48" column="5" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" />
-      <jump line="64" column="32" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" />
-      <jump line="65" column="2" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" />
-      <jump line="94" column="5" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" />
-      <jump line="116" column="35" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" />
-      <jump line="117" column="5" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" />
-      <jump line="121" column="35" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" />
-      <jump line="122" column="5" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" />
-      <jump line="127" column="35" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" />
-      <jump line="128" column="5" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" />
-      <jump line="144" column="2" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" />
-      <jump line="154" column="32" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" />
-      <jump line="155" column="2" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" />
-      <jump line="190" column="5" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" />
-      <jump line="197" column="32" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" />
-      <jump line="200" column="32" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" />
-      <jump line="201" column="2" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" />
-      <jump line="208" column="38" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" />
-      <jump line="209" column="8" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" />
-      <jump line="221" column="6" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" />
-      <jump line="235" column="32" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" />
-      <jump line="236" column="2" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" />
-      <jump line="240" column="5" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" />
-      <jump line="249" column="6" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" />
-      <jump line="250" column="6" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" />
-      <jump line="259" column="38" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" />
-      <jump line="77" column="19" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" />
-      <jump line="83" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" />
-      <jump line="63" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" />
-      <jump line="66" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" />
-      <jump line="89" column="17" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/legacy-redirects/routes.js" />
-      <jump line="16" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/lib/routes.js" />
-      <jump line="349" column="6" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" />
-      <jump line="163" column="6" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" />
       <jump line="81" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" />
       <jump line="89" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" />
       <jump line="131" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" />
@@ -932,11 +901,50 @@
       <jump line="43" column="16" filename="$USER_HOME$/cea/parfit/services/payments/workers/xero-fee-fix.js" />
       <jump line="45" column="30" filename="$USER_HOME$/cea/parfit/services/payments/workers/xero-fee-fix.js" />
       <jump line="49" column="10" filename="$USER_HOME$/cea/parfit/services/payments/workers/xero-fee-fix.js" />
-      <jump line="87" column="15" filename="$USER_HOME$/cea/parfit/services/payments/workers/xero-fee-fix.js" />
       <jump line="261" column="2" filename="$USER_HOME$/cea/parfit/services/payments/handlers/xero/index.js" />
       <jump line="74" column="10" filename="$USER_HOME$/cea/parfit/services/payments/handlers/xero/index.js" />
       <jump line="54" column="53" filename="$USER_HOME$/cea/parfit/services/payments/workers/xero-fee-fix.js" />
       <jump line="73" column="0" filename="$USER_HOME$/cea/parfit/services/payments/workers/xero-fee-fix.js" />
+      <jump line="108" column="50" filename="$USER_HOME$/cea/parfit/services/payments/workers/xero-fee-fix.js" />
+      <jump line="58" column="10" filename="$USER_HOME$/cea/parfit/services/payments/workers/xero-fee-fix.js" />
+      <jump line="214" column="18" filename="$USER_HOME$/cea/parfit/services/payments/workers/xero-fee-fix.js" />
+      <jump line="90" column="62" filename="$USER_HOME$/cea/parfit/services/payments/workers/xero-fee-fix.js" />
+      <jump line="38" column="34" filename="$USER_HOME$/cea/parfit/services/payments/workers/xero-fee-fix.js" />
+      <jump line="81" column="15" filename="$USER_HOME$/cea/parfit/services/payments/workers/xero-fee-fix.js" />
+      <jump line="3" column="6" filename="$USER_HOME$/cea/parfit/logger/index.js" />
+      <jump line="27" column="15" filename="$USER_HOME$/cea/parfit/logger/index.js" />
+      <jump line="24" column="4" filename="$USER_HOME$/cea/parfit/services/payments/workers/xero-fee-fix.js" />
+      <jump line="100" column="15" filename="$USER_HOME$/cea/parfit/services/payments/workers/xero-balance-sheets.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/cea/parfit/services/payments/workers/xero-balance-sheets.js" />
+      <jump line="1" column="0" filename="$USER_HOME$/cea/parfit/services/payments/workers/xero-balance-sheets.js" />
+      <jump line="4" column="0" filename="$USER_HOME$/cea/parfit/services/payments/workers/xero-balance-sheets.js" />
+      <jump line="6" column="0" filename="$USER_HOME$/cea/parfit/services/payments/workers/xero-balance-sheets.js" />
+      <jump line="12" column="0" filename="$USER_HOME$/cea/parfit/services/payments/workers/xero-balance-sheets.js" />
+      <jump line="14" column="0" filename="$USER_HOME$/cea/parfit/services/payments/workers/xero-balance-sheets.js" />
+      <jump line="17" column="0" filename="$USER_HOME$/cea/parfit/services/payments/workers/xero-balance-sheets.js" />
+      <jump line="19" column="0" filename="$USER_HOME$/cea/parfit/services/payments/workers/xero-balance-sheets.js" />
+      <jump line="21" column="0" filename="$USER_HOME$/cea/parfit/services/payments/workers/xero-balance-sheets.js" />
+      <jump line="23" column="0" filename="$USER_HOME$/cea/parfit/services/payments/workers/xero-balance-sheets.js" />
+      <jump line="28" column="0" filename="$USER_HOME$/cea/parfit/services/payments/workers/xero-balance-sheets.js" />
+      <jump line="30" column="0" filename="$USER_HOME$/cea/parfit/services/payments/workers/xero-balance-sheets.js" />
+      <jump line="32" column="0" filename="$USER_HOME$/cea/parfit/services/payments/workers/xero-balance-sheets.js" />
+      <jump line="50" column="0" filename="$USER_HOME$/cea/parfit/services/payments/workers/xero-balance-sheets.js" />
+      <jump line="44" column="0" filename="$USER_HOME$/cea/parfit/services/payments/workers/xero-balance-sheets.js" />
+      <jump line="34" column="0" filename="$USER_HOME$/cea/parfit/services/payments/workers/xero-balance-sheets.js" />
+      <jump line="42" column="6" filename="$USER_HOME$/cea/parfit/services/payments/workers/xero-balance-sheets.js" />
+      <jump line="22" column="9" filename="$USER_HOME$/cea/parfit/services/payments/workers/xero-fee-fix.js" />
+      <jump line="337" column="0" filename="$USER_HOME$/cea/parfit/services/payments/workers/xero-balance-sheets.js" />
+      <jump line="334" column="0" filename="$USER_HOME$/cea/parfit/services/payments/workers/xero-balance-sheets.js" />
+      <jump line="252" column="0" filename="$USER_HOME$/cea/parfit/services/payments/workers/xero-balance-sheets.js" />
+      <jump line="243" column="0" filename="$USER_HOME$/cea/parfit/services/payments/workers/xero-balance-sheets.js" />
+      <jump line="238" column="0" filename="$USER_HOME$/cea/parfit/services/payments/workers/xero-balance-sheets.js" />
+      <jump line="125" column="22" filename="$USER_HOME$/cea/parfit/services/payments/workers/xero-fee-fix.js" />
+      <jump line="18" column="21" filename="$USER_HOME$/cea/parfit/services/payments/workers/xero-fee-fix.js" />
+      <jump line="31" column="48" filename="$USER_HOME$/cea/parfit/services/payments/workers/xero-fee-fix.js" />
+      <jump line="93" column="15" filename="$USER_HOME$/cea/parfit/services/payments/workers/xero-balance-sheets.js" />
+      <jump line="87" column="2" filename="$USER_HOME$/cea/parfit/services/payments/workers/xero-fee-fix.js" />
+      <jump line="135" column="0" filename="$USER_HOME$/cea/parfit/services/payments/workers/xero-fee-fix.js" />
+      <jump line="30" column="0" filename="$USER_HOME$/cea/parfit/services/payments/workers/xero-fee-fix.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -964,7 +972,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">YGNvbnN0IGxvZ2dlciA9IHJlcXVpcmUoJy4uLy4uL2xvZ2dlcicpCmNvbnN0IGNvID0gcmVxdWlyZSgnY28nKQpjb25zdCBnZXQgPSByZXF1aXJlKCdsb2Rhc2guZ2V0JykKY29uc3QgdXRpbCA9IHJlcXVpcmUoJ3V0aWwnKQpjb25zdCBrbmV4ID0gcmVxdWlyZSgnLi4vLi4vLi4vLi4vZGInKQpjb25zdCBCaWdOdW1iZXIgPSByZXF1aXJlKCdiaWdudW1iZXIuanMnKQoKY29uc3Qge2dldE9yZ2FuaXphdGlvbnN9ID0gcmVxdWlyZSgnLi4vLi4vaGVscGVycycpCgptb2R1bGUuZXhwb3J0cyA9IHsKICBnZXRPckNyZWF0ZVhlcm9Db250YWN0SWQ6IGNvLndyYXAoZ2V0T3JDcmVhdGVYZXJvQ29udGFjdElkKSwKICBnZXRMaW5lSXRlbXNGcm9tUGF5bWVudDogY28ud3JhcChnZXRMaW5lSXRlbXNGcm9tUGF5bWVudCksCiAgZ2V0T3JDcmVhdGVITVJDWGVyb0NvbnRhY3RJRDogY28ud3JhcChnZXRPckNyZWF0ZUhNUkNYZXJvQ29udGFjdElEKSwKICBnZXRMaW5lSXRlbXNGcm9tR2lmdEFpZEFsbG9jYXRpb24sCiAgbGVmdFBhZFplcm9zCn0KCi8vIENPTlNUQU5UUwoKY29uc3QgSE1SQ19DT05UQUNUX0VNQUlMID0gJ2htcmMtZ2lmdC1haWRAZWZmZWN0aXZlYWx0cnVpc20ub3JnJwpjb25zdCBITVJDX0ZJUlNUX05BTUUgPSAnSE1SQycKY29uc3QgSE1SQ19MQVNUX05BTUUgPSAnR2lmdCBBaWQnCgovLyBNRVRIT0RTCgpmdW5jdGlvbiAqIGdldE9yQ3JlYXRlWGVyb0NvbnRhY3RJZCAocGVyc29uSWQsIHJlY2lwaWVudCwgeGVybykgewogIGxldCBjb250YWN0SWQgPSB5aWVsZCBnZXRYZXJvQ29udGFjdElkKHBlcnNvbklkLCByZWNpcGllbnQsIHhlcm8pCiAgaWYgKGNvbnRhY3RJZCkgcmV0dXJuIGNvbnRhY3RJZAogIC8vIGlmIHdlIGRpZG4ndCBmaW5kIGEgY29udGFjdCwgY3JlYXRlIG9uZSBhbmQgcmV0dXJuIHRoZSBJRAogIGNvbnN0IFhlcm9Db250YWN0ID0geWllbGQgY3JlYXRlWGVyb0NvbnRhY3QocGVyc29uSWQsIHJlY2lwaWVudCwgeGVybykKICByZXR1cm4gWGVyb0NvbnRhY3QuQ29udGFjdElECn0KCmZ1bmN0aW9uIGdldFhlcm9Db250YWN0SWQgKHBlcnNvbl9pZCwgcmVjaXBpZW50LCB4ZXJvKSB7IC8vIGVzbGludC1kaXNhYmxlLWxpbmUgY2FtZWxjYXNlCiAgcmV0dXJuIGtuZXgoJ3hlcm9fY29udGFjdCcpLndpdGhTY2hlbWEoJ3BheW1lbnRzJykKICAgIC53aGVyZSh7CiAgICAgIHBlcnNvbl9pZCwKICAgICAgcmVjaXBpZW50OiB4ZXJvLnJlY2lwaWVudCAvLyBnZXQgdGhlIHJlY2lwaWVudCBvZmYgdGhlIFhlcm8gaW5zdGFuY2UsIGluIGNhc2Ugd2UncmUgdGVzdGluZyB1c2luZyB0aGUgYGRlbW9gIG9yZwogICAgfSkKICAgIC5zZWxlY3QoJ3hlcm9fY29udGFjdF9pZCcpCiAgICAudGhlbihyb3dzID0+IHJvd3NbMF0pCiAgICAudGhlbihyb3cgPT4gewogICAgICBpZiAocm93ICYmIHJvdy54ZXJvX2NvbnRhY3RfaWQpIHJldHVybiByb3cueGVyb19jb250YWN0X2lkIC8vIGVzbGludC1kaXNhYmxlLWxpbmUgY2FtZWxjYXNlCiAgICAgIHJldHVybiBudWxsCiAgICB9KQp9CgpmdW5jdGlvbiAqIGdldExpbmVJdGVtc0Zyb21QYXltZW50IChQYXltZW50LCB4ZXJvLCBhbW91bnRLZXkgPSAnY2hhcmdlX2Ftb3VudCcsIEFjY291bnRDb2RlKSB7CiAgbG9nZ2VyLnZlcmJvc2UoJ2dldExpbmVJdGVtc0Zyb21QYXltZW50JykKICBsb2dnZXIudmVyYm9zZShgICBQYXltZW50ICR7UGF5bWVudH1gKQogIGxvZ2dlci52ZXJib3NlKGAgIGFtb3VudEtleSAke2Ftb3VudEtleX1gKQogIGxvZ2dlci52ZXJib3NlKGAgIEFjY291bnRDb2RlICR7QWNjb3VudENvZGV9YCkKICBjb25zdCBPcmdhbml6YXRpb25zID0geWllbGQgZ2V0T3JnYW5pemF0aW9ucygpCiAgLy8gaG93IG1hbnkgZGVjaW1hbHMgc2hvdWxkIHdlIHJvdW5kIGNyeXB0byB0bz8KICBjb25zdCBkZWNpbWFscyA9IFBheW1lbnQuZ2F0ZXdheSA9PT0gJ2NyeXB0bycKICAgID8geWllbGQga25leCgnY3VycmVuY3knKQogICAgICAuc2VsZWN0KCdkZWNpbWFscycpCiAgICAgIC53aGVyZSgnY29kZScsIFBheW1lbnQuY2hhcmdlX2N1cnJlbmN5X2NvZGUpCiAgICAgIC50aGVuKHJvd3MgPT4gcm93c1swXS5kZWNpbWFscykKICAgIDogMiAvLyBpZiB3ZSdyZSBub3QgdXNpbmcgY3J5cHRvLCB3ZSBjYW4gYXNzdW1lIHRoYXQgdGhlIGN1cnJlbmN5IGNvZGUgaXMgR0JQL1VTRAogIGxldCBMaW5lSXRlbVRvdGFsID0gbmV3IEJpZ051bWJlcigwKQogIGNvbnN0IEFtb3VudCA9IG5ldyBCaWdOdW1iZXIoUGF5bWVudFthbW91bnRLZXldKQogIGlmICghQWNjb3VudENvZGUpIEFjY291bnRDb2RlID0geGVyby5hY2NvdW50c1tQYXltZW50LmdhdGV3YXldCiAgLy8gYnVpbGQgbGluZSBpdGVtcyBmcm9tIGVhY2ggYWxsb2NhdGlvbiBpdGVtCiAgY29uc3QgTGluZUl0ZW1zID0gUGF5bWVudC5hbGxvY2F0aW9uLmZpbHRlcihhbGxvY2F0aW9uID0+IGFsbG9jYXRpb24ucGVyY2VudGFnZSA+IDApLm1hcChhbGxvY2F0aW9uID0+IHsKICAgIGNvbnN0IHtvcmdhbml6YXRpb24sIHBlcmNlbnRhZ2V9ID0gYWxsb2NhdGlvbgogICAgY29uc3QgUGVyY2VudGFnZSA9IG5ldyBCaWdOdW1iZXIocGVyY2VudGFnZSkuZGl2aWRlZEJ5KDEwMCkKICAgIGNvbnN0IHRyYWNraW5nID0geGVyby50cmFja2luZ1tvcmdhbml6YXRpb25dCiAgICAvLyBidWlsZCBkZXNjcmlwdGlvbiBmaWVsZAogICAgY29uc3QgZGVzY3JpcHRpb25QYXJ0cyA9IFtdCiAgICBpZiAoUGF5bWVudC5nYXRld2F5ID09PSAnY3J5cHRvJykgewogICAgICBkZXNjcmlwdGlvblBhcnRzLnB1c2goCiAgICAgICAgbmV3IEJpZ051bWJlcihQYXltZW50LmNoYXJnZV9hbW91bnQpCiAgICAgICAgICAudGltZXMoUGVyY2VudGFnZSkKICAgICAgICAgIC50b1ByZWNpc2lvbihkZWNpbWFscykKICAgICAgICAgIC5yZXBsYWNlKC8wKyQvZywgJycpIC8vIHJlbW92ZSB0cmFpbGluZyB6ZXJvZXMgYXMgLnRvUHJlY2lzaW9uKCkgd2lsbCBwYWQgcmlnaHQKICAgICAgKQogICAgICBkZXNjcmlwdGlvblBhcnRzLnB1c2goUGF5bWVudC5jaGFyZ2VfY3VycmVuY3lfY29kZSkKICAgICAgZGVzY3JpcHRpb25QYXJ0cy5wdXNoKCd0bycpCiAgICB9CiAgICBpZiAoT3JnYW5pemF0aW9uc1tvcmdhbml6YXRpb25dKSB7CiAgICAgIGRlc2NyaXB0aW9uUGFydHMucHVzaChPcmdhbml6YXRpb25zW29yZ2FuaXphdGlvbl0ubmFtZSkKICAgICAgaWYgKE9yZ2FuaXphdGlvbnNbb3JnYW5pemF0aW9uXS50eXBlID09PSAnZnVuZCcpIGRlc2NyaXB0aW9uUGFydHMucHVzaCgnRnVuZCcpCiAgICB9IGVsc2UgewogICAgICBkZXNjcmlwdGlvblBhcnRzLnB1c2goYChVTktOT1dOISlgKQogICAgfQogICAgaWYgKFBheW1lbnQuZ2F0ZXdheSA9PT0gJ2NyeXB0bycpIHsKICAgICAgLy8gdGhpcyB3aWxsIGJlIHByb3BhZ2F0ZWQgdG8gdGhlIEZpeGVkIEFzc2V0IHJlZ2lzdGVyCiAgICAgIGRlc2NyaXB0aW9uUGFydHMucHVzaChgWyR7cGVyY2VudGFnZX0lIG9mICR7UGF5bWVudC5jaGFyZ2VfYW1vdW50fSAke1BheW1lbnQuY2hhcmdlX2N1cnJlbmN5X2NvZGV9XWApCiAgICB9IGVsc2UgewogICAgICBkZXNjcmlwdGlvblBhcnRzLnB1c2goYFske3BlcmNlbnRhZ2V9JV1gKQogICAgfQogICAgLy8gY3JlYXRlIHRoZSBMaW5lSXRlbSBvYmplY3QKICAgIGNvbnN0IExpbmVJdGVtID0gewogICAgICBEZXNjcmlwdGlvbjogZGVzY3JpcHRpb25QYXJ0cy5qb2luKCcgJyksCiAgICAgIFF1YW50aXR5OiAxLAogICAgICBVbml0QW1vdW50OiBBbW91bnQudGltZXMoUGVyY2VudGFnZSkudG9GaXhlZCgyKSwKICAgICAgQWNjb3VudENvZGUsCiAgICAgIFRheFR5cGU6ICdOT05FJwogICAgfQogICAgTGluZUl0ZW1Ub3RhbCA9IExpbmVJdGVtVG90YWwucGx1cyhMaW5lSXRlbS5Vbml0QW1vdW50KQogICAgLy8gVHJhY2tpbmcgY2F0ZWdvcmllcwogICAgaWYgKHRyYWNraW5nICYmIHRyYWNraW5nLmxlbmd0aCkgewogICAgICBMaW5lSXRlbS5UcmFja2luZyA9IHhlcm8udHJhY2tpbmdbb3JnYW5pemF0aW9uXS5tYXAodHJhY2tpbmdDYXRlZ29yeSA9PiAoewogICAgICAgIFRyYWNraW5nQ2F0ZWdvcnk6IHsKICAgICAgICAgIE5hbWU6IHRyYWNraW5nQ2F0ZWdvcnkubmFtZSwKICAgICAgICAgIE9wdGlvbjogdHJhY2tpbmdDYXRlZ29yeS5vcHRpb24KICAgICAgICB9CiAgICAgIH0pKS5zbGljZSgwLCAyKSAvLyBtYXggdHdvIHRyYWNraW5nIGNhdGVnb3JpZXMKICAgIH0KICAgIHJldHVybiB7TGluZUl0ZW19CiAgfSkKICAvLyBjYWxjdWxhdGUgcm91bmRpbmcgaWYgbmVlZGVkCiAgaWYgKCFMaW5lSXRlbVRvdGFsLmVxdWFscyhBbW91bnQpKSB7CiAgICBMaW5lSXRlbXMucHVzaCh7CiAgICAgIExpbmVJdGVtOiB7CiAgICAgICAgRGVzY3JpcHRpb246ICdSb3VuZGluZycsCiAgICAgICAgUXVhbnRpdHk6IDEsCiAgICAgICAgVW5pdEFtb3VudDogQW1vdW50Lm1pbnVzKExpbmVJdGVtVG90YWwpLnRvRml4ZWQoMiksCiAgICAgICAgQWNjb3VudENvZGU6IHhlcm8uYWNjb3VudHNbJ3JvdW5kaW5nJ10sCiAgICAgICAgVGF4VHlwZTogJ05PTkUnCiAgICAgIH0KICAgIH0pCiAgfQogIGxvZ2dlci52ZXJib3NlKGA=</text>
+        <text encoding="base64">J2Bjb25zdCBsb2dnZXIgPSByZXF1aXJlKCcuLi8uLi9sb2dnZXInKQpjb25zdCBjbyA9IHJlcXVpcmUoJ2NvJykKY29uc3QgZ2V0ID0gcmVxdWlyZSgnbG9kYXNoLmdldCcpCmNvbnN0IHV0aWwgPSByZXF1aXJlKCd1dGlsJykKY29uc3Qga25leCA9IHJlcXVpcmUoJy4uLy4uLy4uLy4uL2RiJykKY29uc3QgQmlnTnVtYmVyID0gcmVxdWlyZSgnYmlnbnVtYmVyLmpzJykKCmNvbnN0IHtnZXRPcmdhbml6YXRpb25zfSA9IHJlcXVpcmUoJy4uLy4uL2hlbHBlcnMnKQoKbW9kdWxlLmV4cG9ydHMgPSB7CiAgZ2V0T3JDcmVhdGVYZXJvQ29udGFjdElkOiBjby53cmFwKGdldE9yQ3JlYXRlWGVyb0NvbnRhY3RJZCksCiAgZ2V0TGluZUl0ZW1zRnJvbVBheW1lbnQ6IGNvLndyYXAoZ2V0TGluZUl0ZW1zRnJvbVBheW1lbnQpLAogIGdldE9yQ3JlYXRlSE1SQ1hlcm9Db250YWN0SUQ6IGNvLndyYXAoZ2V0T3JDcmVhdGVITVJDWGVyb0NvbnRhY3RJRCksCiAgZ2V0TGluZUl0ZW1zRnJvbUdpZnRBaWRBbGxvY2F0aW9uLAogIGxlZnRQYWRaZXJvcwp9CgovLyBDT05TVEFOVFMKCmNvbnN0IEhNUkNfQ09OVEFDVF9FTUFJTCA9ICdobXJjLWdpZnQtYWlkQGVmZmVjdGl2ZWFsdHJ1aXNtLm9yZycKY29uc3QgSE1SQ19GSVJTVF9OQU1FID0gJ0hNUkMnCmNvbnN0IEhNUkNfTEFTVF9OQU1FID0gJ0dpZnQgQWlkJwoKLy8gTUVUSE9EUwoKZnVuY3Rpb24gKiBnZXRPckNyZWF0ZVhlcm9Db250YWN0SWQgKHBlcnNvbklkLCByZWNpcGllbnQsIHhlcm8pIHsKICBsZXQgY29udGFjdElkID0geWllbGQgZ2V0WGVyb0NvbnRhY3RJZChwZXJzb25JZCwgcmVjaXBpZW50LCB4ZXJvKQogIGlmIChjb250YWN0SWQpIHJldHVybiBjb250YWN0SWQKICAvLyBpZiB3ZSBkaWRuJ3QgZmluZCBhIGNvbnRhY3QsIGNyZWF0ZSBvbmUgYW5kIHJldHVybiB0aGUgSUQKICBjb25zdCBYZXJvQ29udGFjdCA9IHlpZWxkIGNyZWF0ZVhlcm9Db250YWN0KHBlcnNvbklkLCByZWNpcGllbnQsIHhlcm8pCiAgcmV0dXJuIFhlcm9Db250YWN0LkNvbnRhY3RJRAp9CgpmdW5jdGlvbiBnZXRYZXJvQ29udGFjdElkIChwZXJzb25faWQsIHJlY2lwaWVudCwgeGVybykgeyAvLyBlc2xpbnQtZGlzYWJsZS1saW5lIGNhbWVsY2FzZQogIHJldHVybiBrbmV4KCd4ZXJvX2NvbnRhY3QnKS53aXRoU2NoZW1hKCdwYXltZW50cycpCiAgICAud2hlcmUoewogICAgICBwZXJzb25faWQsCiAgICAgIHJlY2lwaWVudDogeGVyby5yZWNpcGllbnQgLy8gZ2V0IHRoZSByZWNpcGllbnQgb2ZmIHRoZSBYZXJvIGluc3RhbmNlLCBpbiBjYXNlIHdlJ3JlIHRlc3RpbmcgdXNpbmcgdGhlIGBkZW1vYCBvcmcKICAgIH0pCiAgICAuc2VsZWN0KCd4ZXJvX2NvbnRhY3RfaWQnKQogICAgLnRoZW4ocm93cyA9PiByb3dzWzBdKQogICAgLnRoZW4ocm93ID0+IHsKICAgICAgaWYgKHJvdyAmJiByb3cueGVyb19jb250YWN0X2lkKSByZXR1cm4gcm93Lnhlcm9fY29udGFjdF9pZCAvLyBlc2xpbnQtZGlzYWJsZS1saW5lIGNhbWVsY2FzZQogICAgICByZXR1cm4gbnVsbAogICAgfSkKfQoKZnVuY3Rpb24gKiBnZXRMaW5lSXRlbXNGcm9tUGF5bWVudCAoUGF5bWVudCwgeGVybywgYW1vdW50S2V5ID0gJ2NoYXJnZV9hbW91bnQnLCBBY2NvdW50Q29kZSkgewogIGxvZ2dlci52ZXJib3NlKCdnZXRMaW5lSXRlbXNGcm9tUGF5bWVudCcpCiAgbG9nZ2VyLnZlcmJvc2UoYCAgUGF5bWVudCAke1BheW1lbnR9YCkKICBsb2dnZXIudmVyYm9zZShgICBhbW91bnRLZXkgJHthbW91bnRLZXl9YCkKICBsb2dnZXIudmVyYm9zZShgICBBY2NvdW50Q29kZSAke0FjY291bnRDb2RlfWApCiAgY29uc3QgT3JnYW5pemF0aW9ucyA9IHlpZWxkIGdldE9yZ2FuaXphdGlvbnMoKQogIC8vIGhvdyBtYW55IGRlY2ltYWxzIHNob3VsZCB3ZSByb3VuZCBjcnlwdG8gdG8/CiAgY29uc3QgZGVjaW1hbHMgPSBQYXltZW50LmdhdGV3YXkgPT09ICdjcnlwdG8nCiAgICA/IHlpZWxkIGtuZXgoJ2N1cnJlbmN5JykKICAgICAgLnNlbGVjdCgnZGVjaW1hbHMnKQogICAgICAud2hlcmUoJ2NvZGUnLCBQYXltZW50LmNoYXJnZV9jdXJyZW5jeV9jb2RlKQogICAgICAudGhlbihyb3dzID0+IHJvd3NbMF0uZGVjaW1hbHMpCiAgICA6IDIgLy8gaWYgd2UncmUgbm90IHVzaW5nIGNyeXB0bywgd2UgY2FuIGFzc3VtZSB0aGF0IHRoZSBjdXJyZW5jeSBjb2RlIGlzIEdCUC9VU0QKICBsZXQgTGluZUl0ZW1Ub3RhbCA9IG5ldyBCaWdOdW1iZXIoMCkKICBjb25zdCBBbW91bnQgPSBuZXcgQmlnTnVtYmVyKFBheW1lbnRbYW1vdW50S2V5XSkKICBpZiAoIUFjY291bnRDb2RlKSBBY2NvdW50Q29kZSA9IHhlcm8uYWNjb3VudHNbUGF5bWVudC5nYXRld2F5XQogIC8vIGJ1aWxkIGxpbmUgaXRlbXMgZnJvbSBlYWNoIGFsbG9jYXRpb24gaXRlbQogIGNvbnN0IExpbmVJdGVtcyA9IFBheW1lbnQuYWxsb2NhdGlvbi5maWx0ZXIoYWxsb2NhdGlvbiA9PiBhbGxvY2F0aW9uLnBlcmNlbnRhZ2UgPiAwKS5tYXAoYWxsb2NhdGlvbiA9PiB7CiAgICBjb25zdCB7b3JnYW5pemF0aW9uLCBwZXJjZW50YWdlfSA9IGFsbG9jYXRpb24KICAgIGNvbnN0IFBlcmNlbnRhZ2UgPSBuZXcgQmlnTnVtYmVyKHBlcmNlbnRhZ2UpLmRpdmlkZWRCeSgxMDApCiAgICBjb25zdCB0cmFja2luZyA9IHhlcm8udHJhY2tpbmdbb3JnYW5pemF0aW9uXQogICAgLy8gYnVpbGQgZGVzY3JpcHRpb24gZmllbGQKICAgIGNvbnN0IGRlc2NyaXB0aW9uUGFydHMgPSBbXQogICAgaWYgKFBheW1lbnQuZ2F0ZXdheSA9PT0gJ2NyeXB0bycpIHsKICAgICAgZGVzY3JpcHRpb25QYXJ0cy5wdXNoKAogICAgICAgIG5ldyBCaWdOdW1iZXIoUGF5bWVudC5jaGFyZ2VfYW1vdW50KQogICAgICAgICAgLnRpbWVzKFBlcmNlbnRhZ2UpCiAgICAgICAgICAudG9QcmVjaXNpb24oZGVjaW1hbHMpCiAgICAgICAgICAucmVwbGFjZSgvMCskL2csICcnKSAvLyByZW1vdmUgdHJhaWxpbmcgemVyb2VzIGFzIC50b1ByZWNpc2lvbigpIHdpbGwgcGFkIHJpZ2h0CiAgICAgICkKICAgICAgZGVzY3JpcHRpb25QYXJ0cy5wdXNoKFBheW1lbnQuY2hhcmdlX2N1cnJlbmN5X2NvZGUpCiAgICAgIGRlc2NyaXB0aW9uUGFydHMucHVzaCgndG8nKQogICAgfQogICAgaWYgKE9yZ2FuaXphdGlvbnNbb3JnYW5pemF0aW9uXSkgewogICAgICBkZXNjcmlwdGlvblBhcnRzLnB1c2goT3JnYW5pemF0aW9uc1tvcmdhbml6YXRpb25dLm5hbWUpCiAgICAgIGlmIChPcmdhbml6YXRpb25zW29yZ2FuaXphdGlvbl0udHlwZSA9PT0gJ2Z1bmQnKSBkZXNjcmlwdGlvblBhcnRzLnB1c2goJ0Z1bmQnKQogICAgfSBlbHNlIHsKICAgICAgZGVzY3JpcHRpb25QYXJ0cy5wdXNoKGAoVU5LTk9XTiEpYCkKICAgIH0KICAgIGlmIChQYXltZW50LmdhdGV3YXkgPT09ICdjcnlwdG8nKSB7CiAgICAgIC8vIHRoaXMgd2lsbCBiZSBwcm9wYWdhdGVkIHRvIHRoZSBGaXhlZCBBc3NldCByZWdpc3RlcgogICAgICBkZXNjcmlwdGlvblBhcnRzLnB1c2goYFske3BlcmNlbnRhZ2V9JSBvZiAke1BheW1lbnQuY2hhcmdlX2Ftb3VudH0gJHtQYXltZW50LmNoYXJnZV9jdXJyZW5jeV9jb2RlfV1gKQogICAgfSBlbHNlIHsKICAgICAgZGVzY3JpcHRpb25QYXJ0cy5wdXNoKGBbJHtwZXJjZW50YWdlfSVdYCkKICAgIH0KICAgIC8vIGNyZWF0ZSB0aGUgTGluZUl0ZW0gb2JqZWN0CiAgICBjb25zdCBMaW5lSXRlbSA9IHsKICAgICAgRGVzY3JpcHRpb246IGRlc2NyaXB0aW9uUGFydHMuam9pbignICcpLAogICAgICBRdWFudGl0eTogMSwKICAgICAgVW5pdEFtb3VudDogQW1vdW50LnRpbWVzKFBlcmNlbnRhZ2UpLnRvRml4ZWQoMiksCiAgICAgIEFjY291bnRDb2RlLAogICAgICBUYXhUeXBlOiAnTk9ORScKICAgIH0KICAgIExpbmVJdGVtVG90YWwgPSBMaW5lSXRlbVRvdGFsLnBsdXMoTGluZUl0ZW0uVW5pdEFtb3VudCkKICAgIC8vIFRyYWNraW5nIGNhdGVnb3JpZXMKICAgIGlmICh0cmFja2luZyAmJiB0cmFja2luZy5sZW5ndGgpIHsKICAgICAgTGluZUl0ZW0uVHJhY2tpbmcgPSB4ZXJvLnRyYWNraW5nW29yZ2FuaXphdGlvbl0ubWFwKHRyYWNraW5nQ2F0ZWdvcnkgPT4gKHsKICAgICAgICBUcmFja2luZ0NhdGVnb3J5OiB7CiAgICAgICAgICBOYW1lOiB0cmFja2luZ0NhdGVnb3J5Lm5hbWUsCiAgICAgICAgICBPcHRpb246IHRyYWNraW5nQ2F0ZWdvcnkub3B0aW9uCiAgICAgICAgfQogICAgICB9KSkuc2xpY2UoMCwgMikgLy8gbWF4IHR3byB0cmFja2luZyBjYXRlZ29yaWVzCiAgICB9CiAgICByZXR1cm4ge0xpbmVJdGVtfQogIH0pCiAgLy8gY2FsY3VsYXRlIHJvdW5kaW5nIGlmIG5lZWRlZAogIGlmICghTGluZUl0ZW1Ub3RhbC5lcXVhbHMoQW1vdW50KSkgewogICAgTGluZUl0ZW1zLnB1c2goewogICAgICBMaW5lSXRlbTogewogICAgICAgIERlc2NyaXB0aW9uOiAnUm91bmRpbmcnLAogICAgICAgIFF1YW50aXR5OiAxLAogICAgICAgIFVuaXRBbW91bnQ6IEFtb3VudC5taW51cyhMaW5lSXRlbVRvdGFsKS50b0ZpeGVkKDIpLAogICAgICAgIEFjY291bnRDb2RlOiB4ZXJvLmFjY291bnRzWydyb3VuZGluZyddLAogICAgICAgIFRheFR5cGU6ICdOT05FJwogICAgICB9CiAgICB9KQogIH0KICBsb2dnZXIudmVyYm9zZShgJw==</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -998,7 +1006,7 @@
         <text>.nn</text>
       </register>
       <register name="*" type="4">
-        <text>''</text>
+        <text>`Found multiple fee transactions for payment`</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -1107,13 +1115,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IC8vIFRPRE8gbGluZSBsZW5ndGg=</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxjcmVhdGVYZXJvRmVlVHJhbnNhY3Rpb25cPg==</text>
+        <text encoding="base64">XDxTVEFSVF9EQVRFXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAvLyAgIE9iamVjdC5rZXlzKCQodGhpcykuYXR0cigpKS5maWx0ZXIoa2V5ID0+ICFrZXlzLmluY2x1ZGVzKGtleSkpLmZvckVhY2goa2V5ID0+IGtleXMucHVzaChrZXkpKQo=</text>
+        <text encoding="base64">Y29uc3QgcHJvZ3JhbSA9IHJlcXVpcmUoJ2NvbW1hbmRlcicpCg==</text>
       </register>
       <register name="p" type="4">
         <keys>
@@ -1126,43 +1134,43 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ly8gVE9ETzsgZG9jc3RyaW5ncyBldmVyeXdoZXJlCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBjb25zdCB4ZXJvID0gWGVyb1tyZWNpcGllbnRdIC8vIFRPRE8gbmVlZD8K</text>
+        <text encoding="base64">Y29uc3QgWGVybyA9IHJlcXVpcmUoJy4uL2dhdGV3YXlzL3hlcm8tbmV3JykuY2xpZW50cwpjb25zdCBrbmV4ID0gcmVxdWlyZSgnLi4vLi4vLi4vZGInKQo=</text>
       </register>
-      <register name="3" type="4">
-        <text>''</text>
+      <register name="3" type="2">
+        <text encoding="base64">Ly8gCg==</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">RGVsZXRlZCB0cmFuc2FjdGlvbiBmb3IgcGF5bWVudCA=</text>
+      <register name="4" type="2">
+        <text encoding="base64">Y29uc3QgU1RBUlRfREFURSA9ICcyMDE4LTEwLTIyJwpjb25zdCBFTkRfREFURSA9ICcyMDE4LTEwLTMwJwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAvLyBjb25zb2xlLmxvZygnc3R1ZmYnLCBzdHVmZikK</text>
+        <text encoding="base64">ICAgIGNvbnN0Cg==</text>
       </register>
       <register name="u" type="4">
         <text>uu</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAvLyBUT0RPIGdldCB0ZXN0aW5nCg==</text>
+        <text encoding="base64">c2V0VGltZW91dChydW4ocHJvZ3JhbSksIDEwMCkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAvLyBzZWxlY3QgYmFuayB0cmFuc2FjdGlvbiB3aGVyZSByZWZlcmVuY2UgPSBwYXltZW50LmdhdGV3YXlpZAo=</text>
+        <text encoding="base64">ICAub3B0aW9uKCctdCwgLS1tb250aC10byA8ZGF0ZT4nLCAnVE9ETzsnKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAvLyBpZiBmb3VuZDogY2hlY2sgdmFsdWUK</text>
+        <text encoding="base64">ICBSdW4gd2l0aCBubyBvcHRpb25zIHRvIGdldCB0aGUgY3VycmVudCBtb250aCdzIGJhbGFuY2Ugc2hlZXQuCgogIERhdGVzIHNob3VsZCBiZSBzdXBwbGllZCBhcyBZWVlZLU1NCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAvLyBpZiB2YWx1ZSA9IHBheW1lbnQuZmVlICstIDIgY2VudHM6IGNvbnRpbnVlCg==</text>
+        <text encoding="base64">Y29uc29sZS5sb2coTE9HX0xFVkVMX0NPTlNPTEUpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w!</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxjcmVhdGVYZXJvRmVlVHJhbnNhY3Rpb25cPg==</last-search>
+      <last-search encoding="base64">XDxTVEFSVF9EQVRFXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxjcmVhdGVYZXJvRmVlVHJhbnNhY3Rpb25cPg==</last-pattern>
+      <last-pattern encoding="base64">XDxTVEFSVF9EQVRFXD4=</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute encoding="base64">XDxpbnNlcnRVc2VyXD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -1170,11 +1178,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxnZXRQYXltZW50UmVjaXBpZW50XD4=</entry>
-        <entry>recipient</entry>
-        <entry>knex</entry>
-        <entry encoding="base64">XDxCaWdOdW1iZXJcPg==</entry>
-        <entry>fee</entry>
         <entry encoding="base64">XDxpbnRlcmNvbUFwcElkXD4=</entry>
         <entry encoding="base64">XDxjdXJyZW50Vmlld1w+</entry>
         <entry>console.log</entry>
@@ -1188,8 +1191,13 @@
         <entry encoding="base64">XDxjbGVhbkh0bWxcPg==</entry>
         <entry encoding="base64">XDxsZWdhY3lQb3N0VG9OZXdQb3N0XD4=</entry>
         <entry encoding="base64">XDxyZWNvbmNpbGVkXD4=</entry>
-        <entry encoding="base64">XDxkZWxldGVUcmFuc2FjdGlvblw+</entry>
         <entry encoding="base64">XDxjcmVhdGVYZXJvRmVlVHJhbnNhY3Rpb25cPg==</entry>
+        <entry encoding="base64">XDxkZWxldGVUcmFuc2FjdGlvblw+</entry>
+        <entry encoding="base64">XDxnZXRGZWVCYW5rVHJhbnNhY3Rpb25cPg==</entry>
+        <entry encoding="base64">XDxMT0dfTEVWRUxfQ09OU09MRVw+</entry>
+        <entry encoding="base64">XDxwcm9ncmFtXD4=</entry>
+        <entry encoding="base64">XDxzdGFydERhdGVcPg==</entry>
+        <entry encoding="base64">XDxTVEFSVF9EQVRFXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>%/&quot;/'/g</entry>
@@ -1205,10 +1213,10 @@
         <entry>action NewFile</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gTmV4dFNwbGl0dGVy</entry>
         <entry encoding="base64">JzwsJz53IQ==</entry>
-        <entry>action Refactorings.QuickListPopupAction</entry>
-        <entry>action GotoFile</entry>
         <entry>action FindInPath</entry>
         <entry>action CommentByLineComment</entry>
+        <entry>action Refactorings.QuickListPopupAction</entry>
+        <entry>action GotoFile</entry>
         <entry>action GotoDeclaration</entry>
         <entry>action NextSplitter</entry>
         <entry>w!</entry>
