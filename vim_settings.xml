@@ -249,8 +249,8 @@
         <mark key="." line="22" column="15" />
         <mark key="^" line="22" column="15" />
       </file>
-      <file name="$USER_HOME$/cea/parfit/services/payments/handlers/xero/index.js" timestamp="1539824242640">
-        <mark key="'" line="0" column="2" />
+      <file name="$USER_HOME$/cea/parfit/services/payments/handlers/xero/index.js" timestamp="1540234925538">
+        <mark key="'" line="74" column="10" />
         <mark key="[" line="177" column="15" />
         <mark key="]" line="177" column="38" />
         <mark key="^" line="12" column="29" />
@@ -393,12 +393,12 @@
       <file name="$USER_HOME$/cea/parfit/services/emails/send/index.js" timestamp="1536846465317">
         <mark key="'" line="34" column="0" />
       </file>
-      <file name="$USER_HOME$/cea/parfit/services/payments/workers/xero-fee-fix.js" timestamp="1540233893394">
-        <mark key="'" line="49" column="10" />
-        <mark key="[" line="99" column="0" />
-        <mark key="]" line="99" column="0" />
-        <mark key="." line="99" column="0" />
-        <mark key="^" line="96" column="84" />
+      <file name="$USER_HOME$/cea/parfit/services/payments/workers/xero-fee-fix.js" timestamp="1540235514221">
+        <mark key="'" line="76" column="0" />
+        <mark key="[" line="2" column="51" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+        <mark key="^" line="1" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/cea/Forum/Forum/settings-prod.json" timestamp="1533159971908">
         <mark key="[" line="41" column="20" />
@@ -837,15 +837,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="268" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" />
-      <jump line="314" column="42" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" />
-      <jump line="316" column="34" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" />
-      <jump line="317" column="4" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" />
-      <jump line="321" column="34" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" />
-      <jump line="322" column="4" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" />
-      <jump line="326" column="34" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" />
-      <jump line="327" column="4" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" />
-      <jump line="381" column="32" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" />
       <jump line="382" column="16" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" />
       <jump line="383" column="32" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" />
       <jump line="30" column="32" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" />
@@ -937,6 +928,15 @@
       <jump line="462" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" />
       <jump line="389" column="6" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" />
       <jump line="493" column="9" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" />
+      <jump line="50" column="23" filename="$USER_HOME$/cea/parfit/services/payments/workers/xero-fee-fix.js" />
+      <jump line="43" column="16" filename="$USER_HOME$/cea/parfit/services/payments/workers/xero-fee-fix.js" />
+      <jump line="45" column="30" filename="$USER_HOME$/cea/parfit/services/payments/workers/xero-fee-fix.js" />
+      <jump line="49" column="10" filename="$USER_HOME$/cea/parfit/services/payments/workers/xero-fee-fix.js" />
+      <jump line="87" column="15" filename="$USER_HOME$/cea/parfit/services/payments/workers/xero-fee-fix.js" />
+      <jump line="261" column="2" filename="$USER_HOME$/cea/parfit/services/payments/handlers/xero/index.js" />
+      <jump line="74" column="10" filename="$USER_HOME$/cea/parfit/services/payments/handlers/xero/index.js" />
+      <jump line="54" column="53" filename="$USER_HOME$/cea/parfit/services/payments/workers/xero-fee-fix.js" />
+      <jump line="73" column="0" filename="$USER_HOME$/cea/parfit/services/payments/workers/xero-fee-fix.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -998,7 +998,7 @@
         <text>.nn</text>
       </register>
       <register name="*" type="4">
-        <text>`Incorrect fee amount reconciled for payment ${Payment.reference}`</text>
+        <text>''</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -1107,10 +1107,10 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>$(this)</text>
+        <text encoding="base64">IC8vIFRPRE8gbGluZSBsZW5ndGg=</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxsZWdhY3lQb3N0VG9OZXdQb3N0XD4=</text>
+        <text encoding="base64">XDxjcmVhdGVYZXJvRmVlVHJhbnNhY3Rpb25cPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAvLyAgIE9iamVjdC5rZXlzKCQodGhpcykuYXR0cigpKS5maWx0ZXIoa2V5ID0+ICFrZXlzLmluY2x1ZGVzKGtleSkpLmZvckVhY2goa2V5ID0+IGtleXMucHVzaChrZXkpKQo=</text>
@@ -1125,44 +1125,44 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="1" type="4">
-        <text>$(this)</text>
+      <register name="1" type="2">
+        <text encoding="base64">Ly8gVE9ETzsgZG9jc3RyaW5ncyBldmVyeXdoZXJlCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIE9iamVjdC5rZXlzKCkuZmlsdGVyKGtleSA9PiAha2V5cy5pbmNsdWRlcyhrZXkpKS5mb3JFYWNoKGtleSA9PiBrZXlzLnB1c2goa2V5KSkK</text>
+        <text encoding="base64">ICBjb25zdCB4ZXJvID0gWGVyb1tyZWNpcGllbnRdIC8vIFRPRE8gbmVlZD8K</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="3" type="4">
+        <text>''</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICBCQU5ORURfQVRUUlMK</text>
+      <register name="4" type="4">
+        <text encoding="base64">RGVsZXRlZCB0cmFuc2FjdGlvbiBmb3IgcGF5bWVudCA=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBpZiAobmVlZHNSZW1vdmluZy5sZW5ndGggPiAwKSBjb25zb2xlLmxvZygnZm91bmQgYmFubmVkIHRhZ3MnLCkK</text>
+        <text encoding="base64">ICAvLyBjb25zb2xlLmxvZygnc3R1ZmYnLCBzdHVmZikK</text>
       </register>
       <register name="u" type="4">
         <text>uu</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAvLyBUT0RPIGdldCB0ZXN0aW5nCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBpZiAoJCgpKQo=</text>
+        <text encoding="base64">ICAvLyBzZWxlY3QgYmFuayB0cmFuc2FjdGlvbiB3aGVyZSByZWZlcmVuY2UgPSBwYXltZW50LmdhdGV3YXlpZAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Y29uc3Qga2V5cyA9IFtdCg==</text>
+        <text encoding="base64">ICAvLyBpZiBmb3VuZDogY2hlY2sgdmFsdWUK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZygndGhpcy5hdHRyIGtleXMnLCBrZXlzKQo=</text>
+        <text encoding="base64">ICAvLyBpZiB2YWx1ZSA9IHBheW1lbnQuZmVlICstIDIgY2VudHM6IGNvbnRpbnVlCg==</text>
       </register>
       <register name=":" type="4">
         <text>w!</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxsZWdhY3lQb3N0VG9OZXdQb3N0XD4=</last-search>
+      <last-search encoding="base64">XDxjcmVhdGVYZXJvRmVlVHJhbnNhY3Rpb25cPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxsZWdhY3lQb3N0VG9OZXdQb3N0XD4=</last-pattern>
+      <last-pattern encoding="base64">XDxjcmVhdGVYZXJvRmVlVHJhbnNhY3Rpb25cPg==</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute encoding="base64">XDxpbnNlcnRVc2VyXD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -1170,17 +1170,14 @@
     </search>
     <history>
       <history-search>
-        <entry>recipie</entry>
         <entry encoding="base64">XDxnZXRQYXltZW50UmVjaXBpZW50XD4=</entry>
         <entry>recipient</entry>
         <entry>knex</entry>
         <entry encoding="base64">XDxCaWdOdW1iZXJcPg==</entry>
         <entry>fee</entry>
-        <entry encoding="base64">XDxjcmVhdGVYZXJvRmVlVHJhbnNhY3Rpb25cPg==</entry>
         <entry encoding="base64">XDxpbnRlcmNvbUFwcElkXD4=</entry>
         <entry encoding="base64">XDxjdXJyZW50Vmlld1w+</entry>
         <entry>console.log</entry>
-        <entry encoding="base64">XDxkZWxldGVUcmFuc2FjdGlvblw+</entry>
         <entry>fore</entry>
         <entry>console</entry>
         <entry>about</entry>
@@ -1190,6 +1187,9 @@
         <entry encoding="base64">XDxjaGVlcmlvXD4=</entry>
         <entry encoding="base64">XDxjbGVhbkh0bWxcPg==</entry>
         <entry encoding="base64">XDxsZWdhY3lQb3N0VG9OZXdQb3N0XD4=</entry>
+        <entry encoding="base64">XDxyZWNvbmNpbGVkXD4=</entry>
+        <entry encoding="base64">XDxkZWxldGVUcmFuc2FjdGlvblw+</entry>
+        <entry encoding="base64">XDxjcmVhdGVYZXJvRmVlVHJhbnNhY3Rpb25cPg==</entry>
       </history-search>
       <history-cmd>
         <entry>%/&quot;/'/g</entry>
@@ -1206,11 +1206,11 @@
         <entry encoding="base64">JzwsJz5hY3Rpb24gTmV4dFNwbGl0dGVy</entry>
         <entry encoding="base64">JzwsJz53IQ==</entry>
         <entry>action Refactorings.QuickListPopupAction</entry>
-        <entry>action NextSplitter</entry>
         <entry>action GotoFile</entry>
         <entry>action FindInPath</entry>
-        <entry>action GotoDeclaration</entry>
         <entry>action CommentByLineComment</entry>
+        <entry>action GotoDeclaration</entry>
+        <entry>action NextSplitter</entry>
         <entry>w!</entry>
       </history-cmd>
       <history-expr />
