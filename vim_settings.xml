@@ -765,16 +765,16 @@
         <mark key="." line="18" column="0" />
         <mark key="^" line="9" column="48" />
       </file>
-      <file name="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" timestamp="1540232742988">
-        <mark key="a" line="78" column="25" />
-        <mark key="c" line="385" column="6" />
-        <mark key="f" line="78" column="19" />
-        <mark key="'" line="493" column="9" />
-        <mark key="[" line="495" column="47" />
-        <mark key="l" line="360" column="6" />
-        <mark key="]" line="495" column="50" />
-        <mark key="^" line="495" column="50" />
-        <mark key="." line="495" column="50" />
+      <file name="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" timestamp="1540317215823">
+        <mark key="a" line="76" column="25" />
+        <mark key="c" line="475" column="0" />
+        <mark key="f" line="76" column="19" />
+        <mark key="'" line="135" column="0" />
+        <mark key="[" line="81" column="73" />
+        <mark key="l" line="357" column="6" />
+        <mark key="]" line="81" column="79" />
+        <mark key="." line="81" column="79" />
+        <mark key="^" line="81" column="79" />
       </file>
       <file name="$USER_HOME$/cea/effectivealtruism-org-static/.gitignore" timestamp="1535721542430">
         <mark key="[" line="12" column="5" />
@@ -844,39 +844,17 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="356" column="6" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" />
-      <jump line="168" column="6" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" />
-      <jump line="357" column="54" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" />
-      <jump line="8" column="30" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" />
-      <jump line="38" column="28" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" />
-      <jump line="41" column="32" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" />
-      <jump line="78" column="25" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" />
-      <jump line="11" column="7" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" />
-      <jump line="80" column="44" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" />
-      <jump line="385" column="14" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" />
-      <jump line="13" column="7" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" />
-      <jump line="384" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" />
-      <jump line="360" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" />
       <jump line="346" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" />
       <jump line="336" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" />
       <jump line="274" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" />
       <jump line="244" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" />
       <jump line="220" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" />
       <jump line="198" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" />
-      <jump line="171" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" />
-      <jump line="162" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" />
-      <jump line="143" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" />
-      <jump line="135" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" />
       <jump line="93" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" />
       <jump line="88" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" />
       <jump line="85" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" />
       <jump line="68" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" />
-      <jump line="86" column="27" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" />
       <jump line="361" column="6" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" />
-      <jump line="84" column="25" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" />
-      <jump line="388" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" />
-      <jump line="23" column="14" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" />
       <jump line="462" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" />
       <jump line="389" column="6" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" />
       <jump line="493" column="9" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" />
@@ -944,6 +922,28 @@
       <jump line="26" column="0" filename="$USER_HOME$/cea/parfit/services/payments/workers/xero-fee-fix.js" />
       <jump line="23" column="0" filename="$USER_HOME$/cea/parfit/services/payments/workers/xero-fee-fix.js" />
       <jump line="58" column="4" filename="$USER_HOME$/cea/parfit/services/payments/workers/xero-fee-fix.js" />
+      <jump line="461" column="8" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" />
+      <jump line="391" column="6" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" />
+      <jump line="483" column="39" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" />
+      <jump line="385" column="4" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" />
+      <jump line="388" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" />
+      <jump line="399" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" />
+      <jump line="484" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" />
+      <jump line="491" column="45" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" />
+      <jump line="83" column="39" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" />
+      <jump line="86" column="22" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" />
+      <jump line="481" column="50" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" />
+      <jump line="23" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" />
+      <jump line="84" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" />
+      <jump line="477" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" />
+      <jump line="81" column="39" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" />
+      <jump line="326" column="7" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" />
+      <jump line="386" column="3" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" />
+      <jump line="176" column="48" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" />
+      <jump line="171" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" />
+      <jump line="162" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" />
+      <jump line="143" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" />
+      <jump line="135" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1114,13 +1114,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>TODO;')</text>
+        <text>$.html()</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxTVEFSVF9EQVRFXD4=</text>
+        <text>TODO</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Y29uc3QgcHJvZ3JhbSA9IHJlcXVpcmUoJ2NvbW1hbmRlcicpCg==</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZygnaHRtbEJvZHkgc3RhcnQgPj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4nKQogIGNvbnNvbGUubG9nKCQuaHRtbCgpKQogIGNvbnNvbGUubG9nKCdodG1sQm9keSBlbmQgPDw8PDw8PDw8PDw8PDw8PDw8PDw8PDw8PDw8PDw8PDw8PDw8PDw8PDw8PDw8PCcpCg==</text>
       </register>
       <register name="p" type="4">
         <keys>
@@ -1133,43 +1133,43 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAvLyAudXNhZ2UoJ3BheW1lbnRzOnhlcm9iYWxhbmNlc2hlZXRzIFtvcHRpb25zXSBUT0RPOycpCg==</text>
+        <text encoding="base64">ICAgICAgLy8gVE9ETyB1cGRhdGUgYm9keQo=</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Ly8gY3VzdG9tIGhlbHAKcHJvZ3JhbS5vbignLS1oZWxwJywgZnVuY3Rpb24gKCkgewogIGNvbnNvbGUubG9nKChgCiAgYCkpCiAgcHJvZ3JhbS51c2FnZSgpCn0pCg==</text>
+      <register name="2" type="4">
+        <text>$.html()</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZygncmVzdWx0JywgcmVzdWx0KQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBSZW1vdmUgYWxsIGZlZSB0cmFuc2FjdGlvbnMgaW4geGVybyB0aGF0IGhhdmUgdGhlIGFtb3VudCBlcXVhbCB0byB0aGUgZnVsbAogIHBheW1lbnQgYW1vdW50LCBhbmQgYWRkIGNvcnJlY3Qgb25lcy4K</text>
+        <text encoding="base64">ICAvLyAkKCcqJykuZWFjaChmdW5jdGlvbiAoKSB7CiAgLy8gICBPYmplY3Qua2V5cygkKHRoaXMpLmF0dHIoKSkuZmlsdGVyKGtleSA9PiAha2V5cy5pbmNsdWRlcyhrZXkpKS5mb3JFYWNoKGtleSA9PiBrZXlzLnB1c2goa2V5KSkKICAvLyB9KQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Ly8gVE9ETzsgcmVuYW1lCg==</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZygna2V5cycsIGtleXMpCg==</text>
       </register>
       <register name="u" type="4">
         <text>uu</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdzdGFydERhdGUnLCBzdGFydERhdGUpCg==</text>
+        <text encoding="base64">Y29uc3Qga2V5cyA9IFtdCgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBCQU5ORURfQVRUUlMuZm9yRWFjaCgpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Y29uc3QgWGVybyA9IHJlcXVpcmUoJy4uL2dhdGV3YXlzL3hlcm8tbmV3JykuY2xpZW50cwpjb25zdCBrbmV4ID0gcmVxdWlyZSgnLi4vLi4vLi4vZGInKQo=</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZygnaHRtbEJvZHkgc3RhcnQnKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly8gCg==</text>
+        <text encoding="base64">Ly8gVE9ETyBsb29rIGF0IGxpc3Qgb2YgYWxsb3dlZCB0YWdzIGluIG1hcmtkb3duLCB1bnNhZmUgdGFncywgYmJjb2RlPwovLyAvIHdoYXQgdGFncyBkbyB3ZSBnZXQKY29uc3QgQkFOTkVEX1RBR1MgPSBbCiAgJ21ldGEnLAogICdoZWFkJywKICAndGl0bGUnLAogICdzdHlsZScsCiAgJ3NjcmlwdCcsCiAgJ2Zvcm0nCl0KCg==</text>
       </register>
       <register name=":" type="4">
         <text>action FindInPath</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxTVEFSVF9EQVRFXD4=</last-search>
+      <last-search>TODO</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxTVEFSVF9EQVRFXD4=</last-pattern>
+      <last-pattern>TODO</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute encoding="base64">XDxpbnNlcnRVc2VyXD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -1177,9 +1177,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxpbnRlcmNvbUFwcElkXD4=</entry>
-        <entry encoding="base64">XDxjdXJyZW50Vmlld1w+</entry>
-        <entry>console.log</entry>
         <entry>fore</entry>
         <entry>console</entry>
         <entry>about</entry>
@@ -1197,6 +1194,9 @@
         <entry encoding="base64">XDxwcm9ncmFtXD4=</entry>
         <entry encoding="base64">XDxzdGFydERhdGVcPg==</entry>
         <entry encoding="base64">XDxTVEFSVF9EQVRFXD4=</entry>
+        <entry encoding="base64">XDxCQU5ORURfVEFHU1w+</entry>
+        <entry encoding="base64">XDxrZXlzXD4=</entry>
+        <entry>TODO</entry>
       </history-search>
       <history-cmd>
         <entry>%/&quot;/'/g</entry>
@@ -1241,6 +1241,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed D</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed 2</text>
       </shortcut-conflict>
     </shortcut-conflicts>
     <editor>
