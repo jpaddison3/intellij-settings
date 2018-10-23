@@ -249,6 +249,10 @@
         <mark key="." line="22" column="15" />
         <mark key="^" line="22" column="15" />
       </file>
+      <file name="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/posts/callbacks/validation.js" timestamp="1540319955812">
+        <mark key="[" line="48" column="46" />
+        <mark key="]" line="48" column="64" />
+      </file>
       <file name="$USER_HOME$/cea/parfit/services/payments/handlers/xero/index.js" timestamp="1540234925538">
         <mark key="'" line="74" column="10" />
         <mark key="[" line="177" column="15" />
@@ -697,11 +701,11 @@
         <mark key="^" line="38" column="33" />
         <mark key="." line="38" column="33" />
       </file>
-      <file name="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/lib/collections/posts/helpers.js" timestamp="1540318685541">
-        <mark key="[" line="117" column="54" />
-        <mark key="]" line="117" column="71" />
-        <mark key="^" line="117" column="71" />
-        <mark key="." line="117" column="71" />
+      <file name="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/lib/collections/posts/helpers.js" timestamp="1540319671376">
+        <mark key="[" line="125" column="29" />
+        <mark key="]" line="126" column="14" />
+        <mark key="^" line="126" column="14" />
+        <mark key="." line="126" column="14" />
       </file>
       <file name="$USER_HOME$/cea/parfit/migrations/20181015154025_gwwc_survey_report_down.sql" timestamp="1539650401008">
         <mark key="[" line="1" column="0" />
@@ -1125,8 +1129,8 @@
       <register name="/" type="4">
         <text>TODO</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZygnaHRtbEJvZHkgc3RhcnQgPj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4nKQogIGNvbnNvbGUubG9nKCQuaHRtbCgpKQogIGNvbnNvbGUubG9nKCdodG1sQm9keSBlbmQgPDw8PDw8PDw8PDw8PDw8PDw8PDw8PDw8PDw8PDw8PDw8PDw8PDw8PDw8PDw8PCcpCg==</text>
+      <register name="0" type="4">
+        <text>link_already_posted</text>
       </register>
       <register name="p" type="4">
         <keys>
