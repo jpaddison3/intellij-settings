@@ -90,8 +90,11 @@
         <mark key="." line="3" column="0" />
         <mark key="^" line="4" column="75" />
       </file>
-      <file name="$USER_HOME$/cea/Forum/Forum/.circleci/config.yml" timestamp="1540342347857">
+      <file name="$USER_HOME$/cea/Forum/Forum/.circleci/config.yml" timestamp="1540402561498">
         <mark key="[" line="27" column="62" />
+        <mark key="]" line="30" column="21" />
+        <mark key="^" line="30" column="21" />
+        <mark key="." line="30" column="21" />
       </file>
       <file name="$USER_HOME$/Documents/cea/Forum/Forum/packages/lesswrong/styles/_colors.scss" timestamp="1532123035444">
         <mark key="[" line="0" column="17" />
@@ -117,6 +120,12 @@
         <mark key="^" line="17" column="50" />
         <mark key="." line="16" column="0" />
       </file>
+      <file name="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/posts/PostsPage.jsx" timestamp="1540403326833">
+        <mark key="'" line="163" column="0" />
+        <mark key="[" line="184" column="0" />
+        <mark key="]" line="184" column="0" />
+        <mark key="." line="184" column="0" />
+      </file>
       <file name="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/lib/collections/posts/custom_fields.js" timestamp="1537045267563">
         <mark key="[" line="414" column="28" />
         <mark key="]" line="414" column="29" />
@@ -125,10 +134,9 @@
       </file>
       <file name="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/testing/voting.tests.js" timestamp="1540340430085">
         <mark key="'" line="28" column="14" />
-        <mark key="[" line="75" column="29" />
-        <mark key="]" line="75" column="29" />
-        <mark key="." line="75" column="46" />
-        <mark key="^" line="41" column="47" />
+        <mark key="[" line="28" column="29" />
+        <mark key="]" line="28" column="29" />
+        <mark key="." line="28" column="46" />
       </file>
       <file name="$USER_HOME$/cea/parfit/migrations/20180902115251_gwwc_stats_up.sql" timestamp="1536661521862">
         <mark key="'" line="309" column="2" />
@@ -139,19 +147,19 @@
         <mark key="^" line="1" column="17" />
         <mark key="." line="1" column="17" />
       </file>
-      <file name="$USER_HOME$/cea/Forum/Forum/settings.json" timestamp="1536152878057">
+      <file name="$USER_HOME$/cea/Forum/Forum/settings.json" timestamp="1540405188430">
         <mark key="'" line="16" column="4" />
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="^" line="51" column="33" />
-        <mark key="." line="4" column="0" />
+        <mark key="[" line="47" column="0" />
+        <mark key="]" line="47" column="26" />
+        <mark key="^" line="52" column="33" />
+        <mark key="." line="47" column="0" />
       </file>
-      <file name="$USER_HOME$/cea/Forum/Forum/settings-staging.json" timestamp="1539724451373">
-        <mark key="'" line="56" column="12" />
-        <mark key="[" line="50" column="20" />
-        <mark key="]" line="50" column="22" />
-        <mark key="." line="50" column="22" />
-        <mark key="^" line="50" column="22" />
+      <file name="$USER_HOME$/cea/Forum/Forum/settings-staging.json" timestamp="1540405184510">
+        <mark key="'" line="57" column="12" />
+        <mark key="[" line="47" column="0" />
+        <mark key="]" line="47" column="26" />
+        <mark key="." line="47" column="0" />
+        <mark key="^" line="51" column="22" />
       </file>
       <file name="$USER_HOME$/cea/parfit/migrations/20180413162955_gwwc_import_up.sql" timestamp="1537284728629">
         <mark key="'" line="51" column="39" />
@@ -254,10 +262,6 @@
         <mark key="." line="22" column="15" />
         <mark key="^" line="22" column="15" />
       </file>
-      <file name="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/posts/callbacks/validation.js" timestamp="1540319955812">
-        <mark key="[" line="48" column="46" />
-        <mark key="]" line="48" column="64" />
-      </file>
       <file name="$USER_HOME$/cea/parfit/services/payments/handlers/xero/index.js" timestamp="1540234925538">
         <mark key="'" line="74" column="10" />
         <mark key="[" line="177" column="15" />
@@ -317,14 +321,6 @@
         <mark key="^" line="2" column="19" />
         <mark key="." line="2" column="19" />
       </file>
-      <file name="$USER_HOME$/cea/parfit/services/payments/workers/xero-balance-sheets.js" timestamp="1540238360175">
-        <mark key="a" line="228" column="19" />
-        <mark key="'" line="93" column="15" />
-        <mark key="[" line="42" column="0" />
-        <mark key="]" line="42" column="36" />
-        <mark key="." line="154" column="43" />
-        <mark key="^" line="154" column="43" />
-      </file>
       <file name="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/scripts/algoliaExport.js" timestamp="1537800049959">
         <mark key="'" line="40" column="0" />
         <mark key="[" line="36" column="0" />
@@ -351,12 +347,11 @@
       <file name="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/sequences/SequencesHome.jsx" timestamp="1534979767169">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/common/Home.jsx" timestamp="1539992879091">
-        <mark key="'" line="7" column="8" />
-        <mark key="[" line="32" column="0" />
-        <mark key="]" line="32" column="0" />
-        <mark key="." line="32" column="0" />
-        <mark key="^" line="32" column="25" />
+      <file name="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/common/Home.jsx" timestamp="1540404637004">
+        <mark key="[" line="56" column="0" />
+        <mark key="]" line="56" column="0" />
+        <mark key="." line="56" column="0" />
+        <mark key="^" line="56" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/cea/Forum/Forum/packages/lesswrong/server/cors.js" timestamp="1532733805226">
         <mark key="[" line="0" column="46" />
@@ -620,13 +615,17 @@
         <mark key="^" line="0" column="6" />
         <mark key="." line="0" column="6" />
       </file>
+      <file name="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/Layout.jsx" timestamp="1540404146883">
+        <mark key="'" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/cea/Forum/Forum/node_modules/draft-js-resizeable-plugin/lib/index.js" timestamp="1536084318531">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/cea/Forum/Forum/settings-prod.json" timestamp="1539739576246">
-        <mark key="[" line="67" column="0" />
-        <mark key="]" line="67" column="0" />
-        <mark key="." line="67" column="0" />
+      <file name="$USER_HOME$/cea/Forum/Forum/settings-prod.json" timestamp="1540405181493">
+        <mark key="[" line="47" column="0" />
+        <mark key="]" line="47" column="26" />
+        <mark key="." line="47" column="25" />
+        <mark key="^" line="47" column="18" />
       </file>
       <file name="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/lib/collections/bans/callbacks.js" timestamp="1534546121052">
         <mark key="[" line="22" column="3" />
@@ -688,8 +687,12 @@
         <mark key="^" line="74" column="21" />
         <mark key="." line="74" column="21" />
       </file>
-      <file name="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/legacy-redirects/routes.js" timestamp="1539992916075">
-        <mark key="'" line="89" column="17" />
+      <file name="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/legacy-redirects/routes.js" timestamp="1540405455289">
+        <mark key="'" line="266" column="0" />
+        <mark key="[" line="23" column="24" />
+        <mark key="]" line="23" column="48" />
+        <mark key="." line="23" column="48" />
+        <mark key="^" line="23" column="48" />
       </file>
       <file name="$USER_HOME$/cea/parfit/migrations/20180913122130_shadow_register_no_email_up.sql" timestamp="1537287019776">
         <mark key="'" line="74" column="0" />
@@ -843,11 +846,11 @@
       <file name="$USER_HOME$/cea/aletheia/app/containers/Admin/CreatePerson/index.jsx" timestamp="1536918644420">
         <mark key="'" line="224" column="0" />
       </file>
-      <file name="$USER_HOME$/cea/Forum/Forum/settings-dev.json" timestamp="1537278366920">
+      <file name="$USER_HOME$/cea/Forum/Forum/settings-dev.json" timestamp="1540405192741">
         <mark key="'" line="33" column="38" />
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="154" />
-        <mark key="." line="4" column="0" />
+        <mark key="[" line="51" column="0" />
+        <mark key="]" line="51" column="26" />
+        <mark key="." line="51" column="0" />
         <mark key="^" line="5" column="15" />
       </file>
       <file name="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/silly.js" timestamp="1539719490881">
@@ -858,67 +861,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="31" column="48" filename="$USER_HOME$/cea/parfit/services/payments/workers/xero-fee-fix.js" />
-      <jump line="93" column="15" filename="$USER_HOME$/cea/parfit/services/payments/workers/xero-balance-sheets.js" />
-      <jump line="87" column="2" filename="$USER_HOME$/cea/parfit/services/payments/workers/xero-fee-fix.js" />
-      <jump line="135" column="0" filename="$USER_HOME$/cea/parfit/services/payments/workers/xero-fee-fix.js" />
-      <jump line="30" column="0" filename="$USER_HOME$/cea/parfit/services/payments/workers/xero-fee-fix.js" />
-      <jump line="29" column="0" filename="$USER_HOME$/cea/parfit/services/payments/workers/xero-fee-fix.js" />
-      <jump line="91" column="0" filename="$USER_HOME$/cea/parfit/services/payments/workers/xero-fee-fix.js" />
-      <jump line="147" column="0" filename="$USER_HOME$/cea/parfit/services/payments/workers/xero-fee-fix.js" />
-      <jump line="25" column="0" filename="$USER_HOME$/cea/parfit/services/payments/workers/xero-fee-fix.js" />
-      <jump line="101" column="33" filename="$USER_HOME$/cea/parfit/services/payments/workers/xero-fee-fix.js" />
-      <jump line="139" column="0" filename="$USER_HOME$/cea/parfit/services/payments/workers/xero-fee-fix.js" />
-      <jump line="61" column="74" filename="$USER_HOME$/cea/parfit/services/payments/workers/xero-fee-fix.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/cea/parfit/services/payments/workers/xero-fee-fix.js" />
-      <jump line="1" column="0" filename="$USER_HOME$/cea/parfit/services/payments/workers/xero-fee-fix.js" />
-      <jump line="4" column="0" filename="$USER_HOME$/cea/parfit/services/payments/workers/xero-fee-fix.js" />
-      <jump line="10" column="0" filename="$USER_HOME$/cea/parfit/services/payments/workers/xero-fee-fix.js" />
-      <jump line="12" column="0" filename="$USER_HOME$/cea/parfit/services/payments/workers/xero-fee-fix.js" />
-      <jump line="14" column="0" filename="$USER_HOME$/cea/parfit/services/payments/workers/xero-fee-fix.js" />
-      <jump line="19" column="0" filename="$USER_HOME$/cea/parfit/services/payments/workers/xero-fee-fix.js" />
-      <jump line="26" column="0" filename="$USER_HOME$/cea/parfit/services/payments/workers/xero-fee-fix.js" />
-      <jump line="23" column="0" filename="$USER_HOME$/cea/parfit/services/payments/workers/xero-fee-fix.js" />
-      <jump line="58" column="4" filename="$USER_HOME$/cea/parfit/services/payments/workers/xero-fee-fix.js" />
-      <jump line="461" column="8" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" />
-      <jump line="391" column="6" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" />
-      <jump line="483" column="39" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" />
-      <jump line="385" column="4" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" />
-      <jump line="399" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" />
-      <jump line="484" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" />
-      <jump line="491" column="45" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" />
-      <jump line="83" column="39" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" />
-      <jump line="86" column="22" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" />
-      <jump line="481" column="50" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" />
-      <jump line="23" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" />
-      <jump line="84" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" />
-      <jump line="477" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" />
-      <jump line="81" column="39" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" />
-      <jump line="326" column="7" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" />
-      <jump line="386" column="3" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" />
-      <jump line="176" column="48" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" />
-      <jump line="388" column="8" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" />
-      <jump line="10" column="0" filename="$USER_HOME$/cea/Forum/Vulcan/packages/vulcan-voting/lib/server/scoring.js" />
-      <jump line="11" column="0" filename="$USER_HOME$/cea/Forum/Vulcan/packages/vulcan-voting/lib/server/scoring.js" />
-      <jump line="17" column="0" filename="$USER_HOME$/cea/Forum/Vulcan/packages/vulcan-voting/lib/server/scoring.js" />
-      <jump line="22" column="0" filename="$USER_HOME$/cea/Forum/Vulcan/packages/vulcan-voting/lib/server/scoring.js" />
-      <jump line="29" column="0" filename="$USER_HOME$/cea/Forum/Vulcan/packages/vulcan-voting/lib/server/scoring.js" />
-      <jump line="35" column="0" filename="$USER_HOME$/cea/Forum/Vulcan/packages/vulcan-voting/lib/server/scoring.js" />
-      <jump line="38" column="0" filename="$USER_HOME$/cea/Forum/Vulcan/packages/vulcan-voting/lib/server/scoring.js" />
-      <jump line="41" column="0" filename="$USER_HOME$/cea/Forum/Vulcan/packages/vulcan-voting/lib/server/scoring.js" />
-      <jump line="50" column="0" filename="$USER_HOME$/cea/Forum/Vulcan/packages/vulcan-voting/lib/server/scoring.js" />
-      <jump line="61" column="0" filename="$USER_HOME$/cea/Forum/Vulcan/packages/vulcan-voting/lib/server/scoring.js" />
-      <jump line="73" column="0" filename="$USER_HOME$/cea/Forum/Vulcan/packages/vulcan-voting/lib/server/scoring.js" />
-      <jump line="271" column="4" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" />
-      <jump line="244" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" />
-      <jump line="220" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" />
-      <jump line="198" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" />
-      <jump line="171" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" />
-      <jump line="162" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" />
-      <jump line="88" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" />
-      <jump line="135" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" />
-      <jump line="143" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" />
-      <jump line="51" column="13" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/common/SubscribeWidget.jsx" />
       <jump line="223" column="6" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" />
       <jump line="222" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" />
       <jump line="200" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" />
@@ -958,6 +900,67 @@
       <jump line="75" column="12" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/testing/voting.tests.js" />
       <jump line="3" column="9" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/testing/voting.tests.js" />
       <jump line="28" column="14" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/testing/voting.tests.js" />
+      <jump line="20" column="6" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/legacy-redirects/routes.js" />
+      <jump line="194" column="11" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/posts/PostsPage.jsx" />
+      <jump line="4" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/posts/PostsPage.jsx" />
+      <jump line="7" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/posts/PostsPage.jsx" />
+      <jump line="21" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/posts/PostsPage.jsx" />
+      <jump line="87" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/posts/PostsPage.jsx" />
+      <jump line="101" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/posts/PostsPage.jsx" />
+      <jump line="119" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/posts/PostsPage.jsx" />
+      <jump line="123" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/posts/PostsPage.jsx" />
+      <jump line="132" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/posts/PostsPage.jsx" />
+      <jump line="143" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/posts/PostsPage.jsx" />
+      <jump line="152" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/posts/PostsPage.jsx" />
+      <jump line="159" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/posts/PostsPage.jsx" />
+      <jump line="173" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/posts/PostsPage.jsx" />
+      <jump line="88" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/Layout.jsx" />
+      <jump line="0" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/Layout.jsx" />
+      <jump line="28" column="33" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/common/Home.jsx" />
+      <jump line="24" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/common/Home.jsx" />
+      <jump line="34" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/common/Home.jsx" />
+      <jump line="82" column="13" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/legacy-redirects/routes.js" />
+      <jump line="185" column="13" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/legacy-redirects/routes.js" />
+      <jump line="11" column="45" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/legacy-redirects/routes.js" />
+      <jump line="21" column="6" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/legacy-redirects/routes.js" />
+      <jump line="268" column="2" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/legacy-redirects/routes.js" />
+      <jump line="256" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/legacy-redirects/routes.js" />
+      <jump line="242" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/legacy-redirects/routes.js" />
+      <jump line="235" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/legacy-redirects/routes.js" />
+      <jump line="229" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/legacy-redirects/routes.js" />
+      <jump line="224" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/legacy-redirects/routes.js" />
+      <jump line="220" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/legacy-redirects/routes.js" />
+      <jump line="215" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/legacy-redirects/routes.js" />
+      <jump line="210" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/legacy-redirects/routes.js" />
+      <jump line="181" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/legacy-redirects/routes.js" />
+      <jump line="163" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/legacy-redirects/routes.js" />
+      <jump line="161" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/legacy-redirects/routes.js" />
+      <jump line="136" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/legacy-redirects/routes.js" />
+      <jump line="134" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/legacy-redirects/routes.js" />
+      <jump line="108" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/legacy-redirects/routes.js" />
+      <jump line="84" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/legacy-redirects/routes.js" />
+      <jump line="57" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/legacy-redirects/routes.js" />
+      <jump line="48" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/legacy-redirects/routes.js" />
+      <jump line="266" column="2" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/legacy-redirects/routes.js" />
+      <jump line="5" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/legacy-redirects/routes.js" />
+      <jump line="22" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/legacy-redirects/routes.js" />
+      <jump line="24" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/legacy-redirects/routes.js" />
+      <jump line="29" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/legacy-redirects/routes.js" />
+      <jump line="34" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/legacy-redirects/routes.js" />
+      <jump line="39" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/legacy-redirects/routes.js" />
+      <jump line="43" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/legacy-redirects/routes.js" />
+      <jump line="47" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/legacy-redirects/routes.js" />
+      <jump line="51" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/legacy-redirects/routes.js" />
+      <jump line="55" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/legacy-redirects/routes.js" />
+      <jump line="53" column="52" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/legacy-redirects/routes.js" />
+      <jump line="80" column="53" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/legacy-redirects/routes.js" />
+      <jump line="183" column="53" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/legacy-redirects/routes.js" />
+      <jump line="8" column="4" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/legacy-redirects/routes.js" />
+      <jump line="14" column="23" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/legacy-redirects/routes.js" />
+      <jump line="17" column="11" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/legacy-redirects/routes.js" />
+      <jump line="23" column="55" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/legacy-redirects/routes.js" />
+      <jump line="0" column="46" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/legacy-redirects/routes.js" />
+      <jump line="265" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/legacy-redirects/routes.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1128,13 +1131,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>, false</text>
+        <text>oldRouteAcronym</text>
       </register>
       <register name="/" type="4">
-        <text>Vuln</text>
+        <text>lw</text>
       </register>
-      <register name="0" type="4">
-        <text>batchUpdateScore</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAib2xkUm91dGVBY3JvbnltIjogImVhIiwK</text>
       </register>
       <register name="p" type="4">
         <keys>
@@ -1147,43 +1150,43 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgYXdhaXQgYmF0Y2hVcGRhdGVTY29yZShQb3N0cywgZmFsc2UsIGZhbHNlKTsK</text>
+        <text encoding="base64">Y29uc3QgCgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">bm9kZV9tb2R1bGVzLyoK</text>
+        <text encoding="base64">aW1wb3J0IHsgZ2V0U2V0dGluZyB9IGZyb20gJ21ldGVvci92dWxjYW46Y29yZScK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBjb25zb2xlLmxvZygnaGVsbGxsbGxsbGxsbGxsbGxsbGxsbGxsbGxsbGxsbGxsbGxsbGxsbGxsbGxsbGxsbGxsbG9vb29vJykKICAgICAgICAvLyBjb25zb2xlLmxvZygnUG9zdHMnLCBQb3N0cykKICAgICAgICAvLyBjb25zb2xlLmxvZygncmF3Q29sbGVjdGlvbicsIFBvc3RzLnJhd0NvbGxlY3Rpb24pCg==</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECiAgfQoKICBjb25zdCByb3V0ZU5hbWUgPSBjdXJyZW50Um91dGUubmFtZQogIGNvbnN0IHF1ZXJ5ID0gbG9jYXRpb24gJiYgbG9jYXRpb24ucXVlcnkKICBjb25zdCB7IHN1YnRpdGxlVGV4dCA9IGN1cnJlbnRSb3V0ZS50aXRsZSB8fCAiIiB9ID0gZ2V0SGVhZGVyU3VidGl0bGVEYXRhKHJvdXRlTmFtZSwgcXVlcnksIHBhcmFtcywgY2xpZW50KSB8fCB7fQogIGNvbnN0IHNpdGVOYW1lID0gZ2V0U2V0dGluZygnZm9ydW1TZXR0aW5ncy50YWJUaXRsZScsICdMZXNzV3JvbmcgMi4wJyk7CiAgY29uc3QgdGl0bGUgPSBzdWJ0aXRsZVRleHQgPyBgJHtzdWJ0aXRsZVRleHR9IC0gJHtzaXRlTmFtZX1gIDogc2l0ZU5hbWU7CgogIHJldHVybiA8VXNlckNvbnRleHQuUHJvdmlkZXIgdmFsdWU9e2N1cnJlbnRVc2VyfT4KICAgIDxkaXYgY2xhc3NOYW1lPXtjbGFzc05hbWVzKCJ3cmFwcGVyIiwgeydhbGlnbm1lbnQtZm9ydW0nOiBnZXRTZXR0aW5nKCdBbGlnbm1lbnRGb3J1bScsIGZhbHNlKX0pIH0gaWQ9IndyYXBwZXIiPgogICAgICA8VjBNdWlUaGVtZVByb3ZpZGVyIG11aVRoZW1lPXtjdXN0b21pemVUaGVtZShjdXJyZW50Um91dGUsIHVzZXJBZ2VudCwgcGFyYW1zLCBjbGllbnQuc3RvcmUpfT4KICAgICAgICA8ZGl2PgogICAgICAgICAgPENzc0Jhc2VsaW5lIC8+CiAgICAgICAgICA8SGVsbWV0PgogICAgICAgICAgICA8dGl0bGU+e3RpdGxlfTwvdGl0bGU+CiAgICAgICAgICAgIDxsaW5rIG5hbWU9Im1hdGVyaWFsLWljb25zIiByZWw9InN0eWxlc2hlZXQiIHR5cGU9InRleHQvY3NzIiBocmVmPSJodHRwczovL2ZvbnRzLmdvb2dsZWFwaXMuY29tL2ljb24/ZmFtaWx5PU1hdGVyaWFsK0ljb25zIi8+CiAgICAgICAgICAgIDxsaW5rIG5hbWU9InJlYWN0LWluc3RhbnRzZWFyY2giIHJlbD0ic3R5bGVzaGVldCIgdHlwZT0idGV4dC9jc3MiIGhyZWY9Imh0dHBzOi8vdW5wa2cuY29tL3JlYWN0LWluc3RhbnRzZWFyY2gtdGhlbWUtYWxnb2xpYUA0LjAuMC9zdHlsZS5taW4uY3NzIi8+CiAgICAgICAgICAgIDxsaW5rIHJlbD0ic3R5bGVzaGVldCIgaHJlZj0iaHR0cHM6Ly9mb250cy5nb29nbGVhcGlzLmNvbS9jc3M/ZmFtaWx5PVJvYm90bzozMDAsNDAwLDUwMCIvPgogICAgICAgICAgICB7IHRoZW1lLnR5cG9ncmFwaHkuZm9udERvd25sb2FkcyAmJgogICAgICAgICAgICAgICAgdGhlbWUudHlwb2dyYXBoeS5mb250RG93bmxvYWRzLm1hcCgKICAgICAgICAgICAgICAgICAgKHVybCk9PjxsaW5rIHJlbD0ic3R5bGVzaGVldCIga2V5PXtgZm9udC0ke3VybH1gfSBocmVmPXt1cmx9Lz4KICAgICAgICAgICAgICAgICkKICAgICAgICAgICAgfQogICAgICAgICAgICA8bWV0YSBodHRwRXF1aXY9IkFjY2VwdC1DSCIgY29udGVudD0iRFBSLCBWaWV3cG9ydC1XaWR0aCwgV2lkdGgiLz4KICAgICAgICAgICAgey8qVE9ETyBJcyB0aGlzIG1vcmUgZWZmaWNpZW50IHRoYW4gc2VwYXJhdGUgZG93bmxvYWRzPyBQcm9icyBub3QsIHJpZ2h0PyovfQogICAgICAgICAgICB7Lyo8bGluayBocmVmPSJodHRwczovL2ZvbnRzLmdvb2dsZWFwaXMuY29tL2Nzcz9mYW1pbHk9Um9ib3RvOjMwMCw0MDAsNTAwfE1lcnJpd2VhdGhlcjo0MDAsNzAwfFJhbGV3YXk6NTAwLDcwMCZhbXA7c3Vic2V0PWxhdGluLWV4dCIgcmVsPSJzdHlsZXNoZWV0IiAvPiovfQogICAgICAgICAgPC9IZWxtZXQ+CiAgICAgICAgICB7LyogRGVhY3RpdmF0aW5nIHRoaXMgY29tcG9uZW50IGZvciBub3csIHNpbmNlIGl0J3MgYmVlbiBjYXVzaW5nIGEgZ29vZCBhbW91bnQgb2YgYnVncy4gVE9ETzogRml4IHRoaXMgcHJvcGVybHkgKi99CiAgICAgICAgICB7Lyoge2N1cnJlbnRVc2VyID8gPENvbXBvbmVudHMuVXNlcnNQcm9maWxlQ2hlY2sgY3VycmVudFVzZXI9e2N1cnJlbnRVc2VyfSBkb2N1bWVudElkPXtjdXJyZW50VXNlci5faWR9IC8+IDogbnVsbH0gKi99Cj09PT09PT0KPj4+Pj4+PiBtYXN0ZXIK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAvLyBUT0RPOyByZW1vdmUgaW4gZmF2b3Igb2YgYmVsb3cKICAvLyBjb25zb2xlLmxvZygnUG9zdHMnLCBQb3N0cykKICBjb25zdCBudW1VcGRhdGVkID0gYXdhaXQgYmF0Y2hVcGRhdGVTY29yZShQb3N0cywgZmFsc2UsIHRydWUpCiAgY29uc29sZS5sb2coJ251bVVwZGF0ZWQnLCBudW1VcGRhdGVkKQoK</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECj09PT09PT0KPj4+Pj4+PiBtYXN0ZXIK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAvLyBhd2FpdCBiYXRjaFVwZGF0ZVNjb3JlKHtjb2xsZWN0aW9uOiBDb21tZW50cywgZm9yY2VVcGRhdGU6IHRydWV9KQo=</text>
+        <text encoding="base64">ICAgICAgeyAhY3VycmVudFVzZXIgPwogICAgICAgIDxDb21wb25lbnRzLlNlY3Rpb24KICAgICAgICAgIHRpdGxlPSJSZWNvbW1lbmRlZCBSZWFkaW5nIgogICAgICAgICAgdGl0bGVMaW5rPSIvbGlicmFyeSIKICAgICAgICAgIHRpdGxlQ29tcG9uZW50PSB7PENvbXBvbmVudHMuU2VjdGlvblN1YnRpdGxlPgogICAgICAgICAgICA8TGluayB0bz0iL2xpYnJhcnkiPlNlcXVlbmNlIExpYnJhcnk8L0xpbms+CiAgICAgICAgICA8L0NvbXBvbmVudHMuU2VjdGlvblN1YnRpdGxlPn0KICAgICAgICA+CiAgICAgICAgICA8Q29tcG9uZW50cy5Db2xsZWN0aW9uc0NhcmRDb250YWluZXI+CiAgICAgICAgICAgIDxDb21wb25lbnRzLkJpZ0NvbGxlY3Rpb25zQ2FyZCBjb2xsZWN0aW9uPXt0ZXN0Q29sbGVjdGlvbnNbMF19IHVybD17Ii9yYXRpb25hbGl0eSJ9Lz4KICAgICAgICAgICAgPENvbXBvbmVudHMuQ29sbGVjdGlvbnNDYXJkIGNvbGxlY3Rpb249e3Rlc3RDb2xsZWN0aW9uc1sxXX0gdXJsPXsiL2NvZGV4In0vPgogICAgICAgICAgICA8Q29tcG9uZW50cy5Db2xsZWN0aW9uc0NhcmQgY29sbGVjdGlvbj17dGVzdENvbGxlY3Rpb25zWzJdfSB1cmw9eyIvaHBtb3IifS8+CiAgICAgICAgICA8L0NvbXBvbmVudHMuQ29sbGVjdGlvbnNDYXJkQ29udGFpbmVyPgogICAgICAgIDwvQ29tcG9uZW50cy5TZWN0aW9uPiA6CiAgICAgICAgPGRpdj4KICAgICAgICAgIDxDb21wb25lbnRzLlNlY3Rpb24KICAgICAgICAgICAgdGl0bGU9IlJlY29tbWVuZGVkIFNlcXVlbmNlcyIKICAgICAgICAgICAgdGl0bGVMaW5rPSIvbGlicmFyeSIKICAgICAgICAgICAgdGl0bGVDb21wb25lbnQ9IHs8Q29tcG9uZW50cy5TZWN0aW9uU3VidGl0bGUgdG89Ii9saWJyYXJ5Ij4KICAgICAgICAgICAgICA8TGluayB0bz0iL2xpYnJhcnkiPlNlcXVlbmNlIExpYnJhcnk8L0xpbms+CiAgICAgICAgICAgIDwvQ29tcG9uZW50cy5TZWN0aW9uU3VidGl0bGU+fQogICAgICAgICAgPgogICAgICAgICAgICA8Q29tcG9uZW50cy5TZXF1ZW5jZXNHcmlkV3JhcHBlcgogICAgICAgICAgICAgIHRlcm1zPXt7dmlldzoiY3VyYXRlZFNlcXVlbmNlcyIsIGxpbWl0OjN9fQogICAgICAgICAgICAgIHNob3dBdXRob3I9e3RydWV9CiAgICAgICAgICAgICAgc2hvd0xvYWRNb3JlPXtmYWxzZX0KICAgICAgICAgICAgICBjbGFzc05hbWU9e2NsYXNzZXMuZnJvbnRwYWdlU2VxdWVuY2VzR3JpZExpc3R9CiAgICAgICAgICAgIC8+CiAgICAgICAgICA8L0NvbXBvbmVudHMuU2VjdGlvbj4KICAgICAgICAgIDxDb21wb25lbnRzLlNlY3Rpb24gdGl0bGU9IkN1cmF0ZWQgQ29udGVudCI+CiAgICAgICAgICAgIDxDb21wb25lbnRzLlBvc3RzTGlzdCB0ZXJtcz17Y3VyYXRlZFBvc3RzVGVybXN9IHNob3dIZWFkZXI9e2ZhbHNlfSBzaG93TG9hZE1vcmU9e2ZhbHNlfS8+CiAgICAgICAgICA8L0NvbXBvbmVudHMuU2VjdGlvbj4KICAgICAgICA8L2Rpdj59Cg==</text>
       </register>
       <register name="u" type="4">
         <text>uu</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBhd2FpdCBiYXRjaFVwZGF0ZVNjb3JlKCkK</text>
+        <text encoding="base64">PT09PT09PQogICAgICB7ICFjdXJyZW50VXNlciA/CiAgICAgICAgPENvbXBvbmVudHMuU2VjdGlvbgogICAgICAgICAgdGl0bGU9IlJlY29tbWVuZGVkIFJlYWRpbmciCiAgICAgICAgICB0aXRsZUxpbms9Ii9saWJyYXJ5IgogICAgICAgICAgdGl0bGVDb21wb25lbnQ9IHs8Q29tcG9uZW50cy5TZWN0aW9uU3VidGl0bGU+CiAgICAgICAgICAgIDxMaW5rIHRvPSIvbGlicmFyeSI+U2VxdWVuY2UgTGlicmFyeTwvTGluaz4KICAgICAgICAgIDwvQ29tcG9uZW50cy5TZWN0aW9uU3VidGl0bGU+fQogICAgICAgID4KICAgICAgICAgIDxDb21wb25lbnRzLkNvbGxlY3Rpb25zQ2FyZENvbnRhaW5lcj4KICAgICAgICAgICAgPENvbXBvbmVudHMuQmlnQ29sbGVjdGlvbnNDYXJkIGNvbGxlY3Rpb249e3Rlc3RDb2xsZWN0aW9uc1swXX0gdXJsPXsiL3JhdGlvbmFsaXR5In0vPgogICAgICAgICAgICA8Q29tcG9uZW50cy5Db2xsZWN0aW9uc0NhcmQgY29sbGVjdGlvbj17dGVzdENvbGxlY3Rpb25zWzFdfSB1cmw9eyIvY29kZXgifS8+CiAgICAgICAgICAgIDxDb21wb25lbnRzLkNvbGxlY3Rpb25zQ2FyZCBjb2xsZWN0aW9uPXt0ZXN0Q29sbGVjdGlvbnNbMl19IHVybD17Ii9ocG1vciJ9Lz4KICAgICAgICAgIDwvQ29tcG9uZW50cy5Db2xsZWN0aW9uc0NhcmRDb250YWluZXI+CiAgICAgICAgPC9Db21wb25lbnRzLlNlY3Rpb24+IDoKICAgICAgICA8ZGl2PgogICAgICAgICAgPENvbXBvbmVudHMuU2VjdGlvbgogICAgICAgICAgICB0aXRsZT0iUmVjb21tZW5kZWQgU2VxdWVuY2VzIgogICAgICAgICAgICB0aXRsZUxpbms9Ii9saWJyYXJ5IgogICAgICAgICAgICB0aXRsZUNvbXBvbmVudD0gezxDb21wb25lbnRzLlNlY3Rpb25TdWJ0aXRsZSB0bz0iL2xpYnJhcnkiPgogICAgICAgICAgICAgIDxMaW5rIHRvPSIvbGlicmFyeSI+U2VxdWVuY2UgTGlicmFyeTwvTGluaz4KICAgICAgICAgICAgPC9Db21wb25lbnRzLlNlY3Rpb25TdWJ0aXRsZT59CiAgICAgICAgICA+CiAgICAgICAgICAgIDxDb21wb25lbnRzLlNlcXVlbmNlc0dyaWRXcmFwcGVyCiAgICAgICAgICAgICAgdGVybXM9e3t2aWV3OiJjdXJhdGVkU2VxdWVuY2VzIiwgbGltaXQ6M319CiAgICAgICAgICAgICAgc2hvd0F1dGhvcj17dHJ1ZX0KICAgICAgICAgICAgICBzaG93TG9hZE1vcmU9e2ZhbHNlfQogICAgICAgICAgICAgIGNsYXNzTmFtZT17Y2xhc3Nlcy5mcm9udHBhZ2VTZXF1ZW5jZXNHcmlkTGlzdH0KICAgICAgICAgICAgLz4KICAgICAgICAgIDwvQ29tcG9uZW50cy5TZWN0aW9uPgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAvLyBUT0RPOyByZW1vdmUgaW4gZmF2b3Igb2YgYmVsb3cKICBjb25zb2xlLmxvZygnUG9zdHMnLCBQb3N0cykK</text>
+        <text encoding="base64">Cgo+Pj4+Pj4+IG1hc3Rlcgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBhd2FpdCBiYXRjaFVwZGF0ZVNjb3JlKFBvc3RzLCBmYWxzZSwgZm9yY2VVcGRhdGU6IHRydWV9KQo=</text>
+        <text encoding="base64">Y29uc3QgSG9tZSA9IChwcm9wcywgY29udGV4dCkgPT4gewogIGNvbnN0IHsgY3VycmVudFVzZXIsIHJvdXRlciB9ID0gcHJvcHM7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnaGVsbGxsbGxsbGxsbGxsbGxsbGxsbGxsbGxsbGxsbGxsbGxsbGxsbGxsbGxsbGxsbGxsbG9vb29vJykKICAgICAgICBjb25zb2xlLmxvZygnUG9zdHMnLCBQb3N0cywgUG9zdHMucmF3Q29sbGVjdGlvbikK</text>
+        <text encoding="base64">Y29uc3QgSG9tZSA9IChwcm9wcywgY29udGV4dCkgPT4gewogIGNvbnN0IHsgY3VycmVudFVzZXIsIHJvdXRlciwgY2xhc3NlcyB9ID0gcHJvcHM7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w!</text>
       </register>
     </registers>
     <search>
-      <last-search>Vuln</last-search>
+      <last-search>lw</last-search>
       <last-offset />
-      <last-pattern>Vuln</last-pattern>
+      <last-pattern>lw</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute encoding="base64">XDxpbnNlcnRVc2VyXD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -1191,9 +1194,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxjbGVhbkh0bWxcPg==</entry>
-        <entry encoding="base64">XDxsZWdhY3lQb3N0VG9OZXdQb3N0XD4=</entry>
-        <entry encoding="base64">XDxyZWNvbmNpbGVkXD4=</entry>
         <entry encoding="base64">XDxjcmVhdGVYZXJvRmVlVHJhbnNhY3Rpb25cPg==</entry>
         <entry encoding="base64">XDxkZWxldGVUcmFuc2FjdGlvblw+</entry>
         <entry encoding="base64">XDxnZXRGZWVCYW5rVHJhbnNhY3Rpb25cPg==</entry>
@@ -1211,6 +1211,9 @@
         <entry encoding="base64">XDxiYXRjaFVwZGF0ZVNjb3JlXD4=</entry>
         <entry>vulc</entry>
         <entry>Vuln</entry>
+        <entry encoding="base64">Pj4+Pj4=</entry>
+        <entry encoding="base64">XDxzdWJyZWRkaXRQcmVmaXhSb3V0ZVw+</entry>
+        <entry>lw</entry>
       </history-search>
       <history-cmd>
         <entry>$s/&quot;/'/g</entry>
@@ -1229,9 +1232,9 @@
         <entry>action CommentByLineComment</entry>
         <entry>action ReopenClosedTab</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gR290b0ZpbGU=</entry>
+        <entry>action GotoFile</entry>
         <entry>action FindInPath</entry>
         <entry>action NextSplitter</entry>
-        <entry>action GotoFile</entry>
         <entry>w!</entry>
       </history-cmd>
       <history-expr />
