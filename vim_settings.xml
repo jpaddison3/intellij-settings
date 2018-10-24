@@ -90,6 +90,9 @@
         <mark key="." line="3" column="0" />
         <mark key="^" line="4" column="75" />
       </file>
+      <file name="$USER_HOME$/cea/Forum/Forum/.circleci/config.yml" timestamp="1540342347857">
+        <mark key="[" line="27" column="62" />
+      </file>
       <file name="$USER_HOME$/Documents/cea/Forum/Forum/packages/lesswrong/styles/_colors.scss" timestamp="1532123035444">
         <mark key="[" line="0" column="17" />
         <mark key="]" line="0" column="24" />
@@ -1128,7 +1131,7 @@
         <text>, false</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxiYXRjaFVwZGF0ZVNjb3JlXD4=</text>
+        <text>Vuln</text>
       </register>
       <register name="0" type="4">
         <text>batchUpdateScore</text>
@@ -1174,13 +1177,13 @@
         <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnaGVsbGxsbGxsbGxsbGxsbGxsbGxsbGxsbGxsbGxsbGxsbGxsbGxsbGxsbGxsbGxsbGxsbG9vb29vJykKICAgICAgICBjb25zb2xlLmxvZygnUG9zdHMnLCBQb3N0cywgUG9zdHMucmF3Q29sbGVjdGlvbikK</text>
       </register>
       <register name=":" type="4">
-        <text>action NextSplitter</text>
+        <text>action GotoFile</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxiYXRjaFVwZGF0ZVNjb3JlXD4=</last-search>
+      <last-search>Vuln</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxiYXRjaFVwZGF0ZVNjb3JlXD4=</last-pattern>
+      <last-pattern>Vuln</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute encoding="base64">XDxpbnNlcnRVc2VyXD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -1188,8 +1191,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxtZXJnZWRHcm91cGVkUG9zdERhdGFcPg==</entry>
-        <entry encoding="base64">XDxjaGVlcmlvXD4=</entry>
         <entry encoding="base64">XDxjbGVhbkh0bWxcPg==</entry>
         <entry encoding="base64">XDxsZWdhY3lQb3N0VG9OZXdQb3N0XD4=</entry>
         <entry encoding="base64">XDxyZWNvbmNpbGVkXD4=</entry>
@@ -1208,6 +1209,8 @@
         <entry>semi</entry>
         <entry encoding="base64">XDxpbmFjdGl2ZVw+</entry>
         <entry encoding="base64">XDxiYXRjaFVwZGF0ZVNjb3JlXD4=</entry>
+        <entry>vulc</entry>
+        <entry>Vuln</entry>
       </history-search>
       <history-cmd>
         <entry>$s/&quot;/'/g</entry>
@@ -1226,10 +1229,10 @@
         <entry>action CommentByLineComment</entry>
         <entry>action ReopenClosedTab</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gR290b0ZpbGU=</entry>
-        <entry>action GotoFile</entry>
         <entry>action FindInPath</entry>
         <entry>w!</entry>
         <entry>action NextSplitter</entry>
+        <entry>action GotoFile</entry>
       </history-cmd>
       <history-expr />
       <history-input />
