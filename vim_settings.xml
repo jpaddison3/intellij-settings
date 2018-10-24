@@ -217,12 +217,12 @@
         <mark key="^" line="57" column="1" />
         <mark key="." line="57" column="1" />
       </file>
-      <file name="$USER_HOME$/cea/Forum/Vulcan/packages/vulcan-voting/lib/server/scoring.js" timestamp="1540340270890">
+      <file name="$USER_HOME$/cea/Forum/Vulcan/packages/vulcan-voting/lib/server/scoring.js" timestamp="1540344055776">
         <mark key="'" line="141" column="43" />
-        <mark key="[" line="62" column="73" />
-        <mark key="]" line="62" column="73" />
-        <mark key="^" line="62" column="73" />
-        <mark key="." line="62" column="73" />
+        <mark key="[" line="62" column="60" />
+        <mark key="]" line="62" column="67" />
+        <mark key="^" line="62" column="67" />
+        <mark key="." line="62" column="67" />
       </file>
       <file name="$USER_HOME$/Documents/cea/Forum/Forum/packages/lesswrong/lib/scripts/invites.js" timestamp="1531951242014">
         <mark key="[" line="28" column="38" />
@@ -1177,7 +1177,7 @@
         <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnaGVsbGxsbGxsbGxsbGxsbGxsbGxsbGxsbGxsbGxsbGxsbGxsbGxsbGxsbGxsbGxsbGxsbG9vb29vJykKICAgICAgICBjb25zb2xlLmxvZygnUG9zdHMnLCBQb3N0cywgUG9zdHMucmF3Q29sbGVjdGlvbikK</text>
       </register>
       <register name=":" type="4">
-        <text>action GotoFile</text>
+        <text>w!</text>
       </register>
     </registers>
     <search>
@@ -1230,9 +1230,9 @@
         <entry>action ReopenClosedTab</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gR290b0ZpbGU=</entry>
         <entry>action FindInPath</entry>
-        <entry>w!</entry>
         <entry>action NextSplitter</entry>
         <entry>action GotoFile</entry>
+        <entry>w!</entry>
       </history-cmd>
       <history-expr />
       <history-input />
