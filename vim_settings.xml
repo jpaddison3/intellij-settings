@@ -219,6 +219,13 @@
         <mark key="." line="48" column="63" />
         <mark key="^" line="47" column="55" />
       </file>
+      <file name="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/async/EditorFormContainer.jsx" timestamp="1540424655017">
+        <mark key="'" line="7" column="6" />
+        <mark key="[" line="104" column="17" />
+        <mark key="]" line="105" column="24" />
+        <mark key="^" line="105" column="24" />
+        <mark key="." line="105" column="24" />
+      </file>
       <file name="$USER_HOME$/Documents/dotfiles/ideavimrc" timestamp="1539124257594">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="57" column="0" />
@@ -658,6 +665,13 @@
         <mark key="." line="77" column="46" />
         <mark key="^" line="77" column="46" />
       </file>
+      <file name="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/editor/EditorFormComponent.jsx" timestamp="1540425258220">
+        <mark key="'" line="72" column="9" />
+        <mark key="[" line="87" column="49" />
+        <mark key="]" line="87" column="70" />
+        <mark key="." line="87" column="70" />
+        <mark key="^" line="87" column="70" />
+      </file>
       <file name="$USER_HOME$/cea/grants-applications/package.json" timestamp="1536579688511">
         <mark key="[" line="16" column="31" />
         <mark key="]" line="16" column="29" />
@@ -727,6 +741,9 @@
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
+      </file>
+      <file name="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/async/EditorForm.jsx" timestamp="1540424452517">
+        <mark key="'" line="17" column="27" />
       </file>
       <file name="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/lib/collections/posts/permissions.js" timestamp="1539725597222">
         <mark key="[" line="0" column="0" />
@@ -829,12 +846,12 @@
       <file name="$USER_HOME$/cea/Forum/Forum/package-lock.json" timestamp="1539199304034">
         <mark key="'" line="4187" column="24" />
       </file>
-      <file name="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/lib/editor/make_editable.js" timestamp="1540422408699">
-        <mark key="'" line="19" column="13" />
-        <mark key="[" line="32" column="27" />
-        <mark key="]" line="33" column="57" />
-        <mark key="^" line="33" column="57" />
-        <mark key="." line="33" column="57" />
+      <file name="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/lib/editor/make_editable.js" timestamp="1540423971208">
+        <mark key="'" line="57" column="10" />
+        <mark key="[" line="32" column="15" />
+        <mark key="]" line="32" column="26" />
+        <mark key="^" line="32" column="26" />
+        <mark key="." line="32" column="26" />
       </file>
       <file name="$USER_HOME$/Documents/cea/aletheia/app/models/Payments/queries/getPayments.gql" timestamp="1533336152317">
         <mark key="[" line="24" column="15" />
@@ -860,64 +877,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="145" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" />
-      <jump line="137" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" />
-      <jump line="133" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" />
-      <jump line="5" column="9" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" />
-      <jump line="161" column="27" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" />
-      <jump line="153" column="27" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" />
-      <jump line="72" column="26" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" />
-      <jump line="91" column="2" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" />
-      <jump line="103" column="26" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" />
-      <jump line="104" column="30" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" />
-      <jump line="125" column="5" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" />
-      <jump line="148" column="29" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" />
-      <jump line="93" column="30" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" />
-      <jump line="134" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" />
-      <jump line="95" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" />
-      <jump line="132" column="106" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" />
-      <jump line="29" column="34" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/testing/voting.tests.js" />
-      <jump line="10" column="42" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/testing/voting.tests.js" />
-      <jump line="97" column="25" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" />
-      <jump line="98" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" />
-      <jump line="82" column="21" filename="$USER_HOME$/cea/Forum/Vulcan/packages/vulcan-voting/lib/server/scoring.js" />
-      <jump line="143" column="43" filename="$USER_HOME$/cea/Forum/Vulcan/packages/vulcan-voting/lib/server/scoring.js" />
-      <jump line="57" column="56" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" />
-      <jump line="94" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" />
-      <jump line="129" column="3" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" />
-      <jump line="62" column="52" filename="$USER_HOME$/cea/Forum/Vulcan/packages/vulcan-voting/lib/server/scoring.js" />
-      <jump line="64" column="31" filename="$USER_HOME$/cea/Forum/Vulcan/packages/vulcan-voting/lib/server/scoring.js" />
-      <jump line="80" column="21" filename="$USER_HOME$/cea/Forum/Vulcan/packages/vulcan-voting/lib/server/scoring.js" />
-      <jump line="141" column="43" filename="$USER_HOME$/cea/Forum/Vulcan/packages/vulcan-voting/lib/server/scoring.js" />
-      <jump line="41" column="12" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/testing/voting.tests.js" />
-      <jump line="62" column="12" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/testing/voting.tests.js" />
-      <jump line="75" column="12" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/testing/voting.tests.js" />
-      <jump line="3" column="9" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/testing/voting.tests.js" />
-      <jump line="28" column="14" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/testing/voting.tests.js" />
-      <jump line="20" column="6" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/legacy-redirects/routes.js" />
-      <jump line="194" column="11" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/posts/PostsPage.jsx" />
-      <jump line="4" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/posts/PostsPage.jsx" />
-      <jump line="7" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/posts/PostsPage.jsx" />
-      <jump line="21" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/posts/PostsPage.jsx" />
-      <jump line="87" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/posts/PostsPage.jsx" />
-      <jump line="101" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/posts/PostsPage.jsx" />
-      <jump line="119" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/posts/PostsPage.jsx" />
-      <jump line="123" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/posts/PostsPage.jsx" />
-      <jump line="132" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/posts/PostsPage.jsx" />
-      <jump line="143" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/posts/PostsPage.jsx" />
-      <jump line="152" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/posts/PostsPage.jsx" />
-      <jump line="159" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/posts/PostsPage.jsx" />
-      <jump line="173" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/posts/PostsPage.jsx" />
-      <jump line="88" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/Layout.jsx" />
-      <jump line="0" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/Layout.jsx" />
-      <jump line="28" column="33" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/common/Home.jsx" />
-      <jump line="24" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/common/Home.jsx" />
-      <jump line="34" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/common/Home.jsx" />
-      <jump line="82" column="13" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/legacy-redirects/routes.js" />
-      <jump line="185" column="13" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/legacy-redirects/routes.js" />
-      <jump line="11" column="45" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/legacy-redirects/routes.js" />
-      <jump line="21" column="6" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/legacy-redirects/routes.js" />
-      <jump line="268" column="2" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/legacy-redirects/routes.js" />
       <jump line="256" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/legacy-redirects/routes.js" />
       <jump line="242" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/legacy-redirects/routes.js" />
       <jump line="235" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/legacy-redirects/routes.js" />
@@ -960,6 +919,64 @@
       <jump line="5" column="9" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/lib/collections/posts/custom_fields.js" />
       <jump line="1022" column="13" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/lib/collections/posts/custom_fields.js" />
       <jump line="1030" column="11" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/lib/collections/posts/custom_fields.js" />
+      <jump line="108" column="6" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/lib/editor/make_editable.js" />
+      <jump line="100" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/lib/editor/make_editable.js" />
+      <jump line="96" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/lib/editor/make_editable.js" />
+      <jump line="82" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/lib/editor/make_editable.js" />
+      <jump line="1" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/lib/editor/make_editable.js" />
+      <jump line="18" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/lib/editor/make_editable.js" />
+      <jump line="34" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/lib/editor/make_editable.js" />
+      <jump line="61" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/lib/editor/make_editable.js" />
+      <jump line="78" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/lib/editor/make_editable.js" />
+      <jump line="16" column="2" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/lib/editor/make_editable.js" />
+      <jump line="30" column="4" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/lib/editor/make_editable.js" />
+      <jump line="33" column="38" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/lib/editor/make_editable.js" />
+      <jump line="57" column="10" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/lib/editor/make_editable.js" />
+      <jump line="86" column="35" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/editor/EditorFormComponent.jsx" />
+      <jump line="96" column="45" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/editor/EditorFormComponent.jsx" />
+      <jump line="103" column="2" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/editor/EditorFormComponent.jsx" />
+      <jump line="129" column="118" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/editor/EditorFormComponent.jsx" />
+      <jump line="4" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/async/EditorForm.jsx" />
+      <jump line="26" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/async/EditorForm.jsx" />
+      <jump line="35" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/async/EditorForm.jsx" />
+      <jump line="44" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/async/EditorForm.jsx" />
+      <jump line="48" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/async/EditorForm.jsx" />
+      <jump line="54" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/async/EditorForm.jsx" />
+      <jump line="65" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/async/EditorForm.jsx" />
+      <jump line="67" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/async/EditorForm.jsx" />
+      <jump line="80" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/async/EditorForm.jsx" />
+      <jump line="87" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/async/EditorForm.jsx" />
+      <jump line="91" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/async/EditorForm.jsx" />
+      <jump line="105" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/async/EditorForm.jsx" />
+      <jump line="110" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/async/EditorForm.jsx" />
+      <jump line="113" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/async/EditorForm.jsx" />
+      <jump line="122" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/async/EditorForm.jsx" />
+      <jump line="125" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/async/EditorForm.jsx" />
+      <jump line="128" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/async/EditorForm.jsx" />
+      <jump line="139" column="11" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/async/EditorForm.jsx" />
+      <jump line="3" column="60" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/async/EditorForm.jsx" />
+      <jump line="12" column="35" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/async/EditorForm.jsx" />
+      <jump line="14" column="45" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/async/EditorForm.jsx" />
+      <jump line="16" column="34" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/async/EditorForm.jsx" />
+      <jump line="17" column="27" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/async/EditorForm.jsx" />
+      <jump line="0" column="7" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/editor/EditorFormComponent.jsx" />
+      <jump line="44" column="6" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/editor/EditorFormComponent.jsx" />
+      <jump line="156" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/editor/EditorFormComponent.jsx" />
+      <jump line="160" column="41" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/editor/EditorFormComponent.jsx" />
+      <jump line="159" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/editor/EditorFormComponent.jsx" />
+      <jump line="6" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/editor/EditorFormComponent.jsx" />
+      <jump line="105" column="7" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/async/EditorFormContainer.jsx" />
+      <jump line="7" column="6" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/async/EditorFormContainer.jsx" />
+      <jump line="8" column="7" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/editor/EditorFormComponent.jsx" />
+      <jump line="78" column="109" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/editor/EditorFormComponent.jsx" />
+      <jump line="115" column="35" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/editor/EditorFormComponent.jsx" />
+      <jump line="104" column="2" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/editor/EditorFormComponent.jsx" />
+      <jump line="131" column="118" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/editor/EditorFormComponent.jsx" />
+      <jump line="80" column="25" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/editor/EditorFormComponent.jsx" />
+      <jump line="70" column="2" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/editor/EditorFormComponent.jsx" />
+      <jump line="79" column="58" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/editor/EditorFormComponent.jsx" />
+      <jump line="54" column="9" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/editor/EditorFormComponent.jsx" />
+      <jump line="72" column="9" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/editor/EditorFormComponent.jsx" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1130,13 +1147,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>, classes</text>
+        <text>markdown</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxtYWtlRWRpdGFibGVPcHRpb25zXD4=</text>
+        <text encoding="base64">XDxzZXRTdGF0ZVw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAib2xkUm91dGVBY3JvbnltIjogImVhIiwK</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ3VzZXIgd2FudHMgbWFya2Rvd24nKQo=</text>
       </register>
       <register name="p" type="4">
         <keys>
@@ -1149,43 +1166,43 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBjb25zdCB7IGN1cnJlbnRVc2VyLCByb3V0ZXIsIGNsYXNzZXMgfSA9IHByb3BzOwo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdsYXN0RWRpdGVkYXMnLCApCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Y29uc3QgCgo=</text>
+        <text encoding="base64">ICBjb25zdCB7IGN1cnJlbnRVc2VyLCByb3V0ZXIsIGNsYXNzZXMgfSA9IHByb3BzOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IHsgZ2V0U2V0dGluZyB9IGZyb20gJ21ldGVvci92dWxjYW46Y29yZScK</text>
+        <text encoding="base64">Y29uc3QgCgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECiAgfQoKICBjb25zdCByb3V0ZU5hbWUgPSBjdXJyZW50Um91dGUubmFtZQogIGNvbnN0IHF1ZXJ5ID0gbG9jYXRpb24gJiYgbG9jYXRpb24ucXVlcnkKICBjb25zdCB7IHN1YnRpdGxlVGV4dCA9IGN1cnJlbnRSb3V0ZS50aXRsZSB8fCAiIiB9ID0gZ2V0SGVhZGVyU3VidGl0bGVEYXRhKHJvdXRlTmFtZSwgcXVlcnksIHBhcmFtcywgY2xpZW50KSB8fCB7fQogIGNvbnN0IHNpdGVOYW1lID0gZ2V0U2V0dGluZygnZm9ydW1TZXR0aW5ncy50YWJUaXRsZScsICdMZXNzV3JvbmcgMi4wJyk7CiAgY29uc3QgdGl0bGUgPSBzdWJ0aXRsZVRleHQgPyBgJHtzdWJ0aXRsZVRleHR9IC0gJHtzaXRlTmFtZX1gIDogc2l0ZU5hbWU7CgogIHJldHVybiA8VXNlckNvbnRleHQuUHJvdmlkZXIgdmFsdWU9e2N1cnJlbnRVc2VyfT4KICAgIDxkaXYgY2xhc3NOYW1lPXtjbGFzc05hbWVzKCJ3cmFwcGVyIiwgeydhbGlnbm1lbnQtZm9ydW0nOiBnZXRTZXR0aW5nKCdBbGlnbm1lbnRGb3J1bScsIGZhbHNlKX0pIH0gaWQ9IndyYXBwZXIiPgogICAgICA8VjBNdWlUaGVtZVByb3ZpZGVyIG11aVRoZW1lPXtjdXN0b21pemVUaGVtZShjdXJyZW50Um91dGUsIHVzZXJBZ2VudCwgcGFyYW1zLCBjbGllbnQuc3RvcmUpfT4KICAgICAgICA8ZGl2PgogICAgICAgICAgPENzc0Jhc2VsaW5lIC8+CiAgICAgICAgICA8SGVsbWV0PgogICAgICAgICAgICA8dGl0bGU+e3RpdGxlfTwvdGl0bGU+CiAgICAgICAgICAgIDxsaW5rIG5hbWU9Im1hdGVyaWFsLWljb25zIiByZWw9InN0eWxlc2hlZXQiIHR5cGU9InRleHQvY3NzIiBocmVmPSJodHRwczovL2ZvbnRzLmdvb2dsZWFwaXMuY29tL2ljb24/ZmFtaWx5PU1hdGVyaWFsK0ljb25zIi8+CiAgICAgICAgICAgIDxsaW5rIG5hbWU9InJlYWN0LWluc3RhbnRzZWFyY2giIHJlbD0ic3R5bGVzaGVldCIgdHlwZT0idGV4dC9jc3MiIGhyZWY9Imh0dHBzOi8vdW5wa2cuY29tL3JlYWN0LWluc3RhbnRzZWFyY2gtdGhlbWUtYWxnb2xpYUA0LjAuMC9zdHlsZS5taW4uY3NzIi8+CiAgICAgICAgICAgIDxsaW5rIHJlbD0ic3R5bGVzaGVldCIgaHJlZj0iaHR0cHM6Ly9mb250cy5nb29nbGVhcGlzLmNvbS9jc3M/ZmFtaWx5PVJvYm90bzozMDAsNDAwLDUwMCIvPgogICAgICAgICAgICB7IHRoZW1lLnR5cG9ncmFwaHkuZm9udERvd25sb2FkcyAmJgogICAgICAgICAgICAgICAgdGhlbWUudHlwb2dyYXBoeS5mb250RG93bmxvYWRzLm1hcCgKICAgICAgICAgICAgICAgICAgKHVybCk9PjxsaW5rIHJlbD0ic3R5bGVzaGVldCIga2V5PXtgZm9udC0ke3VybH1gfSBocmVmPXt1cmx9Lz4KICAgICAgICAgICAgICAgICkKICAgICAgICAgICAgfQogICAgICAgICAgICA8bWV0YSBodHRwRXF1aXY9IkFjY2VwdC1DSCIgY29udGVudD0iRFBSLCBWaWV3cG9ydC1XaWR0aCwgV2lkdGgiLz4KICAgICAgICAgICAgey8qVE9ETyBJcyB0aGlzIG1vcmUgZWZmaWNpZW50IHRoYW4gc2VwYXJhdGUgZG93bmxvYWRzPyBQcm9icyBub3QsIHJpZ2h0PyovfQogICAgICAgICAgICB7Lyo8bGluayBocmVmPSJodHRwczovL2ZvbnRzLmdvb2dsZWFwaXMuY29tL2Nzcz9mYW1pbHk9Um9ib3RvOjMwMCw0MDAsNTAwfE1lcnJpd2VhdGhlcjo0MDAsNzAwfFJhbGV3YXk6NTAwLDcwMCZhbXA7c3Vic2V0PWxhdGluLWV4dCIgcmVsPSJzdHlsZXNoZWV0IiAvPiovfQogICAgICAgICAgPC9IZWxtZXQ+CiAgICAgICAgICB7LyogRGVhY3RpdmF0aW5nIHRoaXMgY29tcG9uZW50IGZvciBub3csIHNpbmNlIGl0J3MgYmVlbiBjYXVzaW5nIGEgZ29vZCBhbW91bnQgb2YgYnVncy4gVE9ETzogRml4IHRoaXMgcHJvcGVybHkgKi99CiAgICAgICAgICB7Lyoge2N1cnJlbnRVc2VyID8gPENvbXBvbmVudHMuVXNlcnNQcm9maWxlQ2hlY2sgY3VycmVudFVzZXI9e2N1cnJlbnRVc2VyfSBkb2N1bWVudElkPXtjdXJyZW50VXNlci5faWR9IC8+IDogbnVsbH0gKi99Cj09PT09PT0KPj4+Pj4+PiBtYXN0ZXIK</text>
+        <text encoding="base64">aW1wb3J0IHsgZ2V0U2V0dGluZyB9IGZyb20gJ21ldGVvci92dWxjYW46Y29yZScK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECj09PT09PT0KPj4+Pj4+PiBtYXN0ZXIK</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECiAgfQoKICBjb25zdCByb3V0ZU5hbWUgPSBjdXJyZW50Um91dGUubmFtZQogIGNvbnN0IHF1ZXJ5ID0gbG9jYXRpb24gJiYgbG9jYXRpb24ucXVlcnkKICBjb25zdCB7IHN1YnRpdGxlVGV4dCA9IGN1cnJlbnRSb3V0ZS50aXRsZSB8fCAiIiB9ID0gZ2V0SGVhZGVyU3VidGl0bGVEYXRhKHJvdXRlTmFtZSwgcXVlcnksIHBhcmFtcywgY2xpZW50KSB8fCB7fQogIGNvbnN0IHNpdGVOYW1lID0gZ2V0U2V0dGluZygnZm9ydW1TZXR0aW5ncy50YWJUaXRsZScsICdMZXNzV3JvbmcgMi4wJyk7CiAgY29uc3QgdGl0bGUgPSBzdWJ0aXRsZVRleHQgPyBgJHtzdWJ0aXRsZVRleHR9IC0gJHtzaXRlTmFtZX1gIDogc2l0ZU5hbWU7CgogIHJldHVybiA8VXNlckNvbnRleHQuUHJvdmlkZXIgdmFsdWU9e2N1cnJlbnRVc2VyfT4KICAgIDxkaXYgY2xhc3NOYW1lPXtjbGFzc05hbWVzKCJ3cmFwcGVyIiwgeydhbGlnbm1lbnQtZm9ydW0nOiBnZXRTZXR0aW5nKCdBbGlnbm1lbnRGb3J1bScsIGZhbHNlKX0pIH0gaWQ9IndyYXBwZXIiPgogICAgICA8VjBNdWlUaGVtZVByb3ZpZGVyIG11aVRoZW1lPXtjdXN0b21pemVUaGVtZShjdXJyZW50Um91dGUsIHVzZXJBZ2VudCwgcGFyYW1zLCBjbGllbnQuc3RvcmUpfT4KICAgICAgICA8ZGl2PgogICAgICAgICAgPENzc0Jhc2VsaW5lIC8+CiAgICAgICAgICA8SGVsbWV0PgogICAgICAgICAgICA8dGl0bGU+e3RpdGxlfTwvdGl0bGU+CiAgICAgICAgICAgIDxsaW5rIG5hbWU9Im1hdGVyaWFsLWljb25zIiByZWw9InN0eWxlc2hlZXQiIHR5cGU9InRleHQvY3NzIiBocmVmPSJodHRwczovL2ZvbnRzLmdvb2dsZWFwaXMuY29tL2ljb24/ZmFtaWx5PU1hdGVyaWFsK0ljb25zIi8+CiAgICAgICAgICAgIDxsaW5rIG5hbWU9InJlYWN0LWluc3RhbnRzZWFyY2giIHJlbD0ic3R5bGVzaGVldCIgdHlwZT0idGV4dC9jc3MiIGhyZWY9Imh0dHBzOi8vdW5wa2cuY29tL3JlYWN0LWluc3RhbnRzZWFyY2gtdGhlbWUtYWxnb2xpYUA0LjAuMC9zdHlsZS5taW4uY3NzIi8+CiAgICAgICAgICAgIDxsaW5rIHJlbD0ic3R5bGVzaGVldCIgaHJlZj0iaHR0cHM6Ly9mb250cy5nb29nbGVhcGlzLmNvbS9jc3M/ZmFtaWx5PVJvYm90bzozMDAsNDAwLDUwMCIvPgogICAgICAgICAgICB7IHRoZW1lLnR5cG9ncmFwaHkuZm9udERvd25sb2FkcyAmJgogICAgICAgICAgICAgICAgdGhlbWUudHlwb2dyYXBoeS5mb250RG93bmxvYWRzLm1hcCgKICAgICAgICAgICAgICAgICAgKHVybCk9PjxsaW5rIHJlbD0ic3R5bGVzaGVldCIga2V5PXtgZm9udC0ke3VybH1gfSBocmVmPXt1cmx9Lz4KICAgICAgICAgICAgICAgICkKICAgICAgICAgICAgfQogICAgICAgICAgICA8bWV0YSBodHRwRXF1aXY9IkFjY2VwdC1DSCIgY29udGVudD0iRFBSLCBWaWV3cG9ydC1XaWR0aCwgV2lkdGgiLz4KICAgICAgICAgICAgey8qVE9ETyBJcyB0aGlzIG1vcmUgZWZmaWNpZW50IHRoYW4gc2VwYXJhdGUgZG93bmxvYWRzPyBQcm9icyBub3QsIHJpZ2h0PyovfQogICAgICAgICAgICB7Lyo8bGluayBocmVmPSJodHRwczovL2ZvbnRzLmdvb2dsZWFwaXMuY29tL2Nzcz9mYW1pbHk9Um9ib3RvOjMwMCw0MDAsNTAwfE1lcnJpd2VhdGhlcjo0MDAsNzAwfFJhbGV3YXk6NTAwLDcwMCZhbXA7c3Vic2V0PWxhdGluLWV4dCIgcmVsPSJzdHlsZXNoZWV0IiAvPiovfQogICAgICAgICAgPC9IZWxtZXQ+CiAgICAgICAgICB7LyogRGVhY3RpdmF0aW5nIHRoaXMgY29tcG9uZW50IGZvciBub3csIHNpbmNlIGl0J3MgYmVlbiBjYXVzaW5nIGEgZ29vZCBhbW91bnQgb2YgYnVncy4gVE9ETzogRml4IHRoaXMgcHJvcGVybHkgKi99CiAgICAgICAgICB7Lyoge2N1cnJlbnRVc2VyID8gPENvbXBvbmVudHMuVXNlcnNQcm9maWxlQ2hlY2sgY3VycmVudFVzZXI9e2N1cnJlbnRVc2VyfSBkb2N1bWVudElkPXtjdXJyZW50VXNlci5faWR9IC8+IDogbnVsbH0gKi99Cj09PT09PT0KPj4+Pj4+PiBtYXN0ZXIK</text>
       </register>
       <register name="u" type="4">
         <text>uu</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgeyAhY3VycmVudFVzZXIgPwogICAgICAgIDxDb21wb25lbnRzLlNlY3Rpb24KICAgICAgICAgIHRpdGxlPSJSZWNvbW1lbmRlZCBSZWFkaW5nIgogICAgICAgICAgdGl0bGVMaW5rPSIvbGlicmFyeSIKICAgICAgICAgIHRpdGxlQ29tcG9uZW50PSB7PENvbXBvbmVudHMuU2VjdGlvblN1YnRpdGxlPgogICAgICAgICAgICA8TGluayB0bz0iL2xpYnJhcnkiPlNlcXVlbmNlIExpYnJhcnk8L0xpbms+CiAgICAgICAgICA8L0NvbXBvbmVudHMuU2VjdGlvblN1YnRpdGxlPn0KICAgICAgICA+CiAgICAgICAgICA8Q29tcG9uZW50cy5Db2xsZWN0aW9uc0NhcmRDb250YWluZXI+CiAgICAgICAgICAgIDxDb21wb25lbnRzLkJpZ0NvbGxlY3Rpb25zQ2FyZCBjb2xsZWN0aW9uPXt0ZXN0Q29sbGVjdGlvbnNbMF19IHVybD17Ii9yYXRpb25hbGl0eSJ9Lz4KICAgICAgICAgICAgPENvbXBvbmVudHMuQ29sbGVjdGlvbnNDYXJkIGNvbGxlY3Rpb249e3Rlc3RDb2xsZWN0aW9uc1sxXX0gdXJsPXsiL2NvZGV4In0vPgogICAgICAgICAgICA8Q29tcG9uZW50cy5Db2xsZWN0aW9uc0NhcmQgY29sbGVjdGlvbj17dGVzdENvbGxlY3Rpb25zWzJdfSB1cmw9eyIvaHBtb3IifS8+CiAgICAgICAgICA8L0NvbXBvbmVudHMuQ29sbGVjdGlvbnNDYXJkQ29udGFpbmVyPgogICAgICAgIDwvQ29tcG9uZW50cy5TZWN0aW9uPiA6CiAgICAgICAgPGRpdj4KICAgICAgICAgIDxDb21wb25lbnRzLlNlY3Rpb24KICAgICAgICAgICAgdGl0bGU9IlJlY29tbWVuZGVkIFNlcXVlbmNlcyIKICAgICAgICAgICAgdGl0bGVMaW5rPSIvbGlicmFyeSIKICAgICAgICAgICAgdGl0bGVDb21wb25lbnQ9IHs8Q29tcG9uZW50cy5TZWN0aW9uU3VidGl0bGUgdG89Ii9saWJyYXJ5Ij4KICAgICAgICAgICAgICA8TGluayB0bz0iL2xpYnJhcnkiPlNlcXVlbmNlIExpYnJhcnk8L0xpbms+CiAgICAgICAgICAgIDwvQ29tcG9uZW50cy5TZWN0aW9uU3VidGl0bGU+fQogICAgICAgICAgPgogICAgICAgICAgICA8Q29tcG9uZW50cy5TZXF1ZW5jZXNHcmlkV3JhcHBlcgogICAgICAgICAgICAgIHRlcm1zPXt7dmlldzoiY3VyYXRlZFNlcXVlbmNlcyIsIGxpbWl0OjN9fQogICAgICAgICAgICAgIHNob3dBdXRob3I9e3RydWV9CiAgICAgICAgICAgICAgc2hvd0xvYWRNb3JlPXtmYWxzZX0KICAgICAgICAgICAgICBjbGFzc05hbWU9e2NsYXNzZXMuZnJvbnRwYWdlU2VxdWVuY2VzR3JpZExpc3R9CiAgICAgICAgICAgIC8+CiAgICAgICAgICA8L0NvbXBvbmVudHMuU2VjdGlvbj4KICAgICAgICAgIDxDb21wb25lbnRzLlNlY3Rpb24gdGl0bGU9IkN1cmF0ZWQgQ29udGVudCI+CiAgICAgICAgICAgIDxDb21wb25lbnRzLlBvc3RzTGlzdCB0ZXJtcz17Y3VyYXRlZFBvc3RzVGVybXN9IHNob3dIZWFkZXI9e2ZhbHNlfSBzaG93TG9hZE1vcmU9e2ZhbHNlfS8+CiAgICAgICAgICA8L0NvbXBvbmVudHMuU2VjdGlvbj4KICAgICAgICA8L2Rpdj59Cg==</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECj09PT09PT0KPj4+Pj4+PiBtYXN0ZXIK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">PT09PT09PQogICAgICB7ICFjdXJyZW50VXNlciA/CiAgICAgICAgPENvbXBvbmVudHMuU2VjdGlvbgogICAgICAgICAgdGl0bGU9IlJlY29tbWVuZGVkIFJlYWRpbmciCiAgICAgICAgICB0aXRsZUxpbms9Ii9saWJyYXJ5IgogICAgICAgICAgdGl0bGVDb21wb25lbnQ9IHs8Q29tcG9uZW50cy5TZWN0aW9uU3VidGl0bGU+CiAgICAgICAgICAgIDxMaW5rIHRvPSIvbGlicmFyeSI+U2VxdWVuY2UgTGlicmFyeTwvTGluaz4KICAgICAgICAgIDwvQ29tcG9uZW50cy5TZWN0aW9uU3VidGl0bGU+fQogICAgICAgID4KICAgICAgICAgIDxDb21wb25lbnRzLkNvbGxlY3Rpb25zQ2FyZENvbnRhaW5lcj4KICAgICAgICAgICAgPENvbXBvbmVudHMuQmlnQ29sbGVjdGlvbnNDYXJkIGNvbGxlY3Rpb249e3Rlc3RDb2xsZWN0aW9uc1swXX0gdXJsPXsiL3JhdGlvbmFsaXR5In0vPgogICAgICAgICAgICA8Q29tcG9uZW50cy5Db2xsZWN0aW9uc0NhcmQgY29sbGVjdGlvbj17dGVzdENvbGxlY3Rpb25zWzFdfSB1cmw9eyIvY29kZXgifS8+CiAgICAgICAgICAgIDxDb21wb25lbnRzLkNvbGxlY3Rpb25zQ2FyZCBjb2xsZWN0aW9uPXt0ZXN0Q29sbGVjdGlvbnNbMl19IHVybD17Ii9ocG1vciJ9Lz4KICAgICAgICAgIDwvQ29tcG9uZW50cy5Db2xsZWN0aW9uc0NhcmRDb250YWluZXI+CiAgICAgICAgPC9Db21wb25lbnRzLlNlY3Rpb24+IDoKICAgICAgICA8ZGl2PgogICAgICAgICAgPENvbXBvbmVudHMuU2VjdGlvbgogICAgICAgICAgICB0aXRsZT0iUmVjb21tZW5kZWQgU2VxdWVuY2VzIgogICAgICAgICAgICB0aXRsZUxpbms9Ii9saWJyYXJ5IgogICAgICAgICAgICB0aXRsZUNvbXBvbmVudD0gezxDb21wb25lbnRzLlNlY3Rpb25TdWJ0aXRsZSB0bz0iL2xpYnJhcnkiPgogICAgICAgICAgICAgIDxMaW5rIHRvPSIvbGlicmFyeSI+U2VxdWVuY2UgTGlicmFyeTwvTGluaz4KICAgICAgICAgICAgPC9Db21wb25lbnRzLlNlY3Rpb25TdWJ0aXRsZT59CiAgICAgICAgICA+CiAgICAgICAgICAgIDxDb21wb25lbnRzLlNlcXVlbmNlc0dyaWRXcmFwcGVyCiAgICAgICAgICAgICAgdGVybXM9e3t2aWV3OiJjdXJhdGVkU2VxdWVuY2VzIiwgbGltaXQ6M319CiAgICAgICAgICAgICAgc2hvd0F1dGhvcj17dHJ1ZX0KICAgICAgICAgICAgICBzaG93TG9hZE1vcmU9e2ZhbHNlfQogICAgICAgICAgICAgIGNsYXNzTmFtZT17Y2xhc3Nlcy5mcm9udHBhZ2VTZXF1ZW5jZXNHcmlkTGlzdH0KICAgICAgICAgICAgLz4KICAgICAgICAgIDwvQ29tcG9uZW50cy5TZWN0aW9uPgo=</text>
+        <text encoding="base64">ICAgICAgeyAhY3VycmVudFVzZXIgPwogICAgICAgIDxDb21wb25lbnRzLlNlY3Rpb24KICAgICAgICAgIHRpdGxlPSJSZWNvbW1lbmRlZCBSZWFkaW5nIgogICAgICAgICAgdGl0bGVMaW5rPSIvbGlicmFyeSIKICAgICAgICAgIHRpdGxlQ29tcG9uZW50PSB7PENvbXBvbmVudHMuU2VjdGlvblN1YnRpdGxlPgogICAgICAgICAgICA8TGluayB0bz0iL2xpYnJhcnkiPlNlcXVlbmNlIExpYnJhcnk8L0xpbms+CiAgICAgICAgICA8L0NvbXBvbmVudHMuU2VjdGlvblN1YnRpdGxlPn0KICAgICAgICA+CiAgICAgICAgICA8Q29tcG9uZW50cy5Db2xsZWN0aW9uc0NhcmRDb250YWluZXI+CiAgICAgICAgICAgIDxDb21wb25lbnRzLkJpZ0NvbGxlY3Rpb25zQ2FyZCBjb2xsZWN0aW9uPXt0ZXN0Q29sbGVjdGlvbnNbMF19IHVybD17Ii9yYXRpb25hbGl0eSJ9Lz4KICAgICAgICAgICAgPENvbXBvbmVudHMuQ29sbGVjdGlvbnNDYXJkIGNvbGxlY3Rpb249e3Rlc3RDb2xsZWN0aW9uc1sxXX0gdXJsPXsiL2NvZGV4In0vPgogICAgICAgICAgICA8Q29tcG9uZW50cy5Db2xsZWN0aW9uc0NhcmQgY29sbGVjdGlvbj17dGVzdENvbGxlY3Rpb25zWzJdfSB1cmw9eyIvaHBtb3IifS8+CiAgICAgICAgICA8L0NvbXBvbmVudHMuQ29sbGVjdGlvbnNDYXJkQ29udGFpbmVyPgogICAgICAgIDwvQ29tcG9uZW50cy5TZWN0aW9uPiA6CiAgICAgICAgPGRpdj4KICAgICAgICAgIDxDb21wb25lbnRzLlNlY3Rpb24KICAgICAgICAgICAgdGl0bGU9IlJlY29tbWVuZGVkIFNlcXVlbmNlcyIKICAgICAgICAgICAgdGl0bGVMaW5rPSIvbGlicmFyeSIKICAgICAgICAgICAgdGl0bGVDb21wb25lbnQ9IHs8Q29tcG9uZW50cy5TZWN0aW9uU3VidGl0bGUgdG89Ii9saWJyYXJ5Ij4KICAgICAgICAgICAgICA8TGluayB0bz0iL2xpYnJhcnkiPlNlcXVlbmNlIExpYnJhcnk8L0xpbms+CiAgICAgICAgICAgIDwvQ29tcG9uZW50cy5TZWN0aW9uU3VidGl0bGU+fQogICAgICAgICAgPgogICAgICAgICAgICA8Q29tcG9uZW50cy5TZXF1ZW5jZXNHcmlkV3JhcHBlcgogICAgICAgICAgICAgIHRlcm1zPXt7dmlldzoiY3VyYXRlZFNlcXVlbmNlcyIsIGxpbWl0OjN9fQogICAgICAgICAgICAgIHNob3dBdXRob3I9e3RydWV9CiAgICAgICAgICAgICAgc2hvd0xvYWRNb3JlPXtmYWxzZX0KICAgICAgICAgICAgICBjbGFzc05hbWU9e2NsYXNzZXMuZnJvbnRwYWdlU2VxdWVuY2VzR3JpZExpc3R9CiAgICAgICAgICAgIC8+CiAgICAgICAgICA8L0NvbXBvbmVudHMuU2VjdGlvbj4KICAgICAgICAgIDxDb21wb25lbnRzLlNlY3Rpb24gdGl0bGU9IkN1cmF0ZWQgQ29udGVudCI+CiAgICAgICAgICAgIDxDb21wb25lbnRzLlBvc3RzTGlzdCB0ZXJtcz17Y3VyYXRlZFBvc3RzVGVybXN9IHNob3dIZWFkZXI9e2ZhbHNlfSBzaG93TG9hZE1vcmU9e2ZhbHNlfS8+CiAgICAgICAgICA8L0NvbXBvbmVudHMuU2VjdGlvbj4KICAgICAgICA8L2Rpdj59Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cgo+Pj4+Pj4+IG1hc3Rlcgo=</text>
+        <text encoding="base64">PT09PT09PQogICAgICB7ICFjdXJyZW50VXNlciA/CiAgICAgICAgPENvbXBvbmVudHMuU2VjdGlvbgogICAgICAgICAgdGl0bGU9IlJlY29tbWVuZGVkIFJlYWRpbmciCiAgICAgICAgICB0aXRsZUxpbms9Ii9saWJyYXJ5IgogICAgICAgICAgdGl0bGVDb21wb25lbnQ9IHs8Q29tcG9uZW50cy5TZWN0aW9uU3VidGl0bGU+CiAgICAgICAgICAgIDxMaW5rIHRvPSIvbGlicmFyeSI+U2VxdWVuY2UgTGlicmFyeTwvTGluaz4KICAgICAgICAgIDwvQ29tcG9uZW50cy5TZWN0aW9uU3VidGl0bGU+fQogICAgICAgID4KICAgICAgICAgIDxDb21wb25lbnRzLkNvbGxlY3Rpb25zQ2FyZENvbnRhaW5lcj4KICAgICAgICAgICAgPENvbXBvbmVudHMuQmlnQ29sbGVjdGlvbnNDYXJkIGNvbGxlY3Rpb249e3Rlc3RDb2xsZWN0aW9uc1swXX0gdXJsPXsiL3JhdGlvbmFsaXR5In0vPgogICAgICAgICAgICA8Q29tcG9uZW50cy5Db2xsZWN0aW9uc0NhcmQgY29sbGVjdGlvbj17dGVzdENvbGxlY3Rpb25zWzFdfSB1cmw9eyIvY29kZXgifS8+CiAgICAgICAgICAgIDxDb21wb25lbnRzLkNvbGxlY3Rpb25zQ2FyZCBjb2xsZWN0aW9uPXt0ZXN0Q29sbGVjdGlvbnNbMl19IHVybD17Ii9ocG1vciJ9Lz4KICAgICAgICAgIDwvQ29tcG9uZW50cy5Db2xsZWN0aW9uc0NhcmRDb250YWluZXI+CiAgICAgICAgPC9Db21wb25lbnRzLlNlY3Rpb24+IDoKICAgICAgICA8ZGl2PgogICAgICAgICAgPENvbXBvbmVudHMuU2VjdGlvbgogICAgICAgICAgICB0aXRsZT0iUmVjb21tZW5kZWQgU2VxdWVuY2VzIgogICAgICAgICAgICB0aXRsZUxpbms9Ii9saWJyYXJ5IgogICAgICAgICAgICB0aXRsZUNvbXBvbmVudD0gezxDb21wb25lbnRzLlNlY3Rpb25TdWJ0aXRsZSB0bz0iL2xpYnJhcnkiPgogICAgICAgICAgICAgIDxMaW5rIHRvPSIvbGlicmFyeSI+U2VxdWVuY2UgTGlicmFyeTwvTGluaz4KICAgICAgICAgICAgPC9Db21wb25lbnRzLlNlY3Rpb25TdWJ0aXRsZT59CiAgICAgICAgICA+CiAgICAgICAgICAgIDxDb21wb25lbnRzLlNlcXVlbmNlc0dyaWRXcmFwcGVyCiAgICAgICAgICAgICAgdGVybXM9e3t2aWV3OiJjdXJhdGVkU2VxdWVuY2VzIiwgbGltaXQ6M319CiAgICAgICAgICAgICAgc2hvd0F1dGhvcj17dHJ1ZX0KICAgICAgICAgICAgICBzaG93TG9hZE1vcmU9e2ZhbHNlfQogICAgICAgICAgICAgIGNsYXNzTmFtZT17Y2xhc3Nlcy5mcm9udHBhZ2VTZXF1ZW5jZXNHcmlkTGlzdH0KICAgICAgICAgICAgLz4KICAgICAgICAgIDwvQ29tcG9uZW50cy5TZWN0aW9uPgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Y29uc3QgSG9tZSA9IChwcm9wcywgY29udGV4dCkgPT4gewogIGNvbnN0IHsgY3VycmVudFVzZXIsIHJvdXRlciB9ID0gcHJvcHM7Cg==</text>
+        <text encoding="base64">Cgo+Pj4+Pj4+IG1hc3Rlcgo=</text>
       </register>
       <register name=":" type="4">
-        <text>action NextSplitter</text>
+        <text>w!</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxtYWtlRWRpdGFibGVPcHRpb25zXD4=</last-search>
+      <last-search encoding="base64">XDxzZXRTdGF0ZVw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxtYWtlRWRpdGFibGVPcHRpb25zXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxzZXRTdGF0ZVw+</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute encoding="base64">XDxpbnNlcnRVc2VyXD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -1193,18 +1210,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxnZXRGZWVCYW5rVHJhbnNhY3Rpb25cPg==</entry>
-        <entry encoding="base64">XDxMT0dfTEVWRUxfQ09OU09MRVw+</entry>
-        <entry encoding="base64">XDxwcm9ncmFtXD4=</entry>
-        <entry encoding="base64">XDxzdGFydERhdGVcPg==</entry>
-        <entry encoding="base64">XDxTVEFSVF9EQVRFXD4=</entry>
-        <entry encoding="base64">XDxCQU5ORURfVEFHU1w+</entry>
-        <entry encoding="base64">XDxrZXlzXD4=</entry>
-        <entry>TODO</entry>
-        <entry encoding="base64">XDxhd2FpdFw+</entry>
-        <entry encoding="base64">XDxQb3N0c1w+</entry>
-        <entry>semi</entry>
-        <entry encoding="base64">XDxpbmFjdGl2ZVw+</entry>
         <entry encoding="base64">XDxiYXRjaFVwZGF0ZVNjb3JlXD4=</entry>
         <entry>vulc</entry>
         <entry>Vuln</entry>
@@ -1213,6 +1218,18 @@
         <entry>lw</entry>
         <entry encoding="base64">XDxtYWtlRWRpdGFibGVcPg==</entry>
         <entry encoding="base64">XDxtYWtlRWRpdGFibGVPcHRpb25zXD4=</entry>
+        <entry encoding="base64">XDxlbmFibGVNYXJrRG93bkVkaXRvclw+</entry>
+        <entry encoding="base64">XDx1c2VNYXJrZG93blBvc3RFZGl0b3JcPg==</entry>
+        <entry encoding="base64">XDxFZGl0b3JcPg==</entry>
+        <entry>editorform</entry>
+        <entry>contai</entry>
+        <entry encoding="base64">XDxFZGl0b3JGb3JtXD4=</entry>
+        <entry encoding="base64">XDxFZGl0b3JGb3JtQ29udGFpbmVyXD4=</entry>
+        <entry encoding="base64">XDxEcmFmdEpTRWRpdG9yXD4=</entry>
+        <entry encoding="base64">XDxlZGl0b3JcPg==</entry>
+        <entry encoding="base64">XDxnZXRVc2VyRGVmYXVsdEVkaXRvclw+</entry>
+        <entry encoding="base64">XDxoYW5kbGVFZGl0b3JPdmVycmlkZVw+</entry>
+        <entry encoding="base64">XDxzZXRTdGF0ZVw+</entry>
       </history-search>
       <history-cmd>
         <entry>$s/&quot;/'/g</entry>
@@ -1231,10 +1248,10 @@
         <entry encoding="base64">JzwsJz5hY3Rpb24gR290b0ZpbGU=</entry>
         <entry>action Refactorings.QuickListPopupAction</entry>
         <entry>action GotoFile</entry>
-        <entry>w!</entry>
         <entry>action FindInPath</entry>
-        <entry>action GotoDeclaration</entry>
         <entry>action NextSplitter</entry>
+        <entry>action GotoDeclaration</entry>
+        <entry>w!</entry>
       </history-cmd>
       <history-expr />
       <history-input />
