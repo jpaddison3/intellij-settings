@@ -330,11 +330,11 @@
         <mark key="." line="22" column="33" />
         <mark key="^" line="22" column="33" />
       </file>
-      <file name="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/common/Home.jsx" timestamp="1540578167680">
+      <file name="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/common/Home.jsx" timestamp="1540580052086">
         <mark key="'" line="60" column="0" />
-        <mark key="[" line="48" column="0" />
-        <mark key="]" line="48" column="0" />
-        <mark key="." line="48" column="0" />
+        <mark key="[" line="16" column="29" />
+        <mark key="]" line="16" column="29" />
+        <mark key="." line="16" column="29" />
         <mark key="^" line="48" column="1" />
       </file>
       <file name="$USER_HOME$/Documents/cea/Forum/Forum/packages/lesswrong/server/cors.js" timestamp="1532733805226">
@@ -652,13 +652,6 @@
         <mark key="]" line="3" column="90" />
         <mark key="." line="3" column="90" />
         <mark key="^" line="3" column="90" />
-      </file>
-      <file name="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/lib/routes.js" timestamp="1540427350513">
-        <mark key="'" line="39" column="97" />
-        <mark key="[" line="39" column="81" />
-        <mark key="]" line="39" column="98" />
-        <mark key="." line="39" column="81" />
-        <mark key="^" line="39" column="80" />
       </file>
       <file name="$USER_HOME$/Desktop/zap-data.txt" timestamp="1536331632426">
         <mark key="[" line="62" column="0" />
@@ -1098,7 +1091,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">PC9kaXY+</text>
+        <text>, classes</text>
       </register>
       <register name="/" type="4">
         <text>console</text>
@@ -1147,7 +1140,7 @@
         <text encoding="base64">Pj4+Pj4+PiBTdGFzaGVkIGNoYW5nZXMK</text>
       </register>
       <register name=":" type="4">
-        <text>action NextSplitter</text>
+        <text>w!</text>
       </register>
     </registers>
     <search>
@@ -1201,8 +1194,8 @@
         <entry>action GotoFile</entry>
         <entry>action CommentByLineComment</entry>
         <entry>action FindInPath</entry>
-        <entry>w!</entry>
         <entry>action NextSplitter</entry>
+        <entry>w!</entry>
       </history-cmd>
       <history-expr />
       <history-input />
