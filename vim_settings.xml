@@ -724,6 +724,10 @@
         <mark key="^" line="13" column="4" />
         <mark key="." line="13" column="4" />
       </file>
+      <file name="$USER_HOME$/.aws/credentials" timestamp="1541201730893">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="2" column="63" />
+      </file>
       <file name="$USER_HOME$/cea/aletheia/app/components/PaymentForm/sideEffects.js" timestamp="1537282989221">
         <mark key="'" line="21" column="16" />
         <mark key="[" line="30" column="1" />
@@ -1063,8 +1067,8 @@
       <register name="/" type="4">
         <text>fund</text>
       </register>
-      <register name="0" type="4">
-        <text>mongodb://admin:sLMU8bDGXDYmGFP9Nf9@ds153851.mlab.com:53851/ea-forum-staging</text>
+      <register name="0" type="2">
+        <text encoding="base64">W2RlZmF1bHRdCmF3c19hY2Nlc3Nfa2V5X2lkID0gQUtJQUlUQ1RUT001NlpBUDRTUUEKYXdzX3NlY3JldF9hY2Nlc3Nfa2V5ID0gckZ0aFRpRkJtZlhXYXNqOWxza0dobGxUS3Z4VDlENmtKa3ZsM3h3dQo=</text>
       </register>
       <register name="p" type="4">
         <keys>
