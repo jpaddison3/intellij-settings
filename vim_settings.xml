@@ -153,10 +153,10 @@
         <mark key="^" line="52" column="33" />
         <mark key="." line="47" column="8" />
       </file>
-      <file name="$USER_HOME$/cea/Forum/Forum/settings-staging.json" timestamp="1540409520777">
+      <file name="$USER_HOME$/cea/Forum/Forum/settings-staging.json" timestamp="1541192483545">
         <mark key="'" line="57" column="12" />
-        <mark key="[" line="47" column="3" />
-        <mark key="]" line="47" column="8" />
+        <mark key="[" line="51" column="20" />
+        <mark key="]" line="51" column="95" />
         <mark key="." line="47" column="8" />
         <mark key="^" line="47" column="8" />
       </file>
@@ -1064,7 +1064,7 @@
         <text>fund</text>
       </register>
       <register name="0" type="4">
-        <text>leftPadZeros</text>
+        <text>mongodb://admin:sLMU8bDGXDYmGFP9Nf9@ds153851.mlab.com:53851/ea-forum-staging</text>
       </register>
       <register name="p" type="4">
         <keys>
@@ -1107,7 +1107,7 @@
         <text encoding="base64">Pj4+Pj4+PiBwYXJlbnQgb2YgNDkxMzU3YzU2Li4uIGFsbG93IGxvZ2dlZC1vdXQgYWNjZXNzCg==</text>
       </register>
       <register name=":" type="4">
-        <text>action GotoDeclaration</text>
+        <text>action GotoFile</text>
       </register>
     </registers>
     <search>
@@ -1160,9 +1160,9 @@
         <entry>w!</entry>
         <entry>action NextSplitter</entry>
         <entry>action SplitVertically</entry>
-        <entry>action GotoFile</entry>
         <entry>action FindInPath</entry>
         <entry>action GotoDeclaration</entry>
+        <entry>action GotoFile</entry>
       </history-cmd>
       <history-expr />
       <history-input />
