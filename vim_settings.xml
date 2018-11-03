@@ -1114,7 +1114,7 @@
         <text encoding="base64">Pj4+Pj4+PiBwYXJlbnQgb2YgNDkxMzU3YzU2Li4uIGFsbG93IGxvZ2dlZC1vdXQgYWNjZXNzCg==</text>
       </register>
       <register name=":" type="4">
-        <text>action GotoFile</text>
+        <text>action FindInPath</text>
       </register>
     </registers>
     <search>
@@ -1168,8 +1168,8 @@
         <entry>action CommentByLineComment</entry>
         <entry>action GotoDeclaration</entry>
         <entry>w!</entry>
-        <entry>action FindInPath</entry>
         <entry>action GotoFile</entry>
+        <entry>action FindInPath</entry>
       </history-cmd>
       <history-expr />
       <history-input />
