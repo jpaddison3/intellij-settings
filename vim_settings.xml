@@ -315,7 +315,7 @@
         <mark key="^" line="22" column="33" />
       </file>
       <file name="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/common/Home.jsx" timestamp="1540580052086">
-        <mark key="'" line="50" column="0" />
+        <mark key="'" line="60" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/cea/Forum/Forum/packages/lesswrong/server/cors.js" timestamp="1532733805226">
         <mark key="[" line="0" column="46" />
@@ -576,11 +576,11 @@
         <mark key="." line="0" column="6" />
       </file>
       <file name="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/Layout.jsx" timestamp="1540429354712">
-        <mark key="'" line="122" column="0" />
-        <mark key="[" line="122" column="2" />
-        <mark key="]" line="122" column="2" />
-        <mark key="." line="122" column="2" />
-        <mark key="^" line="122" column="2" />
+        <mark key="'" line="150" column="0" />
+        <mark key="[" line="150" column="2" />
+        <mark key="]" line="150" column="2" />
+        <mark key="." line="150" column="2" />
+        <mark key="^" line="150" column="2" />
       </file>
       <file name="$USER_HOME$/cea/Forum/Forum/settings-prod.json" timestamp="1540409219660">
         <mark key="[" line="47" column="3" />
@@ -707,6 +707,13 @@
         <mark key="." line="18" column="0" />
         <mark key="^" line="9" column="48" />
       </file>
+      <file name="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" timestamp="1541287173293">
+        <mark key="'" line="84" column="52" />
+        <mark key="[" line="20" column="9" />
+        <mark key="]" line="20" column="17" />
+        <mark key="." line="20" column="17" />
+        <mark key="^" line="20" column="17" />
+      </file>
       <file name="$USER_HOME$/cea/effectivealtruism-org-static/.gitignore" timestamp="1535721542430">
         <mark key="[" line="12" column="5" />
         <mark key="]" line="13" column="4" />
@@ -777,8 +784,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="189" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" />
-      <jump line="163" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" />
       <jump line="154" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" />
       <jump line="135" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" />
       <jump line="123" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" />
@@ -877,6 +882,8 @@
       <jump line="56" column="33" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/lib/routes.js" />
       <jump line="59" column="37" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/lib/routes.js" />
       <jump line="62" column="37" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/lib/routes.js" />
+      <jump line="109" column="80" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" />
+      <jump line="84" column="52" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1047,10 +1054,10 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">QUxMIA==</text>
+        <text>migration_admin</text>
       </register>
       <register name="/" type="4">
-        <text>about</text>
+        <text>no banned</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICBhd2FpdCBiYXRjaFVwZGF0ZVNjb3JlKHtjb2xsZWN0aW9uOiBQb3N0cywgZm9yY2VVcGRhdGU6IHRydWV9KQo=</text>
@@ -1066,43 +1073,43 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">PT09PT09PQogICAgPE1lbnVJdGVtIG9uQ2xpY2s9e2hhbmRsZUNsb3NlfSBjb250YWluZXJFbGVtZW50PXs8TGluayB0bz17Ii9kYWlseSJ9Lz59PiBQT1NUUyBCWSBEQVRFIDwvTWVudUl0ZW0+CiAgICA8TWVudUl0ZW0gb25DbGljaz17aGFuZGxlQ2xvc2V9IGNvbnRhaW5lckVsZW1lbnQ9ezxMaW5rIHRvPXsiL21ldGEifS8+fT4gTUVUQSA8L01lbnVJdGVtPgogICAgPE1lbnVJdGVtIG9uQ2xpY2s9e2hhbmRsZUNsb3NlfSBjb250YWluZXJFbGVtZW50PXs8TGluayB0bz17Ii9hYm91dCJ9Lz59PiBBQk9VVCAgPC9NZW51SXRlbT4KPj4+Pj4+PiBtYXN0ZXIK</text>
+        <text encoding="base64">ICAvLyBjb25zb2xlLmxvZygncmVzdWx0IHN0YXJ0ID4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+JykKICAvLyBjb25zb2xlLmxvZyhyZXN1bHQpCiAgLy8gY29uc29sZS5sb2coJ3Jlc3VsdCBlbmQgPDw8PDw8PDw8PDw8PDw8PDw8PDw8PDw8PDw8PDw8PDw8PDw8PDw8PDw8PDw8PCcpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
+        <text encoding="base64">ICAvLyBjb25zb2xlLmxvZygnaHRtbEJvZHkgc3RhcnQgPj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4nKQogIC8vIGNvbnNvbGUubG9nKCQuaHRtbCgpKQogIC8vIGNvbnNvbGUubG9nKCdodG1sQm9keSBlbmQgPDw8PDw8PDw8PDw8PDw8PDw8PDw8PDw8PDw8PDw8PDw8PDw8PDw8PDw8PDw8PCcpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGFkZFJvdXRlKHtuYW1lOidhYm91dCcsICAgcGF0aDonL2Fib3V0JywgY29tcG9uZW50TmFtZTogJ1Bvc3RzU2luZ2xlUm91dGUnLCBfaWQ6IkFORGJFS3FiZER1QkNRQW5NIn0pOwo=</text>
+        <text encoding="base64">ICAvLyBwcm9jZXNzZWRQb3N0cyA9IHByb2Nlc3NlZFBvc3RzLmZpbHRlcihwb3N0ID0+IHBvc3Quc2x1ZyA9PT0gJ2FuLWFyZ3VtZW50LWZvci13aHktdGhlLWZ1dHVyZS1tYXktYmUtZ29vZCcpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">YWRkUm91dGUoe25hbWU6J2Fib3V0JywgICBwYXRoOicvYWJvdXQnLCBjb21wb25lbnROYW1lOiAnUG9zdHNTaW5nbGVSb3V0ZScsIF9pZDoiWTJpcWhqQUhiWE5rd2NTOEYifSk7Cg==</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ2VycicsIGVycikKICAgICAgY29uc29sZS5sb2coImR1cGxpY2F0ZSIsIHVzZXIpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
+        <text encoding="base64">PT09PT09PQogICAgPE1lbnVJdGVtIG9uQ2xpY2s9e2hhbmRsZUNsb3NlfSBjb250YWluZXJFbGVtZW50PXs8TGluayB0bz17Ii9kYWlseSJ9Lz59PiBQT1NUUyBCWSBEQVRFIDwvTWVudUl0ZW0+CiAgICA8TWVudUl0ZW0gb25DbGljaz17aGFuZGxlQ2xvc2V9IGNvbnRhaW5lckVsZW1lbnQ9ezxMaW5rIHRvPXsiL21ldGEifS8+fT4gTUVUQSA8L01lbnVJdGVtPgogICAgPE1lbnVJdGVtIG9uQ2xpY2s9e2hhbmRsZUNsb3NlfSBjb250YWluZXJFbGVtZW50PXs8TGluayB0bz17Ii9hYm91dCJ9Lz59PiBBQk9VVCAgPC9NZW51SXRlbT4KPj4+Pj4+PiBtYXN0ZXIK</text>
       </register>
       <register name="u" type="4">
         <text>uu</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cj09PT09PT0KPj4+Pj4+PiBtYXN0ZXIK</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBhd2FpdCBiYXRjaFVwZGF0ZVNjb3JlKENvbW1lbnRzLCBmYWxzZSwgdHJ1ZSkK</text>
+        <text encoding="base64">ICAgIGFkZFJvdXRlKHtuYW1lOidhYm91dCcsICAgcGF0aDonL2Fib3V0JywgY29tcG9uZW50TmFtZTogJ1Bvc3RzU2luZ2xlUm91dGUnLCBfaWQ6IkFORGJFS3FiZER1QkNRQW5NIn0pOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBsZXQgbWVyZ2VkR3JvdXBlZFBvc3REYXRhID0gZGVlcE9iamVjdEV4dGVuZChmbGF0dGVuZWRQb3N0RGF0YSwgZmxhdHRlbmVkUG9zdE1ldGFEYXRhKTsKICAvLyBtZXJnZWRHcm91cGVkUG9zdERhdGEgPSBwaWNrQnkobWVyZ2VkR3JvdXBlZFBvc3REYXRhLCBwb3N0ID0+IHBvc3QudXJsID09PSAnL2VhLzFjbC9hbl9hcmd1bWVudF9mb3Jfd2h5X3RoZV9mdXR1cmVfbWF5X2JlX2dvb2QvJykKICBjb25zb2xlLmxvZygnbWVyZ2VkR1BEIGtleXMgbGVuZ3RoJywgT2JqZWN0LmtleXMobWVyZ2VkR3JvdXBlZFBvc3REYXRhKS5sZW5ndGgpCg==</text>
+        <text encoding="base64">YWRkUm91dGUoe25hbWU6J2Fib3V0JywgICBwYXRoOicvYWJvdXQnLCBjb21wb25lbnROYW1lOiAnUG9zdHNTaW5nbGVSb3V0ZScsIF9pZDoiWTJpcWhqQUhiWE5rd2NTOEYifSk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZygnZmlyc3QgZ3JvdXBlZCB1c2VycyBkYXRhJywgbWVyZ2VkR3JvdXBlZFVzZXJEYXRhWzBdKQogIGxldCBwcm9jZXNzZWRVc2VycyA9IF8ubWFwKG1lcmdlZEdyb3VwZWRVc2VyRGF0YSwgbGVnYWN5VXNlclRvTmV3VXNlcik7CiAgLy8gcHJvY2Vzc2VkVXNlcnMgPSBwcm9jZXNzZWRVc2Vycy5maWx0ZXIodXNlciA9PiB1c2VyLmVtYWlsID09PSAnam9zaGhqYWNvYnNvbkBnbWFpbC5jb20nKQogIC8vIGNvbnNvbGUubG9nKCdwcm9jZXNzZWQgdXNlcnMnLCBwcm9jZXNzZWRVc2VycykKICBwcm9jZXNzZWRVc2VycyA9IHByb2Nlc3NlZFVzZXJzLnNsaWNlKDMwKQo=</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
       </register>
       <register name=":" type="4">
         <text>w!</text>
       </register>
     </registers>
     <search>
-      <last-search>about</last-search>
+      <last-search>no banned</last-search>
       <last-offset />
-      <last-pattern>about</last-pattern>
+      <last-pattern>no banned</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute encoding="base64">XDxpbnNlcnRVc2VyXD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -1110,8 +1117,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDx1c2VyXD4=</entry>
-        <entry>apollo</entry>
         <entry encoding="base64">XDxYZXJvTmV3XD4=</entry>
         <entry encoding="base64">XDxERU1PX01PREVcPg==</entry>
         <entry encoding="base64">XDx4ZXJvSW5zdGFuY2VPcHRzXD4=</entry>
@@ -1130,6 +1135,8 @@
         <entry>commentID</entry>
         <entry>convertToL</entry>
         <entry>about</entry>
+        <entry>err'</entry>
+        <entry>no banned</entry>
       </history-search>
       <history-cmd>
         <entry>s/&quot;/'/g</entry>
@@ -1147,10 +1154,10 @@
         <entry>95</entry>
         <entry>action SplitVertically</entry>
         <entry>action GotoDeclaration</entry>
-        <entry>action FindInPath</entry>
-        <entry>action CommentByLineComment</entry>
         <entry>action NextSplitter</entry>
         <entry>action GotoFile</entry>
+        <entry>action FindInPath</entry>
+        <entry>action CommentByLineComment</entry>
         <entry>w!</entry>
       </history-cmd>
       <history-expr />
