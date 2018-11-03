@@ -724,6 +724,11 @@
         <mark key="." line="18" column="0" />
         <mark key="^" line="9" column="48" />
       </file>
+      <file name="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" timestamp="1541280890507">
+        <mark key="'" line="352" column="15" />
+        <mark key="[" line="121" column="29" />
+        <mark key="]" line="121" column="52" />
+      </file>
       <file name="$USER_HOME$/cea/effectivealtruism-org-static/.gitignore" timestamp="1535721542430">
         <mark key="[" line="12" column="5" />
         <mark key="]" line="13" column="4" />
@@ -792,16 +797,8 @@
         <mark key="^" line="25" column="13" />
         <mark key="." line="25" column="13" />
       </file>
-      <file name="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/common/AllComments.jsx" timestamp="1541274953691" />
     </filemarks>
     <jumps>
-      <jump line="116" column="0" filename="$USER_HOME$/cea/parfit/services/payments/workers/xero-balance-sheets.js" />
-      <jump line="97" column="0" filename="$USER_HOME$/cea/parfit/services/payments/workers/xero-balance-sheets.js" />
-      <jump line="92" column="0" filename="$USER_HOME$/cea/parfit/services/payments/workers/xero-balance-sheets.js" />
-      <jump line="86" column="0" filename="$USER_HOME$/cea/parfit/services/payments/workers/xero-balance-sheets.js" />
-      <jump line="44" column="0" filename="$USER_HOME$/cea/parfit/services/payments/workers/xero-balance-sheets.js" />
-      <jump line="50" column="0" filename="$USER_HOME$/cea/parfit/services/payments/workers/xero-balance-sheets.js" />
-      <jump line="42" column="6" filename="$USER_HOME$/cea/parfit/services/payments/workers/xero-balance-sheets.js" />
       <jump line="137" column="1" filename="$USER_HOME$/cea/parfit/services/payments/workers/xero-fee-fix.js" />
       <jump line="25" column="42" filename="$USER_HOME$/cea/parfit/services/payments/workers/xero-fee-fix.js" />
       <jump line="48" column="7" filename="$USER_HOME$/cea/parfit/services/payments/workers/xero-fee-fix.js" />
@@ -830,7 +827,6 @@
       <jump line="5" column="12" filename="$USER_HOME$/cea/aletheia/app/containers/Funds/selectors.js" />
       <jump line="3" column="26" filename="$USER_HOME$/cea/aletheia/app/containers/Funds/selectors.js" />
       <jump line="23" column="28" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" />
-      <jump line="350" column="15" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" />
       <jump line="153" column="1" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" />
       <jump line="351" column="15" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" />
       <jump line="360" column="4" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" />
@@ -865,8 +861,6 @@
       <jump line="349" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" />
       <jump line="335" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" />
       <jump line="325" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" />
-      <jump line="263" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" />
-      <jump line="235" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" />
       <jump line="211" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" />
       <jump line="189" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" />
       <jump line="163" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" />
@@ -895,6 +889,16 @@
       <jump line="55" column="42" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/comments/CommentsViews.jsx" />
       <jump line="95" column="2" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/comments/CommentsViews.jsx" />
       <jump line="60" column="88" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/comments/CommentsViews.jsx" />
+      <jump line="97" column="49" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" />
+      <jump line="401" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" />
+      <jump line="400" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" />
+      <jump line="375" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" />
+      <jump line="350" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" />
+      <jump line="336" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" />
+      <jump line="326" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" />
+      <jump line="263" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" />
+      <jump line="235" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" />
+      <jump line="352" column="15" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1068,10 +1072,10 @@
         <text>.isRequired</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxwb3N0XD4=</text>
+        <text>html</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">aWYoY291bnQgPiAwKSBidWxrLmV4ZWN1dGUoKTsK</text>
+      <register name="0" type="4">
+        <text encoding="base64">IHRhYmxlIHRvIGF2b2lkIHJlcGVhdGVk</text>
       </register>
       <register name="p" type="4">
         <keys>
@@ -1118,9 +1122,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxwb3N0XD4=</last-search>
+      <last-search>html</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxwb3N0XD4=</last-pattern>
+      <last-pattern>html</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute encoding="base64">XDxpbnNlcnRVc2VyXD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -1144,10 +1148,10 @@
         <entry>TODO</entry>
         <entry encoding="base64">XDxsZWZ0UGFkWmVyb3NcPg==</entry>
         <entry>fund</entry>
-        <entry>html</entry>
         <entry>console.log</entry>
         <entry encoding="base64">XDxkZWxldGVkXD4=</entry>
         <entry encoding="base64">XDxwb3N0XD4=</entry>
+        <entry>html</entry>
       </history-search>
       <history-cmd>
         <entry>s/&quot;/'/g</entry>
