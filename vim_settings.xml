@@ -718,6 +718,13 @@
         <mark key="." line="18" column="0" />
         <mark key="^" line="9" column="48" />
       </file>
+      <file name="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" timestamp="1541207659258">
+        <mark key="'" line="350" column="15" />
+        <mark key="[" line="17" column="9" />
+        <mark key="]" line="17" column="17" />
+        <mark key="." line="17" column="17" />
+        <mark key="^" line="17" column="17" />
+      </file>
       <file name="$USER_HOME$/cea/effectivealtruism-org-static/.gitignore" timestamp="1535721542430">
         <mark key="[" line="12" column="5" />
         <mark key="]" line="13" column="4" />
@@ -792,8 +799,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="83" column="42" filename="$USER_HOME$/cea/parfit/services/payments/workers/xero-fee-fix.js" />
-      <jump line="20" column="5" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/comments/CommentsItem/MoveToAlignmentMenuItem.jsx" />
       <jump line="57" column="2" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/comments/CommentsItem/MoveToAlignmentMenuItem.jsx" />
       <jump line="158" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/common/Home.jsx" />
       <jump line="0" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/common/Home.jsx" />
@@ -892,6 +897,8 @@
       <jump line="67" column="8" filename="$USER_HOME$/cea/aletheia/app/containers/Funds/selectors.js" />
       <jump line="5" column="12" filename="$USER_HOME$/cea/aletheia/app/containers/Funds/selectors.js" />
       <jump line="3" column="26" filename="$USER_HOME$/cea/aletheia/app/containers/Funds/selectors.js" />
+      <jump line="23" column="28" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" />
+      <jump line="350" column="15" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1062,10 +1069,10 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IyA=</text>
+        <text>migration_admin</text>
       </register>
       <register name="/" type="4">
-        <text>fund</text>
+        <text>html</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">W2RlZmF1bHRdCmF3c19hY2Nlc3Nfa2V5X2lkID0gQUtJQUlUQ1RUT001NlpBUDRTUUEKYXdzX3NlY3JldF9hY2Nlc3Nfa2V5ID0gckZ0aFRpRkJtZlhXYXNqOWxza0dobGxUS3Z4VDlENmtKa3ZsM3h3dQo=</text>
@@ -1111,13 +1118,13 @@
         <text encoding="base64">Pj4+Pj4+PiBwYXJlbnQgb2YgNDkxMzU3YzU2Li4uIGFsbG93IGxvZ2dlZC1vdXQgYWNjZXNzCg==</text>
       </register>
       <register name=":" type="4">
-        <text>action GotoFile</text>
+        <text>action FindInPath</text>
       </register>
     </registers>
     <search>
-      <last-search>fund</last-search>
+      <last-search>html</last-search>
       <last-offset />
-      <last-pattern>fund</last-pattern>
+      <last-pattern>html</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute encoding="base64">XDxpbnNlcnRVc2VyXD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -1125,7 +1132,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxFZGl0b3JGb3JtQ29udGFpbmVyXD4=</entry>
         <entry encoding="base64">XDxEcmFmdEpTRWRpdG9yXD4=</entry>
         <entry encoding="base64">XDxlZGl0b3JcPg==</entry>
         <entry encoding="base64">XDxnZXRVc2VyRGVmYXVsdEVkaXRvclw+</entry>
@@ -1145,6 +1151,7 @@
         <entry>TODO</entry>
         <entry encoding="base64">XDxsZWZ0UGFkWmVyb3NcPg==</entry>
         <entry>fund</entry>
+        <entry>html</entry>
       </history-search>
       <history-cmd>
         <entry>s/&quot;/'/g</entry>
@@ -1161,12 +1168,12 @@
         <entry>action Refactorings.QuickListPopupAction</entry>
         <entry>95</entry>
         <entry>action CommentByLineComment</entry>
-        <entry>w!</entry>
         <entry>action NextSplitter</entry>
         <entry>action SplitVertically</entry>
-        <entry>action FindInPath</entry>
         <entry>action GotoDeclaration</entry>
         <entry>action GotoFile</entry>
+        <entry>w!</entry>
+        <entry>action FindInPath</entry>
       </history-cmd>
       <history-expr />
       <history-input />
