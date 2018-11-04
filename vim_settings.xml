@@ -707,11 +707,11 @@
         <mark key="." line="18" column="0" />
         <mark key="^" line="9" column="48" />
       </file>
-      <file name="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" timestamp="1541287173293">
-        <mark key="'" line="84" column="52" />
-        <mark key="[" line="20" column="9" />
-        <mark key="]" line="20" column="17" />
-        <mark key="." line="20" column="17" />
+      <file name="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" timestamp="1541289511180">
+        <mark key="'" line="84" column="0" />
+        <mark key="[" line="84" column="0" />
+        <mark key="]" line="84" column="0" />
+        <mark key="." line="84" column="0" />
         <mark key="^" line="20" column="17" />
       </file>
       <file name="$USER_HOME$/cea/effectivealtruism-org-static/.gitignore" timestamp="1535721542430">
@@ -784,7 +784,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="154" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" />
       <jump line="135" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" />
       <jump line="123" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" />
       <jump line="120" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" />
@@ -883,7 +882,8 @@
       <jump line="59" column="37" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/lib/routes.js" />
       <jump line="62" column="37" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/lib/routes.js" />
       <jump line="109" column="80" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" />
-      <jump line="84" column="52" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" />
+      <jump line="20" column="17" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" />
+      <jump line="84" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1057,7 +1057,7 @@
         <text>migration_admin</text>
       </register>
       <register name="/" type="4">
-        <text>no banned</text>
+        <text>useful for deb</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICBhd2FpdCBiYXRjaFVwZGF0ZVNjb3JlKHtjb2xsZWN0aW9uOiBQb3N0cywgZm9yY2VVcGRhdGU6IHRydWV9KQo=</text>
@@ -1073,43 +1073,43 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAvLyBjb25zb2xlLmxvZygncmVzdWx0IHN0YXJ0ID4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+JykKICAvLyBjb25zb2xlLmxvZyhyZXN1bHQpCiAgLy8gY29uc29sZS5sb2coJ3Jlc3VsdCBlbmQgPDw8PDw8PDw8PDw8PDw8PDw8PDw8PDw8PDw8PDw8PDw8PDw8PDw8PDw8PDw8PCcpCg==</text>
+        <text encoding="base64">ICAvLyBVc2VmdWwgZm9yIGRlYnVnZ2luZywgYnV0IHRvbyBtdWNoIGZvciBldmVyeSBkYXkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAvLyBjb25zb2xlLmxvZygnaHRtbEJvZHkgc3RhcnQgPj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4nKQogIC8vIGNvbnNvbGUubG9nKCQuaHRtbCgpKQogIC8vIGNvbnNvbGUubG9nKCdodG1sQm9keSBlbmQgPDw8PDw8PDw8PDw8PDw8PDw8PDw8PDw8PDw8PDw8PDw8PDw8PDw8PDw8PDw8PCcpCg==</text>
+        <text encoding="base64">ICAvLyBjb25zb2xlLmxvZygncmVzdWx0IHN0YXJ0ID4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+JykKICAvLyBjb25zb2xlLmxvZyhyZXN1bHQpCiAgLy8gY29uc29sZS5sb2coJ3Jlc3VsdCBlbmQgPDw8PDw8PDw8PDw8PDw8PDw8PDw8PDw8PDw8PDw8PDw8PDw8PDw8PDw8PDw8PCcpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAvLyBwcm9jZXNzZWRQb3N0cyA9IHByb2Nlc3NlZFBvc3RzLmZpbHRlcihwb3N0ID0+IHBvc3Quc2x1ZyA9PT0gJ2FuLWFyZ3VtZW50LWZvci13aHktdGhlLWZ1dHVyZS1tYXktYmUtZ29vZCcpCg==</text>
+        <text encoding="base64">ICAvLyBjb25zb2xlLmxvZygnaHRtbEJvZHkgc3RhcnQgPj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4nKQogIC8vIGNvbnNvbGUubG9nKCQuaHRtbCgpKQogIC8vIGNvbnNvbGUubG9nKCdodG1sQm9keSBlbmQgPDw8PDw8PDw8PDw8PDw8PDw8PDw8PDw8PDw8PDw8PDw8PDw8PDw8PDw8PDw8PCcpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ2VycicsIGVycikKICAgICAgY29uc29sZS5sb2coImR1cGxpY2F0ZSIsIHVzZXIpOwo=</text>
+        <text encoding="base64">ICAvLyBwcm9jZXNzZWRQb3N0cyA9IHByb2Nlc3NlZFBvc3RzLmZpbHRlcihwb3N0ID0+IHBvc3Quc2x1ZyA9PT0gJ2FuLWFyZ3VtZW50LWZvci13aHktdGhlLWZ1dHVyZS1tYXktYmUtZ29vZCcpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">PT09PT09PQogICAgPE1lbnVJdGVtIG9uQ2xpY2s9e2hhbmRsZUNsb3NlfSBjb250YWluZXJFbGVtZW50PXs8TGluayB0bz17Ii9kYWlseSJ9Lz59PiBQT1NUUyBCWSBEQVRFIDwvTWVudUl0ZW0+CiAgICA8TWVudUl0ZW0gb25DbGljaz17aGFuZGxlQ2xvc2V9IGNvbnRhaW5lckVsZW1lbnQ9ezxMaW5rIHRvPXsiL21ldGEifS8+fT4gTUVUQSA8L01lbnVJdGVtPgogICAgPE1lbnVJdGVtIG9uQ2xpY2s9e2hhbmRsZUNsb3NlfSBjb250YWluZXJFbGVtZW50PXs8TGluayB0bz17Ii9hYm91dCJ9Lz59PiBBQk9VVCAgPC9NZW51SXRlbT4KPj4+Pj4+PiBtYXN0ZXIK</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ2VycicsIGVycikKICAgICAgY29uc29sZS5sb2coImR1cGxpY2F0ZSIsIHVzZXIpOwo=</text>
       </register>
       <register name="u" type="4">
         <text>uu</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
+        <text encoding="base64">PT09PT09PQogICAgPE1lbnVJdGVtIG9uQ2xpY2s9e2hhbmRsZUNsb3NlfSBjb250YWluZXJFbGVtZW50PXs8TGluayB0bz17Ii9kYWlseSJ9Lz59PiBQT1NUUyBCWSBEQVRFIDwvTWVudUl0ZW0+CiAgICA8TWVudUl0ZW0gb25DbGljaz17aGFuZGxlQ2xvc2V9IGNvbnRhaW5lckVsZW1lbnQ9ezxMaW5rIHRvPXsiL21ldGEifS8+fT4gTUVUQSA8L01lbnVJdGVtPgogICAgPE1lbnVJdGVtIG9uQ2xpY2s9e2hhbmRsZUNsb3NlfSBjb250YWluZXJFbGVtZW50PXs8TGluayB0bz17Ii9hYm91dCJ9Lz59PiBBQk9VVCAgPC9NZW51SXRlbT4KPj4+Pj4+PiBtYXN0ZXIK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGFkZFJvdXRlKHtuYW1lOidhYm91dCcsICAgcGF0aDonL2Fib3V0JywgY29tcG9uZW50TmFtZTogJ1Bvc3RzU2luZ2xlUm91dGUnLCBfaWQ6IkFORGJFS3FiZER1QkNRQW5NIn0pOwo=</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">YWRkUm91dGUoe25hbWU6J2Fib3V0JywgICBwYXRoOicvYWJvdXQnLCBjb21wb25lbnROYW1lOiAnUG9zdHNTaW5nbGVSb3V0ZScsIF9pZDoiWTJpcWhqQUhiWE5rd2NTOEYifSk7Cg==</text>
-      </register>
-      <register name="9" type="2">
         <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIGFkZFJvdXRlKHtuYW1lOidhYm91dCcsICAgcGF0aDonL2Fib3V0JywgY29tcG9uZW50TmFtZTogJ1Bvc3RzU2luZ2xlUm91dGUnLCBfaWQ6IkFORGJFS3FiZER1QkNRQW5NIn0pOwo=</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">YWRkUm91dGUoe25hbWU6J2Fib3V0JywgICBwYXRoOicvYWJvdXQnLCBjb21wb25lbnROYW1lOiAnUG9zdHNTaW5nbGVSb3V0ZScsIF9pZDoiWTJpcWhqQUhiWE5rd2NTOEYifSk7Cg==</text>
+      </register>
       <register name=":" type="4">
-        <text>w!</text>
+        <text>action FindInPath</text>
       </register>
     </registers>
     <search>
-      <last-search>no banned</last-search>
+      <last-search>useful for deb</last-search>
       <last-offset />
-      <last-pattern>no banned</last-pattern>
+      <last-pattern>useful for deb</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute encoding="base64">XDxpbnNlcnRVc2VyXD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -1117,7 +1117,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxYZXJvTmV3XD4=</entry>
         <entry encoding="base64">XDxERU1PX01PREVcPg==</entry>
         <entry encoding="base64">XDx4ZXJvSW5zdGFuY2VPcHRzXD4=</entry>
         <entry encoding="base64">XDxpbml0UmVjaXBpZW50XD4=</entry>
@@ -1137,10 +1136,9 @@
         <entry>about</entry>
         <entry>err'</entry>
         <entry>no banned</entry>
+        <entry>useful for deb</entry>
       </history-search>
       <history-cmd>
-        <entry>s/&quot;/'/g</entry>
-        <entry>%s/&quot;/'/g</entry>
         <entry encoding="base64">JzwsJz5zLyIvJy9n</entry>
         <entry>.action NextSplitter</entry>
         <entry>source ~/.ideavimrc</entry>
@@ -1153,12 +1151,14 @@
         <entry>action Refactorings.QuickListPopupAction</entry>
         <entry>95</entry>
         <entry>action SplitVertically</entry>
-        <entry>action GotoDeclaration</entry>
         <entry>action NextSplitter</entry>
         <entry>action GotoFile</entry>
-        <entry>action FindInPath</entry>
         <entry>action CommentByLineComment</entry>
         <entry>w!</entry>
+        <entry>120</entry>
+        <entry>327</entry>
+        <entry>action GotoDeclaration</entry>
+        <entry>action FindInPath</entry>
       </history-cmd>
       <history-expr />
       <history-input />
