@@ -707,14 +707,14 @@
         <mark key="." line="18" column="0" />
         <mark key="^" line="9" column="48" />
       </file>
-      <file name="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" timestamp="1541291492826">
+      <file name="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" timestamp="1541355610262">
         <mark key="a" line="123" column="8" />
         <mark key="c" line="273" column="6" />
         <mark key="'" line="324" column="0" />
-        <mark key="[" line="277" column="2" />
-        <mark key="]" line="277" column="7" />
-        <mark key="." line="277" column="7" />
-        <mark key="^" line="277" column="7" />
+        <mark key="[" line="279" column="33" />
+        <mark key="]" line="279" column="33" />
+        <mark key="." line="279" column="33" />
+        <mark key="^" line="279" column="32" />
       </file>
       <file name="$USER_HOME$/cea/effectivealtruism-org-static/.gitignore" timestamp="1535721542430">
         <mark key="[" line="12" column="5" />
@@ -1056,7 +1056,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">a2V5cyA=</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx1cHNlcnRQcm9jZXNzZWRDb21tZW50c1w+</text>
@@ -1105,7 +1105,7 @@
         <text encoding="base64">PT09PT09PQogICAgPE1lbnVJdGVtIG9uQ2xpY2s9e2hhbmRsZUNsb3NlfSBjb250YWluZXJFbGVtZW50PXs8TGluayB0bz17Ii9kYWlseSJ9Lz59PiBQT1NUUyBCWSBEQVRFIDwvTWVudUl0ZW0+CiAgICA8TWVudUl0ZW0gb25DbGljaz17aGFuZGxlQ2xvc2V9IGNvbnRhaW5lckVsZW1lbnQ9ezxMaW5rIHRvPXsiL21ldGEifS8+fT4gTUVUQSA8L01lbnVJdGVtPgogICAgPE1lbnVJdGVtIG9uQ2xpY2s9e2hhbmRsZUNsb3NlfSBjb250YWluZXJFbGVtZW50PXs8TGluayB0bz17Ii9hYm91dCJ9Lz59PiBBQk9VVCAgPC9NZW51SXRlbT4KPj4+Pj4+PiBtYXN0ZXIK</text>
       </register>
       <register name=":" type="4">
-        <text>action GotoDeclaration</text>
+        <text>action CommentByLineComment</text>
       </register>
     </registers>
     <search>
@@ -1158,9 +1158,9 @@
         <entry>action FindInPath</entry>
         <entry encoding="base64">JzwsJz5zLyYvfC9n</entry>
         <entry>action Back</entry>
-        <entry>action CommentByLineComment</entry>
-        <entry>w!</entry>
         <entry>action GotoDeclaration</entry>
+        <entry>w!</entry>
+        <entry>action CommentByLineComment</entry>
       </history-cmd>
       <history-expr />
       <history-input />
