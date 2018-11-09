@@ -15,6 +15,10 @@
         <mark key="." line="16" column="45" />
         <mark key="^" line="16" column="45" />
       </file>
+      <file name="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/themes/eaTheme.js" timestamp="1541701659593">
+        <mark key="[" line="33" column="12" />
+        <mark key="]" line="33" column="17" />
+      </file>
       <file name="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/lib/components.js" timestamp="1539206293824">
         <mark key="'" line="33" column="29" />
         <mark key="[" line="50" column="29" />
@@ -115,6 +119,12 @@
         <mark key="^" line="17" column="50" />
         <mark key="." line="16" column="0" />
       </file>
+      <file name="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/posts/PostsPage.jsx" timestamp="1541645895004">
+        <mark key="'" line="336" column="46" />
+        <mark key="[" line="94" column="0" />
+        <mark key="]" line="94" column="0" />
+        <mark key="." line="94" column="0" />
+      </file>
       <file name="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/lib/collections/posts/custom_fields.js" timestamp="1540422471499">
         <mark key="'" line="1030" column="11" />
         <mark key="[" line="414" column="28" />
@@ -162,6 +172,12 @@
         <mark key="^" line="7" column="62" />
         <mark key="." line="7" column="62" />
       </file>
+      <file name="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/cleanup_scripts.js" timestamp="1541738226067">
+        <mark key="[" line="10" column="14" />
+        <mark key="]" line="10" column="17" />
+        <mark key="." line="10" column="17" />
+        <mark key="^" line="10" column="17" />
+      </file>
       <file name="$USER_HOME$/cea/parfit/services/payments/handlers/stripe/helpers.js" timestamp="1537278627571">
         <mark key="'" line="129" column="27" />
         <mark key="[" line="27" column="21" />
@@ -202,13 +218,6 @@
         <mark key="^" line="57" column="1" />
         <mark key="." line="57" column="1" />
       </file>
-      <file name="$USER_HOME$/cea/Forum/Vulcan/packages/vulcan-voting/lib/server/scoring.js" timestamp="1541283267739">
-        <mark key="'" line="73" column="0" />
-        <mark key="[" line="62" column="60" />
-        <mark key="]" line="62" column="67" />
-        <mark key="^" line="62" column="67" />
-        <mark key="." line="62" column="67" />
-      </file>
       <file name="$USER_HOME$/Documents/cea/Forum/Forum/packages/lesswrong/lib/scripts/invites.js" timestamp="1531951242014">
         <mark key="[" line="28" column="38" />
         <mark key="]" line="28" column="59" />
@@ -221,17 +230,23 @@
         <mark key="^" line="2" column="20" />
         <mark key="." line="3" column="20" />
       </file>
-      <file name="$USER_HOME$/cea/Forum/Vulcan/packages/vulcan-voting/lib/server/cron.js" timestamp="1540340695533">
-        <mark key="[" line="23" column="25" />
-        <mark key="]" line="23" column="25" />
-        <mark key="^" line="23" column="25" />
-        <mark key="." line="23" column="25" />
+      <file name="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/scripts/utils.js" timestamp="1541738222805">
+        <mark key="[" line="0" column="83" />
+        <mark key="]" line="0" column="86" />
+        <mark key="^" line="0" column="86" />
+        <mark key="." line="0" column="86" />
       </file>
       <file name="$USER_HOME$/Documents/cea/aletheia/app/helpers/moment.js" timestamp="1533929950796">
         <mark key="[" line="19" column="29" />
         <mark key="]" line="19" column="39" />
         <mark key="^" line="19" column="39" />
         <mark key="." line="19" column="39" />
+      </file>
+      <file name="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server.js" timestamp="1541370926856">
+        <mark key="[" line="3" column="33" />
+        <mark key="]" line="3" column="57" />
+        <mark key="." line="3" column="57" />
+        <mark key="^" line="3" column="57" />
       </file>
       <file name="$USER_HOME$/cea/parfit/services/payments/handlers/xero/index.js" timestamp="1540509011378">
         <mark key="'" line="263" column="0" />
@@ -240,12 +255,19 @@
         <mark key="^" line="12" column="29" />
         <mark key="." line="12" column="29" />
       </file>
+      <file name="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/lib/collections/posts/schema.js" timestamp="1541622036128">
+        <mark key="'" line="24" column="0" />
+      </file>
+      <file name="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/lib/collections/posts/callbacks.js" timestamp="1541622051043">
+        <mark key="'" line="62" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/cea/predictive-altruism/packages/predictive-altruism/lib/components/movies/Question.jsx" timestamp="1531614638857">
         <mark key="[" line="20" column="39" />
         <mark key="]" line="20" column="39" />
         <mark key="^" line="20" column="39" />
         <mark key="." line="20" column="39" />
       </file>
+      <file name="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/posts/cron.js" timestamp="1541457083696" />
       <file name="$USER_HOME$/cea/parfit/migrations/20170105124000_payments_up.sql" timestamp="1537282422361">
         <mark key="'" line="72" column="3" />
         <mark key="[" line="66" column="11" />
@@ -286,20 +308,12 @@
         <mark key="^" line="2" column="19" />
         <mark key="." line="2" column="19" />
       </file>
-      <file name="$USER_HOME$/cea/parfit/services/payments/workers/xero-balance-sheets.js" timestamp="1540598111877">
-        <mark key="a" line="228" column="19" />
-        <mark key="'" line="42" column="6" />
-        <mark key="[" line="154" column="42" />
-        <mark key="]" line="154" column="42" />
-        <mark key="." line="154" column="42" />
-        <mark key="^" line="154" column="42" />
-      </file>
-      <file name="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/scripts/algoliaExport.js" timestamp="1537800049959">
-        <mark key="'" line="40" column="0" />
-        <mark key="[" line="36" column="0" />
-        <mark key="]" line="36" column="0" />
-        <mark key="^" line="16" column="49" />
-        <mark key="." line="36" column="0" />
+      <file name="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/scripts/algoliaExport.js" timestamp="1541659376257">
+        <mark key="'" line="71" column="34" />
+        <mark key="[" line="71" column="60" />
+        <mark key="]" line="71" column="59" />
+        <mark key="^" line="71" column="59" />
+        <mark key="." line="71" column="59" />
       </file>
       <file name="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/sequences/SequencesPage.jsx" timestamp="1534977290664">
         <mark key="'" line="6" column="2" />
@@ -336,11 +350,11 @@
         <mark key="." line="23" column="0" />
         <mark key="^" line="13" column="69" />
       </file>
-      <file name="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/nameDeduplication.js" timestamp="1541282026351">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="44" />
-        <mark key="^" line="0" column="44" />
-        <mark key="." line="0" column="44" />
+      <file name="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/nameDeduplication.js" timestamp="1541732235764">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="26" column="1" />
+        <mark key="^" line="16" column="40" />
+        <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/cea/mandrill-mail-merge/.gitignore" timestamp="1535735614985">
         <mark key="[" line="7" column="12" />
@@ -348,12 +362,25 @@
         <mark key="^" line="8" column="4" />
         <mark key="." line="8" column="4" />
       </file>
+      <file name="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/scripts/legacyKarma_aggregate2.js" timestamp="1541644775578">
+        <mark key="'" line="4" column="0" />
+        <mark key="[" line="76" column="0" />
+        <mark key="]" line="78" column="382" />
+        <mark key="^" line="78" column="382" />
+        <mark key="." line="78" column="382" />
+      </file>
       <file name="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/common/GuestWelcomeScreen.jsx" timestamp="1539206159080">
         <mark key="'" line="27" column="6" />
         <mark key="[" line="29" column="16" />
         <mark key="]" line="29" column="19" />
         <mark key="." line="29" column="19" />
         <mark key="^" line="29" column="19" />
+      </file>
+      <file name="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/lib/collections/posts/parameters.js" timestamp="1541627608852">
+        <mark key="'" line="34" column="25" />
+        <mark key="]" line="57" column="37" />
+        <mark key="^" line="57" column="37" />
+        <mark key="." line="57" column="37" />
       </file>
       <file name="$USER_HOME$/cea/Forum/Forum/sample_settings.json" timestamp="1534980344661">
         <mark key="[" line="28" column="0" />
@@ -420,6 +447,9 @@
         <mark key="." line="2" column="51" />
         <mark key="^" line="2" column="51" />
       </file>
+      <file name="/fragment.js" timestamp="1541738219016">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/sunshineDashboard/SunshineSidebar.jsx" timestamp="1539207953770">
         <mark key="'" line="50" column="12" />
         <mark key="[" line="14" column="8" />
@@ -433,13 +463,21 @@
         <mark key="^" line="25" column="85" />
         <mark key="." line="25" column="85" />
       </file>
-      <file name="$USER_HOME$/cea/Forum/Forum/package.json" timestamp="1541205306236">
-        <mark key="'" line="14" column="100" />
-        <mark key="[" line="15" column="91" />
-        <mark key="]" line="15" column="212" />
-      </file>
       <file name="$USER_HOME$/cea/aletheia/app/containers/Funds/selectors.js" timestamp="1541107173589">
         <mark key="'" line="3" column="26" />
+      </file>
+      <file name="$USER_HOME$/cea/Forum/Vulcan/packages/vulcan-voting/lib/modules/scoring.js" timestamp="1541728122859">
+        <mark key="[" line="2" column="13" />
+        <mark key="]" line="2" column="32" />
+        <mark key="." line="5" column="26" />
+        <mark key="^" line="5" column="26" />
+      </file>
+      <file name="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/force_batch_update_scores.js" timestamp="1541738132488">
+        <mark key="'" line="57" column="3" />
+        <mark key="[" line="79" column="42" />
+        <mark key="]" line="79" column="77" />
+        <mark key="." line="39" column="5" />
+        <mark key="^" line="39" column="5" />
       </file>
       <file name="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/common/NavigationMenu.jsx" timestamp="1541284576052">
         <mark key="[" line="22" column="0" />
@@ -471,6 +509,13 @@
         <mark key="." line="71" column="46" />
         <mark key="^" line="71" column="46" />
       </file>
+      <file name="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/posts/PostsDailyList.jsx" timestamp="1541627579483">
+        <mark key="'" line="112" column="10" />
+        <mark key="[" line="115" column="46" />
+        <mark key="]" line="116" column="37" />
+        <mark key="^" line="116" column="37" />
+        <mark key="." line="116" column="37" />
+      </file>
       <file name="$USER_HOME$/cea/aletheia/app/containers/Admin/AdminPayrollGiving/Providers/index.js" timestamp="1536933707891">
         <mark key="[" line="30" column="18" />
         <mark key="]" line="30" column="31" />
@@ -489,6 +534,12 @@
         <mark key="]" line="4" column="21" />
         <mark key="^" line="4" column="21" />
         <mark key="." line="4" column="21" />
+      </file>
+      <file name="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/posts/PostsDaily.jsx" timestamp="1541645180519">
+        <mark key="[" line="66" column="66" />
+        <mark key="]" line="66" column="65" />
+        <mark key="^" line="66" column="65" />
+        <mark key="." line="66" column="65" />
       </file>
       <file name="$USER_HOME$/cea/mandrill-mail-merge/mmerge-invite/fakecsv.csv" timestamp="1535738046227">
         <mark key="[" line="4" column="60" />
@@ -527,6 +578,9 @@
         <mark key="]" line="26" column="28" />
         <mark key="^" line="26" column="28" />
         <mark key="." line="26" column="28" />
+      </file>
+      <file name="$USER_HOME$/cea/Forum/Vulcan/packages/vulcan-voting/lib/modules/vote.js" timestamp="1541719090463">
+        <mark key="'" line="4" column="27" />
       </file>
       <file name="$USER_HOME$/Documents/cea/Forum/Forum/packages/lesswrong/themes/forumTheme.js" timestamp="1532135174113">
         <mark key="[" line="0" column="0" />
@@ -582,12 +636,14 @@
         <mark key="." line="150" column="2" />
         <mark key="^" line="150" column="2" />
       </file>
+      <file name="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/lib/modules/voting/callbacks.js" timestamp="1541702813467" />
       <file name="$USER_HOME$/cea/Forum/Forum/settings-prod.json" timestamp="1540409219660">
         <mark key="[" line="47" column="3" />
         <mark key="]" line="47" column="8" />
         <mark key="." line="47" column="8" />
         <mark key="^" line="47" column="8" />
       </file>
+      <file name="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/scripts/voteMigration.js" timestamp="1541721384717" />
       <file name="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/lib/collections/bans/callbacks.js" timestamp="1534546121052">
         <mark key="[" line="22" column="3" />
         <mark key="]" line="23" column="44" />
@@ -620,6 +676,7 @@
         <mark key="." line="77" column="46" />
         <mark key="^" line="77" column="46" />
       </file>
+      <file name="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/lib/collections/comments/schema.js" timestamp="1541654311364" />
       <file name="$USER_HOME$/cea/grants-applications/package.json" timestamp="1536579688511">
         <mark key="[" line="16" column="31" />
         <mark key="]" line="16" column="29" />
@@ -675,6 +732,7 @@
         <mark key="." line="106" column="13" />
         <mark key="^" line="106" column="13" />
       </file>
+      <file name="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/lib/collections/posts/permissions.js" timestamp="1541646398568" />
       <file name="$USER_HOME$/cea/parfit/.eslintrc.json" timestamp="1536759419285">
         <mark key="[" line="11" column="5" />
         <mark key="]" line="11" column="5" />
@@ -694,6 +752,10 @@
         <mark key="." line="2" column="19" />
         <mark key="^" line="2" column="19" />
       </file>
+      <file name="$USER_HOME$/cea/Forum/Vulcan/packages/vulcan-i18n-en-us/lib/en_US.js" timestamp="1541468782386">
+        <mark key="[" line="35" column="12" />
+        <mark key="]" line="35" column="17" />
+      </file>
       <file name="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/async/AsyncCommentEditor.jsx" timestamp="1537358276213">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="135" column="0" />
@@ -707,14 +769,16 @@
         <mark key="." line="18" column="0" />
         <mark key="^" line="9" column="48" />
       </file>
-      <file name="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" timestamp="1541355610262">
-        <mark key="a" line="123" column="8" />
-        <mark key="c" line="273" column="6" />
-        <mark key="'" line="324" column="0" />
-        <mark key="[" line="279" column="33" />
-        <mark key="]" line="279" column="33" />
-        <mark key="." line="279" column="33" />
-        <mark key="^" line="279" column="32" />
+      <file name="$USER_HOME$/cea/aletheia/package.json" timestamp="1541460893115" />
+      <file name="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/lib/collections/posts/collection.js" timestamp="1541622062331">
+        <mark key="'" line="47" column="0" />
+      </file>
+      <file name="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" timestamp="1541659484072">
+        <mark key="'" line="341" column="2" />
+        <mark key="[" line="18" column="21" />
+        <mark key="]" line="18" column="21" />
+        <mark key="^" line="18" column="21" />
+        <mark key="." line="18" column="21" />
       </file>
       <file name="$USER_HOME$/cea/effectivealtruism-org-static/.gitignore" timestamp="1535721542430">
         <mark key="[" line="12" column="5" />
@@ -746,6 +810,14 @@
         <mark key="^" line="15" column="0" />
         <mark key="." line="15" column="0" />
       </file>
+      <file name="$USER_HOME$/cea/Forum/Vulcan/packages/vulcan-accounts/imports/ui/components/PasswordOrService.jsx" timestamp="1541468803951" />
+      <file name="$USER_HOME$/cea/Forum/Forum/.meteor/packages" timestamp="1541469342064">
+        <mark key="[" line="33" column="0" />
+        <mark key="]" line="35" column="1" />
+        <mark key="^" line="35" column="1" />
+        <mark key="." line="33" column="1" />
+      </file>
+      <file name="$USER_HOME$/cea/Forum/Vulcan/packages/vulcan-voting/lib/modules/make_voteable.js" timestamp="1541702945287" />
       <file name="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/lib/collections/comments/permissions.js" timestamp="1539724688521">
         <mark key="[" line="7" column="2" />
         <mark key="]" line="8" column="0" />
@@ -784,108 +856,114 @@
         <mark key="^" line="25" column="13" />
         <mark key="." line="25" column="13" />
       </file>
+      <file name="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/common/AllComments.jsx" timestamp="1541370904252" />
+      <file name="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/utils.js" timestamp="1541737388141">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="1" />
+        <mark key="." line="6" column="1" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="70" column="26" filename="$USER_HOME$/cea/Forum/Vulcan/packages/vulcan-voting/lib/server/scoring.js" />
-      <jump line="181" column="0" filename="$USER_HOME$/cea/Forum/Vulcan/packages/vulcan-voting/lib/server/scoring.js" />
-      <jump line="154" column="0" filename="$USER_HOME$/cea/Forum/Vulcan/packages/vulcan-voting/lib/server/scoring.js" />
-      <jump line="73" column="0" filename="$USER_HOME$/cea/Forum/Vulcan/packages/vulcan-voting/lib/server/scoring.js" />
-      <jump line="0" column="15" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/lib/routes.js" />
-      <jump line="67" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/lib/routes.js" />
-      <jump line="58" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/lib/routes.js" />
-      <jump line="56" column="33" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/lib/routes.js" />
-      <jump line="59" column="37" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/lib/routes.js" />
-      <jump line="62" column="37" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/lib/routes.js" />
-      <jump line="109" column="80" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" />
-      <jump line="20" column="17" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" />
-      <jump line="84" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" />
-      <jump line="516" column="21" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" />
-      <jump line="391" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" />
-      <jump line="119" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" />
-      <jump line="122" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" />
-      <jump line="125" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" />
-      <jump line="130" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" />
-      <jump line="138" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" />
-      <jump line="157" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" />
-      <jump line="166" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" />
-      <jump line="193" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" />
-      <jump line="215" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" />
-      <jump line="239" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" />
-      <jump line="267" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" />
-      <jump line="330" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" />
-      <jump line="340" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" />
-      <jump line="354" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" />
-      <jump line="379" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" />
-      <jump line="390" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" />
-      <jump line="468" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" />
-      <jump line="475" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" />
-      <jump line="523" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" />
-      <jump line="522" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" />
-      <jump line="497" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" />
-      <jump line="485" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" />
-      <jump line="490" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" />
-      <jump line="498" column="6" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" />
-      <jump line="293" column="18" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" />
-      <jump line="269" column="17" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" />
-      <jump line="392" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" />
-      <jump line="525" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" />
-      <jump line="524" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" />
-      <jump line="499" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" />
-      <jump line="492" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" />
-      <jump line="487" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" />
-      <jump line="477" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" />
-      <jump line="470" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" />
-      <jump line="393" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" />
-      <jump line="381" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" />
-      <jump line="356" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" />
-      <jump line="342" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" />
-      <jump line="332" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" />
-      <jump line="268" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" />
-      <jump line="240" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" />
-      <jump line="216" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" />
-      <jump line="126" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" />
-      <jump line="123" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" />
-      <jump line="120" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" />
-      <jump line="117" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" />
-      <jump line="114" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" />
-      <jump line="23" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" />
-      <jump line="28" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" />
-      <jump line="34" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" />
-      <jump line="48" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" />
-      <jump line="51" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" />
-      <jump line="54" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" />
-      <jump line="57" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" />
-      <jump line="61" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" />
-      <jump line="64" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" />
-      <jump line="112" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" />
-      <jump line="65" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" />
-      <jump line="87" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" />
-      <jump line="91" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" />
-      <jump line="110" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" />
-      <jump line="94" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" />
-      <jump line="131" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" />
-      <jump line="139" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" />
-      <jump line="158" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" />
-      <jump line="167" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" />
-      <jump line="194" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" />
-      <jump line="83" column="20" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" />
-      <jump line="78" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" />
-      <jump line="81" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" />
-      <jump line="88" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" />
-      <jump line="92" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" />
-      <jump line="95" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" />
-      <jump line="111" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" />
-      <jump line="124" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" />
-      <jump line="121" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" />
-      <jump line="118" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" />
-      <jump line="115" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" />
-      <jump line="113" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" />
-      <jump line="271" column="6" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" />
-      <jump line="303" column="11" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" />
-      <jump line="277" column="42" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" />
-      <jump line="299" column="18" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" />
-      <jump line="322" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" />
+      <jump line="81" column="2" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/lib/collections/posts/views.js" />
+      <jump line="79" column="5" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/lib/collections/posts/views.js" />
+      <jump line="426" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/lib/collections/posts/views.js" />
+      <jump line="28" column="1" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" />
+      <jump line="182" column="12" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/lib/collections/posts/schema.js" />
+      <jump line="457" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/lib/collections/posts/schema.js" />
+      <jump line="456" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/lib/collections/posts/schema.js" />
+      <jump line="454" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/lib/collections/posts/schema.js" />
+      <jump line="442" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/lib/collections/posts/schema.js" />
+      <jump line="430" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/lib/collections/posts/schema.js" />
+      <jump line="418" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/lib/collections/posts/schema.js" />
+      <jump line="404" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/lib/collections/posts/schema.js" />
+      <jump line="391" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/lib/collections/posts/schema.js" />
+      <jump line="379" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/lib/collections/posts/schema.js" />
+      <jump line="367" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/lib/collections/posts/schema.js" />
+      <jump line="355" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/lib/collections/posts/schema.js" />
+      <jump line="343" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/lib/collections/posts/schema.js" />
+      <jump line="341" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/lib/collections/posts/schema.js" />
+      <jump line="332" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/lib/collections/posts/schema.js" />
+      <jump line="24" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/lib/collections/posts/schema.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/lib/collections/posts/callbacks.js" />
+      <jump line="156" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/lib/collections/posts/callbacks.js" />
+      <jump line="155" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/lib/collections/posts/callbacks.js" />
+      <jump line="153" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/lib/collections/posts/callbacks.js" />
+      <jump line="146" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/lib/collections/posts/callbacks.js" />
+      <jump line="144" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/lib/collections/posts/callbacks.js" />
+      <jump line="136" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/lib/collections/posts/callbacks.js" />
+      <jump line="134" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/lib/collections/posts/callbacks.js" />
+      <jump line="126" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/lib/collections/posts/callbacks.js" />
+      <jump line="123" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/lib/collections/posts/callbacks.js" />
+      <jump line="104" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/lib/collections/posts/callbacks.js" />
+      <jump line="92" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/lib/collections/posts/callbacks.js" />
+      <jump line="82" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/lib/collections/posts/callbacks.js" />
+      <jump line="72" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/lib/collections/posts/callbacks.js" />
+      <jump line="62" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/lib/collections/posts/callbacks.js" />
+      <jump line="47" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/lib/collections/posts/collection.js" />
+      <jump line="8" column="2" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/lib/collections/posts/views.js" />
+      <jump line="11" column="9" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/lib/collections/posts/parameters.js" />
+      <jump line="34" column="25" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/lib/collections/posts/parameters.js" />
+      <jump line="234" column="11" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" />
+      <jump line="22" column="1" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/force_batch_update_scores.js" />
+      <jump line="1" column="33" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" />
+      <jump line="49" column="46" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" />
+      <jump line="51" column="12" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" />
+      <jump line="55" column="30" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" />
+      <jump line="58" column="6" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/scripts/algoliaExport.js" />
+      <jump line="104" column="15" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/scripts/legacyKarma_aggregate2.js" />
+      <jump line="4" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/scripts/legacyKarma_aggregate2.js" />
+      <jump line="364" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/posts/PostsPage.jsx" />
+      <jump line="379" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/posts/PostsPage.jsx" />
+      <jump line="387" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/posts/PostsPage.jsx" />
+      <jump line="396" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/posts/PostsPage.jsx" />
+      <jump line="424" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/posts/PostsPage.jsx" />
+      <jump line="404" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/posts/PostsPage.jsx" />
+      <jump line="401" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/posts/PostsPage.jsx" />
+      <jump line="331" column="8" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/posts/PostsPage.jsx" />
+      <jump line="113" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/posts/PostsPage.jsx" />
+      <jump line="122" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/posts/PostsPage.jsx" />
+      <jump line="133" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/posts/PostsPage.jsx" />
+      <jump line="142" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/posts/PostsPage.jsx" />
+      <jump line="149" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/posts/PostsPage.jsx" />
+      <jump line="163" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/posts/PostsPage.jsx" />
+      <jump line="170" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/posts/PostsPage.jsx" />
+      <jump line="184" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/posts/PostsPage.jsx" />
+      <jump line="194" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/posts/PostsPage.jsx" />
+      <jump line="204" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/posts/PostsPage.jsx" />
+      <jump line="214" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/posts/PostsPage.jsx" />
+      <jump line="250" column="19" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/posts/PostsPage.jsx" />
+      <jump line="246" column="16" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/posts/PostsPage.jsx" />
+      <jump line="243" column="21" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/posts/PostsPage.jsx" />
+      <jump line="0" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/posts/PostsPage.jsx" />
+      <jump line="7" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/posts/PostsPage.jsx" />
+      <jump line="21" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/posts/PostsPage.jsx" />
+      <jump line="87" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/posts/PostsPage.jsx" />
+      <jump line="109" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/posts/PostsPage.jsx" />
+      <jump line="3" column="2" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/posts/PostsPage.jsx" />
+      <jump line="336" column="46" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/posts/PostsPage.jsx" />
+      <jump line="8" column="46" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/scripts/algoliaExport.js" />
+      <jump line="38" column="40" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/scripts/algoliaExport.js" />
+      <jump line="18" column="6" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/scripts/algoliaExport.js" />
+      <jump line="26" column="4" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/scripts/algoliaExport.js" />
+      <jump line="27" column="8" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/scripts/algoliaExport.js" />
+      <jump line="48" column="45" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/scripts/algoliaExport.js" />
+      <jump line="24" column="37" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/scripts/algoliaExport.js" />
+      <jump line="29" column="16" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/scripts/algoliaExport.js" />
+      <jump line="71" column="34" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/scripts/algoliaExport.js" />
+      <jump line="341" column="2" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/database_import_new.js" />
+      <jump line="4" column="27" filename="$USER_HOME$/cea/Forum/Vulcan/packages/vulcan-voting/lib/modules/vote.js" />
+      <jump line="21" column="50" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/force_batch_update_scores.js" />
+      <jump line="27" column="4" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/force_batch_update_scores.js" />
+      <jump line="4" column="37" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/force_batch_update_scores.js" />
+      <jump line="29" column="55" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/force_batch_update_scores.js" />
+      <jump line="55" column="6" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/force_batch_update_scores.js" />
+      <jump line="34" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/force_batch_update_scores.js" />
+      <jump line="75" column="16" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/force_batch_update_scores.js" />
+      <jump line="76" column="13" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/force_batch_update_scores.js" />
+      <jump line="77" column="9" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/force_batch_update_scores.js" />
+      <jump line="2" column="16" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/force_batch_update_scores.js" />
+      <jump line="57" column="3" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/database-import/force_batch_update_scores.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -947,7 +1025,7 @@
         <text>.nn</text>
       </register>
       <register name="*" type="4">
-        <text>buggedPresent: , notFound:</text>
+        <text>&quot;&quot;</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -1056,13 +1134,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text encoding="base64">dXBkYXRlRnVuYzog</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx1cHNlcnRQcm9jZXNzZWRDb21tZW50c1w+</text>
+        <text encoding="base64">XDxhbnlCdWxrVXBkYXRlXD4=</text>
       </register>
       <register name="0" type="4">
-        <text>commentData type</text>
+        <text>{username: /_duplicate/}, {limit: 1}</text>
       </register>
       <register name="p" type="4">
         <keys>
@@ -1075,92 +1153,95 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICBVc2Vycy5idWxrV3JpdGUoe30pCg==</text>
+      </register>
+      <register name="q" type="4">
+        <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBjb21tZW50RGF0YSA9IGNvbW1lbnREYXRhW2NvXQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBjb21tZW50RGF0YQo=</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZygnZG9jdSBjdXJzb3InLCBkb2N1bWVudHMpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAvLyBVc2VmdWwgZm9yIGRlYnVnZ2luZywgYnV0IHRvbyBtdWNoIGZvciBldmVyeSBkYXkK</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZygnJykK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAvLyBjb25zb2xlLmxvZygncmVzdWx0IHN0YXJ0ID4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+JykKICAvLyBjb25zb2xlLmxvZyhyZXN1bHQpCiAgLy8gY29uc29sZS5sb2coJ3Jlc3VsdCBlbmQgPDw8PDw8PDw8PDw8PDw8PDw8PDw8PDw8PDw8PDw8PDw8PDw8PDw8PDw8PDw8PCcpCg==</text>
+        <text encoding="base64">ICByZXR1cm4K</text>
       </register>
       <register name="u" type="4">
         <text>uu</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAvLyBjb25zb2xlLmxvZygnaHRtbEJvZHkgc3RhcnQgPj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4nKQogIC8vIGNvbnNvbGUubG9nKCQuaHRtbCgpKQogIC8vIGNvbnNvbGUubG9nKCdodG1sQm9keSBlbmQgPDw8PDw8PDw8PDw8PDw8PDw8PDw8PDw8PDw8PDw8PDw8PDw8PDw8PDw8PDw8PCcpCg==</text>
+        <text encoding="base64">ICBjb25zdCB1c2Vyc2xpc3QgPSBkdXBsaWNhdGVVc2Vyc0N1cnNvci5mZXRjaCgpCiAgY29uc29sZS5sb2coJ3VzZXJzTGlzdCcsIHVzZXJzbGlzdCkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAvLyBwcm9jZXNzZWRQb3N0cyA9IHByb2Nlc3NlZFBvc3RzLmZpbHRlcihwb3N0ID0+IHBvc3Quc2x1ZyA9PT0gJ2FuLWFyZ3VtZW50LWZvci13aHktdGhlLWZ1dHVyZS1tYXktYmUtZ29vZCcpCg==</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZygnZHVwbGljYXRlVXNlcnMnKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ2VycicsIGVycikKICAgICAgY29uc29sZS5sb2coImR1cGxpY2F0ZSIsIHVzZXIpOwo=</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZygnJykK</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">PT09PT09PQogICAgPE1lbnVJdGVtIG9uQ2xpY2s9e2hhbmRsZUNsb3NlfSBjb250YWluZXJFbGVtZW50PXs8TGluayB0bz17Ii9kYWlseSJ9Lz59PiBQT1NUUyBCWSBEQVRFIDwvTWVudUl0ZW0+CiAgICA8TWVudUl0ZW0gb25DbGljaz17aGFuZGxlQ2xvc2V9IGNvbnRhaW5lckVsZW1lbnQ9ezxMaW5rIHRvPXsiL21ldGEifS8+fT4gTUVUQSA8L01lbnVJdGVtPgogICAgPE1lbnVJdGVtIG9uQ2xpY2s9e2hhbmRsZUNsb3NlfSBjb250YWluZXJFbGVtZW50PXs8TGluayB0bz17Ii9hYm91dCJ9Lz59PiBBQk9VVCAgPC9NZW51SXRlbT4KPj4+Pj4+PiBtYXN0ZXIK</text>
+      <register name="9" type="4">
+        <text>&quot;&quot;</text>
       </register>
       <register name=":" type="4">
-        <text>action CommentByLineComment</text>
+        <text>action NextSplitter</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDx1cHNlcnRQcm9jZXNzZWRDb21tZW50c1w+</last-search>
+      <last-search encoding="base64">XDxhbnlCdWxrVXBkYXRlXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx1cHNlcnRQcm9jZXNzZWRDb21tZW50c1w+</last-pattern>
-      <last-replace>|</last-replace>
-      <last-substitute encoding="base64">Jg==</last-substitute>
+      <last-pattern encoding="base64">XDxhbnlCdWxrVXBkYXRlXD4=</last-pattern>
+      <last-replace>main</last-replace>
+      <last-substitute>lesswrong</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>console</entry>
-        <entry encoding="base64">XDxwcm9ncmFtXD4=</entry>
-        <entry>TODO</entry>
-        <entry encoding="base64">XDxsZWZ0UGFkWmVyb3NcPg==</entry>
-        <entry>fund</entry>
-        <entry encoding="base64">XDxkZWxldGVkXD4=</entry>
-        <entry encoding="base64">XDxwb3N0XD4=</entry>
-        <entry>html</entry>
-        <entry>console.log</entry>
-        <entry>upserted</entry>
-        <entry>commentdata</entry>
-        <entry>commentID</entry>
-        <entry>convertToL</entry>
-        <entry>about</entry>
-        <entry>err'</entry>
-        <entry>no banned</entry>
-        <entry>useful for deb</entry>
-        <entry encoding="base64">Jg==</entry>
-        <entry encoding="base64">XDxsZWdhY3lDb21tZW50VG9OZXdDb21tZW50XD4=</entry>
-        <entry encoding="base64">XDx1cHNlcnRQcm9jZXNzZWRDb21tZW50c1w+</entry>
+        <entry>Posts</entry>
+        <entry encoding="base64">XDxJTkFDVElWSVRZX1RIUkVTSE9MRF9EQVlTXD4=</entry>
+        <entry>url</entry>
+        <entry>commentList</entry>
+        <entry encoding="base64">XDxjb25zb2xlXD4=</entry>
+        <entry>;</entry>
+        <entry encoding="base64">XDxwaWNrQnlcPg==</entry>
+        <entry>status</entry>
+        <entry>daily</entry>
+        <entry>upsertpo</entry>
+        <entry encoding="base64">XDxVc2Vyc1w+</entry>
+        <entry>search</entry>
+        <entry>algolia</entry>
+        <entry>lesswrong</entry>
+        <entry encoding="base64">XDxkb2N1bWVudFw+</entry>
+        <entry encoding="base64">XDx3aXRoRG9jdW1lbnRcPg==</entry>
+        <entry encoding="base64">XDxpbXBvcnRDb3VudFw+</entry>
+        <entry encoding="base64">XDxyZWNhbGN1bGF0ZUJhc2VTY29yZVw+</entry>
+        <entry encoding="base64">XDx1cGRhdGVCYXNlU2NvcmVcPg==</entry>
+        <entry encoding="base64">XDxhbnlCdWxrVXBkYXRlXD4=</entry>
       </history-search>
       <history-cmd>
-        <entry>source ~/.ideavimrc</entry>
-        <entry>action RenameFile</entry>
-        <entry>action NewFile</entry>
-        <entry encoding="base64">JzwsJz5hY3Rpb24gTmV4dFNwbGl0dGVy</entry>
-        <entry encoding="base64">JzwsJz53IQ==</entry>
-        <entry>action ReopenClosedTab</entry>
-        <entry encoding="base64">JzwsJz5hY3Rpb24gR290b0ZpbGU=</entry>
-        <entry>action Refactorings.QuickListPopupAction</entry>
-        <entry>95</entry>
         <entry>action SplitVertically</entry>
-        <entry>action NextSplitter</entry>
-        <entry>action GotoFile</entry>
         <entry>120</entry>
         <entry>327</entry>
-        <entry>action FindInPath</entry>
         <entry encoding="base64">JzwsJz5zLyYvfC9n</entry>
+        <entry>action NewFile</entry>
+        <entry encoding="base64">JzwsJz5zL1Bvc3RzL0NvbW1lbnRzL2c=</entry>
+        <entry encoding="base64">JzwsJz5hY3Rpb24gQ29tbWVudEJ5TGluZUNvbW1lbnQ=</entry>
+        <entry>114</entry>
+        <entry>%s/;//g</entry>
+        <entry>s/lesswrong/main/gc</entry>
+        <entry encoding="base64">JzwsJz5hY3Rpb24gR290b0ZpbGU=</entry>
         <entry>action Back</entry>
+        <entry>action FindInPath</entry>
         <entry>action GotoDeclaration</entry>
-        <entry>w!</entry>
+        <entry>action GotoFile</entry>
+        <entry>action RenameFile</entry>
         <entry>action CommentByLineComment</entry>
+        <entry>w!</entry>
+        <entry>action Refactorings.QuickListPopupAction</entry>
+        <entry>action NextSplitter</entry>
       </history-cmd>
       <history-expr />
       <history-input />
