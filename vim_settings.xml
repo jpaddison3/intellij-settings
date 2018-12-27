@@ -313,6 +313,11 @@
         <mark key="^" line="12" column="29" />
         <mark key="." line="12" column="29" />
       </file>
+      <file name="$USER_HOME$/Documents/org-export/.gitignore" timestamp="1545890898241">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+      </file>
       <file name="$USER_HOME$/cea/parfit/migrations/20181205181346_read_only_down.sql" timestamp="1544226548444">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="23" />
@@ -378,11 +383,11 @@
         <mark key="^" line="2" column="19" />
         <mark key="." line="2" column="19" />
       </file>
-      <file name="$USER_HOME$/Documents/org-export/org-export.py" timestamp="1545890294998">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="6" />
-        <mark key="^" line="0" column="6" />
-        <mark key="." line="0" column="6" />
+      <file name="$USER_HOME$/Documents/org-export/org-export.py" timestamp="1545890745794">
+        <mark key="[" line="2" column="15" />
+        <mark key="]" line="2" column="16" />
+        <mark key="^" line="2" column="16" />
+        <mark key="." line="2" column="16" />
       </file>
       <file name="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/scripts/algoliaExport.js" timestamp="1544818899007">
         <mark key="[" line="146" column="0" />
@@ -775,6 +780,12 @@
       <file name="$USER_HOME$/cea/parfit/db_tests/pledge_completion_calculations_tests.sql" timestamp="1544656450064">
         <mark key="'" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/org-export/example.html" timestamp="1545892943250">
+        <mark key="'" line="49" column="12" />
+        <mark key="[" line="63" column="0" />
+        <mark key="]" line="63" column="0" />
+        <mark key="." line="63" column="0" />
+      </file>
       <file name="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/lib/collections/conversations/permissions.js" timestamp="1544473256753">
         <mark key="[" line="22" column="0" />
         <mark key="]" line="22" column="0" />
@@ -1040,10 +1051,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="7" column="0" filename="$USER_HOME$/cea/parfit/db_tests/daterange_helper_tests.sql" />
-      <jump line="50" column="0" filename="$USER_HOME$/cea/parfit/db_tests/daterange_helper_tests.sql" />
-      <jump line="65" column="0" filename="$USER_HOME$/cea/parfit/db_tests/daterange_helper_tests.sql" />
-      <jump line="43" column="2" filename="$USER_HOME$/cea/parfit/migrations/20181212131100_gwwc_reports_up.sql" />
       <jump line="39" column="20" filename="$USER_HOME$/cea/parfit/migrations/20181212131100_gwwc_reports_up.sql" />
       <jump line="67" column="19" filename="$USER_HOME$/cea/parfit/migrations/20181212131100_gwwc_reports_up.sql" />
       <jump line="92" column="2" filename="$USER_HOME$/cea/parfit/migrations/20181212131100_gwwc_reports_up.sql" />
@@ -1140,6 +1147,10 @@
       <jump line="0" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/comments/ModerationGuidelines/ModerationGuidelinesBox.jsx" />
       <jump line="13" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/comments/ModerationGuidelines/ModerationGuidelinesBox.jsx" />
       <jump line="15" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/comments/ModerationGuidelines/ModerationGuidelinesBox.jsx" />
+      <jump line="50" column="23" filename="$USER_HOME$/Documents/org-export/.gitignore" />
+      <jump line="74" column="6" filename="$USER_HOME$/Documents/org-export/example.html" />
+      <jump line="0" column="11" filename="$USER_HOME$/Documents/org-export/example.html" />
+      <jump line="49" column="12" filename="$USER_HOME$/Documents/org-export/example.html" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1247,7 +1258,7 @@
         <text>nnP</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">PGJyLz4=</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -1279,7 +1290,7 @@
         </keys>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxmcm9udHBhZ2VHdWlkZWxpbmVzXD4=</text>
+        <text encoding="base64">XDxzdHlsZVw+</text>
       </register>
       <register name="0" type="4">
         <text>frontpageGuidelines</text>
@@ -1295,16 +1306,16 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIDx1bCBzdHlsZT0ibWFyZ2luLXRvcDowcHQ7bWFyZ2luLWJvdHRvbTowcHQ7Ij4K</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CmNvbnN0IGZyb250cGFnZUd1aWRlbGluZXNFQSA9IGAKICA8cD48ZW0+RnJvbnRwYWdlIGNvbW1lbnRpbmcgZ3VpZGVsaW5lczo8L2VtPjwvcD4KICA8cD4KICAgIExvcmVtIElwc3VtCiAgPC9wPgpgCgpjb25zdCBkZWZhdWx0R3VpZGVsaW5lc0VBID0gYAogIDxwPjxlbT5EZWZhdWx0IGNvbW1lbnRpbmcgZ3VpZGVsaW5lczo8L2VtPjwvcD4KICA8cD4KICAgIExvcmVtIElwc3VtCiAgPC9wPgpgCg==</text>
+        <text encoding="base64">ICAgIDwvYj4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IHt9Cg==</text>
+        <text encoding="base64">ICAgIDwvYj4K</text>
       </register>
       <register name="s" type="4">
         <keys>
@@ -1343,19 +1354,19 @@
         </keys>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Jy4vTFdNb2RlcmF0aW9uR3VpZGVsaW5lc0NvbnRlbnQnCg==</text>
+        <text encoding="base64">PGIgc3R5bGU9ImZvbnQtd2VpZ2h0Om5vcm1hbDsiCiAgIGlkPSJkb2NzLWludGVybmFsLWd1aWQtNWNiNTdkZDEtN2ZmZi0zNjUzLWNjZmYtMGY3MmQ5OTcxOGI4Ij4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Y29uc3QgZnJvbnRwYWdlR3VpZGVsaW5lcyA9IGdldFNldHRpbmcoJ0VBRm9ydW0nKSA/IGZyb250cGFnZUd1aWRlbGluZXNFQSA6IGZyb250cGFnZUd1aWRlbGluZXNMVwpjb25zdCBkZWZhdWx0R3VpZGVsaW5lcyA9IGdldFNldHRpbmcoJ0VBRm9ydW0nKSA/IGRlZmF1bHRHdWlkZWxpbmVzRUEgOiBkZWZhdWx0R3VpZGVsaW5lc0xXCgo=</text>
+        <text encoding="base64">PG1ldGEgY2hhcnNldD0ndXRmLTgnPgo=</text>
       </register>
       <register name="u" type="4">
         <text>uu</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">PG1ldGEgY2hhcnNldD0ndXRmLTgnPgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Y29uc3QgZnJvbnRwYWdlR3VpZGVsaW5lc0xXID0gYAogIDxwPjxlbT5Gcm9udHBhZ2UgY29tbWVudGluZyBndWlkZWxpbmVzOjwvZW0+PC9wPgogIDxwPgogICAgPGI+QWltIHRvIGV4cGxhaW4sIG5vdCBwZXJzdWFkZS48L2I+IFdyaXRlIHlvdXIgdHJ1ZSByZWFzb25zIGZvciBiZWxpZXZpbmcgc29tZXRoaW5nLCBub3Qgd2hhdCB5b3UgdGhpbmsgaXMgbW9zdCBsaWtlbHkgdG8gcGVyc3VhZGUgb3RoZXJzLiBUcnkgdG8gb2ZmZXIgY29uY3JldGUgbW9kZWxzLCBtYWtlIHByZWRpY3Rpb25zLCBhbmQgbm90ZSB3aGF0IHdvdWxkIGNoYW5nZSB5b3VyIG1pbmQuCiAgPC9wPgogIDxwPgogICAgPGI+QXZvaWQgaWRlbnRpdHkgcG9saXRpY3MuPC9iPiBNYWtlIHBlcnNvbmFsIHN0YXRlbWVudHMgaW5zdGVhZCBvZiBzdGF0ZW1lbnRzIHRoYXQgdHJ5IHRvIHJlcHJlc2VudCBhIGdyb3VwIGNvbnNlbnN1cyAo4oCcSSB0aGluayBYIGlzIHdyb25n4oCdIHZzLiDigJxYIGlzIGdlbmVyYWxseSBmcm93bmVkIHVwb27igJ0pLiBBdm9pZCBzdGVyZW90eXBpY2FsIGFyZ3VtZW50cyB0aGF0IHdpbGwgY2F1c2Ugb3RoZXJzIHRvIHJvdW5kIHlvdSBvZmYgdG8gc29tZW9uZSBlbHNlIHRoZXnigJl2ZSBlbmNvdW50ZXJlZCBiZWZvcmUuIFRlbGwgcGVvcGxlIGhvdyA8Yj55b3U8L2I+IHRoaW5rIGFib3V0IGEgdG9waWMsIGluc3RlYWQgb2YgcmVwZWF0aW5nIHNvbWVvbmUgZWxzZeKAmXMgYXJndW1lbnRzIChlLmcuIOKAnEJ1dCBOaWNrIEJvc3Ryb20gc2F5c+KApuKAnSkuCiAgPC9wPgogIDxwPgogICAgPGI+R2V0IGN1cmlvdXMuPC9iPiBJZiBJIGRpc2FncmVlIHdpdGggc29tZW9uZSwgd2hhdCBtaWdodCB0aGV5IGJlIHRoaW5raW5nOyB3aGF0IGFyZSB0aGUgbW92aW5nIHBhcnRzIG9mIHRoZWlyIGJlbGllZnM/IFdoYXQgbW9kZWwgZG8gSSB0aGluayB0aGV5IGFyZSBydW5uaW5nPyBBc2sgeW91cnNlbGYgLSB3aGF0IGFib3V0IHRoaXMgdG9waWMgZG8gSSBub3QgdW5kZXJzdGFuZD8gV2hhdCBldmlkZW5jZSBjb3VsZCBJIGdldCwgb3Igd2hhdCBldmlkZW5jZSBkbyBJIGFscmVhZHkgaGF2ZT8KICA8L3A+YAoKY29uc3QgZGVmYXVsdEd1aWRlbGluZXNMVyA9IGAKICA8cD48ZW0+RGVmYXVsdCBjb21tZW50aW5nIGd1aWRlbGluZXM6PC9lbT48L3A+CiAgPHA+CiAgICA8Yj5BaW0gdG8gZXhwbGFpbiwgbm90IHBlcnN1YWRlLjwvYj4gV3JpdGUgeW91ciB0cnVlIHJlYXNvbnMgZm9yIGJlbGlldmluZyBzb21ldGhpbmcsIG5vdCB3aGF0IHlvdSB0aGluayBpcyBtb3N0IGxpa2VseSB0byBwZXJzdWFkZSBvdGhlcnMuIFRyeSB0byBvZmZlciBjb25jcmV0ZSBtb2RlbHMsIG1ha2UgcHJlZGljdGlvbnMsIGFuZCBub3RlIHdoYXQgd291bGQgY2hhbmdlIHlvdXIgbWluZC4KICA8L3A+CiAgPHA+CiAgICA8Yj5Bdm9pZCBpZGVudGl0eSBwb2xpdGljcy48L2I+IE1ha2UgcGVyc29uYWwgc3RhdGVtZW50cyBpbnN0ZWFkIG9mIHN0YXRlbWVudHMgdGhhdCB0cnkgdG8gcmVwcmVzZW50IGEgZ3JvdXAgY29uc2Vuc3VzICjigJxJIHRoaW5rIFggaXMgd3JvbmfigJ0gdnMuIOKAnFggaXMgZ2VuZXJhbGx5IGZyb3duZWQgdXBvbuKAnSkuIEF2b2lkIHN0ZXJlb3R5cGljYWwgYXJndW1lbnRzIHRoYXQgd2lsbCBjYXVzZSBvdGhlcnMgdG8gcm91bmQgeW91IG9mZiB0byBzb21lb25lIGVsc2UgdGhleeKAmXZlIGVuY291bnRlcmVkIGJlZm9yZS4gVGVsbCBwZW9wbGUgaG93IDxiPnlvdTwvYj4gdGhpbmsgYWJvdXQgYSB0b3BpYywgaW5zdGVhZCBvZiByZXBlYXRpbmcgc29tZW9uZSBlbHNl4oCZcyBhcmd1bWVudHMgKGUuZy4g4oCcQnV0IE5pY2sgQm9zdHJvbSBzYXlz4oCm4oCdKS4KICA8L3A+CiAgPHA+CiAgICA8Yj5HZXQgY3VyaW91cy48L2I+IElmIEkgZGlzYWdyZWUgd2l0aCBzb21lb25lLCB3aGF0IG1pZ2h0IHRoZXkgYmUgdGhpbmtpbmc7IHdoYXQgYXJlIHRoZSBtb3ZpbmcgcGFydHMgb2YgdGhlaXIgYmVsaWVmcz8gV2hhdCBtb2RlbCBkbyBJIHRoaW5rIHRoZXkgYXJlIHJ1bm5pbmc/IEFzayB5b3Vyc2VsZiAtIHdoYXQgYWJvdXQgdGhpcyB0b3BpYyBkbyBJIG5vdCB1bmRlcnN0YW5kPyBXaGF0IGV2aWRlbmNlIGNvdWxkIEkgZ2V0LCBvciB3aGF0IGV2aWRlbmNlIGRvIEkgYWxyZWFkeSBoYXZlPwogIDwvcD4KYAoK</text>
+        <text encoding="base64">X19weWNhY2hlXwo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1378,19 +1389,19 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly8gVE9ETzsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Y29uc3QgZnJvbnRwYWdlR3VpZGVsaW5lcwo=</text>
+        <text encoding="base64">LmlkZWEvKiovdGFza3MueG1sCi5pZGVhLyoqL3VzYWdlLnN0YXRpc3RpY3MueG1sCi5pZGVhLyoqL2RpY3Rpb25hcmllcwouaWRlYS8qKi9zaGVsZgo=</text>
       </register>
       <register name=":" type="4">
         <text>w!</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxmcm9udHBhZ2VHdWlkZWxpbmVzXD4=</last-search>
+      <last-search encoding="base64">XDxzdHlsZVw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxmcm9udHBhZ2VHdWlkZWxpbmVzXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxzdHlsZVw+</last-pattern>
       <last-replace encoding="base64">LFxyICA=</last-replace>
       <last-substitute encoding="base64">LCA=</last-substitute>
       <last-dir>1</last-dir>
@@ -1398,8 +1409,6 @@
     </search>
     <history>
       <history-search>
-        <entry>to run our js</entry>
-        <entry>postgis</entry>
         <entry encoding="base64">XDxQb3N0R0lTXD4=</entry>
         <entry encoding="base64">XDxtZXNzYWdlc1w+</entry>
         <entry>posts</entry>
@@ -1418,6 +1427,8 @@
         <entry encoding="base64">XDxQdXJlQ29tcG9uZW50XD4=</entry>
         <entry encoding="base64">XDxtb2RlcmF0aW9uU3R5bGVcPg==</entry>
         <entry encoding="base64">XDxmcm9udHBhZ2VHdWlkZWxpbmVzXD4=</entry>
+        <entry encoding="base64">XDxiXD4=</entry>
+        <entry encoding="base64">XDxzdHlsZVw+</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5hY3Rpb24gR290b0ZpbGU=</entry>
