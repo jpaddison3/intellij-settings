@@ -1,8 +1,10 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping pattern="LICENSE" type="PLAIN_TEXT" />
       <mapping pattern=".env" type="PLAIN_TEXT" />
+      <mapping pattern="LICENSE" type="PLAIN_TEXT" />
+      <mapping pattern="vintageousrc" type="PLAIN_TEXT" />
+      <mapping pattern="psqlrc" type="PLAIN_TEXT" />
       <mapping ext="gql" type="PLAIN_TEXT" />
       <mapping ext="org" type="PLAIN_TEXT" />
     </extensionMap>
