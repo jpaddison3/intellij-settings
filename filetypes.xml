@@ -6,6 +6,7 @@
       <mapping pattern="vintageousrc" type="PLAIN_TEXT" />
       <mapping pattern="psqlrc" type="PLAIN_TEXT" />
       <mapping ext="gql" type="PLAIN_TEXT" />
+      <mapping ext="pem" type="PLAIN_TEXT" />
       <mapping ext="org" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
