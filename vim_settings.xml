@@ -135,12 +135,6 @@
         <mark key="^" line="15" column="69" />
         <mark key="." line="15" column="69" />
       </file>
-      <file name="$USER_HOME$/cea/parfit/.gitignore" timestamp="1551398136089">
-        <mark key="'" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/cea/parfit/node_modules/commander/index.js" timestamp="1550517493684">
-        <mark key="'" line="46" column="10" />
-      </file>
       <file name="$USER_HOME$/cea/Forum/Forum/settings.json" timestamp="1540409525080">
         <mark key="'" line="16" column="4" />
         <mark key="[" line="47" column="3" />
@@ -159,9 +153,6 @@
         <mark key="]" line="10" column="4" />
         <mark key="^" line="10" column="4" />
         <mark key="." line="10" column="4" />
-      </file>
-      <file name="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/client/logging.js" timestamp="1550863438654">
-        <mark key="'" line="23" column="9" />
       </file>
       <file name="$USER_HOME$/cea/aletheia/app/containers/Organizations/OrganizationsHome.jsx" timestamp="1550005187879">
         <mark key="'" line="26" column="0" />
@@ -182,9 +173,6 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
         <mark key="^" line="2" column="52" />
-      </file>
-      <file name="$USER_HOME$/cea/parfit/migrations/20181205175843_anonymize_person_up.sql" timestamp="1549999456150">
-        <mark key="'" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/cea/parfit/services/payments/handlers/xero/helpers.js" timestamp="1550543426541">
         <mark key="'" line="32" column="0" />
@@ -223,6 +211,12 @@
         <mark key="^" line="2" column="20" />
         <mark key="." line="3" column="20" />
       </file>
+      <file name="$USER_HOME$/cea/parfit/node/start.sh" timestamp="1551489727132">
+        <mark key="[" line="8" column="15" />
+        <mark key="]" line="8" column="18" />
+        <mark key="." line="8" column="18" />
+        <mark key="^" line="8" column="18" />
+      </file>
       <file name="$USER_HOME$/Documents/cea/aletheia/app/helpers/moment.js" timestamp="1533929950796">
         <mark key="[" line="19" column="29" />
         <mark key="]" line="19" column="39" />
@@ -233,9 +227,6 @@
         <mark key="[" line="21" column="46" />
         <mark key="]" line="21" column="59" />
         <mark key="." line="21" column="46" />
-      </file>
-      <file name="$USER_HOME$/cea/parfit/seeds/data/groups.group.sql" timestamp="1549585564924">
-        <mark key="'" line="1" column="0" />
       </file>
       <file name="$USER_HOME$/cea/parfit/services/payments/handlers/xero/index.js" timestamp="1550520735701">
         <mark key="[" line="2" column="0" />
@@ -313,6 +304,13 @@
         <mark key="]" line="95" column="34" />
         <mark key="." line="95" column="34" />
         <mark key="^" line="95" column="34" />
+      </file>
+      <file name="$USER_HOME$/cea/parfit/node/waitfor.sh" timestamp="1551485065715">
+        <mark key="'" line="44" column="1" />
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+        <mark key="^" line="22" column="1" />
       </file>
       <file name="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/scripts/eafIBetaInvites.js" timestamp="1545159778379">
         <mark key="[" line="13" column="13" />
@@ -422,6 +420,12 @@
         <mark key="[" line="21" column="21" />
         <mark key="]" line="21" column="460" />
         <mark key="." line="21" column="21" />
+      </file>
+      <file name="$USER_HOME$/cea/parfit/migrations/20190221113243_clean_delete_person_down.sql" timestamp="1551830412102">
+        <mark key="[" line="1" column="2" />
+        <mark key="]" line="1" column="3" />
+        <mark key="^" line="1" column="3" />
+        <mark key="." line="1" column="3" />
       </file>
       <file name="$USER_HOME$/cea/Forum/Vulcan/packages/vulcan-core/lib/modules/components/App.jsx" timestamp="1540429526086">
         <mark key="[" line="25" column="45" />
@@ -549,9 +553,6 @@
         <mark key="^" line="3" column="56" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/cea/parfit/services/emails/emails.test.js" timestamp="1550107783356">
-        <mark key="'" line="42" column="0" />
-      </file>
       <file name="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/lib/search/utils.js" timestamp="1543434356675">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="0" />
@@ -582,9 +583,6 @@
         <mark key="]" line="23" column="44" />
         <mark key="^" line="23" column="44" />
         <mark key="." line="23" column="44" />
-      </file>
-      <file name="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/editor/utils.js" timestamp="1550859696700">
-        <mark key="'" line="91" column="0" />
       </file>
       <file name="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/comments/ModerationGuidelines/ForumModerationGuidelinesContent.jsx" timestamp="1545166163268">
         <mark key="[" line="1" column="60" />
@@ -617,6 +615,9 @@
         <mark key="]" line="1" column="42" />
         <mark key="^" line="1" column="42" />
         <mark key="." line="1" column="42" />
+      </file>
+      <file name="$USER_HOME$/cea/parfit/node/services/db-notifications/index.js" timestamp="1551487462670">
+        <mark key="'" line="28" column="9" />
       </file>
       <file name="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/comments/ModerationGuidelinesBox.jsx" timestamp="1545163838021">
         <mark key="'" line="88" column="10" />
@@ -713,6 +714,12 @@
         <mark key="^" line="24" column="0" />
         <mark key="." line="24" column="0" />
       </file>
+      <file name="$USER_HOME$/cea/parfit/node/start-emails.sh" timestamp="1551490854613">
+        <mark key="[" line="12" column="9" />
+        <mark key="]" line="12" column="14" />
+        <mark key="." line="12" column="14" />
+        <mark key="^" line="12" column="14" />
+      </file>
       <file name="$USER_HOME$/cea/parfit/migrations/20181219191302_convert_currency_pair_down.sql" timestamp="1550543361198">
         <mark key="[" line="0" column="4" />
         <mark key="]" line="0" column="4" />
@@ -739,12 +746,12 @@
         <mark key="^" line="30" column="3" />
         <mark key="." line="30" column="3" />
       </file>
-      <file name="$USER_HOME$/cea/parfit/.env" timestamp="1551471891658">
-        <mark key="'" line="39" column="29" />
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="11" column="1" />
-        <mark key="." line="13" column="1" />
-        <mark key="^" line="11" column="1" />
+      <file name="$USER_HOME$/cea/parfit/.env" timestamp="1551829872431">
+        <mark key="'" line="41" column="29" />
+        <mark key="[" line="6" column="11" />
+        <mark key="]" line="7" column="39" />
+        <mark key="." line="7" column="39" />
+        <mark key="^" line="7" column="39" />
       </file>
       <file name="$USER_HOME$/Documents/dotfiles/psqlrc" timestamp="1548100624258">
         <mark key="'" line="2" column="11" />
@@ -817,6 +824,12 @@
         <mark key="]" line="19" column="0" />
         <mark key="^" line="19" column="0" />
         <mark key="." line="19" column="0" />
+      </file>
+      <file name="$USER_HOME$/cea/parfit/node/start-payments.sh" timestamp="1551490719953">
+        <mark key="[" line="12" column="9" />
+        <mark key="]" line="12" column="16" />
+        <mark key="." line="12" column="16" />
+        <mark key="^" line="12" column="16" />
       </file>
       <file name="$USER_HOME$/Documents/cea/aletheia/app/models/People/queries/getPersonAllData.gql" timestamp="1533338501902">
         <mark key="[" line="48" column="34" />
@@ -909,11 +922,24 @@
         <mark key="." line="50" column="0" />
         <mark key="^" line="50" column="33" />
       </file>
+      <file name="$USER_HOME$/cea/parfit/db_tests/daterange_helper_tests.sql" timestamp="1551830886634">
+        <mark key="'" line="247" column="0" />
+        <mark key="[" line="91" column="3" />
+        <mark key="]" line="91" column="3" />
+        <mark key="." line="91" column="3" />
+        <mark key="^" line="79" column="2" />
+      </file>
       <file name="$USER_HOME$/cea/parfit/services/payments/handlers/offline.js" timestamp="1537282736514">
         <mark key="[" line="16" column="0" />
         <mark key="]" line="16" column="0" />
         <mark key="^" line="17" column="50" />
         <mark key="." line="16" column="0" />
+      </file>
+      <file name="$USER_HOME$/cea/parfit/docker-compose.yml" timestamp="1551491129378">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="^" line="13" column="5" />
+        <mark key="." line="15" column="0" />
       </file>
       <file name="$USER_HOME$/cea/asana-project-summary/postgres/partial.sql" timestamp="1550089757893">
         <mark key="[" line="3" column="75" />
@@ -1035,6 +1061,13 @@
         <mark key="]" line="20" column="39" />
         <mark key="^" line="20" column="39" />
         <mark key="." line="20" column="39" />
+      </file>
+      <file name="$USER_HOME$/cea/parfit/migrations/20190227000001_gwwc_stats_daterange_helpers_up.sql" timestamp="1551831028395">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="112" column="0" />
+        <mark key="]" line="112" column="41" />
+        <mark key="." line="112" column="25" />
+        <mark key="^" line="112" column="40" />
       </file>
       <file name="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/posts/cron.js" timestamp="1543516028743">
         <mark key="[" line="12" column="35" />
@@ -1289,6 +1322,12 @@
         <mark key="." line="30" column="70" />
         <mark key="^" line="30" column="70" />
       </file>
+      <file name="$USER_HOME$/cea/parfit/node/start-db-notifications.sh" timestamp="1551490711986">
+        <mark key="[" line="12" column="9" />
+        <mark key="]" line="12" column="24" />
+        <mark key="." line="12" column="24" />
+        <mark key="^" line="12" column="24" />
+      </file>
       <file name="$USER_HOME$/cea/asana-project-summary/postgres/verify/init.sql" timestamp="1550103540193">
         <mark key="[" line="5" column="39" />
         <mark key="]" line="5" column="43" />
@@ -1452,6 +1491,11 @@
         <mark key="^" line="15" column="0" />
         <mark key="." line="15" column="0" />
       </file>
+      <file name="$USER_HOME$/cea/parfit/node/start_web.sh" timestamp="1551489825266">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
+      </file>
       <file name="$USER_HOME$/cea/unfuck-eoy-receipts/index.js" timestamp="1551395288963">
         <mark key="'" line="121" column="5" />
         <mark key="[" line="120" column="54" />
@@ -1465,6 +1509,17 @@
         <mark key="]" line="21" column="288" />
         <mark key="." line="21" column="38" />
         <mark key="^" line="44" column="18" />
+      </file>
+      <file name="$USER_HOME$/cea/parfit/node/Dockerfile" timestamp="1551489763416">
+        <mark key="[" line="32" column="0" />
+        <mark key="]" line="32" column="0" />
+        <mark key="." line="32" column="0" />
+      </file>
+      <file name="$USER_HOME$/cea/parfit/.circleci/config.yml" timestamp="1551476599316">
+        <mark key="[" line="3" column="16" />
+        <mark key="]" line="3" column="52" />
+        <mark key="^" line="3" column="52" />
+        <mark key="." line="3" column="52" />
       </file>
       <file name="$USER_HOME$/Documents/cea/aletheia/app/models/Payments/queries/getPayments.gql" timestamp="1533336152317">
         <mark key="[" line="24" column="15" />
@@ -1494,62 +1549,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/lib/sections.js" />
-      <jump line="49" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/lib/sections.js" />
-      <jump line="47" column="105" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/lib/routes.js" />
-      <jump line="39" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/lib/routes.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/lib/routes.js" />
-      <jump line="1" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/lib/routes.js" />
-      <jump line="9" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/lib/routes.js" />
-      <jump line="16" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/lib/routes.js" />
-      <jump line="24" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/lib/routes.js" />
-      <jump line="26" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/lib/routes.js" />
-      <jump line="32" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/lib/routes.js" />
-      <jump line="35" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/lib/routes.js" />
-      <jump line="38" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/lib/routes.js" />
-      <jump line="41" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/lib/routes.js" />
-      <jump line="49" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/lib/routes.js" />
-      <jump line="53" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/lib/routes.js" />
-      <jump line="44" column="32" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/lib/routes.js" />
-      <jump line="40" column="4" filename="$USER_HOME$/cea/Forum/Forum/settings-staging.json" />
-      <jump line="51" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/lib/components.js" />
-      <jump line="129" column="13" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/lib/components.js" />
-      <jump line="0" column="9" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/lib/components.js" />
-      <jump line="27" column="36" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server.js" />
-      <jump line="65" column="4" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server.js" />
-      <jump line="37" column="102" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/lib/routes.js" />
-      <jump line="0" column="9" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server.js" />
-      <jump line="93" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/users/UsersProfile.jsx" />
-      <jump line="95" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/users/UsersProfile.jsx" />
-      <jump line="127" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/users/UsersProfile.jsx" />
-      <jump line="140" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/users/UsersProfile.jsx" />
-      <jump line="148" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/users/UsersProfile.jsx" />
-      <jump line="184" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/users/UsersProfile.jsx" />
-      <jump line="188" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/users/UsersProfile.jsx" />
-      <jump line="190" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/users/UsersProfile.jsx" />
-      <jump line="196" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/users/UsersProfile.jsx" />
-      <jump line="197" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/users/UsersProfile.jsx" />
-      <jump line="40" column="39" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/users/UsersProfile.jsx" />
-      <jump line="30" column="2" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/users/UsersProfile.jsx" />
-      <jump line="76" column="104" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/users/UsersProfile.jsx" />
-      <jump line="80" column="89" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/users/UsersProfile.jsx" />
-      <jump line="85" column="69" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/users/UsersProfile.jsx" />
-      <jump line="89" column="65" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/users/UsersProfile.jsx" />
-      <jump line="40" column="9" filename="$USER_HOME$/cea/unfuck-eoy-receipts/lib/email.js" />
-      <jump line="21" column="15" filename="$USER_HOME$/cea/unfuck-eoy-receipts/lib/email.js" />
-      <jump line="42" column="77" filename="$USER_HOME$/cea/unfuck-eoy-receipts/index.js" />
-      <jump line="9" column="31" filename="$USER_HOME$/cea/unfuck-eoy-receipts/index.js" />
-      <jump line="93" column="0" filename="$USER_HOME$/cea/unfuck-eoy-receipts/index.js" />
-      <jump line="17" column="0" filename="$USER_HOME$/cea/unfuck-eoy-receipts/index.js" />
-      <jump line="13" column="0" filename="$USER_HOME$/cea/unfuck-eoy-receipts/index.js" />
-      <jump line="28" column="0" filename="$USER_HOME$/cea/unfuck-eoy-receipts/index.js" />
-      <jump line="32" column="0" filename="$USER_HOME$/cea/unfuck-eoy-receipts/index.js" />
-      <jump line="38" column="0" filename="$USER_HOME$/cea/unfuck-eoy-receipts/index.js" />
-      <jump line="51" column="0" filename="$USER_HOME$/cea/unfuck-eoy-receipts/index.js" />
-      <jump line="56" column="10" filename="$USER_HOME$/cea/unfuck-eoy-receipts/index.js" />
-      <jump line="18" column="0" filename="$USER_HOME$/cea/unfuck-eoy-receipts/index.js" />
-      <jump line="19" column="0" filename="$USER_HOME$/cea/unfuck-eoy-receipts/index.js" />
-      <jump line="30" column="0" filename="$USER_HOME$/cea/unfuck-eoy-receipts/index.js" />
       <jump line="34" column="0" filename="$USER_HOME$/cea/unfuck-eoy-receipts/index.js" />
       <jump line="40" column="0" filename="$USER_HOME$/cea/unfuck-eoy-receipts/index.js" />
       <jump line="53" column="0" filename="$USER_HOME$/cea/unfuck-eoy-receipts/index.js" />
@@ -1594,6 +1593,62 @@
       <jump line="77" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/lib/editor/utils.js" />
       <jump line="30" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/lib/editor/utils.js" />
       <jump line="20" column="64" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/lib/editor/utils.js" />
+      <jump line="78" column="12" filename="$USER_HOME$/cea/parfit/node/waitfor.sh" />
+      <jump line="44" column="1" filename="$USER_HOME$/cea/parfit/node/waitfor.sh" />
+      <jump line="28" column="9" filename="$USER_HOME$/cea/parfit/node/services/db-notifications/index.js" />
+      <jump line="21" column="4" filename="$USER_HOME$/cea/parfit/db_tests/daterange_helper_tests.sql" />
+      <jump line="48" column="0" filename="$USER_HOME$/cea/parfit/db_tests/daterange_helper_tests.sql" />
+      <jump line="10" column="0" filename="$USER_HOME$/cea/parfit/migrations/20190227000001_gwwc_stats_daterange_helpers_up.sql" />
+      <jump line="56" column="0" filename="$USER_HOME$/cea/parfit/migrations/20190227000001_gwwc_stats_daterange_helpers_up.sql" />
+      <jump line="161" column="0" filename="$USER_HOME$/cea/parfit/migrations/20190227000001_gwwc_stats_daterange_helpers_up.sql" />
+      <jump line="165" column="0" filename="$USER_HOME$/cea/parfit/migrations/20190227000001_gwwc_stats_daterange_helpers_up.sql" />
+      <jump line="179" column="0" filename="$USER_HOME$/cea/parfit/migrations/20190227000001_gwwc_stats_daterange_helpers_up.sql" />
+      <jump line="193" column="12" filename="$USER_HOME$/cea/parfit/migrations/20190227000001_gwwc_stats_daterange_helpers_up.sql" />
+      <jump line="167" column="24" filename="$USER_HOME$/cea/parfit/migrations/20190227000001_gwwc_stats_daterange_helpers_up.sql" />
+      <jump line="192" column="12" filename="$USER_HOME$/cea/parfit/migrations/20190227000001_gwwc_stats_daterange_helpers_up.sql" />
+      <jump line="181" column="24" filename="$USER_HOME$/cea/parfit/migrations/20190227000001_gwwc_stats_daterange_helpers_up.sql" />
+      <jump line="188" column="24" filename="$USER_HOME$/cea/parfit/migrations/20190227000001_gwwc_stats_daterange_helpers_up.sql" />
+      <jump line="190" column="17" filename="$USER_HOME$/cea/parfit/migrations/20190227000001_gwwc_stats_daterange_helpers_up.sql" />
+      <jump line="8" column="0" filename="$USER_HOME$/cea/parfit/db_tests/daterange_helper_tests.sql" />
+      <jump line="398" column="0" filename="$USER_HOME$/cea/parfit/db_tests/daterange_helper_tests.sql" />
+      <jump line="138" column="24" filename="$USER_HOME$/cea/parfit/migrations/20190227000001_gwwc_stats_daterange_helpers_up.sql" />
+      <jump line="137" column="0" filename="$USER_HOME$/cea/parfit/migrations/20190227000001_gwwc_stats_daterange_helpers_up.sql" />
+      <jump line="133" column="0" filename="$USER_HOME$/cea/parfit/migrations/20190227000001_gwwc_stats_daterange_helpers_up.sql" />
+      <jump line="128" column="0" filename="$USER_HOME$/cea/parfit/migrations/20190227000001_gwwc_stats_daterange_helpers_up.sql" />
+      <jump line="119" column="0" filename="$USER_HOME$/cea/parfit/migrations/20190227000001_gwwc_stats_daterange_helpers_up.sql" />
+      <jump line="107" column="0" filename="$USER_HOME$/cea/parfit/migrations/20190227000001_gwwc_stats_daterange_helpers_up.sql" />
+      <jump line="90" column="0" filename="$USER_HOME$/cea/parfit/migrations/20190227000001_gwwc_stats_daterange_helpers_up.sql" />
+      <jump line="79" column="27" filename="$USER_HOME$/cea/parfit/migrations/20190227000001_gwwc_stats_daterange_helpers_up.sql" />
+      <jump line="62" column="0" filename="$USER_HOME$/cea/parfit/migrations/20190227000001_gwwc_stats_daterange_helpers_up.sql" />
+      <jump line="58" column="0" filename="$USER_HOME$/cea/parfit/migrations/20190227000001_gwwc_stats_daterange_helpers_up.sql" />
+      <jump line="0" column="0" filename="$USER_HOME$/cea/parfit/migrations/20190227000001_gwwc_stats_daterange_helpers_up.sql" />
+      <jump line="92" column="2" filename="$USER_HOME$/cea/parfit/db_tests/daterange_helper_tests.sql" />
+      <jump line="0" column="0" filename="$USER_HOME$/cea/parfit/db_tests/daterange_helper_tests.sql" />
+      <jump line="1" column="0" filename="$USER_HOME$/cea/parfit/db_tests/daterange_helper_tests.sql" />
+      <jump line="7" column="0" filename="$USER_HOME$/cea/parfit/db_tests/daterange_helper_tests.sql" />
+      <jump line="50" column="0" filename="$USER_HOME$/cea/parfit/db_tests/daterange_helper_tests.sql" />
+      <jump line="65" column="0" filename="$USER_HOME$/cea/parfit/db_tests/daterange_helper_tests.sql" />
+      <jump line="113" column="0" filename="$USER_HOME$/cea/parfit/db_tests/daterange_helper_tests.sql" />
+      <jump line="246" column="0" filename="$USER_HOME$/cea/parfit/db_tests/daterange_helper_tests.sql" />
+      <jump line="91" column="2" filename="$USER_HOME$/cea/parfit/db_tests/daterange_helper_tests.sql" />
+      <jump line="400" column="0" filename="$USER_HOME$/cea/parfit/db_tests/daterange_helper_tests.sql" />
+      <jump line="393" column="0" filename="$USER_HOME$/cea/parfit/db_tests/daterange_helper_tests.sql" />
+      <jump line="378" column="0" filename="$USER_HOME$/cea/parfit/db_tests/daterange_helper_tests.sql" />
+      <jump line="375" column="0" filename="$USER_HOME$/cea/parfit/db_tests/daterange_helper_tests.sql" />
+      <jump line="350" column="0" filename="$USER_HOME$/cea/parfit/db_tests/daterange_helper_tests.sql" />
+      <jump line="326" column="0" filename="$USER_HOME$/cea/parfit/db_tests/daterange_helper_tests.sql" />
+      <jump line="320" column="0" filename="$USER_HOME$/cea/parfit/db_tests/daterange_helper_tests.sql" />
+      <jump line="312" column="0" filename="$USER_HOME$/cea/parfit/db_tests/daterange_helper_tests.sql" />
+      <jump line="304" column="0" filename="$USER_HOME$/cea/parfit/db_tests/daterange_helper_tests.sql" />
+      <jump line="301" column="0" filename="$USER_HOME$/cea/parfit/db_tests/daterange_helper_tests.sql" />
+      <jump line="280" column="0" filename="$USER_HOME$/cea/parfit/db_tests/daterange_helper_tests.sql" />
+      <jump line="270" column="0" filename="$USER_HOME$/cea/parfit/db_tests/daterange_helper_tests.sql" />
+      <jump line="248" column="0" filename="$USER_HOME$/cea/parfit/db_tests/daterange_helper_tests.sql" />
+      <jump line="255" column="9" filename="$USER_HOME$/cea/parfit/db_tests/daterange_helper_tests.sql" />
+      <jump line="262" column="0" filename="$USER_HOME$/cea/parfit/db_tests/daterange_helper_tests.sql" />
+      <jump line="68" column="0" filename="$USER_HOME$/cea/parfit/db_tests/daterange_helper_tests.sql" />
+      <jump line="75" column="0" filename="$USER_HOME$/cea/parfit/db_tests/daterange_helper_tests.sql" />
+      <jump line="247" column="0" filename="$USER_HOME$/cea/parfit/db_tests/daterange_helper_tests.sql" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1704,7 +1759,7 @@
         <text>nnP</text>
       </register>
       <register name="-" type="4">
-        <text>tasks</text>
+        <text>_coverage</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -1736,10 +1791,10 @@
         </keys>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxhdXRvbGlua1w+</text>
+        <text>helpers.dateran</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJ2Nsb3NpbmcgYmxvY2snKQo=</text>
+        <text encoding="base64">ICAgIFJBSVNFIE5PVElDRSAnX21pc3NpbmcsICUnLCBfbWlzc2luZzsK</text>
       </register>
       <register name="p" type="4">
         <keys>
@@ -1751,17 +1806,17 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="1" type="4">
-        <text>``</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIFJBSVNFIE5PVElDRSAnd2hhYWFhdCc7Cgo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
-        <text>text.substring(lastLinkEndIndex, text.length)</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIFJBSVNFIE5PVElDRSAnd2hhYWFhdCc7Cg==</text>
       </register>
-      <register name="3" type="4">
-        <text>{}</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="s" type="4">
         <keys>
@@ -1799,55 +1854,44 @@
           <key char="110" code="0" mods="0" />
         </keys>
       </register>
-      <register name="4" type="4">
-        <text>text.substring(lastLinkEndIndex, text.length)</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIGVudmlyb25tZW50OgogICAgICAjIHRoaXMgaXMgYSBmdWNraW5nIG1lc3MKICAgICAgLSBOT0RFX0VOVj0ke05PREVfRU5WfQogICAgICAtIFNFUlZJQ0VfSUQ9JHtTRVJWSUNFX0lEfQogICAgICAtIFBPUlQ9JHtQT1JUfQogICAgICAtIFVSTD0ke1VSTH0KICAgICAgLSBBUFBfVVJMPSR7QVBQX1VSTH0KICAgICAgLSBEQVRBQkFTRV9VUkw9JHtEQVRBQkFTRV9VUkx9CiAgICAgIC0gUFJPRFVDVElPTl9EQVRBQkFTRV9VUkw9JHtQUk9EVUNUSU9OX0RBVEFCQVNFX1VSTH0KICAgICAgLSBQT1NUR1JBUEhRTF9EQVRBQkFTRV9VU0VSPSR7UE9TVEdSQVBIUUxfREFUQUJBU0VfVVNFUn0KICAgICAgLSBQT1NUR1JBUEhRTF9EQVRBQkFTRV9QQVNTV09SRD0ke1BPU1RHUkFQSFFMX0RBVEFCQVNFX1BBU1NXT1JEfQogICAgICAtIEpXVF9TRUNSRVQ9JHtKV1RfU0VDUkVUfQogICAgICAjIHNob3VsZCB3ZSBoYXJkY29kZSB0aGlzIGdpdmVuIGl0J3MgaW50ZXJuYWwgdG8gdGhlIHNlcnZpY2U/CiAgICAgIC0gUkFCQklUX1VSTD0ke1JBQkJJVF9VUkx9CiAgICAgIC0gT1BFTkVYQ0hBTkdFUkFURVNfQVBQX0lEPSR7T1BFTkVYQ0hBTkdFUkFURVNfQVBQX0lEfQogICAgICAtIE1BSUxDSElNUF9BUElfS0VZPSR7TUFJTENISU1QX0FQSV9LRVl9CiAgICAgIC0gU1RSSVBFX0NFQV9VU19TRUNSRVRfS0VZPSR7U1RSSVBFX0NFQV9VU19TRUNSRVRfS0VZfQogICAgICAtIFNUUklQRV9DRUFfVUtfU0VDUkVUX0tFWT0ke1NUUklQRV9DRUFfVUtfU0VDUkVUX0tFWX0KICAgICAgLSBTVFJJUEVfQ0VBX1VTX1dFQkhPT0tfU0VDUkVUPSR7U1RSSVBFX0NFQV9VU19XRUJIT09LX1NFQ1JFVH0KICAgICAgLSBTVFJJUEVfQ0VBX1VLX1dFQkhPT0tfU0VDUkVUPSR7U1RSSVBFX0NFQV9VS19XRUJIT09LX1NFQ1JFVH0KICAgICAgLSBNQU5EUklMTF9BUElfS0VZPSR7TUFORFJJTExfQVBJX0tFWX0KICAgICAgLSBFTUFJTF9ERUZBVUxUX1NFTkRFUj0ke0VNQUlMX0RFRkFVTFRfU0VOREVSfQogICAgICAtIFNFR01FTlRfV1JJVEVfS0VZPSR7U0VHTUVOVF9XUklURV9LRVl9CiAgICAgIC0gU0xBQ0tfV0VCSE9PS19VUkw9JHtTTEFDS19XRUJIT09LX1VSTH0KICAgICAgLSBHT0NBUkRMRVNTX0FDQ0VTU19UT0tFTj0ke0dPQ0FSRExFU1NfQUNDRVNTX1RPS0VOfQogICAgICAtIEdPQ0FSRExFU1NfV0VCSE9PS19TRUNSRVQ9JHtHT0NBUkRMRVNTX1dFQkhPT0tfU0VDUkVUfQogICAgICAtIFhFUk9fQVVUT01BVElPTlNfVVNFUl9FTUFJTD0ke1hFUk9fQVVUT01BVElPTlNfVVNFUl9FTUFJTH0KICAgICAgLSBYRVJPX0FVVE9NQVRJT05TX1VTRVJfUEFTU1dPUkQ9JHtYRVJPX0FVVE9NQVRJT05TX1VTRVJfUEFTU1dPUkR9CiAgICAgIC0gWEVST19ERU1PX0NPTlNVTUVSX0tFWT0ke1hFUk9fREVNT19DT05TVU1FUl9LRVl9CiAgICAgIC0gWEVST19ERU1PX0NPTlNVTUVSX1NFQ1JFVD0ke1hFUk9fREVNT19DT05TVU1FUl9TRUNSRVR9CiAgICAgIC0gWEVST19ERU1PX0NPTlNVTUVSX1JTQV9QUklWQVRFX0tFWT0ke1hFUk9fREVNT19DT05TVU1FUl9SU0FfUFJJVkFURV9LRVl9CiAgICAgIC0gQ09JTkJBU0VfQVBJX0tFWT0ke0NPSU5CQVNFX0FQSV9LRVl9CiAgICAgIC0gQ09JTkJBU0VfQVBJX1NFQ1JFVD0ke0NPSU5CQVNFX0FQSV9TRUNSRVR9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IEFsbE5ld0VtYWlscyA9IENvcnJlY3Rpb25FbWFpbHMuY29uY2F0KE5ld0VtYWlscykK</text>
+        <text encoding="base64">ICAgIGVudmlyb25tZW50OgogICAgIyB0aGlzIGlzIGEgZnVja2luZyBtZXNzCiAgICAtIE5PREVfRU5WPSR7Tk9ERV9FTlZ9CiAgICAtIFNFUlZJQ0VfSUQ9JHtTRVJWSUNFX0lEfQogICAgLSBQT1JUPSR7UE9SVH0KICAgIC0gVVJMPSR7VVJMfQogICAgLSBBUFBfVVJMPSR7QVBQX1VSTH0KICAgIC0gREFUQUJBU0VfVVJMPSR7REFUQUJBU0VfVVJMfQogICAgLSBQUk9EVUNUSU9OX0RBVEFCQVNFX1VSTD0ke1BST0RVQ1RJT05fREFUQUJBU0VfVVJMfQogICAgLSBQT1NUR1JBUEhRTF9EQVRBQkFTRV9VU0VSPSR7UE9TVEdSQVBIUUxfREFUQUJBU0VfVVNFUn0KICAgIC0gUE9TVEdSQVBIUUxfREFUQUJBU0VfUEFTU1dPUkQ9JHtQT1NUR1JBUEhRTF9EQVRBQkFTRV9QQVNTV09SRH0KICAgIC0gSldUX1NFQ1JFVD0ke0pXVF9TRUNSRVR9CiAgICAjIHNob3VsZCB3ZSBoYXJkY29kZSB0aGlzIGdpdmVuIGl0J3MgaW50ZXJuYWwgdG8gdGhlIHNlcnZpY2U/CiAgICAtIFJBQkJJVF9VUkw9JHtSQUJCSVRfVVJMfQogICAgLSBPUEVORVhDSEFOR0VSQVRFU19BUFBfSUQ9JHtPUEVORVhDSEFOR0VSQVRFU19BUFBfSUR9CiAgICAtIE1BSUxDSElNUF9BUElfS0VZPSR7TUFJTENISU1QX0FQSV9LRVl9CiAgICAtIFNUUklQRV9DRUFfVVNfU0VDUkVUX0tFWT0ke1NUUklQRV9DRUFfVVNfU0VDUkVUX0tFWX0KICAgIC0gU1RSSVBFX0NFQV9VS19TRUNSRVRfS0VZPSR7U1RSSVBFX0NFQV9VS19TRUNSRVRfS0VZfQogICAgLSBTVFJJUEVfQ0VBX1VTX1dFQkhPT0tfU0VDUkVUPSR7U1RSSVBFX0NFQV9VU19XRUJIT09LX1NFQ1JFVH0KICAgIC0gU1RSSVBFX0NFQV9VS19XRUJIT09LX1NFQ1JFVD0ke1NUUklQRV9DRUFfVUtfV0VCSE9PS19TRUNSRVR9CiAgICAtIE1BTkRSSUxMX0FQSV9LRVk9JHtNQU5EUklMTF9BUElfS0VZfQogICAgLSBFTUFJTF9ERUZBVUxUX1NFTkRFUj0ke0VNQUlMX0RFRkFVTFRfU0VOREVSfQogICAgLSBTRUdNRU5UX1dSSVRFX0tFWT0ke1NFR01FTlRfV1JJVEVfS0VZfQogICAgLSBTTEFDS19XRUJIT09LX1VSTD0ke1NMQUNLX1dFQkhPT0tfVVJMfQogICAgLSBHT0NBUkRMRVNTX0FDQ0VTU19UT0tFTj0ke0dPQ0FSRExFU1NfQUNDRVNTX1RPS0VOfQogICAgLSBHT0NBUkRMRVNTX1dFQkhPT0tfU0VDUkVUPSR7R09DQVJETEVTU19XRUJIT09LX1NFQ1JFVH0KICAgIC0gWEVST19BVVRPTUFUSU9OU19VU0VSX0VNQUlMPSR7WEVST19BVVRPTUFUSU9OU19VU0VSX0VNQUlMfQogICAgLSBYRVJPX0FVVE9NQVRJT05TX1VTRVJfUEFTU1dPUkQ9JHtYRVJPX0FVVE9NQVRJT05TX1VTRVJfUEFTU1dPUkR9CiAgICAtIFhFUk9fREVNT19DT05TVU1FUl9LRVk9JHtYRVJPX0RFTU9fQ09OU1VNRVJfS0VZfQogICAgLSBYRVJPX0RFTU9fQ09OU1VNRVJfU0VDUkVUPSR7WEVST19ERU1PX0NPTlNVTUVSX1NFQ1JFVH0KICAgIC0gWEVST19ERU1PX0NPTlNVTUVSX1JTQV9QUklWQVRFX0tFWT0ke1hFUk9fREVNT19DT05TVU1FUl9SU0FfUFJJVkFURV9LRVl9CiAgICAtIENPSU5CQVNFX0FQSV9LRVk9JHtDT0lOQkFTRV9BUElfS0VZfQogICAgLSBDT0lOQkFTRV9BUElfU0VDUkVUPSR7Q09JTkJBU0VfQVBJX1NFQ1JFVH0K</text>
       </register>
       <register name="u" type="4">
         <text>uu</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUuaW5mbyhgU2VuZGluZyAke0NvcnJlY3Rpb25FbWFpbHMubGVuZ3RofSBjb3JyZWN0aW9uIGVtYWlsc2ApCg==</text>
+        <text encoding="base64">ICAgIGVudmlyb25tZW50Ogo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IENvcnJlY3Rpb25Db250YWN0cyA9IENvbnRhY3RzLmZpbHRlcihDb250YWN0ID0+CiAgICAgIENvcnJlY3Rpb25Db250YWN0SURzLmluY2x1ZGVzKENvbnRhY3QuQ29udGFjdElEKSAmJgogICAgICBhbHJlYWR5U2VudC5zb21lKGVtYWlsID0+IGVtYWlsID09PSBDb250YWN0LkVtYWlsQWRkcmVzcykKICAgICkKICAgIGNvbnN0IENvcnJlY3Rpb25FbWFpbHMgPSBDb3JyZWN0aW9uQ29udGFjdHMubWFwKENvbnRhY3QgPT4gewogICAgICByZXR1cm4gRW1haWxzLmZpbmQoRW1haWxEYXRhID0+IEVtYWlsRGF0YS5Db250YWN0LkNvbnRhY3RJRCA9PT0gQ29udGFjdC5Db250YWN0SUQpIHx8IHsgQ29udGFjdCwgVHJhbnNhY3Rpb25zOiBbXSB9CiAgICB9KQogICAgICAubWFwKEVtYWlsRGF0YSA9PiBPYmplY3QuYXNzaWduKHtjb3JyZWN0aW9uOiB0cnVlfSwgRW1haWxEYXRhKSkK</text>
+        <text encoding="base64">ICAgICMgdGhpcyBpcyBhIGZ1Y2tpbmcgbWVzcwogICAgLSBOT0RFX0VOVj0ke05PREVfRU5WfQogICAgLSBTRVJWSUNFX0lEPSR7U0VSVklDRV9JRH0KICAgIC0gUE9SVD0ke1BPUlR9CiAgICAtIFVSTD0ke1VSTH0KICAgIC0gQVBQX1VSTD0ke0FQUF9VUkx9CiAgICAtIERBVEFCQVNFX1VSTD0ke0RBVEFCQVNFX1VSTH0KICAgIC0gUFJPRFVDVElPTl9EQVRBQkFTRV9VUkw9JHtQUk9EVUNUSU9OX0RBVEFCQVNFX1VSTH0KICAgIC0gUE9TVEdSQVBIUUxfREFUQUJBU0VfVVNFUj0ke1BPU1RHUkFQSFFMX0RBVEFCQVNFX1VTRVJ9CiAgICAtIFBPU1RHUkFQSFFMX0RBVEFCQVNFX1BBU1NXT1JEPSR7UE9TVEdSQVBIUUxfREFUQUJBU0VfUEFTU1dPUkR9CiAgICAtIEpXVF9TRUNSRVQ9JHtKV1RfU0VDUkVUfQogICAgIyBzaG91bGQgd2UgaGFyZGNvZGUgdGhpcyBnaXZlbiBpdCdzIGludGVybmFsIHRvIHRoZSBzZXJ2aWNlPwogICAgLSBSQUJCSVRfVVJMPSR7UkFCQklUX1VSTH0KICAgIC0gT1BFTkVYQ0hBTkdFUkFURVNfQVBQX0lEPSR7T1BFTkVYQ0hBTkdFUkFURVNfQVBQX0lEfQogICAgLSBNQUlMQ0hJTVBfQVBJX0tFWT0ke01BSUxDSElNUF9BUElfS0VZfQogICAgLSBTVFJJUEVfQ0VBX1VTX1NFQ1JFVF9LRVk9JHtTVFJJUEVfQ0VBX1VTX1NFQ1JFVF9LRVl9CiAgICAtIFNUUklQRV9DRUFfVUtfU0VDUkVUX0tFWT0ke1NUUklQRV9DRUFfVUtfU0VDUkVUX0tFWX0KICAgIC0gU1RSSVBFX0NFQV9VU19XRUJIT09LX1NFQ1JFVD0ke1NUUklQRV9DRUFfVVNfV0VCSE9PS19TRUNSRVR9CiAgICAtIFNUUklQRV9DRUFfVUtfV0VCSE9PS19TRUNSRVQ9JHtTVFJJUEVfQ0VBX1VLX1dFQkhPT0tfU0VDUkVUfQogICAgLSBNQU5EUklMTF9BUElfS0VZPSR7TUFORFJJTExfQVBJX0tFWX0KICAgIC0gRU1BSUxfREVGQVVMVF9TRU5ERVI9JHtFTUFJTF9ERUZBVUxUX1NFTkRFUn0KICAgIC0gU0VHTUVOVF9XUklURV9LRVk9JHtTRUdNRU5UX1dSSVRFX0tFWX0KICAgIC0gU0xBQ0tfV0VCSE9PS19VUkw9JHtTTEFDS19XRUJIT09LX1VSTH0KICAgIC0gR09DQVJETEVTU19BQ0NFU1NfVE9LRU49JHtHT0NBUkRMRVNTX0FDQ0VTU19UT0tFTn0KICAgIC0gR09DQVJETEVTU19XRUJIT09LX1NFQ1JFVD0ke0dPQ0FSRExFU1NfV0VCSE9PS19TRUNSRVR9CiAgICAtIFhFUk9fQVVUT01BVElPTlNfVVNFUl9FTUFJTD0ke1hFUk9fQVVUT01BVElPTlNfVVNFUl9FTUFJTH0KICAgIC0gWEVST19BVVRPTUFUSU9OU19VU0VSX1BBU1NXT1JEPSR7WEVST19BVVRPTUFUSU9OU19VU0VSX1BBU1NXT1JEfQogICAgLSBYRVJPX0RFTU9fQ09OU1VNRVJfS0VZPSR7WEVST19ERU1PX0NPTlNVTUVSX0tFWX0KICAgIC0gWEVST19ERU1PX0NPTlNVTUVSX1NFQ1JFVD0ke1hFUk9fREVNT19DT05TVU1FUl9TRUNSRVR9CiAgICAtIFhFUk9fREVNT19DT05TVU1FUl9SU0FfUFJJVkFURV9LRVk9JHtYRVJPX0RFTU9fQ09OU1VNRVJfUlNBX1BSSVZBVEVfS0VZfQogICAgLSBDT0lOQkFTRV9BUElfS0VZPSR7Q09JTkJBU0VfQVBJX0tFWX0KICAgIC0gQ09JTkJBU0VfQVBJX1NFQ1JFVD0ke0NPSU5CQVNFX0FQSV9TRUNSRVR9Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
-          <key char="105" code="0" mods="0" />
-          <key char="114" code="0" mods="0" />
-          <key char="101" code="0" mods="0" />
-          <key char="116" code="0" mods="0" />
-          <key char="104" code="0" mods="0" />
-          <key char="105" code="0" mods="0" />
-          <key char="110" code="0" mods="0" />
-          <key char="107" code="0" mods="0" />
+          <key char="48" code="0" mods="0" />
+          <key char="97" code="0" mods="0" />
+          <key char="32" code="0" mods="0" />
           <key char="65535" code="27" mods="0" />
-          <key char="98" code="0" mods="0" />
-          <key char="108" code="0" mods="0" />
-          <key char="108" code="0" mods="0" />
-          <key char="108" code="0" mods="0" />
-          <key char="108" code="0" mods="0" />
-          <key char="108" code="0" mods="0" />
-          <key char="108" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Y29uc3QgQ29ycmVjdGlvbkNvbnRhY3RJRHMgPSBbXQoK</text>
+        <text encoding="base64">ICAgIHBvcnRzOgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0ICcuL2xpYi9ldmVudHMvc2VydmVyLmpzJzsK</text>
+        <text encoding="base64">ICAgIHBvcnRzOgo=</text>
       </register>
       <register name=":" type="4">
         <text>w!</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxhdXRvbGlua1w+</last-search>
+      <last-search>helpers.dateran</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxhdXRvbGlua1w+</last-pattern>
+      <last-pattern>helpers.dateran</last-pattern>
       <last-replace>let</last-replace>
       <last-substitute>const</last-substitute>
       <last-dir>1</last-dir>
@@ -1855,11 +1899,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxTSEVFVF9UT1RBTF9MT0NBVElPTlw+</entry>
-        <entry>const</entry>
-        <entry encoding="base64">XDxsb2dcPg==</entry>
-        <entry encoding="base64">XDxnZXRTZXR0aW5nXD4=</entry>
-        <entry>location</entry>
         <entry>event</entry>
         <entry encoding="base64">XDxzcGVjaWZpY2Fselw+</entry>
         <entry encoding="base64">XDxnZW5lcmF0ZUVtYWlsXD4=</entry>
@@ -1875,9 +1914,13 @@
         <entry>draft-con</entry>
         <entry encoding="base64">XDxjb252ZXJ0VG9IVE1MXD4=</entry>
         <entry encoding="base64">XDxhdXRvbGlua1w+</entry>
+        <entry encoding="base64">XDxnZXREQkNsaWVudFw+</entry>
+        <entry encoding="base64">XDxleHRyYWN0X2RheXNcPg==</entry>
+        <entry encoding="base64">XDxwcm9fcmF0YVw+</entry>
+        <entry encoding="base64">XDxjb21wb3VuZF9pbnRlcmVzdFw+</entry>
+        <entry>helpers.dateran</entry>
       </history-search>
       <history-cmd>
-        <entry>8</entry>
         <entry>104</entry>
         <entry>62</entry>
         <entry>190</entry>
@@ -1887,14 +1930,15 @@
         <entry>64</entry>
         <entry>4</entry>
         <entry>41</entry>
-        <entry>action CommentByLineComment</entry>
         <entry>action Back</entry>
         <entry>action NewFile</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gR290b0ZpbGU=</entry>
         <entry>action SplitVertically</entry>
         <entry>action FindInPath</entry>
-        <entry>action GotoFile</entry>
         <entry>action GotoDeclaration</entry>
+        <entry>34</entry>
+        <entry>action CommentByLineComment</entry>
+        <entry>action GotoFile</entry>
         <entry>action NextSplitter</entry>
         <entry>w!</entry>
       </history-cmd>
