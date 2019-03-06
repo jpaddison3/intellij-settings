@@ -700,6 +700,9 @@
         <mark key="." line="3" column="43" />
         <mark key="^" line="3" column="43" />
       </file>
+      <file name="/Dummy.txt" timestamp="1551896218385">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/cea/parfit/package.json" timestamp="1550541361056">
         <mark key="'" line="50" column="64" />
         <mark key="[" line="51" column="18" />
@@ -746,12 +749,12 @@
         <mark key="^" line="30" column="3" />
         <mark key="." line="30" column="3" />
       </file>
-      <file name="$USER_HOME$/cea/parfit/.env" timestamp="1551829872431">
-        <mark key="'" line="41" column="29" />
-        <mark key="[" line="6" column="11" />
-        <mark key="]" line="7" column="39" />
-        <mark key="." line="7" column="39" />
-        <mark key="^" line="7" column="39" />
+      <file name="$USER_HOME$/cea/parfit/.env" timestamp="1551896154892">
+        <mark key="'" line="42" column="29" />
+        <mark key="[" line="11" column="20" />
+        <mark key="]" line="11" column="36" />
+        <mark key="." line="11" column="36" />
+        <mark key="^" line="11" column="36" />
       </file>
       <file name="$USER_HOME$/Documents/dotfiles/psqlrc" timestamp="1548100624258">
         <mark key="'" line="2" column="11" />
@@ -1759,7 +1762,7 @@
         <text>nnP</text>
       </register>
       <register name="-" type="4">
-        <text>_coverage</text>
+        <text>postgres</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -1794,7 +1797,7 @@
         <text>helpers.dateran</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIFJBSVNFIE5PVElDRSAnX21pc3NpbmcsICUnLCBfbWlzc2luZzsK</text>
+        <text encoding="base64">UkFCQklUX1VSTD1hbXFwOi8vbG9jYWxob3N0Cg==</text>
       </register>
       <register name="p" type="4">
         <keys>
