@@ -5,6 +5,11 @@
     <option name="USE_DOUBLE_QUOTES" value="false" />
     <option name="ENFORCE_TRAILING_COMMA" value="Remove" />
   </JSCodeStyleSettings>
+  <SqlCodeStyleSettings version="1">
+    <option name="DISABLE_FORMATTING" value="true" />
+    <option name="WITH_ALIGN_AS" value="true" />
+    <option name="WRAP_INSIDE_CREATE_TABLE" value="1" />
+  </SqlCodeStyleSettings>
   <codeStyleSettings language="Jade">
     <indentOptions>
       <option name="INDENT_SIZE" value="2" />
@@ -18,6 +23,11 @@
       <option name="INDENT_SIZE" value="2" />
       <option name="CONTINUATION_INDENT_SIZE" value="2" />
       <option name="TAB_SIZE" value="2" />
+    </indentOptions>
+  </codeStyleSettings>
+  <codeStyleSettings language="SQL">
+    <indentOptions>
+      <option name="CONTINUATION_INDENT_SIZE" value="2" />
     </indentOptions>
   </codeStyleSettings>
   <codeStyleSettings language="TypeScript">
