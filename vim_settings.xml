@@ -49,6 +49,11 @@
         <mark key="^" line="141" column="42" />
         <mark key="." line="141" column="0" />
       </file>
+      <file name="$USER_HOME$/cea/eaglobal-static/src/templates/event.pug" timestamp="1552947338076">
+        <mark key="[" line="55" column="0" />
+        <mark key="]" line="55" column="0" />
+        <mark key="." line="55" column="0" />
+      </file>
       <file name="$USER_HOME$/cea/eaglobal-static/.env" timestamp="1552937964804">
         <mark key="[" line="6" column="98" />
         <mark key="]" line="6" column="99" />
@@ -237,6 +242,11 @@
         <mark key="." line="0" column="23" />
         <mark key="^" line="0" column="23" />
       </file>
+      <file name="$USER_HOME$/cea/eaglobal-static/src/templates/tag.pug" timestamp="1552947419660">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
+      </file>
       <file name="$USER_HOME$/cea/Forum/Forum/node_modules/draft-convert/dist/draft-convert.js" timestamp="1551400881876">
         <mark key="'" line="1367" column="65" />
         <mark key="[" line="1373" column="32" />
@@ -391,6 +401,9 @@
         <mark key="]" line="4" column="9" />
         <mark key="^" line="4" column="9" />
         <mark key="." line="4" column="9" />
+      </file>
+      <file name="$USER_HOME$/cea/eaglobal-static/src/metalsmith/fonts/glyphs.json" timestamp="1552944207150">
+        <mark key="'" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/cea/parfit/migrations/20190221113243_clean_delete_person_down.sql" timestamp="1551830412102">
         <mark key="[" line="1" column="2" />
@@ -1051,13 +1064,13 @@
         <mark key="^" line="53" column="56" />
         <mark key="." line="53" column="56" />
       </file>
-      <file name="$USER_HOME$/cea/eaglobal-static/tasks/metalsmith.js" timestamp="1552943794177">
+      <file name="$USER_HOME$/cea/eaglobal-static/tasks/metalsmith.js" timestamp="1552947165514">
         <mark key="a" line="617" column="0" />
-        <mark key="'" line="115" column="24" />
-        <mark key="[" line="130" column="0" />
-        <mark key="]" line="130" column="0" />
-        <mark key="^" line="128" column="25" />
-        <mark key="." line="130" column="0" />
+        <mark key="'" line="604" column="9" />
+        <mark key="[" line="156" column="0" />
+        <mark key="]" line="156" column="0" />
+        <mark key="^" line="156" column="39" />
+        <mark key="." line="156" column="0" />
       </file>
       <file name="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server.js" timestamp="1552345620691">
         <mark key="[" line="76" column="32" />
@@ -1364,8 +1377,12 @@
         <mark key="." line="12" column="24" />
         <mark key="^" line="12" column="24" />
       </file>
-      <file name="$USER_HOME$/cea/eaglobal-static/src/templates/components/responsive-embed.pug" timestamp="1552943557019">
-        <mark key="'" line="11" column="22" />
+      <file name="$USER_HOME$/cea/eaglobal-static/src/templates/components/responsive-embed.pug" timestamp="1552944903939">
+        <mark key="'" line="2" column="20" />
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="13" column="26" />
+        <mark key="." line="12" column="0" />
+        <mark key="^" line="12" column="44" />
       </file>
       <file name="$USER_HOME$/cea/asana-project-summary/postgres/verify/init.sql" timestamp="1550103540193">
         <mark key="[" line="5" column="39" />
@@ -1545,12 +1562,12 @@
         <mark key="^" line="42" column="1" />
         <mark key="." line="42" column="1" />
       </file>
-      <file name="$USER_HOME$/cea/eaglobal-static/src/templates/layout/schema.pug" timestamp="1552943941817">
-        <mark key="'" line="87" column="23" />
-        <mark key="[" line="18" column="15" />
-        <mark key="]" line="18" column="14" />
-        <mark key="." line="18" column="14" />
-        <mark key="^" line="18" column="14" />
+      <file name="$USER_HOME$/cea/eaglobal-static/src/templates/layout/schema.pug" timestamp="1552946840137">
+        <mark key="'" line="17" column="0" />
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="0" />
+        <mark key="." line="21" column="0" />
+        <mark key="^" line="21" column="58" />
       </file>
       <file name="$USER_HOME$/cea/parfit/.circleci/config.yml" timestamp="1551476599316">
         <mark key="[" line="3" column="16" />
@@ -1579,46 +1596,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="22" column="14" filename="$USER_HOME$/cea/Forum/Vulcan/packages/vulcan-routing/lib/client/router.jsx" />
-      <jump line="23" column="9" filename="$USER_HOME$/cea/Forum/Vulcan/packages/vulcan-routing/lib/client/router.jsx" />
-      <jump line="24" column="6" filename="$USER_HOME$/cea/Forum/Vulcan/packages/vulcan-routing/lib/client/router.jsx" />
-      <jump line="17" column="18" filename="$USER_HOME$/cea/Forum/Vulcan/packages/vulcan-events-segment/lib/client/segment-client.js" />
-      <jump line="13" column="9" filename="$USER_HOME$/cea/Forum/Vulcan/packages/vulcan-events-ga/lib/client/ga.js" />
-      <jump line="53" column="6" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/Layout.jsx" />
-      <jump line="171" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/Layout.jsx" />
-      <jump line="170" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/Layout.jsx" />
-      <jump line="168" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/Layout.jsx" />
-      <jump line="145" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/Layout.jsx" />
-      <jump line="121" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/Layout.jsx" />
-      <jump line="115" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/Layout.jsx" />
-      <jump line="93" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/Layout.jsx" />
-      <jump line="90" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/Layout.jsx" />
-      <jump line="84" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/Layout.jsx" />
-      <jump line="75" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/Layout.jsx" />
-      <jump line="60" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/Layout.jsx" />
-      <jump line="52" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/Layout.jsx" />
-      <jump line="22" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/Layout.jsx" />
-      <jump line="20" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/Layout.jsx" />
-      <jump line="17" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/Layout.jsx" />
-      <jump line="10" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/Layout.jsx" />
-      <jump line="0" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/Layout.jsx" />
-      <jump line="13" column="2" filename="$USER_HOME$/cea/Forum/Vulcan/packages/vulcan-routing/lib/client/routing.jsx" />
-      <jump line="43" column="22" filename="$USER_HOME$/cea/Forum/Vulcan/packages/vulcan-routing/lib/client/routing.jsx" />
-      <jump line="58" column="24" filename="$USER_HOME$/cea/Forum/Vulcan/packages/vulcan-routing/lib/client/routing.jsx" />
-      <jump line="0" column="17" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/common/SearchBar.jsx" />
-      <jump line="212" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/common/SearchBar.jsx" />
-      <jump line="211" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/common/SearchBar.jsx" />
-      <jump line="207" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/common/SearchBar.jsx" />
-      <jump line="202" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/common/SearchBar.jsx" />
-      <jump line="170" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/common/SearchBar.jsx" />
-      <jump line="160" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/common/SearchBar.jsx" />
-      <jump line="157" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/common/SearchBar.jsx" />
-      <jump line="152" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/common/SearchBar.jsx" />
-      <jump line="141" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/common/SearchBar.jsx" />
-      <jump line="137" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/common/SearchBar.jsx" />
-      <jump line="131" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/common/SearchBar.jsx" />
-      <jump line="125" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/common/SearchBar.jsx" />
-      <jump line="121" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/common/SearchBar.jsx" />
       <jump line="117" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/common/SearchBar.jsx" />
       <jump line="109" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/common/SearchBar.jsx" />
       <jump line="112" column="45" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/common/SearchBar.jsx" />
@@ -1637,7 +1614,6 @@
       <jump line="107" column="0" filename="$USER_HOME$/cea/Forum/Vulcan/packages/vulcan-core/lib/modules/components/App.jsx" />
       <jump line="85" column="0" filename="$USER_HOME$/cea/Forum/Vulcan/packages/vulcan-core/lib/modules/components/App.jsx" />
       <jump line="5" column="9" filename="$USER_HOME$/cea/eaglobal-static/src/templates/layout/schema.pug" />
-      <jump line="17" column="0" filename="$USER_HOME$/cea/eaglobal-static/src/templates/layout/schema.pug" />
       <jump line="26" column="0" filename="$USER_HOME$/cea/eaglobal-static/src/templates/layout/schema.pug" />
       <jump line="36" column="0" filename="$USER_HOME$/cea/eaglobal-static/src/templates/layout/schema.pug" />
       <jump line="41" column="0" filename="$USER_HOME$/cea/eaglobal-static/src/templates/layout/schema.pug" />
@@ -1655,12 +1631,8 @@
       <jump line="787" column="0" filename="$USER_HOME$/cea/eaglobal-static/tasks/metalsmith.js" />
       <jump line="817" column="0" filename="$USER_HOME$/cea/eaglobal-static/tasks/metalsmith.js" />
       <jump line="111" column="20" filename="$USER_HOME$/cea/eaglobal-static/tasks/metalsmith.js" />
-      <jump line="22" column="47" filename="$USER_HOME$/cea/eaglobal-static/src/templates/layout/schema.pug" />
-      <jump line="87" column="23" filename="$USER_HOME$/cea/eaglobal-static/src/templates/layout/schema.pug" />
-      <jump line="12" column="25" filename="$USER_HOME$/cea/eaglobal-static/src/templates/components/responsive-embed.pug" />
       <jump line="11" column="22" filename="$USER_HOME$/cea/eaglobal-static/src/templates/components/responsive-embed.pug" />
       <jump line="617" column="0" filename="$USER_HOME$/cea/eaglobal-static/tasks/metalsmith.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/cea/eaglobal-static/tasks/metalsmith.js" />
       <jump line="84" column="0" filename="$USER_HOME$/cea/eaglobal-static/tasks/metalsmith.js" />
       <jump line="95" column="22" filename="$USER_HOME$/cea/eaglobal-static/tasks/metalsmith.js" />
       <jump line="648" column="12" filename="$USER_HOME$/cea/eaglobal-static/tasks/metalsmith.js" />
@@ -1674,11 +1646,56 @@
       <jump line="488" column="0" filename="$USER_HOME$/cea/eaglobal-static/tasks/metalsmith.js" />
       <jump line="234" column="0" filename="$USER_HOME$/cea/eaglobal-static/tasks/metalsmith.js" />
       <jump line="221" column="0" filename="$USER_HOME$/cea/eaglobal-static/tasks/metalsmith.js" />
-      <jump line="157" column="0" filename="$USER_HOME$/cea/eaglobal-static/tasks/metalsmith.js" />
       <jump line="143" column="0" filename="$USER_HOME$/cea/eaglobal-static/tasks/metalsmith.js" />
       <jump line="159" column="23" filename="$USER_HOME$/cea/eaglobal-static/tasks/metalsmith.js" />
       <jump line="146" column="18" filename="$USER_HOME$/cea/eaglobal-static/tasks/metalsmith.js" />
       <jump line="115" column="24" filename="$USER_HOME$/cea/eaglobal-static/tasks/metalsmith.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/cea/eaglobal-static/src/metalsmith/fonts/glyphs.json" />
+      <jump line="123" column="3" filename="$USER_HOME$/cea/eaglobal-static/tasks/metalsmith.js" />
+      <jump line="836" column="0" filename="$USER_HOME$/cea/eaglobal-static/tasks/metalsmith.js" />
+      <jump line="61" column="2" filename="$USER_HOME$/cea/eaglobal-static/tasks/metalsmith.js" />
+      <jump line="131" column="0" filename="$USER_HOME$/cea/eaglobal-static/tasks/metalsmith.js" />
+      <jump line="657" column="17" filename="$USER_HOME$/cea/eaglobal-static/tasks/metalsmith.js" />
+      <jump line="147" column="15" filename="$USER_HOME$/cea/eaglobal-static/tasks/metalsmith.js" />
+      <jump line="1" column="0" filename="$USER_HOME$/cea/eaglobal-static/tasks/metalsmith.js" />
+      <jump line="18" column="10" filename="$USER_HOME$/cea/eaglobal-static/src/templates/components/responsive-embed.pug" />
+      <jump line="12" column="15" filename="$USER_HOME$/cea/eaglobal-static/src/templates/components/responsive-embed.pug" />
+      <jump line="37" column="37" filename="$USER_HOME$/cea/eaglobal-static/src/templates/components/responsive-embed.pug" />
+      <jump line="2" column="20" filename="$USER_HOME$/cea/eaglobal-static/src/templates/components/responsive-embed.pug" />
+      <jump line="77" column="2" filename="$USER_HOME$/cea/eaglobal-static/tasks/metalsmith.js" />
+      <jump line="101" column="4" filename="$USER_HOME$/cea/eaglobal-static/tasks/metalsmith.js" />
+      <jump line="76" column="0" filename="$USER_HOME$/cea/eaglobal-static/tasks/metalsmith.js" />
+      <jump line="138" column="0" filename="$USER_HOME$/cea/eaglobal-static/tasks/metalsmith.js" />
+      <jump line="126" column="0" filename="$USER_HOME$/cea/eaglobal-static/tasks/metalsmith.js" />
+      <jump line="118" column="0" filename="$USER_HOME$/cea/eaglobal-static/tasks/metalsmith.js" />
+      <jump line="108" column="4" filename="$USER_HOME$/cea/eaglobal-static/tasks/metalsmith.js" />
+      <jump line="114" column="0" filename="$USER_HOME$/cea/eaglobal-static/tasks/metalsmith.js" />
+      <jump line="125" column="0" filename="$USER_HOME$/cea/eaglobal-static/tasks/metalsmith.js" />
+      <jump line="133" column="0" filename="$USER_HOME$/cea/eaglobal-static/tasks/metalsmith.js" />
+      <jump line="22" column="51" filename="$USER_HOME$/cea/eaglobal-static/src/templates/layout/schema.pug" />
+      <jump line="144" column="18" filename="$USER_HOME$/cea/eaglobal-static/tasks/metalsmith.js" />
+      <jump line="684" column="27" filename="$USER_HOME$/cea/eaglobal-static/tasks/metalsmith.js" />
+      <jump line="85" column="42" filename="$USER_HOME$/cea/eaglobal-static/src/templates/layout/schema.pug" />
+      <jump line="87" column="37" filename="$USER_HOME$/cea/eaglobal-static/src/templates/layout/schema.pug" />
+      <jump line="21" column="44" filename="$USER_HOME$/cea/eaglobal-static/src/templates/layout/schema.pug" />
+      <jump line="25" column="0" filename="$USER_HOME$/cea/eaglobal-static/src/templates/layout/schema.pug" />
+      <jump line="17" column="0" filename="$USER_HOME$/cea/eaglobal-static/src/templates/layout/schema.pug" />
+      <jump line="576" column="11" filename="$USER_HOME$/cea/eaglobal-static/tasks/metalsmith.js" />
+      <jump line="621" column="10" filename="$USER_HOME$/cea/eaglobal-static/tasks/metalsmith.js" />
+      <jump line="635" column="8" filename="$USER_HOME$/cea/eaglobal-static/tasks/metalsmith.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/cea/eaglobal-static/tasks/metalsmith.js" />
+      <jump line="12" column="0" filename="$USER_HOME$/cea/eaglobal-static/tasks/metalsmith.js" />
+      <jump line="42" column="0" filename="$USER_HOME$/cea/eaglobal-static/tasks/metalsmith.js" />
+      <jump line="60" column="0" filename="$USER_HOME$/cea/eaglobal-static/tasks/metalsmith.js" />
+      <jump line="63" column="0" filename="$USER_HOME$/cea/eaglobal-static/tasks/metalsmith.js" />
+      <jump line="75" column="0" filename="$USER_HOME$/cea/eaglobal-static/tasks/metalsmith.js" />
+      <jump line="82" column="0" filename="$USER_HOME$/cea/eaglobal-static/tasks/metalsmith.js" />
+      <jump line="106" column="0" filename="$USER_HOME$/cea/eaglobal-static/tasks/metalsmith.js" />
+      <jump line="107" column="23" filename="$USER_HOME$/cea/eaglobal-static/tasks/metalsmith.js" />
+      <jump line="157" column="8" filename="$USER_HOME$/cea/eaglobal-static/tasks/metalsmith.js" />
+      <jump line="655" column="17" filename="$USER_HOME$/cea/eaglobal-static/tasks/metalsmith.js" />
+      <jump line="149" column="8" filename="$USER_HOME$/cea/eaglobal-static/tasks/metalsmith.js" />
+      <jump line="604" column="9" filename="$USER_HOME$/cea/eaglobal-static/tasks/metalsmith.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1789,7 +1806,7 @@
         <text>nnP</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>the</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -1821,10 +1838,10 @@
         </keys>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxwcm9jZXNzXD4=</text>
+        <text encoding="base64">XDxzaG9ydGNvZGVzXD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgY29uc29sZS5sb2coJ29lbWJlZCBodG1sIG5vdCBtYXRjaGluZywgaHRtbDonLCBvZW1iZWQuaHRtbCkK</text>
+      <register name="0" type="4">
+        <text>getOembedHref</text>
       </register>
       <register name="p" type="4">
         <keys>
@@ -1837,36 +1854,19 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Pj4+Pj4+PiBtYXN0ZXIK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
-        <text>{
-            engine:'pug',
-            directory: '../src/templates',
-            pretty: process.env.NODE_ENV === 'development' ? true : false,
-            cache: true,
-            typogr,
-            truncate,
-            url,
-            moment,
-            strip,
-            jsFiles,
-            slugify:slug,
-            // collectionSlugs,
-            // collectionInfo,
-            embedHostnames,
-            contentfulImage,
-            environment: process.env.NODE_ENV
-        }</text>
+      <register name="2" type="2">
+        <text encoding="base64">PDw8PDw8PCBIRUFECiAgaW5jbHVkZSAuL2xheW91dC9oZWFkZXIKICAraGVhZGVyKHt0aXRsZTogZmFsc2V9KQogICtoZWFkZXJUZXh0KCdUYWc6ICcrdGl0bGUpCgpibG9jayBwcmVwZW5kIGNvbnRlbnQKICAtIHZhciBmaWxlcyA9IFtdCiAgZWFjaCBmaWxlIGluIGNvbGxlY3Rpb25zWyd0YWxrcyddCiAgICBpZiBmaWxlLnRhZ3MKICAgICAgZWFjaCB0YWcgaW4gZmlsZS50YWdzCiAgICAgICAgaWYgdGFnLmZpZWxkcy5zbHVnID09PSBzbHVnCiAgICAgICAgICAtIGZpbGVzLnB1c2goZmlsZSkKPT09PT09PQo=</text>
       </register>
       <register name="r" type="4">
         <text>ddn</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">Pj4+Pj4+PiBtYXN0ZXIK</text>
       </register>
       <register name="s" type="4">
         <keys>
@@ -1905,19 +1905,19 @@
         </keys>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKCdoZWxsbyBidWlsZHNtaXRoIGZpbGUnLCBmaWxlKQo=</text>
+        <text encoding="base64">Pj4+Pj4+PiBtYXN0ZXIK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQlkaXYK</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECiAgaW5jbHVkZSAuL2NvbXBvbmVudHMvY2FyZHMKICAjY29udGVudAogICAgc2VjdGlvbi5ldmVudC1kZXRhaWxzLnNlY3Rpb24tbm8tZGl2aWRlcgogICAgICAuZXZlbnQtZGV0YWlscy1kYXRlcwogICAgICAgIGluY2x1ZGUgLi9oZWxwZXJzL2Zvcm1hdC1ldmVudC1kZXRhaWxzCiAgICAgICAgK2Zvcm1hdEV2ZW50RGF0ZXMoKQogICAgICAuZXZlbnQtZGV0YWlscy1sb2NhdGlvbgogICAgICAgICtmb3JtYXRFdmVudExvY2F0aW9uKCkKICAgICAgLmV2ZW50LWRldGFpbHMtYXBwbGljYXRpb24tbGluawogICAgICAgIGlmICFhcHBsaWNhdGlvbnNDbG9zZWQgJiYgYXBwbGljYXRpb25MaW5rCiAgICAgICAgICAucm93CiAgICAgICAgICAgIC5jb2wtc20tNi5jb2wtc20tb2Zmc2V0LTMuY29sLW1kLTQuY29sLW1kLW9mZnNldC00CiAgICAgICAgICAgICAgYS5idG4uYnRuLXByaW1hcnkuYnRuLWJsb2NrKGhyZWY9YXBwbGljYXRpb25MaW5rKQogICAgICAgICAgICAgICAgaWYgc2x1Z2lmeShldmVudFR5cGUpID09PSAnZWFneCcKICAgICAgICAgICAgICAgICAgfCBSZWdpc3RlciBub3chCiAgICAgICAgICAgICAgICBlbHNlCiAgICAgICAgICAgICAgICAgIHwgQXBwbHkgbm93IQogICAgICAgIGlmIGFwcGxpY2F0aW9uc0Nsb3NlZCAmJiBtb21lbnQoZW5kRGF0ZSkuaXNBZnRlcihtb21lbnQoKSwgJ2RheScpCiAgICAgICAgICAgIGVtIEFwcGxpY2F0aW9ucyBjbG9zZWQKICAgIGlmIGRlc2NyaXB0aW9uIHx8IGNvbnRhY3RFbWFpbAogICAgICBzZWN0aW9uLmV2ZW50LWJhc2ljLWluZm8uc2VjdGlvbi1kaXZpZGVyCiAgICAgICAgLnJvdwogICAgICAgICAgLmNvbC1sZy0xMC5jb2wtbGctb2Zmc2V0LTEuY29sLW1kLTguY29sLW1kLW9mZnNldC0yCiAgICAgICAgICAgIGlmIGRlc2NyaXB0aW9uCiAgICAgICAgICAgICAgLmV2ZW50LWJhc2ljLWluZm8tZGVzY3JpcHRpb24KICAgICAgICAgICAgICAgICE9IGNvbnRlbnRzCiAgICAgICAgICAgIGlmIG1vbWVudChlbmREYXRlKS5hZGQoMTQsJ2RheXMnKS5pc0FmdGVyKG1vbWVudCgpLCdkYXknKSAmJiBjb250YWN0RW1haWwKICAgICAgICAgICAgICAuZXZlbnQtYmFzaWMtaW5mby1jb250YWN0CiAgICAgICAgICAgICAgICB8IEZvciBtb3JlIGluZm9ybWF0aW9uIGVtYWlsI3snICd9CiAgICAgICAgICAgICAgICBhKGhyZWY9YG1haWx0bzpgKyBjb250YWN0RW1haWwpIT0gY29udGFjdEVtYWlsCiAgICAvLy0gR2V0IGFsbCBTcGVha2VycyBhc3NvY2lhdGVkIHdpdGggdGhpcyBldmVudAogICAgaWYgZmVhdHVyZWRTcGVha2VycyAmJiBmZWF0dXJlZFNwZWFrZXJzLmxlbmd0aCA+IDAKICAgICAgc2VjdGlvbi5ldmVudC1zcGVha2Vycy5zZWN0aW9uLWRpdmlkZXIKICAgICAgICBoMi5ldmVudC1zcGVha2Vycy10aXRsZSBGZWF0dXJlZCBzcGVha2VycwogICAgICAgIC5yb3cKICAgICAgICAgIC0gdmFyIHNwZWFrZXJXaWR0aHMgPSBbJ2NvbC1zbS02JywnY29sLXNtLW9mZnNldC0zJ10KICAgICAgICAgIGlmIGZlYXR1cmVkU3BlYWtlcnMubGVuZ3RoID09PSAyCiAgICAgICAgICAgIC0gc3BlYWtlcldpZHRocyA9IFsnY29sLXNtLTYnXQogICAgICAgICAgaWYgZmVhdHVyZWRTcGVha2Vycy5sZW5ndGggPT09IDMKICAgICAgICAgICAgLSBzcGVha2VyV2lkdGhzID0gWydjb2wtc20tNCddCiAgICAgICAgICBpZiBmZWF0dXJlZFNwZWFrZXJzLmxlbmd0aCA9PT0gNAogICAgICAgICAgICAtIHNwZWFrZXJXaWR0aHMgPSBbJ2NvbC1zbS0zJ10KICAgICAgICAgIGlmIGZlYXR1cmVkU3BlYWtlcnMubGVuZ3RoID49IDUKICAgICAgICAgICAgLSBzcGVha2VyV2lkdGhzID0gWydjb2wtc20tNCddCj09PT09PT0K</text>
       </register>
       <register name="u" type="4">
         <text>uu</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdwcm9wcy5yb3V0ZXMnLCB0aGlzLnByb3BzLnJvdXRlcykK</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECiAgaW5jbHVkZSAuL2xheW91dC9oZWFkZXIKICAraGVhZGVyKHt0aXRsZTogZmFsc2V9KQogICtoZWFkZXJUZXh0KCdUYWc6ICcrdGl0bGUpCgpibG9jayBwcmVwZW5kIGNvbnRlbnQKICAtIHZhciBmaWxlcyA9IFtdCiAgZWFjaCBmaWxlIGluIGNvbGxlY3Rpb25zWyd0YWxrcyddCiAgICBpZiBmaWxlLnRhZ3MKICAgICAgZWFjaCB0YWcgaW4gZmlsZS50YWdzCiAgICAgICAgaWYgdGFnLmZpZWxkcy5zbHVnID09PSBzbHVnCiAgICAgICAgICAtIGZpbGVzLnB1c2goZmlsZSkKPT09PT09PQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKCcgIGNvbnRleHQnLCBjb250ZXh0KQo=</text>
+        <text encoding="base64">ICAgIC8vIG9wdGlvbnMgdXNlZCBpbiBsYXlvdXQgY29udmVyc2lvbgo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1929,19 +1929,19 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ2NvbnRleHQnLCBjb250ZXh0KQo=</text>
+        <text encoding="base64">ICAgIC8vIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">IyBUT0RPOyBtaW5pbWl6ZSBkaWZmIGJ5IHJlbW92aW5nIHRoaXMK</text>
+        <text encoding="base64">ICAgIC8vIFRPRE87IGRvYwo=</text>
       </register>
       <register name=":" type="4">
-        <text>w!</text>
+        <text>action FindInPath</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxwcm9jZXNzXD4=</last-search>
+      <last-search encoding="base64">XDxzaG9ydGNvZGVzXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxwcm9jZXNzXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxzaG9ydGNvZGVzXD4=</last-pattern>
       <last-replace>let</last-replace>
       <last-substitute>const</last-substitute>
       <last-dir>1</last-dir>
@@ -1949,14 +1949,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxlbmRfZGF0ZVw+</entry>
-        <entry encoding="base64">XDxyZW1vdmVCYWREYkNsYWltc1w+</entry>
-        <entry encoding="base64">XDxjb25maXJtUmVwb3J0VG90YWxcPg==</entry>
-        <entry>^</entry>
-        <entry>onup</entry>
-        <entry>onUpd</entry>
-        <entry encoding="base64">XDxBcHBSb3V0ZXNcPg==</entry>
-        <entry encoding="base64">XDxvcHRpb25zXD4=</entry>
         <entry encoding="base64">XDxnb29nbGVBbmF0aWNzVHJhY2tQYWdlXD4=</entry>
         <entry encoding="base64">XDxnZXRSZW5kZXJDb250ZXh0XD4=</entry>
         <entry encoding="base64">XDxyb3V0ZXJVcGRhdGVDYWxsYmFja1w+</entry>
@@ -1964,11 +1956,19 @@
         <entry>metalsm</entry>
         <entry>pug</entry>
         <entry>built sear</entry>
-        <entry encoding="base64">XDxvZW1iZWRcPg==</entry>
         <entry encoding="base64">XDxodG1sXD4=</entry>
-        <entry encoding="base64">XDxzaG9ydGNvZGVPcHRzXD4=</entry>
         <entry encoding="base64">XDx0eXBvZ3JcPg==</entry>
         <entry encoding="base64">XDxwcm9jZXNzXD4=</entry>
+        <entry encoding="base64">XDx1cmxcPg==</entry>
+        <entry encoding="base64">XDxnZXRPZW1iZWRIcmVmXD4=</entry>
+        <entry encoding="base64">XDxvZW1iZWRcPg==</entry>
+        <entry>responsive</entry>
+        <entry>oembe</entry>
+        <entry>console</entry>
+        <entry>TODO;</entry>
+        <entry encoding="base64">XDxsYXlvdXRPcHRzXD4=</entry>
+        <entry encoding="base64">XDxzaG9ydGNvZGVPcHRzXD4=</entry>
+        <entry encoding="base64">XDxzaG9ydGNvZGVzXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>12</entry>
@@ -1984,13 +1984,13 @@
         <entry>371</entry>
         <entry>22</entry>
         <entry>64</entry>
-        <entry>action GotoDeclaration</entry>
         <entry>action CommentByLineComment</entry>
-        <entry>action GotoFile</entry>
-        <entry>action FindInPath</entry>
         <entry>action Back</entry>
+        <entry>action GotoDeclaration</entry>
         <entry>action NextSplitter</entry>
+        <entry>action GotoFile</entry>
         <entry>w!</entry>
+        <entry>action FindInPath</entry>
       </history-cmd>
       <history-expr />
       <history-input />
