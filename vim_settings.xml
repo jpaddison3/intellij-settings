@@ -1038,8 +1038,8 @@
         <mark key="^" line="348" column="3" />
         <mark key="." line="357" column="45" />
       </file>
-      <file name="$USER_HOME$/cea/unfuck-eoy-receipts/index.js" timestamp="1553553940168">
-        <mark key="'" line="226" column="1" />
+      <file name="$USER_HOME$/cea/unfuck-eoy-receipts/index.js" timestamp="1553554181856">
+        <mark key="'" line="0" column="0" />
         <mark key="[" line="10" column="0" />
         <mark key="]" line="10" column="0" />
         <mark key="^" line="233" column="1" />
@@ -1089,7 +1089,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="134" column="0" filename="$USER_HOME$/cea/unfuck-eoy-receipts/node_modules/knex/src/client.js" />
       <jump line="147" column="0" filename="$USER_HOME$/cea/unfuck-eoy-receipts/node_modules/knex/src/client.js" />
       <jump line="156" column="0" filename="$USER_HOME$/cea/unfuck-eoy-receipts/node_modules/knex/src/client.js" />
       <jump line="160" column="0" filename="$USER_HOME$/cea/unfuck-eoy-receipts/node_modules/knex/src/client.js" />
@@ -1189,6 +1188,7 @@
       <jump line="226" column="0" filename="$USER_HOME$/cea/parfit/node_modules/knex/lib/client.js" />
       <jump line="266" column="0" filename="$USER_HOME$/cea/parfit/node_modules/knex/lib/client.js" />
       <jump line="270" column="0" filename="$USER_HOME$/cea/parfit/node_modules/knex/lib/client.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/cea/unfuck-eoy-receipts/index.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
