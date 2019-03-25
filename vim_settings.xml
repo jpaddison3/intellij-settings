@@ -428,12 +428,12 @@
         <mark key="^" line="2" column="26" />
         <mark key="." line="95" column="18" />
       </file>
-      <file name="$USER_HOME$/cea/parfit/package.json" timestamp="1553023193465">
-        <mark key="'" line="52" column="15" />
-        <mark key="[" line="52" column="14" />
-        <mark key="]" line="52" column="35" />
+      <file name="$USER_HOME$/cea/parfit/package.json" timestamp="1553535462908">
+        <mark key="'" line="89" column="8" />
+        <mark key="[" line="114" column="16" />
+        <mark key="]" line="114" column="17" />
         <mark key="^" line="51" column="20" />
-        <mark key="." line="51" column="20" />
+        <mark key="." line="114" column="17" />
       </file>
       <file name="$USER_HOME$/cea/aletheia/app/containers/Lotteries/LotteriesHome/index.jsx" timestamp="1544066152790">
         <mark key="'" line="29" column="41" />
@@ -1061,8 +1061,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/lib/components.js" />
-      <jump line="127" column="10" filename="$USER_HOME$/cea/parfit/services/payments/workers/gift-aid-sheets/index.js" />
       <jump line="128" column="23" filename="$USER_HOME$/cea/parfit/services/payments/workers/gift-aid-sheets/index.js" />
       <jump line="10" column="0" filename="$USER_HOME$/cea/parfit/services/payments/workers/gift-aid-sheets/index.js" />
       <jump line="282" column="9" filename="$USER_HOME$/cea/parfit/services/payments/handlers/xero/helpers.js" />
@@ -1161,6 +1159,8 @@
       <jump line="69" column="15" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/editor/EditUrl.jsx" />
       <jump line="7" column="7" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/editor/EditUrl.jsx" />
       <jump line="76" column="41" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/editor/EditUrl.jsx" />
+      <jump line="13" column="42" filename="$USER_HOME$/cea/parfit/package.json" />
+      <jump line="89" column="8" filename="$USER_HOME$/cea/parfit/package.json" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1303,7 +1303,7 @@
         </keys>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxJbnB1dFw+</text>
+        <text>.env</text>
       </register>
       <register name="0" type="4">
         <text>shareWithUsers</text>
@@ -1400,13 +1400,13 @@
         <text>.key()</text>
       </register>
       <register name=":" type="4">
-        <text>w!</text>
+        <text>action FindInPath</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxJbnB1dFw+</last-search>
+      <last-search>.env</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxJbnB1dFw+</last-pattern>
+      <last-pattern>.env</last-pattern>
       <last-replace>let</last-replace>
       <last-substitute encoding="base64">XDx3aXRoVXNlclw+</last-substitute>
       <last-dir>1</last-dir>
@@ -1414,7 +1414,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxwcmV2X3BsZWRnZV9pbmNvbWVfcGVyaW9kXD4=</entry>
         <entry encoding="base64">XDxnZXRJbnZvaWNlc1w+</entry>
         <entry encoding="base64">XDxJbnZvaWNlc1w+</entry>
         <entry encoding="base64">XDxsaW5lSXRlbXNGaWx0ZXJcPg==</entry>
@@ -1434,6 +1433,7 @@
         <entry>Full</entry>
         <entry>share</entry>
         <entry encoding="base64">XDxJbnB1dFw+</entry>
+        <entry>.env</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL2NvbnN0L2xldC8=</entry>
@@ -1451,11 +1451,11 @@
         <entry>action Refactorings.QuickListPopupAction</entry>
         <entry>.,.+2action NextSplitter</entry>
         <entry>action CommentByLineComment</entry>
-        <entry>action FindInPath</entry>
         <entry>action NextSplitter</entry>
         <entry>action GotoFile</entry>
         <entry>action GotoDeclaration</entry>
         <entry>w!</entry>
+        <entry>action FindInPath</entry>
       </history-cmd>
       <history-expr />
       <history-input />
