@@ -110,14 +110,6 @@
         <mark key="." line="69" column="0" />
         <mark key="^" line="69" column="0" />
       </file>
-      <file name="$USER_HOME$/cea/parfit/helpers/knex.js" timestamp="1553539696172">
-        <mark key="[" line="21" column="23" />
-        <mark key="]" line="21" column="35" />
-      </file>
-      <file name="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/posts/PostsNoResults.jsx" timestamp="1553110089679">
-        <mark key="[" line="4" column="6" />
-        <mark key="]" line="4" column="19" />
-      </file>
       <file name="$USER_HOME$/cea/parfit/db_tests/median_tests.sql" timestamp="1553023831768">
         <mark key="'" line="0" column="0" />
       </file>
@@ -182,10 +174,6 @@
         <mark key="^" line="15" column="69" />
         <mark key="." line="15" column="69" />
       </file>
-      <file name="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/lib/collections/posts/custom_fields.js" timestamp="1553466045524">
-        <mark key="[" line="738" column="2" />
-        <mark key="]" line="738" column="15" />
-      </file>
       <file name="$USER_HOME$/cea/centreforeffectivealtruism-org/src/layouts/layout/head.pug" timestamp="1550109620176">
         <mark key="'" line="20" column="52" />
         <mark key="[" line="42" column="36" />
@@ -235,11 +223,12 @@
         <mark key="^" line="3" column="29" />
         <mark key="." line="3" column="29" />
       </file>
-      <file name="$USER_HOME$/cea/parfit/db/connection.js" timestamp="1553543290042">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="^" line="15" column="10" />
-        <mark key="." line="7" column="0" />
+      <file name="$USER_HOME$/cea/parfit/db/connection.js" timestamp="1553554143112">
+        <mark key="'" line="7" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="^" line="15" column="6" />
+        <mark key="." line="15" column="6" />
       </file>
       <file name="$USER_HOME$/cea/unfuck-eoy-receipts/blacklist" timestamp="1553539557382">
         <mark key="[" line="0" column="24" />
@@ -267,7 +256,7 @@
         <mark key="^" line="12" column="16" />
         <mark key="." line="12" column="19" />
       </file>
-      <file name="$USER_HOME$/cea/parfit/node_modules/knex/src/client.js" timestamp="1553543892046">
+      <file name="$USER_HOME$/cea/parfit/node_modules/knex/src/client.js" timestamp="1553552815311">
         <mark key="[" line="30" column="0" />
         <mark key="]" line="30" column="42" />
         <mark key="." line="31" column="0" />
@@ -489,12 +478,13 @@
         <mark key="^" line="13" column="47" />
         <mark key="." line="13" column="47" />
       </file>
-      <file name="$USER_HOME$/cea/parfit/node_modules/knex/lib/client.js" timestamp="1553543935502">
-        <mark key="'" line="192" column="0" />
-        <mark key="[" line="225" column="2" />
-        <mark key="]" line="225" column="13" />
-        <mark key="^" line="226" column="36" />
-        <mark key="." line="226" column="36" />
+      <file name="$USER_HOME$/cea/parfit/node_modules/knex/lib/client.js" timestamp="1553554161673">
+        <mark key="a" line="127" column="0" />
+        <mark key="'" line="270" column="0" />
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="^" line="125" column="43" />
+        <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/cea/Forum/dump/loop-region.bash" timestamp="1539736766461">
         <mark key="'" line="22" column="26" />
@@ -503,8 +493,8 @@
         <mark key="^" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/cea/parfit/services/payments/workers/xero-fee-fix.js" timestamp="1553537690651">
-        <mark key="'" line="145" column="33" />
+      <file name="$USER_HOME$/cea/parfit/services/payments/workers/xero-fee-fix.js" timestamp="1553552591281">
+        <mark key="'" line="39" column="10" />
         <mark key="[" line="18" column="36" />
         <mark key="]" line="19" column="0" />
         <mark key="." line="19" column="0" />
@@ -642,6 +632,9 @@
         <mark key="." line="73" column="0" />
         <mark key="^" line="102" column="69" />
       </file>
+      <file name="$USER_HOME$/cea/parfit/node_modules/knex/lib/index.js" timestamp="1553552666080">
+        <mark key="'" line="50" column="87" />
+      </file>
       <file name="$USER_HOME$/cea/grants-applications/checkForEmails.js" timestamp="1536579267120">
         <mark key="'" line="61" column="8" />
         <mark key="[" line="58" column="24" />
@@ -662,10 +655,6 @@
         <mark key="]" line="23" column="0" />
         <mark key="^" line="0" column="6" />
         <mark key="." line="23" column="0" />
-      </file>
-      <file name="$USER_HOME$/cea/parfit/db/index.js" timestamp="1553541914437">
-        <mark key="[" line="0" column="56" />
-        <mark key="]" line="0" column="75" />
       </file>
       <file name="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/posts/PostsList.jsx" timestamp="1553118087104">
         <mark key="'" line="25" column="2" />
@@ -1049,12 +1038,12 @@
         <mark key="^" line="348" column="3" />
         <mark key="." line="357" column="45" />
       </file>
-      <file name="$USER_HOME$/cea/unfuck-eoy-receipts/index.js" timestamp="1553543800203">
-        <mark key="'" line="95" column="0" />
-        <mark key="[" line="7" column="33" />
-        <mark key="]" line="8" column="40" />
-        <mark key="^" line="8" column="40" />
-        <mark key="." line="8" column="40" />
+      <file name="$USER_HOME$/cea/unfuck-eoy-receipts/index.js" timestamp="1553553940168">
+        <mark key="'" line="226" column="1" />
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="^" line="233" column="1" />
+        <mark key="." line="10" column="0" />
       </file>
       <file name="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/scripts/fixUnnapprovedAuthors.js" timestamp="1548294736894">
         <mark key="'" line="4" column="1" />
@@ -1100,36 +1089,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/cea/unfuck-eoy-receipts/index.js" />
-      <jump line="4" column="0" filename="$USER_HOME$/cea/unfuck-eoy-receipts/index.js" />
-      <jump line="11" column="0" filename="$USER_HOME$/cea/unfuck-eoy-receipts/index.js" />
-      <jump line="16" column="0" filename="$USER_HOME$/cea/unfuck-eoy-receipts/index.js" />
-      <jump line="20" column="0" filename="$USER_HOME$/cea/unfuck-eoy-receipts/index.js" />
-      <jump line="22" column="0" filename="$USER_HOME$/cea/unfuck-eoy-receipts/index.js" />
-      <jump line="33" column="0" filename="$USER_HOME$/cea/unfuck-eoy-receipts/index.js" />
-      <jump line="37" column="0" filename="$USER_HOME$/cea/unfuck-eoy-receipts/index.js" />
-      <jump line="46" column="0" filename="$USER_HOME$/cea/unfuck-eoy-receipts/index.js" />
-      <jump line="57" column="0" filename="$USER_HOME$/cea/unfuck-eoy-receipts/index.js" />
-      <jump line="69" column="0" filename="$USER_HOME$/cea/unfuck-eoy-receipts/index.js" />
-      <jump line="71" column="0" filename="$USER_HOME$/cea/unfuck-eoy-receipts/index.js" />
-      <jump line="73" column="0" filename="$USER_HOME$/cea/unfuck-eoy-receipts/index.js" />
-      <jump line="99" column="0" filename="$USER_HOME$/cea/unfuck-eoy-receipts/index.js" />
-      <jump line="117" column="0" filename="$USER_HOME$/cea/unfuck-eoy-receipts/index.js" />
-      <jump line="112" column="28" filename="$USER_HOME$/cea/unfuck-eoy-receipts/node_modules/knex/src/client.js" />
-      <jump line="62" column="0" filename="$USER_HOME$/cea/unfuck-eoy-receipts/node_modules/knex/src/client.js" />
-      <jump line="70" column="17" filename="$USER_HOME$/cea/unfuck-eoy-receipts/node_modules/knex/src/client.js" />
-      <jump line="73" column="0" filename="$USER_HOME$/cea/unfuck-eoy-receipts/node_modules/knex/src/client.js" />
-      <jump line="77" column="0" filename="$USER_HOME$/cea/unfuck-eoy-receipts/node_modules/knex/src/client.js" />
-      <jump line="81" column="0" filename="$USER_HOME$/cea/unfuck-eoy-receipts/node_modules/knex/src/client.js" />
-      <jump line="85" column="0" filename="$USER_HOME$/cea/unfuck-eoy-receipts/node_modules/knex/src/client.js" />
-      <jump line="89" column="0" filename="$USER_HOME$/cea/unfuck-eoy-receipts/node_modules/knex/src/client.js" />
-      <jump line="93" column="0" filename="$USER_HOME$/cea/unfuck-eoy-receipts/node_modules/knex/src/client.js" />
-      <jump line="97" column="0" filename="$USER_HOME$/cea/unfuck-eoy-receipts/node_modules/knex/src/client.js" />
-      <jump line="101" column="0" filename="$USER_HOME$/cea/unfuck-eoy-receipts/node_modules/knex/src/client.js" />
-      <jump line="105" column="0" filename="$USER_HOME$/cea/unfuck-eoy-receipts/node_modules/knex/src/client.js" />
-      <jump line="109" column="0" filename="$USER_HOME$/cea/unfuck-eoy-receipts/node_modules/knex/src/client.js" />
-      <jump line="113" column="0" filename="$USER_HOME$/cea/unfuck-eoy-receipts/node_modules/knex/src/client.js" />
-      <jump line="128" column="0" filename="$USER_HOME$/cea/unfuck-eoy-receipts/node_modules/knex/src/client.js" />
       <jump line="134" column="0" filename="$USER_HOME$/cea/unfuck-eoy-receipts/node_modules/knex/src/client.js" />
       <jump line="147" column="0" filename="$USER_HOME$/cea/unfuck-eoy-receipts/node_modules/knex/src/client.js" />
       <jump line="156" column="0" filename="$USER_HOME$/cea/unfuck-eoy-receipts/node_modules/knex/src/client.js" />
@@ -1142,7 +1101,6 @@
       <jump line="4" column="14" filename="$USER_HOME$/cea/unfuck-eoy-receipts/node_modules/knex/lib/client.js" />
       <jump line="226" column="4" filename="$USER_HOME$/cea/unfuck-eoy-receipts/node_modules/knex/lib/client.js" />
       <jump line="95" column="0" filename="$USER_HOME$/cea/unfuck-eoy-receipts/index.js" />
-      <jump line="2" column="18" filename="$USER_HOME$/cea/parfit/node_modules/knex/lib/client.js" />
       <jump line="3" column="0" filename="$USER_HOME$/cea/parfit/node_modules/knex/lib/client.js" />
       <jump line="5" column="0" filename="$USER_HOME$/cea/parfit/node_modules/knex/lib/client.js" />
       <jump line="7" column="0" filename="$USER_HOME$/cea/parfit/node_modules/knex/lib/client.js" />
@@ -1191,15 +1149,46 @@
       <jump line="102" column="0" filename="$USER_HOME$/cea/parfit/node_modules/knex/lib/client.js" />
       <jump line="104" column="0" filename="$USER_HOME$/cea/parfit/node_modules/knex/lib/client.js" />
       <jump line="111" column="0" filename="$USER_HOME$/cea/parfit/node_modules/knex/lib/client.js" />
-      <jump line="126" column="0" filename="$USER_HOME$/cea/parfit/node_modules/knex/lib/client.js" />
+      <jump line="238" column="0" filename="$USER_HOME$/cea/parfit/node_modules/knex/lib/client.js" />
+      <jump line="227" column="0" filename="$USER_HOME$/cea/parfit/node_modules/knex/lib/client.js" />
+      <jump line="16" column="0" filename="$USER_HOME$/cea/parfit/db/connection.js" />
+      <jump line="7" column="0" filename="$USER_HOME$/cea/parfit/db/connection.js" />
+      <jump line="239" column="0" filename="$USER_HOME$/cea/parfit/node_modules/knex/lib/client.js" />
+      <jump line="228" column="0" filename="$USER_HOME$/cea/parfit/node_modules/knex/lib/client.js" />
+      <jump line="192" column="0" filename="$USER_HOME$/cea/parfit/node_modules/knex/lib/client.js" />
+      <jump line="189" column="0" filename="$USER_HOME$/cea/parfit/node_modules/knex/lib/client.js" />
+      <jump line="183" column="0" filename="$USER_HOME$/cea/parfit/node_modules/knex/lib/client.js" />
+      <jump line="347" column="1" filename="$USER_HOME$/cea/parfit/node_modules/knex/lib/client.js" />
+      <jump line="127" column="0" filename="$USER_HOME$/cea/parfit/node_modules/knex/lib/client.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/cea/parfit/node_modules/knex/lib/client.js" />
+      <jump line="151" column="2" filename="$USER_HOME$/cea/parfit/node_modules/knex/lib/client.js" />
       <jump line="163" column="0" filename="$USER_HOME$/cea/parfit/node_modules/knex/lib/client.js" />
       <jump line="168" column="0" filename="$USER_HOME$/cea/parfit/node_modules/knex/lib/client.js" />
       <jump line="182" column="0" filename="$USER_HOME$/cea/parfit/node_modules/knex/lib/client.js" />
-      <jump line="189" column="0" filename="$USER_HOME$/cea/parfit/node_modules/knex/lib/client.js" />
-      <jump line="275" column="0" filename="$USER_HOME$/cea/parfit/node_modules/knex/lib/client.js" />
-      <jump line="238" column="0" filename="$USER_HOME$/cea/parfit/node_modules/knex/lib/client.js" />
-      <jump line="227" column="0" filename="$USER_HOME$/cea/parfit/node_modules/knex/lib/client.js" />
-      <jump line="192" column="0" filename="$USER_HOME$/cea/parfit/node_modules/knex/lib/client.js" />
+      <jump line="21" column="6" filename="$USER_HOME$/cea/parfit/services/payments/workers/xero-fee-fix.js" />
+      <jump line="39" column="10" filename="$USER_HOME$/cea/parfit/services/payments/workers/xero-fee-fix.js" />
+      <jump line="20" column="4" filename="$USER_HOME$/cea/parfit/node_modules/knex/lib/index.js" />
+      <jump line="63" column="14" filename="$USER_HOME$/cea/parfit/node_modules/knex/lib/index.js" />
+      <jump line="22" column="4" filename="$USER_HOME$/cea/parfit/node_modules/knex/lib/index.js" />
+      <jump line="49" column="14" filename="$USER_HOME$/cea/parfit/node_modules/knex/lib/index.js" />
+      <jump line="50" column="87" filename="$USER_HOME$/cea/parfit/node_modules/knex/lib/index.js" />
+      <jump line="232" column="42" filename="$USER_HOME$/cea/unfuck-eoy-receipts/index.js" />
+      <jump line="13" column="0" filename="$USER_HOME$/cea/unfuck-eoy-receipts/index.js" />
+      <jump line="126" column="0" filename="$USER_HOME$/cea/parfit/node_modules/knex/lib/client.js" />
+      <jump line="229" column="4" filename="$USER_HOME$/cea/parfit/node_modules/knex/lib/client.js" />
+      <jump line="275" column="4" filename="$USER_HOME$/cea/parfit/node_modules/knex/lib/client.js" />
+      <jump line="9" column="6" filename="$USER_HOME$/cea/unfuck-eoy-receipts/index.js" />
+      <jump line="10" column="22" filename="$USER_HOME$/cea/unfuck-eoy-receipts/index.js" />
+      <jump line="11" column="30" filename="$USER_HOME$/cea/unfuck-eoy-receipts/index.js" />
+      <jump line="168" column="31" filename="$USER_HOME$/cea/unfuck-eoy-receipts/index.js" />
+      <jump line="233" column="15" filename="$USER_HOME$/cea/unfuck-eoy-receipts/index.js" />
+      <jump line="226" column="1" filename="$USER_HOME$/cea/unfuck-eoy-receipts/index.js" />
+      <jump line="2" column="0" filename="$USER_HOME$/cea/parfit/node_modules/knex/lib/client.js" />
+      <jump line="101" column="0" filename="$USER_HOME$/cea/parfit/node_modules/knex/lib/client.js" />
+      <jump line="124" column="0" filename="$USER_HOME$/cea/parfit/node_modules/knex/lib/client.js" />
+      <jump line="226" column="0" filename="$USER_HOME$/cea/parfit/node_modules/knex/lib/client.js" />
+      <jump line="266" column="0" filename="$USER_HOME$/cea/parfit/node_modules/knex/lib/client.js" />
+      <jump line="270" column="0" filename="$USER_HOME$/cea/parfit/node_modules/knex/lib/client.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1310,7 +1299,7 @@
         <text>nnP</text>
       </register>
       <register name="-" type="4">
-        <text>hi</text>
+        <text encoding="base64">dHJ1ZS8vIA==</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -1342,10 +1331,10 @@
         </keys>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxjb25zb2xlXD4=</text>
+        <text>console</text>
       </register>
-      <register name="0" type="4">
-        <text>poolDefaults</text>
+      <register name="0" type="2">
+        <text encoding="base64">cmVxdWlyZSgnZG90ZW52JykuY29uZmlnKHsgc2lsZW50OiB0cnVlIH0pCgovLyBwYXJzZSBEQVRBQkFTRV9VUkwgaW50byBwZyBjb25uZWN0aW9uIG9iamVjdAovLyBzZWUgaHR0cHM6Ly9naXRodWIuY29tL2JyaWFuYy9ub2RlLXBnLXBvb2wjY3JlYXRlCmNvbnN0IHVybCA9IHJlcXVpcmUoJ3VybCcpCmNvbnN0IHBhcmFtcyA9IHVybC5wYXJzZShwcm9jZXNzLmVudi5EQVRBQkFTRV9VUkwpCmNvbnN0IGF1dGggPSBwYXJhbXMuYXV0aCA/IHBhcmFtcy5hdXRoLnNwbGl0KCc6JykgOiBbbnVsbCwgbnVsbF0KCm1vZHVsZS5leHBvcnRzID0gewogIHVzZXI6IGF1dGhbMF0sCiAgcGFzc3dvcmQ6IGF1dGhbMV0sCiAgaG9zdDogcGFyYW1zLmhvc3RuYW1lLAogIHBvcnQ6IHBhcmFtcy5wb3J0LAogIGRhdGFiYXNlOiBwYXJhbXMucGF0aG5hbWUuc3BsaXQoJy8nKVsxXSwKICAvLyBzc2wgdHJ1ZSB1bmxlc3MgTk9ERV9FTlYgaXMgZGV2ZWxvcG1lbnQgb3IgdGVzdAogIHNzbDogIVsnZGV2ZWxvcG1lbnQnLCAndGVzdCddLmluY2x1ZGVzKHByb2Nlc3MuZW52Lk5PREVfRU5WKQp9Cg==</text>
       </register>
       <register name="p" type="4">
         <keys>
@@ -1358,19 +1347,19 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnZGVzdHJveScpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Y29uc29sZS5sb2coJ2ltcG9ydGluZyBjbGllbnQnKQo=</text>
+        <text encoding="base64">Y29uc29sZS5sb2coJ3BhcmZ0Ly4uL2xpYi9jbGllbnQgaW1wb3J0JykK</text>
       </register>
       <register name="r" type="4">
         <text>ddn</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdwb29sIGRlZmF1bHQnKQo=</text>
+        <text encoding="base64">ICAgIC8vIGNvbnNvbGUubG9nKCdpbml0aWFsaXplcG9vbDInKQo=</text>
       </register>
       <register name="s" type="4">
         <keys>
@@ -1409,19 +1398,19 @@
         </keys>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CmNvbnNvbGUubG9nKCdwYXJhbXMnLCBwYXJhbXMpCg==</text>
+        <text encoding="base64">ICAgIC8vIGNvbnNvbGUubG9nKCdpbml0aWFsaXplcG9vbDEnKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">LmVudi5wcm9kdWN0aW9uCg==</text>
+        <text encoding="base64">ICAgIC8vIGNvbnNvbGUubG9nKCdwYXIgbGliIHBvb2xEZWZhdWx0cycpCg==</text>
       </register>
       <register name="u" type="4">
         <text>uu</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CmNvbnNvbGUubG9nKCdwYXJhbXMnLCBwYXJhbXMpCg==</text>
+        <text encoding="base64">ICAvLyBjb25zb2xlLmxvZygnYyB0aGlzLmRlc3Ryb3knLCB0aGlzLmRlc3Ryb3kpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgY291bnQrKwo=</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZygnY2xpZW50IGNhbGxlZCcpCg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1433,19 +1422,19 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICByZXR1cm4gZHVwbGljYXRlcwo=</text>
+        <text encoding="base64">Y29uc29sZS5sb2coJ2kga25leCcsIGtuZXgpCmNvbnNvbGUubG9nKCdpIGtuZXguZGVzdHJveScsIGtuZXguZGVzdHJveSkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IGR1cGxpY2F0ZXMgPSBnZXREdXBsaWNhdGVOYW1lcygpCg==</text>
+        <text encoding="base64">fSBjYXRjaCAoZXJyKSB7CiAgY29uc29sZS5sb2coJ2MgZXJyJywgZXJyKQo=</text>
       </register>
       <register name=":" type="4">
-        <text>action FindInPath</text>
+        <text>w!</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxjb25zb2xlXD4=</last-search>
+      <last-search>console</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxjb25zb2xlXD4=</last-pattern>
+      <last-pattern>console</last-pattern>
       <last-replace>let</last-replace>
       <last-substitute encoding="base64">XDx3aXRoVXNlclw+</last-substitute>
       <last-dir>1</last-dir>
@@ -1453,10 +1442,6 @@
     </search>
     <history>
       <history-search>
-        <entry>moderation</entry>
-        <entry>Full</entry>
-        <entry>share</entry>
-        <entry encoding="base64">XDxJbnB1dFw+</entry>
         <entry>.env</entry>
         <entry encoding="base64">XDxnZXRQYXltZW50UmVjaXBpZW50XD4=</entry>
         <entry>xero-f</entry>
@@ -1466,13 +1451,17 @@
         <entry encoding="base64">XDxmaWx0ZXJDb21wbGljYXRlZENvbnRhY3RzXD4=</entry>
         <entry encoding="base64">XDxmc1w+</entry>
         <entry>blacklist</entry>
-        <entry encoding="base64">XDxrbmV4XD4=</entry>
         <entry>kne</entry>
         <entry>package</entry>
         <entry>knex</entry>
         <entry encoding="base64">XDxwb29sRGVmYXVsdHNcPg==</entry>
         <entry>destroy</entry>
         <entry encoding="base64">XDxjb25zb2xlXD4=</entry>
+        <entry encoding="base64">XDxfY2xpZW50XD4=</entry>
+        <entry encoding="base64">XDxfY2xpZW50Mlw+</entry>
+        <entry>console.log</entry>
+        <entry encoding="base64">XDxrbmV4XD4=</entry>
+        <entry>console</entry>
       </history-search>
       <history-cmd>
         <entry>4</entry>
@@ -1490,11 +1479,11 @@
         <entry>action NewFile</entry>
         <entry>action RenameFile</entry>
         <entry>action GotoDeclaration</entry>
+        <entry>action FindInPath</entry>
+        <entry>action GotoFile</entry>
         <entry>action CommentByLineComment</entry>
         <entry>action NextSplitter</entry>
-        <entry>action GotoFile</entry>
         <entry>w!</entry>
-        <entry>action FindInPath</entry>
       </history-cmd>
       <history-expr />
       <history-input />
