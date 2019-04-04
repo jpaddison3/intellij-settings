@@ -3,14 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/lib/components.js" timestamp="1554414109866">
-        <mark key="'" line="320" column="0" />
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="3" column="0" />
-      </file>
-      <file name="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/posts/SubmitToFrontpageCheckbox.jsx" timestamp="1553464213734">
-        <mark key="'" line="67" column="16" />
+      <file name="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/lib/components.js" timestamp="1554416131725">
+        <mark key="'" line="324" column="19" />
+        <mark key="[" line="315" column="60" />
+        <mark key="]" line="317" column="0" />
+        <mark key="." line="317" column="0" />
+        <mark key="^" line="317" column="0" />
       </file>
       <file name="$USER_HOME$/cea/Forum/Vulcan/packages/vulcan-events-ga/lib/client/ga.js" timestamp="1553111304435">
         <mark key="'" line="13" column="9" />
@@ -53,9 +51,6 @@
         <mark key="." line="69" column="0" />
         <mark key="^" line="69" column="0" />
       </file>
-      <file name="$USER_HOME$/cea/parfit/db_tests/median_tests.sql" timestamp="1553023831768">
-        <mark key="'" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/comments/ModerationGuidelines/ModerationGuidelinesLink.jsx" timestamp="1545165190650">
         <mark key="'" line="33" column="14" />
         <mark key="[" line="44" column="4" />
@@ -89,6 +84,10 @@
         <mark key="^" line="15" column="69" />
         <mark key="." line="15" column="69" />
       </file>
+      <file name="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/lib/collections/posts/custom_fields.js" timestamp="1553466045524">
+        <mark key="[" line="738" column="2" />
+        <mark key="]" line="738" column="15" />
+      </file>
       <file name="$USER_HOME$/cea/parfit/.gitignore" timestamp="1553543213922">
         <mark key="'" line="16" column="0" />
         <mark key="[" line="1" column="4" />
@@ -102,6 +101,10 @@
         <mark key="]" line="40" column="22" />
         <mark key="^" line="40" column="22" />
         <mark key="." line="40" column="22" />
+      </file>
+      <file name="$USER_HOME$/cea/parfit/node_modules/xero-node/lib/AccountingAPIClient.d.ts" timestamp="1554234394272">
+        <mark key="[" line="126" column="8" />
+        <mark key="]" line="126" column="13" />
       </file>
       <file name="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/client/logging.js" timestamp="1552586755244">
         <mark key="'" line="16" column="2" />
@@ -121,6 +124,10 @@
         <mark key="]" line="38" column="27" />
         <mark key="." line="45" column="17" />
         <mark key="^" line="45" column="17" />
+      </file>
+      <file name="$USER_HOME$/cea/parfit/migrations/20170315115656_xero_up.sql" timestamp="1554231236589">
+        <mark key="[" line="46" column="18" />
+        <mark key="]" line="46" column="21" />
       </file>
       <file name="$USER_HOME$/cea/aletheia/app/containers/Organizations/OrganizationsHome.jsx" timestamp="1550005187879">
         <mark key="'" line="26" column="0" />
@@ -150,14 +157,6 @@
         <mark key="^" line="85" column="9" />
         <mark key="." line="85" column="0" />
       </file>
-      <file name="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/localGroups/TabNavigationEventsList.jsx" timestamp="1554328260938">
-        <mark key="'" line="65" column="0" />
-        <mark key="[" line="67" column="6" />
-        <mark key="]" line="67" column="28" />
-      </file>
-      <file name="$USER_HOME$/cea/Forum/Vulcan/packages/vulcan-lib/lib/server/apollo_server.js" timestamp="1552419438564">
-        <mark key="'" line="35" column="6" />
-      </file>
       <file name="$USER_HOME$/cea/Forum/Forum/node_modules/draft-convert/dist/draft-convert.js" timestamp="1551400881876">
         <mark key="'" line="1367" column="65" />
         <mark key="[" line="1373" column="32" />
@@ -172,8 +171,9 @@
         <mark key="^" line="19" column="71" />
         <mark key="." line="19" column="71" />
       </file>
-      <file name="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/scripts/algoliaExport.js" timestamp="1553122225667">
-        <mark key="'" line="13" column="0" />
+      <file name="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/common/HomeLatestPosts.jsx" timestamp="1553106146078">
+        <mark key="[" line="109" column="19" />
+        <mark key="]" line="109" column="33" />
       </file>
       <file name="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/sequences/SequencesPage.jsx" timestamp="1534977290664">
         <mark key="'" line="6" column="2" />
@@ -203,6 +203,10 @@
         <mark key="." line="1" column="0" />
         <mark key="^" line="22" column="1" />
       </file>
+      <file name="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/lib/modules/alignment-forum/comments/fragments.js" timestamp="1554416103113">
+        <mark key="[" line="3" column="11" />
+        <mark key="]" line="3" column="33" />
+      </file>
       <file name="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/common/GuestWelcomeScreen.jsx" timestamp="1539206159080">
         <mark key="'" line="27" column="6" />
         <mark key="[" line="29" column="16" />
@@ -231,12 +235,6 @@
         <mark key="^" line="23" column="25" />
         <mark key="." line="23" column="14" />
       </file>
-      <file name="$USER_HOME$/cea/eaglobal-static/src/metalsmith/fonts/glyphs.json" timestamp="1552944207150">
-        <mark key="'" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/cea/unfuck-eoy-receipts/yarn.lock" timestamp="1553542326548">
-        <mark key="'" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/ea-forum/EAHome.jsx" timestamp="1554336446082">
         <mark key="[" line="6" column="7" />
         <mark key="]" line="6" column="8" />
@@ -249,9 +247,6 @@
         <mark key="]" line="182" column="76" />
         <mark key="^" line="130" column="54" />
         <mark key="." line="182" column="76" />
-      </file>
-      <file name="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/scripts/exportPostDetails.js" timestamp="1553124202084">
-        <mark key="'" line="91" column="43" />
       </file>
       <file name="$USER_HOME$/cea/grants-applications/checkForEmails.js" timestamp="1536579267120">
         <mark key="'" line="61" column="8" />
@@ -328,9 +323,6 @@
         <mark key="^" line="25" column="29" />
         <mark key="." line="25" column="30" />
       </file>
-      <file name="$USER_HOME$/cea/parfit/services/emails/emails.test.js" timestamp="1554157602820">
-        <mark key="'" line="10" column="24" />
-      </file>
       <file name="$USER_HOME$/cea/parfit/migrations/20180913122130_shadow_register_no_email_down.sql" timestamp="1537283324448">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="70" column="7" />
@@ -345,8 +337,11 @@
         <mark key="." line="41" column="5" />
         <mark key="^" line="41" column="5" />
       </file>
-      <file name="$USER_HOME$/cea/parfit/db_tests/pledge_completion_calculations_tests.sql" timestamp="1552000301559">
-        <mark key="'" line="14" column="21" />
+      <file name="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/lib/helpers.js" timestamp="1554415125199">
+        <mark key="[" line="5" column="25" />
+        <mark key="]" line="5" column="25" />
+        <mark key="^" line="5" column="25" />
+        <mark key="." line="5" column="25" />
       </file>
       <file name="$USER_HOME$/cea/aletheia/app/models/Payments/index.js" timestamp="1543968544199">
         <mark key="'" line="133" column="16" />
@@ -362,15 +357,18 @@
         <mark key="." line="4" column="16" />
         <mark key="^" line="4" column="16" />
       </file>
-      <file name="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/lib/routes.js" timestamp="1554414093743">
-        <mark key="'" line="2" column="0" />
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="2" column="0" />
-        <mark key="^" line="91" column="0" />
+      <file name="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/lib/routes.js" timestamp="1554415745253">
+        <mark key="'" line="45" column="0" />
+        <mark key="[" line="86" column="75" />
+        <mark key="]" line="86" column="83" />
+        <mark key="." line="86" column="83" />
+        <mark key="^" line="86" column="83" />
       </file>
-      <file name="$USER_HOME$/cea/parfit/node/services/db-notifications/index.js" timestamp="1551487462670">
-        <mark key="'" line="28" column="9" />
+      <file name="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/lib/collections/posts/helpers.js" timestamp="1554416618442">
+        <mark key="[" line="198" column="6" />
+        <mark key="]" line="198" column="48" />
+        <mark key="." line="198" column="48" />
+        <mark key="^" line="198" column="48" />
       </file>
       <file name="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/comments/ModerationGuidelinesBox.jsx" timestamp="1545163838021">
         <mark key="'" line="88" column="10" />
@@ -455,6 +453,11 @@
         <mark key="^" line="50" column="49" />
         <mark key="." line="50" column="27" />
       </file>
+      <file name="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/users/UsersMenu.jsx" timestamp="1554416650658">
+        <mark key="[" line="61" column="28" />
+        <mark key="]" line="61" column="28" />
+        <mark key="." line="61" column="70" />
+      </file>
       <file name="$USER_HOME$/cea/aletheia/app/components/PaymentForm/sideEffects.js" timestamp="1537282989221">
         <mark key="'" line="21" column="16" />
         <mark key="[" line="30" column="1" />
@@ -497,12 +500,12 @@
         <mark key="^" line="85" column="157" />
         <mark key="." line="85" column="157" />
       </file>
-      <file name="$USER_HOME$/cea/Forum/Forum/settings-dev.json" timestamp="1554403693448">
+      <file name="$USER_HOME$/cea/Forum/Forum/settings-dev.json" timestamp="1554415048551">
         <mark key="'" line="33" column="38" />
-        <mark key="[" line="47" column="23" />
-        <mark key="]" line="48" column="22" />
-        <mark key="." line="48" column="22" />
-        <mark key="^" line="48" column="22" />
+        <mark key="[" line="46" column="26" />
+        <mark key="]" line="46" column="26" />
+        <mark key="." line="46" column="26" />
+        <mark key="^" line="46" column="26" />
       </file>
       <file name="$USER_HOME$/cea/aletheia/app/containers/Lotteries/EnterLottery/index.jsx" timestamp="1543967579867">
         <mark key="'" line="4" column="11" />
@@ -510,9 +513,6 @@
         <mark key="]" line="107" column="40" />
         <mark key="." line="107" column="40" />
         <mark key="^" line="121" column="5" />
-      </file>
-      <file name="$USER_HOME$/cea/parfit/node_modules/xero-node/lib/AccountingAPIClient.js" timestamp="1554234438382">
-        <mark key="'" line="110" column="12" />
       </file>
       <file name="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/migrations/2019-01-04-voteSchema.js" timestamp="1550885440216">
         <mark key="'" line="20" column="0" />
@@ -527,12 +527,6 @@
         <mark key="]" line="19" column="0" />
         <mark key="^" line="19" column="0" />
         <mark key="." line="19" column="0" />
-      </file>
-      <file name="$USER_HOME$/cea/parfit/db_tests/payment_gift_aid_tests.sql" timestamp="1551988382379">
-        <mark key="'" line="25" column="0" />
-      </file>
-      <file name="$USER_HOME$/cea/parfit/knexfile.js" timestamp="1553542222028">
-        <mark key="'" line="14" column="0" />
       </file>
       <file name="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/lib/collections/posts/views.js" timestamp="1550859990020">
         <mark key="'" line="55" column="16" />
@@ -586,6 +580,10 @@
         <mark key="]" line="17" column="0" />
         <mark key="^" line="15" column="36" />
         <mark key="." line="17" column="0" />
+      </file>
+      <file name="$USER_HOME$/cea/parfit/helpers/knex.js" timestamp="1553539696172">
+        <mark key="[" line="21" column="23" />
+        <mark key="]" line="21" column="35" />
       </file>
       <file name="$USER_HOME$/cea/givingwhatwecan-org-static/src/metalsmith/settings/stats.json" timestamp="1544830346859">
         <mark key="'" line="0" column="0" />
@@ -648,6 +646,13 @@
         <mark key="^" line="34" column="87" />
         <mark key="." line="57" column="2" />
       </file>
+      <file name="$USER_HOME$/cea/Forum/Forum/settings-lw.json" timestamp="1554415933336">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="34" column="28" />
+        <mark key="]" line="34" column="28" />
+        <mark key="^" line="34" column="28" />
+        <mark key="." line="34" column="28" />
+      </file>
       <file name="$USER_HOME$/cea/asana-project-summary/postgres/deploy/init.sql" timestamp="1550103675874">
         <mark key="'" line="19" column="56" />
         <mark key="[" line="12" column="19" />
@@ -669,8 +674,15 @@
         <mark key="^" line="7" column="62" />
         <mark key="." line="7" column="62" />
       </file>
-      <file name="$USER_HOME$/cea/parfit/services/events/handlers/pledge.js" timestamp="1552418005129">
-        <mark key="'" line="1" column="6" />
+      <file name="$USER_HOME$/cea/parfit/node_modules/xero-node/lib/AccountingAPI-responses.d.ts" timestamp="1554234336588">
+        <mark key="[" line="54" column="17" />
+        <mark key="]" line="54" column="32" />
+      </file>
+      <file name="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/themes/forumTheme.js" timestamp="1554415905146">
+        <mark key="[" line="12" column="26" />
+        <mark key="]" line="12" column="46" />
+        <mark key="." line="12" column="46" />
+        <mark key="^" line="12" column="46" />
       </file>
       <file name="$USER_HOME$/Documents/dotfiles/ideavimrc" timestamp="1548190178043">
         <mark key="'" line="0" column="0" />
@@ -748,15 +760,19 @@
         <mark key="." line="157" column="20" />
         <mark key="^" line="157" column="41" />
       </file>
-      <file name="$USER_HOME$/cea/aletheia/app/tracking.js" timestamp="1552416326207">
-        <mark key="'" line="0" column="9" />
-      </file>
       <file name="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/scripts/legacyKarma_aggregate2.js" timestamp="1541644775578">
         <mark key="'" line="4" column="0" />
         <mark key="[" line="76" column="0" />
         <mark key="]" line="78" column="382" />
         <mark key="^" line="78" column="382" />
         <mark key="." line="78" column="382" />
+      </file>
+      <file name="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/lib/index.js" timestamp="1554416248380">
+        <mark key="'" line="7" column="0" />
+        <mark key="[" line="160" column="0" />
+        <mark key="]" line="160" column="0" />
+        <mark key="^" line="138" column="27" />
+        <mark key="." line="160" column="0" />
       </file>
       <file name="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/comments/ModerationGuidelines/ModerationGuidelinesBox.jsx" timestamp="1545166222551">
         <mark key="'" line="18" column="0" />
@@ -954,9 +970,6 @@
         <mark key="." line="12" column="0" />
         <mark key="^" line="12" column="44" />
       </file>
-      <file name="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/Layout.jsx" timestamp="1554329454139">
-        <mark key="'" line="56" column="4" />
-      </file>
       <file name="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/lib/editor/utils.test.js" timestamp="1552097777724">
         <mark key="'" line="1" column="45" />
         <mark key="[" line="1" column="0" />
@@ -984,9 +997,6 @@
         <mark key="]" line="30" column="8" />
         <mark key="." line="30" column="8" />
         <mark key="^" line="26" column="24" />
-      </file>
-      <file name="$USER_HOME$/cea/parfit/services/payments/helpers.js" timestamp="1553302996127">
-        <mark key="'" line="102" column="13" />
       </file>
       <file name="$USER_HOME$/cea/parfit/services/payments/handlers/stripe/index.js" timestamp="1537282767292">
         <mark key="'" line="65" column="47" />
@@ -1082,15 +1092,16 @@
         <mark key="^" line="369" column="34" />
         <mark key="." line="335" column="0" />
       </file>
-      <file name="$USER_HOME$/cea/parfit/yarn.lock" timestamp="1553542334841">
-        <mark key="'" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/cea/parfit/db_tests/gwwc_tracking_reminder_tests.sql" timestamp="1552003037990">
         <mark key="'" line="38" column="0" />
         <mark key="[" line="8" column="0" />
         <mark key="]" line="38" column="78" />
         <mark key="." line="34" column="47" />
         <mark key="^" line="34" column="47" />
+      </file>
+      <file name="$USER_HOME$/cea/parfit/migrations/_parfit_init.sql" timestamp="1553626522638">
+        <mark key="[" line="22" column="21" />
+        <mark key="]" line="22" column="51" />
       </file>
       <file name="$USER_HOME$/cea/unfuck-eoy-receipts/index.js" timestamp="1553635423848">
         <mark key="'" line="148" column="28" />
@@ -1106,6 +1117,12 @@
         <mark key="." line="21" column="0" />
         <mark key="^" line="21" column="58" />
       </file>
+      <file name="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/posts/PostsItemTitle.jsx" timestamp="1554416582717">
+        <mark key="[" line="156" column="51" />
+        <mark key="]" line="156" column="51" />
+        <mark key="^" line="156" column="51" />
+        <mark key="." line="156" column="51" />
+      </file>
       <file name="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/comments/CommentsItem/CommentBody.jsx" timestamp="1543604471740">
         <mark key="'" line="47" column="20" />
         <mark key="[" line="38" column="24" />
@@ -1115,47 +1132,9 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="236" column="8" filename="$USER_HOME$/cea/parfit/services/payments/handlers/xero/helpers.js" />
-      <jump line="327" column="23" filename="$USER_HOME$/cea/parfit/services/payments/handlers/xero/helpers.js" />
-      <jump line="294" column="0" filename="$USER_HOME$/cea/parfit/services/payments/handlers/xero/helpers.js" />
-      <jump line="36" column="51" filename="$USER_HOME$/cea/parfit/services/payments/handlers/xero/helpers.js" />
-      <jump line="37" column="51" filename="$USER_HOME$/cea/parfit/services/payments/handlers/xero/helpers.js" />
-      <jump line="41" column="56" filename="$USER_HOME$/cea/parfit/services/payments/handlers/xero/helpers.js" />
-      <jump line="45" column="38" filename="$USER_HOME$/cea/parfit/services/payments/handlers/xero/helpers.js" />
-      <jump line="46" column="23" filename="$USER_HOME$/cea/parfit/services/payments/handlers/xero/helpers.js" />
-      <jump line="50" column="17" filename="$USER_HOME$/cea/parfit/services/payments/handlers/xero/helpers.js" />
-      <jump line="51" column="23" filename="$USER_HOME$/cea/parfit/services/payments/handlers/xero/helpers.js" />
-      <jump line="65" column="31" filename="$USER_HOME$/cea/parfit/services/payments/handlers/xero/helpers.js" />
-      <jump line="94" column="71" filename="$USER_HOME$/cea/parfit/services/payments/handlers/xero/helpers.js" />
-      <jump line="203" column="31" filename="$USER_HOME$/cea/parfit/services/payments/handlers/xero/helpers.js" />
-      <jump line="221" column="45" filename="$USER_HOME$/cea/parfit/services/payments/handlers/xero/helpers.js" />
-      <jump line="222" column="23" filename="$USER_HOME$/cea/parfit/services/payments/handlers/xero/helpers.js" />
-      <jump line="299" column="19" filename="$USER_HOME$/cea/parfit/services/payments/handlers/xero/helpers.js" />
-      <jump line="301" column="25" filename="$USER_HOME$/cea/parfit/services/payments/handlers/xero/helpers.js" />
-      <jump line="95" column="11" filename="$USER_HOME$/cea/parfit/services/payments/handlers/xero/helpers.test.js" />
-      <jump line="7" column="16" filename="$USER_HOME$/cea/parfit/services/payments/handlers/xero/helpers.test.js" />
-      <jump line="54" column="31" filename="$USER_HOME$/cea/parfit/services/payments/handlers/xero/helpers.test.js" />
-      <jump line="68" column="34" filename="$USER_HOME$/cea/parfit/services/payments/handlers/xero/helpers.test.js" />
-      <jump line="85" column="4" filename="$USER_HOME$/cea/parfit/services/payments/handlers/xero/helpers.test.js" />
-      <jump line="98" column="6" filename="$USER_HOME$/cea/parfit/services/payments/handlers/xero/helpers.test.js" />
-      <jump line="71" column="10" filename="$USER_HOME$/cea/parfit/services/payments/handlers/xero/helpers.test.js" />
-      <jump line="92" column="51" filename="$USER_HOME$/cea/parfit/services/payments/handlers/xero/helpers.test.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/cea/parfit/services/payments/handlers/xero/helpers.test.js" />
-      <jump line="238" column="8" filename="$USER_HOME$/cea/parfit/services/payments/handlers/xero/helpers.js" />
-      <jump line="292" column="15" filename="$USER_HOME$/cea/parfit/services/payments/handlers/xero/helpers.js" />
-      <jump line="231" column="26" filename="$USER_HOME$/cea/parfit/services/payments/handlers/xero/helpers.js" />
-      <jump line="282" column="15" filename="$USER_HOME$/cea/parfit/services/payments/handlers/xero/helpers.js" />
-      <jump line="230" column="26" filename="$USER_HOME$/cea/parfit/services/payments/handlers/xero/helpers.js" />
-      <jump line="3" column="6" filename="$USER_HOME$/cea/parfit/services/emails/handlers/groups.test.js" />
-      <jump line="44" column="8" filename="$USER_HOME$/cea/parfit/services/emails/handlers/groups.test.js" />
-      <jump line="53" column="8" filename="$USER_HOME$/cea/parfit/services/emails/handlers/groups.test.js" />
-      <jump line="42" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/styles/_posts.scss" />
-      <jump line="147" column="22" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/common/TabNavigationMenu.jsx" />
-      <jump line="61" column="59" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/lib/routes.js" />
       <jump line="36" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/lib/routes.js" />
       <jump line="39" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/lib/routes.js" />
       <jump line="67" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/lib/routes.js" />
-      <jump line="56" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/lib/routes.js" />
       <jump line="65" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/lib/routes.js" />
       <jump line="40" column="13" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/lib/routes.js" />
       <jump line="43" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/lib/routes.js" />
@@ -1204,8 +1183,6 @@
       <jump line="122" column="37" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/lib/components.js" />
       <jump line="183" column="50" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/lib/components.js" />
       <jump line="184" column="51" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/lib/components.js" />
-      <jump line="324" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/lib/components.js" />
-      <jump line="0" column="9" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/lib/components.js" />
       <jump line="3" column="3" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/lib/components.js" />
       <jump line="22" column="30" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/lib/routes.js" />
       <jump line="48" column="7" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/lib/routes.js" />
@@ -1213,8 +1190,48 @@
       <jump line="70" column="63" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/lib/routes.js" />
       <jump line="49" column="86" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/lib/routes.js" />
       <jump line="34" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/lib/routes.js" />
-      <jump line="2" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/lib/routes.js" />
       <jump line="320" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/lib/components.js" />
+      <jump line="2" column="17" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/lib/routes.js" />
+      <jump line="19" column="1" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/lib/index.js" />
+      <jump line="22" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/lib/index.js" />
+      <jump line="27" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/lib/index.js" />
+      <jump line="30" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/lib/index.js" />
+      <jump line="42" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/lib/index.js" />
+      <jump line="56" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/lib/index.js" />
+      <jump line="59" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/lib/index.js" />
+      <jump line="62" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/lib/index.js" />
+      <jump line="70" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/lib/index.js" />
+      <jump line="74" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/lib/index.js" />
+      <jump line="79" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/lib/index.js" />
+      <jump line="89" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/lib/index.js" />
+      <jump line="91" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/lib/index.js" />
+      <jump line="95" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/lib/index.js" />
+      <jump line="100" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/lib/index.js" />
+      <jump line="107" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/lib/index.js" />
+      <jump line="117" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/lib/index.js" />
+      <jump line="120" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/lib/index.js" />
+      <jump line="123" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/lib/index.js" />
+      <jump line="126" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/lib/index.js" />
+      <jump line="131" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/lib/index.js" />
+      <jump line="133" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/lib/index.js" />
+      <jump line="135" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/lib/index.js" />
+      <jump line="159" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/lib/index.js" />
+      <jump line="178" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/lib/index.js" />
+      <jump line="161" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/lib/index.js" />
+      <jump line="154" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/lib/index.js" />
+      <jump line="145" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/lib/index.js" />
+      <jump line="140" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/lib/index.js" />
+      <jump line="151" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/lib/index.js" />
+      <jump line="74" column="64" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/lib/routes.js" />
+      <jump line="0" column="19" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/lib/routes.js" />
+      <jump line="56" column="25" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/lib/routes.js" />
+      <jump line="45" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/lib/routes.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/cea/Forum/Forum/settings-lw.json" />
+      <jump line="6" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/lib/index.js" />
+      <jump line="303" column="27" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/lib/components.js" />
+      <jump line="337" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/lib/components.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/lib/components.js" />
+      <jump line="324" column="19" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/lib/components.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1325,7 +1342,7 @@
         <text>nnP</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICA=</text>
+        <text>getSetting</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -1357,10 +1374,10 @@
         </keys>
       </register>
       <register name="/" type="4">
-        <text>home</text>
+        <text encoding="base64">XDxnZXRTZXR0aW5nXD4=</text>
       </register>
       <register name="0" type="4">
-        <text>AlignmentForum</text>
+        <text>SuggestAlignmentComment</text>
       </register>
       <register name="p" type="4">
         <keys>
@@ -1372,20 +1389,20 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">cmVnaXN0ZXJTZXR0aW5nKCdFQUZvcnVtJywgZmFsc2UsICdJcyB0aGlzIHRoZSBFQSBGb3J1bScpCgo=</text>
+      <register name="1" type="4">
+        <text>getSetting('AlignmentForum')</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Ly8gVE9ETzsgd2lsbCBJIHN1Ym1pdCB0aGlzIHVwc3RyZWFtPwovLyAgIGRvIGkgcmVnaXN0ZXIgdGhlIHNldHRpbmc/Cg==</text>
+      <register name="2" type="4">
+        <text>getSetting('AlignmentForum')</text>
       </register>
       <register name="r" type="4">
         <text>ddn</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">cmVnaXN0ZXJTZXR0aW5nKCd2YW5pbGxhTFcnLCB0cnVlLCAnSXMgdGhlIHN0YW5kYXJkIExXIHNpdGUnKQoK</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="s" type="4">
         <keys>
@@ -1424,19 +1441,22 @@
         </keys>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Pj4+Pj4+PiAxYTdjMWU1ZDUuLi4gaW50cm9kdWNlIEVBRm9ydW0gYW5kIHZhbmlsbGFMVyBzZXR0aW5ncywgRUFIb21lCg==</text>
+        <text encoding="base64">aWYgKGdldFNldHRpbmcoJ2ZvcnVtVHlwZScpID09PSAnQWxpZ25tZW50Rm9ydW0nKSB7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECj09PT09PT0K</text>
+        <text encoding="base64">aWYgKGdldFNldHRpbmcoJ2ZvcnVtVHlwZScpID09PSAnQWxpZ25tZW50Rm9ydW0nKSB7Cg==</text>
       </register>
       <register name="u" type="4">
         <text>uu</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICBhZGRSb3V0ZSh7bmFtZTogJ2hvbWUnLCBwYXRoOiAnLycsIGNvbXBvbmVudE5hbWU6ICdIb21lMid9KTsKICBhZGRSb3V0ZSh7bmFtZTonYWJvdXQnLCAgIHBhdGg6Jy9hYm91dCcsIGNvbXBvbmVudE5hbWU6ICdQb3N0c1NpbmdsZVJvdXRlJywgX2lkOiJZMmlxaGpBSGJYTmt3Y1M4RiJ9KTsKfQo=</text>
+      <register name="6" type="4">
+        <text>let forumTheme
+if (getSetting('AlignmentForum', false)) {
+  forumTheme = afTheme
+} else</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBhZGRSb3V0ZSh7bmFtZTogJ2hvbWUnLCBwYXRoOiAnLycsIGNvbXBvbmVudE5hbWU6ICdIb21lMid9KTsKICBhZGRSb3V0ZSh7bmFtZTonYWJvdXQnLCAgIHBhdGg6Jy9hYm91dCcsIGNvbXBvbmVudE5hbWU6ICdQb3N0c1NpbmdsZVJvdXRlJywgX2lkOiJZMmlxaGpBSGJYTmt3Y1M4RiJ9KTsKfQo=</text>
+        <text encoding="base64">YWRkUm91dGUoeyBuYW1lOiAnTWV0YScsIHBhdGg6ICcvbWV0YScsIGNvbXBvbmVudE5hbWU6ICdNZXRhJywgdGl0bGU6ICJNZXRhIn0pCgo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1448,27 +1468,26 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGFkZFJvdXRlKHtuYW1lOiAnaG9tZScsIHBhdGg6ICcvJywgY29tcG9uZW50TmFtZTogJ0hvbWUyJ30pOwogICAgYWRkUm91dGUoe25hbWU6J2Fib3V0JywgICBwYXRoOicvYWJvdXQnLCBjb21wb25lbnROYW1lOiAnUG9zdHNTaW5nbGVSb3V0ZScsIF9pZDoiQU5EYkVLcWJkRHVCQ1FBbk0ifSk7Cg==</text>
+        <text encoding="base64">YWRkUm91dGUoeyBuYW1lOiAnTWV0YScsIHBhdGg6ICcvbWV0YScsIGNvbXBvbmVudE5hbWU6ICdNZXRhJywgdGl0bGU6ICJNZXRhIn0pCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w!</text>
       </register>
     </registers>
     <search>
-      <last-search>home</last-search>
+      <last-search encoding="base64">XDxnZXRTZXR0aW5nXD4=</last-search>
       <last-offset />
-      <last-pattern>home</last-pattern>
+      <last-pattern encoding="base64">XDxnZXRTZXR0aW5nXD4=</last-pattern>
       <last-replace>'</last-replace>
-      <last-substitute>&quot;</last-substitute>
+      <last-substitute encoding="base64">XDxWYW5pbGxhTFdcPg==</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxrbmV4XD4=</entry>
         <entry>===</entry>
         <entry>community</entry>
         <entry>community even</entry>
@@ -1484,14 +1503,13 @@
         <entry>Code</entry>
         <entry encoding="base64">PDw8</entry>
         <entry>align</entry>
-        <entry encoding="base64">XDxnZXRTZXR0aW5nXD4=</entry>
         <entry>Home</entry>
         <entry>codex</entry>
         <entry>home</entry>
+        <entry encoding="base64">XDxWYW5pbGxhTFdcPg==</entry>
+        <entry encoding="base64">XDxnZXRTZXR0aW5nXD4=</entry>
       </history-search>
       <history-cmd>
-        <entry>371</entry>
-        <entry>22</entry>
         <entry>64</entry>
         <entry>action Back</entry>
         <entry>action SplitVertically</entry>
@@ -1502,12 +1520,14 @@
         <entry>s/&quot;/'/g</entry>
         <entry>action HideActiveWindow</entry>
         <entry>283</entry>
-        <entry>action CommentByLineComment</entry>
         <entry>action GotoDeclaration</entry>
         <entry>action NewFile</entry>
         <entry>action Refactorings.QuickListPopupAction</entry>
-        <entry>action GotoFile</entry>
+        <entry>316</entry>
+        <entry>action CommentByLineComment</entry>
+        <entry>167</entry>
         <entry>action NextSplitter</entry>
+        <entry>action GotoFile</entry>
         <entry>action FindInPath</entry>
         <entry>w!</entry>
       </history-cmd>
