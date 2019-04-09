@@ -77,6 +77,11 @@
         <mark key="." line="106" column="20" />
         <mark key="^" line="106" column="20" />
       </file>
+      <file name="$USER_HOME$/cea/aletheia/app/routes.js" timestamp="1554765585099">
+        <mark key="'" line="238" column="13" />
+        <mark key="[" line="315" column="35" />
+        <mark key="]" line="315" column="52" />
+      </file>
       <file name="$USER_HOME$/cea/parfit/reports/gift-aid-allocation-project-jan/fuck_open_office.js" timestamp="1549324307811">
         <mark key="'" line="14" column="11" />
         <mark key="[" line="51" column="0" />
@@ -613,6 +618,13 @@
         <mark key="^" line="24" column="11" />
         <mark key="." line="54" column="0" />
       </file>
+      <file name="$USER_HOME$/cea/aletheia/app/containers/Funds/FundsPayoutReports/index.jsx" timestamp="1554808815582">
+        <mark key="'" line="98" column="29" />
+        <mark key="[" line="86" column="39" />
+        <mark key="]" line="86" column="53" />
+        <mark key="^" line="86" column="53" />
+        <mark key="." line="86" column="53" />
+      </file>
       <file name="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/ea-forum/EAHome.jsx" timestamp="1554420913113">
         <mark key="'" line="22" column="0" />
         <mark key="[" line="3" column="0" />
@@ -817,7 +829,7 @@
         <mark key="." line="5" column="0" />
         <mark key="^" line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/cea/parfit/test/helpers.js" timestamp="1554492740283">
+      <file name="$USER_HOME$/cea/parfit/test/helpers.js" timestamp="1554808659663">
         <mark key="'" line="17" column="0" />
         <mark key="[" line="6" column="24" />
         <mark key="]" line="8" column="15" />
@@ -830,6 +842,12 @@
         <mark key="]" line="30" column="8" />
         <mark key="." line="30" column="8" />
         <mark key="^" line="26" column="24" />
+      </file>
+      <file name="$USER_HOME$/cea/aletheia/app/containers/Funds/FundsPayoutReports/messages.js" timestamp="1554765620397">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="7" column="13" />
+        <mark key="^" line="7" column="13" />
+        <mark key="." line="7" column="13" />
       </file>
       <file name="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/lib/collections/users/helpers.js" timestamp="1554417157967">
         <mark key="[" line="288" column="6" />
@@ -1143,12 +1161,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="133" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/lib/index.js" />
-      <jump line="135" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/lib/index.js" />
-      <jump line="159" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/lib/index.js" />
-      <jump line="178" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/lib/index.js" />
-      <jump line="161" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/lib/index.js" />
-      <jump line="154" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/lib/index.js" />
       <jump line="145" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/lib/index.js" />
       <jump line="140" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/lib/index.js" />
       <jump line="151" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/lib/index.js" />
@@ -1243,6 +1255,12 @@
       <jump line="263" column="11" filename="$USER_HOME$/cea/parfit/services/payments/handlers/xero/helpers.js" />
       <jump line="44" column="28" filename="$USER_HOME$/cea/parfit/services/payments/handlers/xero/helpers.js" />
       <jump line="50" column="10" filename="$USER_HOME$/cea/parfit/services/emails/handlers/pledges.test.js" />
+      <jump line="205" column="26" filename="$USER_HOME$/cea/aletheia/app/routes.js" />
+      <jump line="211" column="25" filename="$USER_HOME$/cea/aletheia/app/routes.js" />
+      <jump line="220" column="13" filename="$USER_HOME$/cea/aletheia/app/routes.js" />
+      <jump line="237" column="14" filename="$USER_HOME$/cea/aletheia/app/routes.js" />
+      <jump line="238" column="13" filename="$USER_HOME$/cea/aletheia/app/routes.js" />
+      <jump line="98" column="29" filename="$USER_HOME$/cea/aletheia/app/containers/Funds/FundsPayoutReports/index.jsx" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1415,10 +1433,10 @@
         </keys>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxkYlNjYWZmb2xkXD4=</text>
+        <text>funds</text>
       </register>
       <register name="0" type="4">
-        <text>getPledgePeriodDates</text>
+        <text>FundsPayoutReports</text>
       </register>
       <register name="p" type="4">
         <keys>
@@ -1512,13 +1530,13 @@
         <text encoding="base64">ICAvLyBTaG91bGQgYWxyZWFkeSBiZSBhIHN0cmluZywgYnV0IGp1c3QgaW4gY2FzZQo=</text>
       </register>
       <register name=":" type="4">
-        <text>w!</text>
+        <text>action FindInPath</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxkYlNjYWZmb2xkXD4=</last-search>
+      <last-search>funds</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxkYlNjYWZmb2xkXD4=</last-pattern>
+      <last-pattern>funds</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute encoding="base64">XDxWYW5pbGxhTFdcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -1526,7 +1544,6 @@
     </search>
     <history>
       <history-search>
-        <entry>codex</entry>
         <entry>home</entry>
         <entry encoding="base64">XDxWYW5pbGxhTFdcPg==</entry>
         <entry encoding="base64">XDxzaG93TmV3QnV0dG9uc1w+</entry>
@@ -1546,6 +1563,7 @@
         <entry encoding="base64">XDxkYkNsZWFudXBcPg==</entry>
         <entry encoding="base64">XDxzaHV0ZG93bkRhdGFiYXNlXD4=</entry>
         <entry encoding="base64">XDxkYlNjYWZmb2xkXD4=</entry>
+        <entry>funds</entry>
       </history-search>
       <history-cmd>
         <entry>action SplitVertically</entry>
@@ -1563,11 +1581,11 @@
         <entry encoding="base64">JzwsJz5hY3Rpb24gTmV4dFNwbGl0dGVy</entry>
         <entry>action Refactorings.QuickListPopupAction</entry>
         <entry>action ReopenClosedTab</entry>
-        <entry>action GotoFile</entry>
-        <entry>action FindInPath</entry>
+        <entry>w!</entry>
         <entry>action GotoDeclaration</entry>
         <entry>action NextSplitter</entry>
-        <entry>w!</entry>
+        <entry>action GotoFile</entry>
+        <entry>action FindInPath</entry>
       </history-cmd>
       <history-expr />
       <history-input />
