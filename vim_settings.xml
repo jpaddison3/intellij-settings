@@ -78,6 +78,11 @@
         <mark key="^" line="14" column="37" />
         <mark key="." line="14" column="0" />
       </file>
+      <file name="$USER_HOME$/cea/givingwhatwecan-org-static/src/styles/partials/layout/_banner.scss" timestamp="1557852140458">
+        <mark key="[" line="46" column="0" />
+        <mark key="]" line="46" column="0" />
+        <mark key="." line="46" column="0" />
+      </file>
       <file name="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/posts/HomePostsViews.jsx" timestamp="1557314588829">
         <mark key="[" line="235" column="27" />
         <mark key="]" line="235" column="31" />
@@ -204,7 +209,13 @@
         <mark key="]" line="46" column="0" />
         <mark key="." line="46" column="0" />
       </file>
-      <file name="$USER_HOME$/cea/givingwhatwecan-org-static/src/templates/layout.swig" timestamp="1557789546975" />
+      <file name="$USER_HOME$/cea/givingwhatwecan-org-static/src/templates/layout.swig" timestamp="1557851711028">
+        <mark key="'" line="18" column="30" />
+        <mark key="[" line="45" column="0" />
+        <mark key="]" line="45" column="0" />
+        <mark key="^" line="45" column="29" />
+        <mark key="." line="45" column="0" />
+      </file>
       <file name="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/themes/forumTheme.js" timestamp="1554420577292">
         <mark key="[" line="15" column="1" />
         <mark key="]" line="16" column="0" />
@@ -302,8 +313,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="113" column="0" filename="$USER_HOME$/cea/aletheia/app/containers/Funds/FundsPayoutReports/index.jsx" />
-      <jump line="109" column="0" filename="$USER_HOME$/cea/aletheia/app/containers/Funds/FundsPayoutReports/index.jsx" />
       <jump line="91" column="0" filename="$USER_HOME$/cea/aletheia/app/containers/Funds/FundsPayoutReports/index.jsx" />
       <jump line="84" column="0" filename="$USER_HOME$/cea/aletheia/app/containers/Funds/FundsPayoutReports/index.jsx" />
       <jump line="58" column="0" filename="$USER_HOME$/cea/aletheia/app/containers/Funds/FundsPayoutReports/index.jsx" />
@@ -402,6 +411,8 @@
       <jump line="782" column="92" filename="$USER_HOME$/cea/givingwhatwecan-org-static/tasks/metalsmith.js" />
       <jump line="217" column="11" filename="$USER_HOME$/cea/givingwhatwecan-org-static/tasks/metalsmith.js" />
       <jump line="875" column="0" filename="$USER_HOME$/cea/givingwhatwecan-org-static/tasks/metalsmith.js" />
+      <jump line="26" column="30" filename="$USER_HOME$/cea/givingwhatwecan-org-static/src/templates/layout.swig" />
+      <jump line="18" column="30" filename="$USER_HOME$/cea/givingwhatwecan-org-static/src/templates/layout.swig" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -574,7 +585,7 @@
         </keys>
       </register>
       <register name="/" type="4">
-        <text>TODO;</text>
+        <text>photo</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgLy8gaWYgKGZpbGUgPT09ICdwb3N0LzIwMTUvMDIvd2h5LWktZmluYWxseS10b29rLXBsZWRnZS9pbmRleC5odG1sJykgY29uc29sZS5sb2coJ2RhdGEnLCBkYXRhKQo=</text>
@@ -590,19 +601,19 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAJIm5hbWUiOiAie3thdXRob3JbMF0uZmllbGRzLnRpdGxlfX0iCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJycpCg==</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="r" type="4">
         <text>ddn</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">CUBtZWRpYShtaW4td2lkdGg6JHNjcmVlbi1zbSl7CgkgICAgbWluLWhlaWdodDogODB2aDsKCSAgICBiYWNrZ3JvdW5kLWF0dGFjaG1lbnQ6IGZpeGVkOwoJfQo=</text>
       </register>
       <register name="s" type="4">
         <keys>
@@ -641,19 +652,19 @@
         </keys>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkJeyUgZm9yIGEgaW4gYXV0aG9yICV9eyUgaWYgIWxvb3AubGFzdCAmJiBsb29wLmluZGV4ICE9PSAxJX0sIHslIGVuZGlmICV9eyUgaWYgbG9vcC5sYXN0ICYmIGxvb3AuaW5kZXggIT09IDElfSAmYW1wOyB7JSBlbmRpZiAlfTxhIGhyZWY9Ii9wZXJzb24ve3thLmZpZWxkcy5zbHVnfX0iIGNsYXNzPSJhdXRob3ItbmFtZSI+e3sgYS5maWVsZHMudGl0bGUgfX08L2E+eyUgZW5kZm9yICV9Cg==</text>
+        <text encoding="base64">PCEtLS0gb25seSBpZiBmZWF0dXJlZCBpbWFnZSA+Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQk8aDQgY2xhc3M9Im1lZGlhLWhlYWRpbmcgYXV0aG9yLW5hbWUiPiZtZGFzaDsge3tmaWVsZHMudGl0bGV9fXslIGlmIGZpZWxkcy5wb3NpdGlvbiAlfSA8c21hbGwgY2xhc3M9ImF1dGhvci1wb3NpdGlvbiI+e3tmaWVsZHMucG9zaXRpb24gfX08L3NtYWxsPnslIGVuZGlmICV9PC9oND4K</text>
+        <text encoding="base64">ICAJIm5hbWUiOiAie3thdXRob3JbMF0uZmllbGRzLnRpdGxlfX0iCg==</text>
       </register>
       <register name="u" type="4">
         <text>uu</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQk8aDQgY2xhc3M9Im1lZGlhLWhlYWRpbmcgcXVvdGF0aW9uLWF1dGhvci1uYW1lIj4mbWRhc2g7IHt7YXV0aG9yLmZpZWxkcy50aXRsZX19PC9oND4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJycpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkJCQkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -665,19 +676,19 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CUJpbGx5IGJvYiBoYWQgYSBuZXcgCg==</text>
+        <text encoding="base64">CQkJeyUgZm9yIGEgaW4gYXV0aG9yICV9eyUgaWYgIWxvb3AubGFzdCAmJiBsb29wLmluZGV4ICE9PSAxJX0sIHslIGVuZGlmICV9eyUgaWYgbG9vcC5sYXN0ICYmIGxvb3AuaW5kZXggIT09IDElfSAmYW1wOyB7JSBlbmRpZiAlfTxhIGhyZWY9Ii9wZXJzb24ve3thLmZpZWxkcy5zbHVnfX0iIGNsYXNzPSJhdXRob3ItbmFtZSI+e3sgYS5maWVsZHMudGl0bGUgfX08L2E+eyUgZW5kZm9yICV9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJCQkJCTxoMyBjbGFzcz0icG9zdC10aXRsZSB0aXRsZSI+e3sgcG9zdC50aXRsZSB9fTwvaDM+Cg==</text>
+        <text encoding="base64">CQk8aDQgY2xhc3M9Im1lZGlhLWhlYWRpbmcgYXV0aG9yLW5hbWUiPiZtZGFzaDsge3tmaWVsZHMudGl0bGV9fXslIGlmIGZpZWxkcy5wb3NpdGlvbiAlfSA8c21hbGwgY2xhc3M9ImF1dGhvci1wb3NpdGlvbiI+e3tmaWVsZHMucG9zaXRpb24gfX08L3NtYWxsPnslIGVuZGlmICV9PC9oND4K</text>
       </register>
       <register name=":" type="4">
-        <text>action NextSplitter</text>
+        <text>w!</text>
       </register>
     </registers>
     <search>
-      <last-search>TODO;</last-search>
+      <last-search>photo</last-search>
       <last-offset />
-      <last-pattern>TODO;</last-pattern>
+      <last-pattern>photo</last-pattern>
       <last-replace />
       <last-substitute>cons</last-substitute>
       <last-dir>1</last-dir>
@@ -685,8 +696,6 @@
     </search>
     <history>
       <history-search>
-        <entry>parseFl</entry>
-        <entry encoding="base64">XDxMaWFiaWxpdHlDb21wbGV0aW9uUHJvZ3Jlc3NQYW5lbFw+</entry>
         <entry encoding="base64">XDxMaWFiaWxpdHlUb3RhbENvbXBsZXRpb25Qcm9ncmVzc1BhbmVsXD4=</entry>
         <entry encoding="base64">XDxMaWFiaWxpdHlUb3RhbENvbXBsZXRpb25zXD4=</entry>
         <entry encoding="base64">XDxQbGVkZ2VEaXNwbGF5XD4=</entry>
@@ -705,6 +714,8 @@
         <entry>title</entry>
         <entry>author</entry>
         <entry>TODO;</entry>
+        <entry>image</entry>
+        <entry>photo</entry>
       </history-search>
       <history-cmd>
         <entry>167</entry>
@@ -723,10 +734,10 @@
         <entry>action Back</entry>
         <entry>action CommentByLineComment</entry>
         <entry>.,.+2action FindInPath</entry>
-        <entry>w!</entry>
         <entry>action FindInPath</entry>
         <entry>action GotoFile</entry>
         <entry>action NextSplitter</entry>
+        <entry>w!</entry>
       </history-cmd>
       <history-expr />
       <history-input />
