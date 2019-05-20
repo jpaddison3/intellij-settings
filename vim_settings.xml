@@ -1107,12 +1107,12 @@
         <mark key="^" line="85" column="157" />
         <mark key="." line="85" column="157" />
       </file>
-      <file name="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/common/ReCaptcha.jsx" timestamp="1558391290793">
+      <file name="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/common/ReCaptcha.jsx" timestamp="1558391908464">
         <mark key="'" line="5" column="6" />
-        <mark key="[" line="77" column="9" />
-        <mark key="]" line="78" column="48" />
-        <mark key="." line="76" column="48" />
-        <mark key="^" line="78" column="48" />
+        <mark key="[" line="77" column="8" />
+        <mark key="]" line="77" column="9" />
+        <mark key="." line="77" column="9" />
+        <mark key="^" line="77" column="9" />
       </file>
       <file name="$USER_HOME$/Documents/track-well/settings.json" timestamp="1557691009199">
         <mark key="[" line="12" column="15" />
@@ -1517,7 +1517,7 @@
         <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ2hlbGxvMicpCg==</text>
       </register>
       <register name=":" type="4">
-        <text>action GotoDeclaration</text>
+        <text>w!</text>
       </register>
     </registers>
     <search>
@@ -1571,8 +1571,8 @@
         <entry>action FindInPath</entry>
         <entry>action GotoFile</entry>
         <entry>135</entry>
-        <entry>w!</entry>
         <entry>action GotoDeclaration</entry>
+        <entry>w!</entry>
       </history-cmd>
       <history-expr />
       <history-input />
