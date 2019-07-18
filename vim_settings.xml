@@ -102,12 +102,12 @@
         <mark key="^" line="11" column="79" />
         <mark key="." line="11" column="79" />
       </file>
-      <file name="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/posts/PostsDay.jsx" timestamp="1563421183957">
+      <file name="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/posts/PostsDay.jsx" timestamp="1563422259274">
         <mark key="'" line="66" column="0" />
-        <mark key="[" line="64" column="0" />
-        <mark key="]" line="64" column="56" />
-        <mark key="^" line="65" column="0" />
-        <mark key="." line="65" column="0" />
+        <mark key="[" line="66" column="44" />
+        <mark key="]" line="66" column="44" />
+        <mark key="^" line="66" column="33" />
+        <mark key="." line="66" column="44" />
       </file>
       <file name="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/scripts/validateDatabase.js" timestamp="1557881205157">
         <mark key="'" line="175" column="0" />
@@ -244,14 +244,14 @@
         <mark key="^" line="47" column="59" />
         <mark key="." line="47" column="0" />
       </file>
-      <file name="$USER_HOME$/cea/Forum/Vulcan/packages/vulcan-lib/lib/server/connectors/mongo.js" timestamp="1563415115347">
+      <file name="$USER_HOME$/cea/Forum/Vulcan/packages/vulcan-lib/lib/server/connectors/mongo.js" timestamp="1563422630611">
         <mark key="'" line="19" column="28" />
-        <mark key="[" line="34" column="40" />
-        <mark key="]" line="37" column="16" />
-        <mark key="^" line="29" column="27" />
-        <mark key="." line="34" column="6" />
+        <mark key="[" line="37" column="44" />
+        <mark key="]" line="37" column="62" />
+        <mark key="^" line="37" column="62" />
+        <mark key="." line="37" column="62" />
       </file>
-      <file name="$USER_HOME$/cea/Forum/Vulcan/packages/vulcan-core/lib/modules/containers/withMulti.js" timestamp="1563409533587">
+      <file name="$USER_HOME$/cea/Forum/Vulcan/packages/vulcan-core/lib/modules/containers/withMulti.js" timestamp="1563422355502">
         <mark key="'" line="104" column="16" />
       </file>
       <file name="$USER_HOME$/cea/parfit/node/waitfor.sh" timestamp="1551485065715">
@@ -326,13 +326,13 @@
         <mark key="^" line="58" column="24" />
         <mark key="." line="58" column="25" />
       </file>
-      <file name="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/posts/PostsDailyList.jsx" timestamp="1563421742350">
+      <file name="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/posts/PostsDailyList.jsx" timestamp="1563421807551">
         <mark key="'" line="48" column="4" />
         <mark key="j" line="73" column="12" />
         <mark key="[" line="94" column="30" />
-        <mark key="]" line="94" column="33" />
-        <mark key="^" line="94" column="33" />
-        <mark key="." line="94" column="33" />
+        <mark key="]" line="94" column="30" />
+        <mark key="^" line="94" column="30" />
+        <mark key="." line="94" column="30" />
       </file>
       <file name="$USER_HOME$/cea/aletheia/app/models/People/mutations/registerPersonShadow.gql" timestamp="1536855586298">
         <mark key="'" line="23" column="0" />
@@ -651,11 +651,11 @@
       <file name="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/lib/editor/make_editable.js" timestamp="1560197194819">
         <mark key="'" line="261" column="0" />
       </file>
-      <file name="$USER_HOME$/cea/Forum/Forum/settings-dev.json" timestamp="1563421755966">
+      <file name="$USER_HOME$/cea/Forum/Forum/settings-dev.json" timestamp="1563422122368">
         <mark key="'" line="71" column="0" />
         <mark key="[" line="70" column="23" />
-        <mark key="]" line="70" column="23" />
-        <mark key="." line="70" column="23" />
+        <mark key="]" line="70" column="24" />
+        <mark key="." line="70" column="24" />
         <mark key="^" line="70" column="23" />
       </file>
       <file name="$USER_HOME$/cea/aletheia/app/containers/Lotteries/EnterLottery/index.jsx" timestamp="1543967579867">
@@ -694,14 +694,14 @@
         <mark key="." line="7" column="34" />
         <mark key="^" line="7" column="34" />
       </file>
-      <file name="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/lib/collections/posts/views.js" timestamp="1563421464393">
+      <file name="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/lib/collections/posts/views.js" timestamp="1563422718229">
         <mark key="r" line="252" column="15" />
         <mark key="e" line="52" column="17" />
         <mark key="'" line="240" column="2" />
-        <mark key="[" line="265" column="0" />
-        <mark key="]" line="269" column="2" />
-        <mark key="." line="268" column="31" />
-        <mark key="^" line="268" column="31" />
+        <mark key="[" line="269" column="12" />
+        <mark key="]" line="270" column="41" />
+        <mark key="." line="270" column="41" />
+        <mark key="^" line="270" column="41" />
       </file>
       <file name="$USER_HOME$/cea/aletheia/app/containers/Dashboard/DashboardPledge/IncomeTab.jsx" timestamp="1558660716886">
         <mark key="'" line="0" column="0" />
@@ -1759,7 +1759,7 @@
         <text>nnP</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>.props.networkStatus</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -1794,7 +1794,7 @@
         <text encoding="base64">XDx0ZXJtc1w+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGxvY2FsRGVidWcoY29sbGVjdGlvbiwgJ2ZpbmFsIHBhcmFtdGVycycsIHBhcmFtZXRlcnMpCg==</text>
+        <text encoding="base64">ICByZXR1cm4gewogICAgb3B0aW9uczogewogICAgICBzb3J0OiB7YmFzZVNjb3JlOiAtMX0KICAgIH0KICB9Cg==</text>
       </register>
       <register name="p" type="4">
         <keys>
@@ -1949,7 +1949,7 @@
         <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdQb3N0c0RheSByZW5kZXIoKSBkYXRlJywgZGF0ZSkK</text>
       </register>
       <register name=":" type="4">
-        <text>w!</text>
+        <text>action NextSplitter</text>
       </register>
     </registers>
     <search>
@@ -2003,8 +2003,8 @@
         <entry>action GotoFile</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gQ29tbWVudEJ5TGluZUNvbW1lbnQ=</entry>
         <entry>action CommentByLineComment</entry>
-        <entry>action NextSplitter</entry>
         <entry>w!</entry>
+        <entry>action NextSplitter</entry>
       </history-cmd>
       <history-expr />
       <history-input />
