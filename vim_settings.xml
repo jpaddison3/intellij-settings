@@ -102,12 +102,12 @@
         <mark key="^" line="11" column="79" />
         <mark key="." line="11" column="79" />
       </file>
-      <file name="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/posts/PostsDay.jsx" timestamp="1563423463072">
-        <mark key="'" line="66" column="0" />
-        <mark key="[" line="69" column="45" />
-        <mark key="]" line="69" column="45" />
-        <mark key="^" line="69" column="30" />
-        <mark key="." line="69" column="48" />
+      <file name="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/posts/PostsDay.jsx" timestamp="1563427477856">
+        <mark key="'" line="63" column="21" />
+        <mark key="[" line="54" column="0" />
+        <mark key="]" line="54" column="0" />
+        <mark key="^" line="79" column="20" />
+        <mark key="." line="54" column="0" />
       </file>
       <file name="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/scripts/validateDatabase.js" timestamp="1557881205157">
         <mark key="'" line="175" column="0" />
@@ -245,10 +245,8 @@
         <mark key="." line="47" column="0" />
       </file>
       <file name="$USER_HOME$/cea/Forum/Vulcan/packages/vulcan-lib/lib/server/connectors/mongo.js" timestamp="1563422914928">
-        <mark key="'" line="36" column="87" />
         <mark key="[" line="29" column="104" />
         <mark key="]" line="29" column="104" />
-        <mark key="^" line="37" column="87" />
         <mark key="." line="29" column="104" />
       </file>
       <file name="$USER_HOME$/cea/Forum/Vulcan/packages/vulcan-core/lib/modules/containers/withMulti.js" timestamp="1563424109009">
@@ -294,6 +292,12 @@
         <mark key="." line="87" column="0" />
         <mark key="^" line="87" column="20" />
       </file>
+      <file name="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/testing/server.tests.js" timestamp="1561503847236">
+        <mark key="'" line="18" column="15" />
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+      </file>
       <file name="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/recommendations/RecommendationsAndCurated.jsx" timestamp="1562712089769">
         <mark key="'" line="99" column="15" />
       </file>
@@ -309,6 +313,12 @@
         <mark key="]" line="33" column="50" />
         <mark key="." line="33" column="50" />
         <mark key="^" line="33" column="50" />
+      </file>
+      <file name="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/posts/PostsEditForm.jsx" timestamp="1560476818434">
+        <mark key="'" line="42" column="10" />
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="0" />
+        <mark key="." line="23" column="0" />
       </file>
       <file name="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/scripts/exportPostDetails.js" timestamp="1562633600580">
         <mark key="'" line="58" column="0" />
@@ -331,13 +341,13 @@
         <mark key="^" line="58" column="24" />
         <mark key="." line="58" column="25" />
       </file>
-      <file name="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/posts/PostsDailyList.jsx" timestamp="1563421807551">
-        <mark key="'" line="48" column="4" />
+      <file name="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/posts/PostsDailyList.jsx" timestamp="1563427676315">
+        <mark key="'" line="97" column="2" />
         <mark key="j" line="73" column="12" />
-        <mark key="[" line="94" column="30" />
-        <mark key="]" line="94" column="30" />
-        <mark key="^" line="94" column="30" />
-        <mark key="." line="94" column="30" />
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="^" line="97" column="9" />
+        <mark key="." line="1" column="0" />
       </file>
       <file name="$USER_HOME$/cea/aletheia/app/models/People/mutations/registerPersonShadow.gql" timestamp="1536855586298">
         <mark key="'" line="23" column="0" />
@@ -345,6 +355,12 @@
         <mark key="]" line="23" column="0" />
         <mark key="^" line="0" column="6" />
         <mark key="." line="23" column="0" />
+      </file>
+      <file name="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/lib/modules/fragments.js" timestamp="1561067224264">
+        <mark key="'" line="6" column="12" />
+        <mark key="[" line="7" column="40" />
+        <mark key="]" line="7" column="51" />
+        <mark key="." line="70" column="0" />
       </file>
       <file name="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/posts/PostsDaily.jsx" timestamp="1558637372664">
         <mark key="'" line="61" column="32" />
@@ -359,8 +375,8 @@
         <mark key="]" line="84" column="71" />
         <mark key="." line="85" column="0" />
       </file>
-      <file name="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/posts/AllPostsPage.jsx" timestamp="1563416651318">
-        <mark key="'" line="0" column="0" />
+      <file name="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/posts/AllPostsPage.jsx" timestamp="1563427567896">
+        <mark key="'" line="120" column="24" />
         <mark key="[" line="119" column="59" />
         <mark key="]" line="119" column="59" />
         <mark key="." line="119" column="59" />
@@ -578,6 +594,12 @@
         <mark key="^" line="3" column="6" />
         <mark key="." line="3" column="6" />
       </file>
+      <file name="$USER_HOME$/cea/parfit/package.json" timestamp="1561743871866">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="66" column="27" />
+        <mark key="]" line="66" column="27" />
+        <mark key="." line="66" column="27" />
+      </file>
       <file name="$USER_HOME$/cea/aletheia/app/containers/Lotteries/LotteriesHome/index.jsx" timestamp="1544066152790">
         <mark key="'" line="29" column="41" />
         <mark key="[" line="24" column="0" />
@@ -656,11 +678,11 @@
       <file name="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/lib/editor/make_editable.js" timestamp="1560197194819">
         <mark key="'" line="261" column="0" />
       </file>
-      <file name="$USER_HOME$/cea/Forum/Forum/settings-dev.json" timestamp="1563422122368">
+      <file name="$USER_HOME$/cea/Forum/Forum/settings-dev.json" timestamp="1563425635915">
         <mark key="'" line="71" column="0" />
         <mark key="[" line="70" column="23" />
-        <mark key="]" line="70" column="24" />
-        <mark key="." line="70" column="24" />
+        <mark key="]" line="70" column="23" />
+        <mark key="." line="70" column="23" />
         <mark key="^" line="70" column="23" />
       </file>
       <file name="$USER_HOME$/cea/aletheia/app/containers/Lotteries/EnterLottery/index.jsx" timestamp="1543967579867">
@@ -699,14 +721,14 @@
         <mark key="." line="7" column="34" />
         <mark key="^" line="7" column="34" />
       </file>
-      <file name="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/lib/collections/posts/views.js" timestamp="1563422975905">
+      <file name="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/lib/collections/posts/views.js" timestamp="1563426956049">
         <mark key="r" line="252" column="15" />
         <mark key="e" line="52" column="17" />
-        <mark key="'" line="240" column="2" />
-        <mark key="[" line="270" column="17" />
-        <mark key="]" line="270" column="17" />
-        <mark key="." line="270" column="17" />
-        <mark key="^" line="270" column="41" />
+        <mark key="'" line="90" column="2" />
+        <mark key="[" line="68" column="0" />
+        <mark key="]" line="68" column="0" />
+        <mark key="." line="68" column="0" />
+        <mark key="^" line="264" column="31" />
       </file>
       <file name="$USER_HOME$/cea/aletheia/app/containers/Dashboard/DashboardPledge/IncomeTab.jsx" timestamp="1558660716886">
         <mark key="'" line="0" column="0" />
@@ -824,11 +846,11 @@
         <mark key="." line="83" column="0" />
         <mark key="^" line="4" column="36" />
       </file>
-      <file name="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/lib/collections/comments/views.js" timestamp="1563394878353">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="273" column="6" />
-        <mark key="]" line="273" column="21" />
-        <mark key="^" line="9" column="37" />
+      <file name="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/lib/collections/comments/views.js" timestamp="1563426439878">
+        <mark key="'" line="261" column="0" />
+        <mark key="[" line="261" column="0" />
+        <mark key="]" line="261" column="0" />
+        <mark key="." line="261" column="0" />
       </file>
       <file name="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/lib/search/callbacks.js" timestamp="1535539698620">
         <mark key="'" line="19" column="0" />
@@ -931,6 +953,12 @@
       <file name="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server/scripts/utils.js" timestamp="1562783402623">
         <mark key="'" line="3" column="69" />
       </file>
+      <file name="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/server.js" timestamp="1562607671467">
+        <mark key="'" line="34" column="25" />
+        <mark key="[" line="34" column="0" />
+        <mark key="]" line="34" column="0" />
+        <mark key="." line="34" column="0" />
+      </file>
       <file name="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/users/WrappedLoginForm.jsx" timestamp="1561416852254">
         <mark key="[" line="57" column="47" />
         <mark key="]" line="58" column="22" />
@@ -986,11 +1014,12 @@
         <mark key="." line="41" column="0" />
         <mark key="^" line="43" column="33" />
       </file>
-      <file name="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/shortform/ShortformTimeBlock.jsx" timestamp="1563420673654">
-        <mark key="[" line="33" column="23" />
-        <mark key="]" line="33" column="23" />
-        <mark key="." line="33" column="23" />
-        <mark key="^" line="34" column="7" />
+      <file name="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/shortform/ShortformTimeBlock.jsx" timestamp="1563426693366">
+        <mark key="'" line="4" column="0" />
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+        <mark key="^" line="80" column="47" />
       </file>
       <file name="$USER_HOME$/cea/aletheia/app/components/PaymentForm/DonationAmountSelector.jsx" timestamp="1544038906294">
         <mark key="'" line="79" column="0" />
@@ -1032,6 +1061,12 @@
         <mark key="]" line="103" column="39" />
         <mark key="^" line="78" column="382" />
         <mark key="." line="78" column="382" />
+      </file>
+      <file name="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/recommendations/ConfigurableRecommendationsList.jsx" timestamp="1560463213337">
+        <mark key="'" line="38" column="0" />
+        <mark key="[" line="55" column="0" />
+        <mark key="]" line="55" column="0" />
+        <mark key="." line="55" column="0" />
       </file>
       <file name="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/lib/index.js" timestamp="1554421006355">
         <mark key="'" line="0" column="8" />
@@ -1492,22 +1527,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="87" column="22" filename="$USER_HOME$/cea/Forum/Forum/settings-dev.json" />
-      <jump line="2" column="17" filename="$USER_HOME$/cea/Forum/Forum/settings-dev.json" />
-      <jump line="11" column="29" filename="$USER_HOME$/cea/Forum/Forum/settings-dev.json" />
-      <jump line="59" column="0" filename="$USER_HOME$/cea/Forum/Forum/settings-dev.json" />
-      <jump line="63" column="0" filename="$USER_HOME$/cea/Forum/Forum/settings-dev.json" />
-      <jump line="71" column="0" filename="$USER_HOME$/cea/Forum/Forum/settings-dev.json" />
-      <jump line="44" column="2" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/posts/PostsDay.jsx" />
-      <jump line="99" column="28" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/posts/PostsDay.jsx" />
-      <jump line="28" column="37" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/posts/PostsDay.jsx" />
-      <jump line="30" column="6" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/shortform/ShortformTimeBlock.jsx" />
-      <jump line="88" column="22" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/posts/PostsDay.jsx" />
-      <jump line="84" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/posts/PostsDay.jsx" />
-      <jump line="81" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/posts/PostsDay.jsx" />
-      <jump line="79" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/posts/PostsDay.jsx" />
-      <jump line="77" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/posts/PostsDay.jsx" />
-      <jump line="8" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/posts/PostsDailyList.jsx" />
       <jump line="60" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/posts/AllPostsPage.jsx" />
       <jump line="91" column="6" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/posts/AllPostsPage.jsx" />
       <jump line="60" column="2" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/posts/PostsDailyList.jsx" />
@@ -1531,10 +1550,6 @@
       <jump line="37" column="10" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/posts/PostsDailyList.jsx" />
       <jump line="265" column="12" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/lib/collections/posts/views.js" />
       <jump line="19" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/lib/collections/posts/views.js" />
-      <jump line="49" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/lib/collections/posts/views.js" />
-      <jump line="63" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/lib/collections/posts/views.js" />
-      <jump line="72" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/lib/collections/posts/views.js" />
-      <jump line="122" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/lib/collections/posts/views.js" />
       <jump line="27" column="91" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/shortform/ShortformTimeBlock.jsx" />
       <jump line="26" column="24" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/posts/PostsDailyList.jsx" />
       <jump line="101" column="2" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/posts/PostsDailyList.jsx" />
@@ -1553,8 +1568,6 @@
       <jump line="48" column="4" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/posts/PostsDailyList.jsx" />
       <jump line="22" column="27" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/shortform/ShortformTimeBlock.jsx" />
       <jump line="101" column="41" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/posts/PostsDay.jsx" />
-      <jump line="60" column="10" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/posts/PostsDay.jsx" />
-      <jump line="63" column="8" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/posts/PostsDay.jsx" />
       <jump line="80" column="45" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/posts/PostsDay.jsx" />
       <jump line="19" column="2" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/posts/PostsDay.jsx" />
       <jump line="68" column="25" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/posts/PostsDay.jsx" />
@@ -1592,6 +1605,28 @@
       <jump line="94" column="0" filename="$USER_HOME$/cea/Forum/Vulcan/packages/vulcan-core/lib/modules/containers/withMulti.js" />
       <jump line="125" column="0" filename="$USER_HOME$/cea/Forum/Vulcan/packages/vulcan-core/lib/modules/containers/withMulti.js" />
       <jump line="129" column="0" filename="$USER_HOME$/cea/Forum/Vulcan/packages/vulcan-core/lib/modules/containers/withMulti.js" />
+      <jump line="60" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/posts/PostsDay.jsx" />
+      <jump line="220" column="91" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/lib/collections/posts/views.js" />
+      <jump line="1" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/lib/collections/posts/views.js" />
+      <jump line="6" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/lib/collections/posts/views.js" />
+      <jump line="9" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/lib/collections/posts/views.js" />
+      <jump line="49" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/lib/collections/posts/views.js" />
+      <jump line="63" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/lib/collections/posts/views.js" />
+      <jump line="72" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/lib/collections/posts/views.js" />
+      <jump line="122" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/lib/collections/posts/views.js" />
+      <jump line="9" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/lib/collections/comments/views.js" />
+      <jump line="261" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/lib/collections/comments/views.js" />
+      <jump line="80" column="47" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/shortform/ShortformTimeBlock.jsx" />
+      <jump line="4" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/shortform/ShortformTimeBlock.jsx" />
+      <jump line="90" column="2" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/lib/collections/posts/views.js" />
+      <jump line="97" column="2" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/posts/PostsDailyList.jsx" />
+      <jump line="18" column="3" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/posts/PostsDay.jsx" />
+      <jump line="107" column="2" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/posts/PostsDay.jsx" />
+      <jump line="55" column="81" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/posts/PostsDay.jsx" />
+      <jump line="63" column="21" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/posts/PostsDay.jsx" />
+      <jump line="3" column="20" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/posts/AllPostsPage.jsx" />
+      <jump line="119" column="23" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/posts/AllPostsPage.jsx" />
+      <jump line="120" column="24" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/posts/AllPostsPage.jsx" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1764,7 +1799,7 @@
         <text>nnP</text>
       </register>
       <register name="-" type="4">
-        <text>?</text>
+        <text>currentUser</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -1796,7 +1831,7 @@
         </keys>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxwcm92aWRlZFRlcm1zXD4=</text>
+        <text encoding="base64">XDxtb21lbnRcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgIGRlYnVnICYmIGNvbnNvbGUubG9nKCcgcHJvcHMnLCBwcm9wcykK</text>
@@ -1812,19 +1847,19 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJyBiZWZvcmUnLCB0ZXJtcy5iZWZvcmUpCiAgICAgIGNvbnNvbGUubG9nKCcgYWZ0ZXInLCB0ZXJtcy5hZnRlcikK</text>
+        <text encoding="base64">aW1wb3J0IFByb3BUeXBlcyBmcm9tICdwcm9wLXR5cGVzJzsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJyBiZWZvcmUnLCB0ZXJtcy5iZWZvcmUpCiAgICAgIGNvbnNvbGUubG9nKCcgYWZ0ZXInLCB0ZXJtcy5hZnRlcikK</text>
+        <text encoding="base64">UG9zdHNEYWlseUxpc3QucHJvcFR5cGVzID0gewogIHRpbWV6b25lOiBQcm9wVHlwZXMub2JqZWN0LAp9OwoK</text>
       </register>
       <register name="r" type="4">
         <text>ddn</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJyBwYXJhbWV0cGFyYW1ldGVycyk7Cg==</text>
+        <text encoding="base64">UG9zdHNEYWlseUxpc3QucHJvcFR5cGVzID0gewogIGN1cnJlbnRVc2VyOiBQcm9wVHlwZXMub2JqZWN0LAp9OwoK</text>
       </register>
       <register name="s" type="4">
         <keys>
@@ -1863,7 +1898,7 @@
         </keys>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ2RhaWx5IHZpZXcnKQo=</text>
+        <text encoding="base64">aW1wb3J0IG1vbWVudCBmcm9tICdtb21lbnQnCg==</text>
       </register>
       <register name="t" type="4">
         <keys>
@@ -1887,13 +1922,13 @@
         </keys>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAvLyBjb25zb2xlLmxvZygndG9wU2hvcnRmb3JtIHZpZXcgdGVybXMnLCB0ZXJtcykK</text>
       </register>
       <register name="u" type="4">
         <text>uu</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAvLyBjb25zb2xlLmxvZygnY29tbWVudHMgZGVmYXVsdCB2aWV3LCB0ZXJtcycsIHRlcm1zKQo=</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -1936,7 +1971,7 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ1Bvc3RzRGF5IHJlbmRlcigpIGRhdGUnLCBkYXRlKQo=</text>
+        <text encoding="base64">ICAvLyBjb25zb2xlLmxvZygncG9zdHMgZGVmYXVsdCB2aWV3IHRlcm1zJywgdGVybXMpCg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1948,19 +1983,19 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">UG9zdHMuYWRkVmlldygidGltZWZyYW1lIiwgdGVybXMgPT4gewogIHJldHVybiB7CiAgICBvcHRpb25zOiB7bGltaXQ6IDEwfQogIH0KfSk7CmVuc3VyZUluZGV4KFBvc3RzLAogIGF1Z21lbnRGb3JEZWZhdWx0Vmlldyh7IHBvc3RlZEF0OjEsIGJhc2VTY29yZToxfSksCiAgewogICAgbmFtZTogInBvc3RzLnBvc3RlZEF0X2Jhc2VTY29yZSIsCiAgfQopOwoK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdQb3N0c0RheSByZW5kZXIoKSBkYXRlJywgZGF0ZSkK</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action CommentByLineComment</text>
+        <text>w!</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxwcm92aWRlZFRlcm1zXD4=</last-search>
+      <last-search encoding="base64">XDxtb21lbnRcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxwcm92aWRlZFRlcm1zXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxtb21lbnRcPg==</last-pattern>
       <last-replace />
       <last-substitute encoding="base64">XDxjb21tZW50c1w+</last-substitute>
       <last-dir>1</last-dir>
@@ -1968,12 +2003,6 @@
     </search>
     <history>
       <history-search>
-        <entry>conso</entry>
-        <entry>TODO;</entry>
-        <entry>before</entry>
-        <entry encoding="base64">XDxvblNob3J0Zm9ybUxvYWRcPg==</entry>
-        <entry>5</entry>
-        <entry>forum</entry>
         <entry encoding="base64">XDxyZXBvcnRFbXB0eVNob3J0Zm9ybVw+</entry>
         <entry encoding="base64">XDxyZXBvcnRFbXB0eVw+</entry>
         <entry encoding="base64">XDxhZnRlclw+</entry>
@@ -1988,6 +2017,12 @@
         <entry>localD</entry>
         <entry encoding="base64">XDx0ZXJtc1w+</entry>
         <entry encoding="base64">XDxwcm92aWRlZFRlcm1zXD4=</entry>
+        <entry>console</entry>
+        <entry>TODO;</entry>
+        <entry>consol</entry>
+        <entry>daily</entry>
+        <entry encoding="base64">XDxjdXJyZW50VXNlclw+</entry>
+        <entry encoding="base64">XDxtb21lbnRcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>228</entry>
@@ -2004,12 +2039,12 @@
         <entry>action ReopenClosedTab</entry>
         <entry>action Refactorings.QuickListPopupAction</entry>
         <entry>action GotoDeclaration</entry>
-        <entry>action FindInPath</entry>
         <entry>action GotoFile</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gQ29tbWVudEJ5TGluZUNvbW1lbnQ=</entry>
+        <entry>action CommentByLineComment</entry>
+        <entry>action FindInPath</entry>
         <entry>action NextSplitter</entry>
         <entry>w!</entry>
-        <entry>action CommentByLineComment</entry>
       </history-cmd>
       <history-expr />
       <history-input />
