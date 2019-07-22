@@ -93,12 +93,12 @@
         <mark key="^" line="11" column="79" />
         <mark key="." line="11" column="79" />
       </file>
-      <file name="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/posts/PostsDay.jsx" timestamp="1563828623582">
+      <file name="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/posts/PostsDay.jsx" timestamp="1563830015977">
         <mark key="'" line="9" column="9" />
-        <mark key="[" line="129" column="33" />
-        <mark key="]" line="130" column="37" />
-        <mark key="^" line="130" column="37" />
-        <mark key="." line="130" column="37" />
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="22" column="0" />
+        <mark key="^" line="22" column="3" />
+        <mark key="." line="22" column="0" />
       </file>
       <file name="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/posts/EventsUpcoming.jsx" timestamp="1563676949163">
         <mark key="[" line="17" column="0" />
@@ -925,12 +925,12 @@
         <mark key="." line="38" column="37" />
         <mark key="^" line="38" column="37" />
       </file>
-      <file name="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/common/LoadMore.jsx" timestamp="1563829324381">
-        <mark key="'" line="25" column="2" />
-        <mark key="[" line="22" column="21" />
-        <mark key="]" line="22" column="21" />
-        <mark key="." line="22" column="21" />
-        <mark key="^" line="22" column="21" />
+      <file name="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/common/LoadMore.jsx" timestamp="1563830017522">
+        <mark key="'" line="24" column="25" />
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="22" column="0" />
+        <mark key="." line="22" column="0" />
+        <mark key="^" line="40" column="53" />
       </file>
       <file name="$USER_HOME$/cea/aletheia/app/components/PaymentForm/DonationAmountSelector.jsx" timestamp="1544038906294">
         <mark key="'" line="79" column="0" />
@@ -1423,7 +1423,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="136" column="0" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/posts/AllPostsPage.jsx" />
       <jump line="94" column="10" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/posts/AllPostsPage.jsx" />
       <jump line="162" column="12" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/posts/AllPostsPage.jsx" />
       <jump line="99" column="29" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/posts/AllPostsPage.jsx" />
@@ -1523,6 +1522,7 @@
       <jump line="9" column="9" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/posts/PostsDay.jsx" />
       <jump line="33" column="34" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/common/LoadMore.jsx" />
       <jump line="22" column="2" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/common/LoadMore.jsx" />
+      <jump line="24" column="25" filename="$USER_HOME$/cea/Forum/Forum/packages/lesswrong/components/common/LoadMore.jsx" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1628,7 +1628,7 @@
         <text>puhpldt'jbbbbbb</text>
       </register>
       <register name="*" type="4">
-        <text>()</text>
+        <text>&quot;&quot;</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -1695,7 +1695,7 @@
         <text>nnP</text>
       </register>
       <register name="-" type="4">
-        <text>;</text>
+        <text encoding="base64">IG5ldHdvcmtTdGF0dXMgJiYgcXVlcnlJc1VwZGF0aW5nKG5ldHdvcmtTdGF0dXMpKSB7</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -1729,8 +1729,8 @@
       <register name="/" type="4">
         <text encoding="base64">XDxxdWVyeUlzVXBkYXRpbmdcPg==</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICBkaXNwbGF5OiBmbGV4Owo=</text>
+      <register name="0" type="4">
+        <text encoding="base64">bmV0d29ya1N0YXR1cyAmJiBxdWVyeUlzVXBkYXRpbmcobmV0d29ya1N0YXR1cw==</text>
       </register>
       <register name="p" type="4">
         <keys>
@@ -1749,13 +1749,13 @@
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">ICAgICAgbWFyZ2luVG9wOiB0aGVtZS5zcGFjaW5nLnVuaXQsCiAgICAgIG1hcmdpbkxlZnQ6IHRoZW1lLnNwYWNpbmcudW5pdCwK</text>
       </register>
       <register name="r" type="4">
         <text>ddn</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAvLyBjb25zb2xlLmxvZygnIG5ldHdvcmtTdGF0dXMnLCBuZXR3b3JrU3RhdHVzKQogIC8vIGNvbnNvbGUubG9nKCcgaW5GbGlnaHQnLCBpbkZsaWdodCkK</text>
+        <text encoding="base64">ICBsb2FkTW9yZTogewogICAgCg==</text>
       </register>
       <register name="s" type="4">
         <keys>
@@ -1794,7 +1794,7 @@
         </keys>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBjb25zdCBpbkZsaWdodCA9IHF1ZXJ5SXNVcGRhdGluZyhuZXR3b3JrU3RhdHVzKQo=</text>
+        <text encoding="base64">ICAgICAgey8qY2xhc3NOYW1lPXtjbGFzc05hbWVzKGNsYXNzZXMucm9vdCwgY2xhc3Nlcy5kaXNhYmxlZCl9PiovfQo=</text>
       </register>
       <register name="t" type="4">
         <keys>
@@ -1818,13 +1818,13 @@
         </keys>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB7W2NsYXNzZXMuaW5GbGlnaHRdOiBpbkZsaWdodH0sCg==</text>
+        <text encoding="base64">ICAgICAgZGlzcGxheTogJ2ZsZXgnLAo=</text>
       </register>
       <register name="u" type="4">
         <text>uu</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgYWxpZ25JdGVtczogJ2NlbnRlcicsCg==</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -1867,7 +1867,7 @@
         </keys>
       </register>
       <register name="7" type="4">
-        <text encoding="base64">ICAgICAgY29sb3I6IHRoZW1lLnBhbGV0dGUuYmx1ZSwKICAgICAgLi4udGhlbWUudHlwb2dyYXBoeS50aXRsZSw=</text>
+        <text>&quot;&quot;</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1878,14 +1878,14 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgTG9hZGluZwo=</text>
+      <register name="8" type="4">
+        <text>center</text>
       </register>
-      <register name="9" type="4">
-        <text>()</text>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action FindInPath</text>
+        <text>w!</text>
       </register>
     </registers>
     <search>
@@ -1937,10 +1937,10 @@
         <entry>action NewFile</entry>
         <entry>action GotoFile</entry>
         <entry>action GotoDeclaration</entry>
-        <entry>action CommentByLineComment</entry>
-        <entry>w!</entry>
-        <entry>action NextSplitter</entry>
         <entry>action FindInPath</entry>
+        <entry>action CommentByLineComment</entry>
+        <entry>action NextSplitter</entry>
+        <entry>w!</entry>
       </history-cmd>
       <history-expr />
       <history-input />
